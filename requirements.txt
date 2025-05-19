@@ -26,3 +26,7 @@ rich>=13.7.0
 # Optional: notebook environment (for dev only)
 jupyterlab>=4.0.0
 ipykernel>=6.25.0
+
+#metric libraries
+jiwer>=3.1.0
+
