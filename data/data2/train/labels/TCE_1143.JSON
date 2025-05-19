@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Orinder Aggarwal",
+        "Coordinate": [
+            914,
+            442,
+            1630,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ethan Aggarwal",
+        "Coordinate": [
+            924,
+            566,
+            1565,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/4/2000",
+        "Coordinate": [
+            936,
+            655,
+            1377,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            926,
+            745,
+            1532,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            853,
+            1215,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1717,
+            831,
+            1981,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            945,
+            948,
+            1100,
+            1020
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1765,
+            963,
+            2046,
+            1059
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Edwin-Pandya",
+        "Coordinate": [
+            1012,
+            1044,
+            2113,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chada and Sons",
+        "Coordinate": [
+            1010,
+            1166,
+            2161,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 35, Shan Ganj, Bhimavaram-719766",
+        "Coordinate": [
+            895,
+            1276,
+            2293,
+            1514
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "429, Kala Ganj, Bhubaneswar 701774",
+        "Coordinate": [
+            900,
+            1548,
+            2270,
+            1768
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8573144443",
+        "Coordinate": [
+            902,
+            1789,
+            1330,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7704424563",
+        "Coordinate": [
+            1822,
+            1789,
+            2293,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Hindi, Malayalam",
+        "Coordinate": [
+            888,
+            1899,
+            2274,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Bahri - 8125793114",
+        "Coordinate": [
+            991,
+            2016,
+            2121,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Prashad - 8543164103",
+        "Coordinate": [
+            993,
+            2140,
+            2121,
+            2263
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            601,
+            2427,
+            938,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2022",
+        "Coordinate": [
+            601,
+            2501,
+            1058,
+            2590
+        ]
+    }
+]

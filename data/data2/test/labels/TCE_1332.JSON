@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vrishti Dora",
+        "Coordinate": [
+            912,
+            476,
+            1418,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tarak Dora",
+        "Coordinate": [
+            924,
+            566,
+            1390,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/10/1999",
+        "Coordinate": [
+            946,
+            666,
+            1308,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1086,
+            768,
+            1260,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            850,
+            1204,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1778,
+            854,
+            2026,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            963,
+            2066,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            950,
+            960,
+            1084,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Ben PLC",
+        "Coordinate": [
+            996,
+            1054,
+            1694,
+            1131
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Aggarwal LLC",
+        "Coordinate": [
+            978,
+            1154,
+            1910,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "226, Arya Nagar, Jhansi-349731",
+        "Coordinate": [
+            928,
+            1264,
+            2182,
+            1363
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "888, Kant, Nanded 442823",
+        "Coordinate": [
+            922,
+            1520,
+            1998,
+            1655
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7732458374",
+        "Coordinate": [
+            904,
+            1760,
+            1376,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7732396534",
+        "Coordinate": [
+            1622,
+            1836,
+            2120,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Gujarati, Telugu",
+        "Coordinate": [
+            913,
+            1905,
+            1993,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jeet Sankar - 8638613830",
+        "Coordinate": [
+            1000,
+            2006,
+            2018,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Frederick Bail - 8438109771",
+        "Coordinate": [
+            970,
+            2134,
+            1962,
+            2231
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            656,
+            2416,
+            946,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2023",
+        "Coordinate": [
+            650,
+            2518,
+            1052,
+            2581
+        ]
+    }
+]

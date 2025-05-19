@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faris Wason",
+        "Coordinate": [
+            893,
+            428,
+            1365,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Wason",
+        "Coordinate": [
+            900,
+            527,
+            1379,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1971",
+        "Coordinate": [
+            901,
+            630,
+            1226,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            894,
+            729,
+            1049,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            825,
+            1216,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1799,
+            828,
+            1984,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            937,
+            2076,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            887,
+            934,
+            1007,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dube and Sons",
+        "Coordinate": [
+            997,
+            1039,
+            2079,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Dada Inc",
+        "Coordinate": [
+            1003,
+            1143,
+            1938,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45, Jha Street, Ratlam 257828",
+        "Coordinate": [
+            892,
+            1276,
+            2145,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 672, Nagarajan Chowk, Kolkata 474929",
+        "Coordinate": [
+            892,
+            1527,
+            2313,
+            1736
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8370796994",
+        "Coordinate": [
+            1853,
+            1802,
+            2325,
+            1905
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8916718315",
+        "Coordinate": [
+            880,
+            1794,
+            1320,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Marathi",
+        "Coordinate": [
+            876,
+            1936,
+            1731,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hamsini Chowdhury - 9596637212",
+        "Coordinate": [
+            941,
+            2044,
+            2161,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Banjeet Dewan - 8210398203",
+        "Coordinate": [
+            956,
+            2179,
+            2042,
+            2296
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "799000000000.0",
+        "Coordinate": [
+            577,
+            2377,
+            1153,
+            2468
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            583,
+            2472,
+            973,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-09-2023",
+        "Coordinate": [
+            586,
+            2563,
+            1025,
+            2659
+        ]
+    }
+]

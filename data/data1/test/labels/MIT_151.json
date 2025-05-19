@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Siya Lalla",
+        "Coordinate": [
+            897,
+            397,
+            1326,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zaid Lalla",
+        "Coordinate": [
+            916,
+            499,
+            1320,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/2002",
+        "Coordinate": [
+            928,
+            599,
+            1266,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            912,
+            701,
+            1254,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            938,
+            800,
+            1152,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1848,
+            788,
+            2127,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            896,
+            2177,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            939,
+            904,
+            1073,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Sarraf-Suri",
+        "Coordinate": [
+            974,
+            995,
+            1924,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Saha  Gaba and Dhawan",
+        "Coordinate": [
+            956,
+            1109,
+            2330,
+            1233
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "72/881, Shah Ganj, Patna-851961",
+        "Coordinate": [
+            915,
+            1281,
+            2215,
+            1474
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40/82, Prabhu Zila, Dindigul 470229",
+        "Coordinate": [
+            892,
+            1488,
+            2137,
+            1705
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8994798389",
+        "Coordinate": [
+            1867,
+            1752,
+            2319,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7113499260",
+        "Coordinate": [
+            908,
+            1761,
+            1369,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu",
+        "Coordinate": [
+            909,
+            1898,
+            1740,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chanakya Mody - 9019375515",
+        "Coordinate": [
+            952,
+            2004,
+            2177,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanveer Goswami - 9829116314",
+        "Coordinate": [
+            964,
+            2135,
+            2154,
+            2259
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "846000000000.0",
+        "Coordinate": [
+            614,
+            2339,
+            1186,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            630,
+            2433,
+            1036,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/17/2022",
+        "Coordinate": [
+            664,
+            2524,
+            1120,
+            2611
+        ]
+    }
+]

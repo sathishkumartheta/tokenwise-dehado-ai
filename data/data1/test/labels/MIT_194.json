@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bishakha Dua",
+        "Coordinate": [
+            882,
+            391,
+            1379,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yuvraj Dua",
+        "Coordinate": [
+            880,
+            486,
+            1320,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1965",
+        "Coordinate": [
+            883,
+            593,
+            1270,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            889,
+            684,
+            1072,
+            767
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            783,
+            1208,
+            865
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            782,
+            2052,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            887,
+            2087,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            885,
+            886,
+            1050,
+            969
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dhar LLC",
+        "Coordinate": [
+            950,
+            981,
+            1693,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chahal  Tara and Chandra",
+        "Coordinate": [
+            920,
+            1091,
+            2308,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "421, Patla Road, Hubli\u2013Dharwad-274747",
+        "Coordinate": [
+            881,
+            1223,
+            2162,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/54, Rege Marg, Gandhidham-895516",
+        "Coordinate": [
+            875,
+            1469,
+            2104,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9051522041",
+        "Coordinate": [
+            1856,
+            1748,
+            2261,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9557212299",
+        "Coordinate": [
+            899,
+            1753,
+            1342,
+            1845
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Telugu, Marathi",
+        "Coordinate": [
+            870,
+            1881,
+            2035,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Basak - 7546016176",
+        "Coordinate": [
+            941,
+            1993,
+            1801,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yash Anand - 9638745170",
+        "Coordinate": [
+            943,
+            2117,
+            1769,
+            2204
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "285000000000.0",
+        "Coordinate": [
+            599,
+            2328,
+            1090,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            590,
+            2423,
+            840,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/27/2025",
+        "Coordinate": [
+            587,
+            2510,
+            925,
+            2588
+        ]
+    }
+]

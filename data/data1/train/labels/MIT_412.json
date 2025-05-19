@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vihaan Kalita",
+        "Coordinate": [
+            914,
+            391,
+            1379,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vihaan Kalita",
+        "Coordinate": [
+            925,
+            488,
+            1385,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/30/1965",
+        "Coordinate": [
+            930,
+            594,
+            1242,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            927,
+            692,
+            1206,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            787,
+            1181,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            782,
+            1978,
+            860
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            893,
+            2081,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            949,
+            887,
+            1079,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Banerjee Ltd",
+        "Coordinate": [
+            983,
+            991,
+            1751,
+            1104
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Garg-Dyal",
+        "Coordinate": [
+            980,
+            1109,
+            1749,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "869, Upadhyay Nagar, Aurangabad 722104",
+        "Coordinate": [
+            913,
+            1227,
+            2291,
+            1384
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61/719, Biswas Street, Chennai 443602",
+        "Coordinate": [
+            920,
+            1483,
+            2221,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7363751850",
+        "Coordinate": [
+            1892,
+            1760,
+            2275,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7680598123",
+        "Coordinate": [
+            895,
+            1760,
+            1315,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Hindi, Malayalam",
+        "Coordinate": [
+            901,
+            1890,
+            2054,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charvi Memon - 8044849396",
+        "Coordinate": [
+            1003,
+            2005,
+            2017,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qarin Patel - 9687283602",
+        "Coordinate": [
+            1009,
+            2130,
+            1921,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "263000000000.0",
+        "Coordinate": [
+            611,
+            2327,
+            1093,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            648,
+            2422,
+            937,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-10-2025",
+        "Coordinate": [
+            669,
+            2520,
+            1044,
+            2602
+        ]
+    }
+]

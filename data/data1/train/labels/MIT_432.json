@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Caleb Dutta",
+        "Coordinate": [
+            905,
+            398,
+            1329,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Dutta",
+        "Coordinate": [
+            899,
+            497,
+            1355,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/13/1985",
+        "Coordinate": [
+            896,
+            594,
+            1207,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            923,
+            697,
+            1382,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            800,
+            1167,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            790,
+            1959,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1873,
+            897,
+            2109,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            964,
+            899,
+            1127,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Pall Ltd",
+        "Coordinate": [
+            1002,
+            991,
+            1741,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Misra PLC",
+        "Coordinate": [
+            1015,
+            1108,
+            1784,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "667, Narula Marg, Malda-845397",
+        "Coordinate": [
+            922,
+            1231,
+            2166,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 708, Saran Circle, Delhi 756020",
+        "Coordinate": [
+            903,
+            1471,
+            2175,
+            1588
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8998279411",
+        "Coordinate": [
+            1867,
+            1757,
+            2287,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9712058248",
+        "Coordinate": [
+            893,
+            1761,
+            1322,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi",
+        "Coordinate": [
+            963,
+            1900,
+            1450,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harshil Garg - 7747460133",
+        "Coordinate": [
+            1030,
+            2007,
+            2090,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Noah Grewal - 7172014363",
+        "Coordinate": [
+            1047,
+            2133,
+            2117,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KNTJJ9535G",
+        "Coordinate": [
+            1653,
+            2338,
+            2140,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            598,
+            2429,
+            832,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/28/2023",
+        "Coordinate": [
+            612,
+            2522,
+            1030,
+            2606
+        ]
+    }
+]

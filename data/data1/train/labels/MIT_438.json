@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samarth Rastogi",
+        "Coordinate": [
+            940,
+            436,
+            1518,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aadi Rastogi",
+        "Coordinate": [
+            942,
+            539,
+            1405,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-03-1977",
+        "Coordinate": [
+            947,
+            641,
+            1260,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            944,
+            738,
+            1266,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            837,
+            1222,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1838,
+            821,
+            2048,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            929,
+            2096,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            958,
+            948,
+            1066,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Ben-Patel",
+        "Coordinate": [
+            1021,
+            1031,
+            1832,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Hari-Goyal",
+        "Coordinate": [
+            1009,
+            1144,
+            1886,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 00, Borde Ganj, Guwahati 353892",
+        "Coordinate": [
+            938,
+            1287,
+            2371,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Kapadia Zila, Kolkata-608277",
+        "Coordinate": [
+            945,
+            1536,
+            2380,
+            1689
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8946729518",
+        "Coordinate": [
+            1903,
+            1788,
+            2336,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8907703117",
+        "Coordinate": [
+            952,
+            1802,
+            1340,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Hindi",
+        "Coordinate": [
+            950,
+            1935,
+            1803,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekani Ratta - 8269483135",
+        "Coordinate": [
+            1006,
+            2042,
+            1904,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mugdha Choudhry - 7410156915",
+        "Coordinate": [
+            1019,
+            2174,
+            2030,
+            2285
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EHJIA3081L",
+        "Coordinate": [
+            1680,
+            2372,
+            2086,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            643,
+            2470,
+            898,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/26/2023",
+        "Coordinate": [
+            642,
+            2564,
+            1013,
+            2650
+        ]
+    }
+]

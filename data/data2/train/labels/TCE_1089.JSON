@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yuvraj Guha",
+        "Coordinate": [
+            908,
+            468,
+            1488,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekapad Guha",
+        "Coordinate": [
+            902,
+            584,
+            1524,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1993",
+        "Coordinate": [
+            934,
+            676,
+            1352,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            890,
+            768,
+            1286,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            870,
+            1252,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1726,
+            846,
+            1952,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1786,
+            952,
+            2136,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            960,
+            956,
+            1088,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Chakraborty Group",
+        "Coordinate": [
+            991,
+            1058,
+            2266,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Som  Chadha and Swaminathan",
+        "Coordinate": [
+            996,
+            1156,
+            2222,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 034, Ghosh Nagar, Pallavaram-617457",
+        "Coordinate": [
+            926,
+            1256,
+            2030,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91, Magar Circle, Surat 001330",
+        "Coordinate": [
+            922,
+            1516,
+            2194,
+            1641
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8668121117",
+        "Coordinate": [
+            894,
+            1788,
+            1336,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7356925538",
+        "Coordinate": [
+            1828,
+            1765,
+            2304,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            912,
+            1922,
+            1516,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jacob Majumdar - 7164661050",
+        "Coordinate": [
+            988,
+            2022,
+            2214,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aadhya Anand - 9054407632",
+        "Coordinate": [
+            983,
+            2140,
+            2140,
+            2225
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            630,
+            2436,
+            970,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/11/2025",
+        "Coordinate": [
+            634,
+            2510,
+            1064,
+            2599
+        ]
+    }
+]

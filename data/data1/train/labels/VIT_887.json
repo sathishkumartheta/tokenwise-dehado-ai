@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Meghana D\u2019Alia",
+        "Coordinate": [
+            890,
+            443,
+            1585,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv D\u2019Alia",
+        "Coordinate": [
+            920,
+            542,
+            1550,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-07-1998",
+        "Coordinate": [
+            930,
+            641,
+            1304,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            927,
+            738,
+            1303,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            841,
+            1234,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            839,
+            2043,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            947,
+            2110,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            916,
+            947,
+            1049,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ahuja-Balakrishnan",
+        "Coordinate": [
+            999,
+            1045,
+            2143,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sankar  Raghavan and Dada",
+        "Coordinate": [
+            988,
+            1153,
+            2287,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53/176, Bail Marg, Durg-569791",
+        "Coordinate": [
+            944,
+            1287,
+            2205,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "369, Narasimhan Chowk, Thoothukudi 460683",
+        "Coordinate": [
+            941,
+            1544,
+            2312,
+            1766
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7183677771",
+        "Coordinate": [
+            1866,
+            1812,
+            2287,
+            1918
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8141251225",
+        "Coordinate": [
+            900,
+            1820,
+            1279,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Marathi",
+        "Coordinate": [
+            908,
+            1955,
+            1814,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Sahni - 9824449670",
+        "Coordinate": [
+            980,
+            2062,
+            2014,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kashish Hayer - 8346886367",
+        "Coordinate": [
+            1009,
+            2191,
+            2020,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "307000000000.0",
+        "Coordinate": [
+            590,
+            2403,
+            1076,
+            2482
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZXODG2509M",
+        "Coordinate": [
+            1635,
+            2397,
+            2131,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            599,
+            2490,
+            1087,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/15/2023",
+        "Coordinate": [
+            582,
+            2586,
+            1001,
+            2674
+        ]
+    }
+]

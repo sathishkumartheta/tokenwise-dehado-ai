@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Sandhu",
+        "Coordinate": [
+            894,
+            390,
+            1313,
+            494
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Umang Sandhu",
+        "Coordinate": [
+            909,
+            492,
+            1481,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/21/1991",
+        "Coordinate": [
+            909,
+            592,
+            1262,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            904,
+            687,
+            1276,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            789,
+            1236,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            781,
+            2001,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            888,
+            2084,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            944,
+            894,
+            1062,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Rege-Pillai",
+        "Coordinate": [
+            961,
+            985,
+            1819,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Nadig-Mahajan",
+        "Coordinate": [
+            954,
+            1103,
+            1983,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "734, Parmer Zila, Durg-431115",
+        "Coordinate": [
+            901,
+            1228,
+            2143,
+            1367
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 35, Mittal Road, Jhansi 840445",
+        "Coordinate": [
+            912,
+            1465,
+            2310,
+            1598
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9073898179",
+        "Coordinate": [
+            1856,
+            1738,
+            2271,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8939609838",
+        "Coordinate": [
+            901,
+            1748,
+            1353,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Hindi, Tamil",
+        "Coordinate": [
+            886,
+            1884,
+            2031,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidra Arora - 8358146379",
+        "Coordinate": [
+            965,
+            2010,
+            1956,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yauvani Dixit - 8571085122",
+        "Coordinate": [
+            970,
+            2124,
+            2041,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "984000000000.0",
+        "Coordinate": [
+            594,
+            2333,
+            1152,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            591,
+            2426,
+            840,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2025",
+        "Coordinate": [
+            604,
+            2514,
+            975,
+            2607
+        ]
+    }
+]

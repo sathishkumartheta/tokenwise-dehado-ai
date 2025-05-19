@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ethan Oommen",
+        "Coordinate": [
+            900,
+            466,
+            1422,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Oommen",
+        "Coordinate": [
+            910,
+            551,
+            1434,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/2/1982",
+        "Coordinate": [
+            910,
+            666,
+            1234,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            765,
+            1242,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            856,
+            1202,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            925,
+            946,
+            1070,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Dalal  Krishnamurthy and Kanda",
+        "Coordinate": [
+            955,
+            1056,
+            2302,
+            1146
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            856,
+            1958,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1774,
+            930,
+            2066,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kamdar-Divan",
+        "Coordinate": [
+            1004,
+            1155,
+            1981,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 869, Date, Karnal 034159",
+        "Coordinate": [
+            910,
+            1261,
+            2146,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/494, Varughese Street, Nagercoil 706077",
+        "Coordinate": [
+            895,
+            1506,
+            1990,
+            1722
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8391299709",
+        "Coordinate": [
+            915,
+            1781,
+            1342,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8436935629",
+        "Coordinate": [
+            1825,
+            1791,
+            2266,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English",
+        "Coordinate": [
+            910,
+            1916,
+            1478,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anvi Srinivas - 8762383911",
+        "Coordinate": [
+            939,
+            2026,
+            1969,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bishakha Dhar - 8779862179",
+        "Coordinate": [
+            950,
+            2136,
+            1978,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            610,
+            2425,
+            1046,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/21/2024",
+        "Coordinate": [
+            615,
+            2516,
+            1026,
+            2598
+        ]
+    }
+]

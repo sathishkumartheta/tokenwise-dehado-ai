@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mugdha Bhandari",
+        "Coordinate": [
+            890,
+            465,
+            1505,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Simon Bhandari",
+        "Coordinate": [
+            889,
+            580,
+            1377,
+            664
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/1/1978",
+        "Coordinate": [
+            930,
+            669,
+            1346,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            744,
+            1238,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            849,
+            1262,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            884,
+            946,
+            1174,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1735,
+            844,
+            1970,
+            948
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            964,
+            2078,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Behl LLC",
+        "Coordinate": [
+            966,
+            1068,
+            1766,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mani  Menon and Palan",
+        "Coordinate": [
+            1001,
+            1159,
+            1978,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "27/29, Dutta Road, Bhubaneswar 649724",
+        "Coordinate": [
+            889,
+            1273,
+            2226,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 95, Mital Chowk, Moradabad-375993",
+        "Coordinate": [
+            890,
+            1523,
+            2126,
+            1667
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8500802087",
+        "Coordinate": [
+            890,
+            1762,
+            1358,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7699687783",
+        "Coordinate": [
+            1607,
+            1788,
+            2070,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            895,
+            1922,
+            1485,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aadhya Peri - 8713842824",
+        "Coordinate": [
+            980,
+            2007,
+            2086,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sarthak Walia - 7109377055",
+        "Coordinate": [
+            960,
+            2142,
+            2006,
+            2226
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            650,
+            2416,
+            1010,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/2/2024",
+        "Coordinate": [
+            640,
+            2511,
+            1149,
+            2610
+        ]
+    }
+]

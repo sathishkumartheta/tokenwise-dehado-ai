@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekantika Bassi",
+        "Coordinate": [
+            982,
+            507,
+            1535,
+            597
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Bassi",
+        "Coordinate": [
+            975,
+            615,
+            1615,
+            700
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/10/1978",
+        "Coordinate": [
+            985,
+            692,
+            1380,
+            782
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            990,
+            802,
+            1367,
+            880
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1010,
+            897,
+            1330,
+            977
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1805,
+            904,
+            2087,
+            994
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1030,
+            995,
+            1160,
+            1052
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            997,
+            2195,
+            1085
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Manda  Mangal and Narayan",
+        "Coordinate": [
+            1057,
+            1090,
+            2342,
+            1182
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Varkey Inc",
+        "Coordinate": [
+            1085,
+            1202,
+            1997,
+            1305
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81/896, Palla Path, Anantapuram 566229",
+        "Coordinate": [
+            957,
+            1325,
+            2150,
+            1525
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 797, Murty Nagar, Nadiad 361624",
+        "Coordinate": [
+            959,
+            1567,
+            2250,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7569060322",
+        "Coordinate": [
+            972,
+            1817,
+            1410,
+            1915
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7239846758",
+        "Coordinate": [
+            1905,
+            1832,
+            2350,
+            1940
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi",
+        "Coordinate": [
+            980,
+            1942,
+            1547,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Azaan Sem - 7478749106",
+        "Coordinate": [
+            1057,
+            2055,
+            2045,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Sen - 7952330976",
+        "Coordinate": [
+            1107,
+            2170,
+            2060,
+            2277
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "436411000000",
+        "Coordinate": [
+            675,
+            2362,
+            1232,
+            2432
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            700,
+            2440,
+            985,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/23/2022",
+        "Coordinate": [
+            697,
+            2520,
+            1157,
+            2615
+        ]
+    }
+]

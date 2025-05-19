@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warda Sarkar",
+        "Coordinate": [
+            900,
+            468,
+            1564,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Sarkar",
+        "Coordinate": [
+            916,
+            578,
+            1454,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/16/1998",
+        "Coordinate": [
+            914,
+            672,
+            1342,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            940,
+            758,
+            1612,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            868,
+            1264,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            850,
+            2064,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            960,
+            2102,
+            1057
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            988,
+            966,
+            1108,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Kalla-Vohra",
+        "Coordinate": [
+            1042,
+            1064,
+            2100,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dasgupta Ltd",
+        "Coordinate": [
+            1054,
+            1158,
+            2118,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 61, Keer Street, Khora  024155",
+        "Coordinate": [
+            890,
+            1298,
+            2222,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 86, Sethi Ganj, Thoothukudi 327028",
+        "Coordinate": [
+            940,
+            1528,
+            1948,
+            1723
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9217713906",
+        "Coordinate": [
+            930,
+            1785,
+            1358,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9643887027",
+        "Coordinate": [
+            1522,
+            1816,
+            2042,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi",
+        "Coordinate": [
+            920,
+            1927,
+            1604,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nilima Saraf - 7515825579",
+        "Coordinate": [
+            1005,
+            2028,
+            2082,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jyoti Zacharia - 8225501800",
+        "Coordinate": [
+            1024,
+            2132,
+            2162,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            638,
+            2426,
+            958,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/11/2024",
+        "Coordinate": [
+            648,
+            2528,
+            1014,
+            2597
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Utkarsh Raja",
+        "Coordinate": [
+            883,
+            393,
+            1309,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Raja",
+        "Coordinate": [
+            900,
+            491,
+            1180,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/13/1966",
+        "Coordinate": [
+            905,
+            591,
+            1226,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            887,
+            688,
+            1181,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            789,
+            1154,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1900,
+            782,
+            2074,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1908,
+            893,
+            2134,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            885,
+            893,
+            975,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bera-Gopal",
+        "Coordinate": [
+            965,
+            988,
+            1695,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sarraf  Dara and Singh",
+        "Coordinate": [
+            968,
+            1100,
+            2150,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33, Kalla Chowk, Bhopal-222999",
+        "Coordinate": [
+            877,
+            1243,
+            1939,
+            1382
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "165, Borra, Noida-325539",
+        "Coordinate": [
+            884,
+            1484,
+            1775,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8140775669",
+        "Coordinate": [
+            1862,
+            1750,
+            2296,
+            1851
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7586720128",
+        "Coordinate": [
+            894,
+            1753,
+            1271,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil",
+        "Coordinate": [
+            890,
+            1895,
+            1362,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekaja Morar - 7732970207",
+        "Coordinate": [
+            958,
+            2006,
+            1815,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omisha Das - 7105401358",
+        "Coordinate": [
+            960,
+            2133,
+            1838,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "678000000000.0",
+        "Coordinate": [
+            612,
+            2329,
+            1133,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            604,
+            2426,
+            877,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-01-2022",
+        "Coordinate": [
+            596,
+            2515,
+            965,
+            2596
+        ]
+    }
+]

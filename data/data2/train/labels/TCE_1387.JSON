@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vamakshi Reddy",
+        "Coordinate": [
+            885,
+            445,
+            1486,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Reddy",
+        "Coordinate": [
+            910,
+            561,
+            1334,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/14/1966",
+        "Coordinate": [
+            915,
+            651,
+            1286,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            890,
+            746,
+            1230,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            865,
+            1234,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1735,
+            826,
+            1986,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1770,
+            946,
+            2098,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            965,
+            945,
+            1086,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Amble Inc",
+        "Coordinate": [
+            990,
+            1041,
+            1746,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Saini-Nagi",
+        "Coordinate": [
+            990,
+            1156,
+            1838,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "040, Mall Chowk, Hindupur 872707",
+        "Coordinate": [
+            900,
+            1251,
+            2114,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "592, Ganesh Road, Proddatur 482328",
+        "Coordinate": [
+            910,
+            1515,
+            2218,
+            1650
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8579991553",
+        "Coordinate": [
+            890,
+            1781,
+            1358,
+            1902
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9284274248",
+        "Coordinate": [
+            1850,
+            1770,
+            2262,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Tamil, Kannada",
+        "Coordinate": [
+            905,
+            1906,
+            1822,
+            2018
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gunbir Sinha - 9028453130",
+        "Coordinate": [
+            975,
+            2001,
+            1978,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Balhaar Ranganathan - 9415907050",
+        "Coordinate": [
+            980,
+            2126,
+            2182,
+            2266
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            615,
+            2421,
+            854,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/4/2025",
+        "Coordinate": [
+            579,
+            2500,
+            905,
+            2590
+        ]
+    }
+]

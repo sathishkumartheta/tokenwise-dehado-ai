@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zilmil Nagarajan",
+        "Coordinate": [
+            878,
+            435,
+            1592,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onveer Nagarajan",
+        "Coordinate": [
+            870,
+            541,
+            1554,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-07-1993",
+        "Coordinate": [
+            894,
+            643,
+            1214,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            895,
+            738,
+            1205,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            839,
+            1180,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1836,
+            838,
+            2109,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            944,
+            2161,
+            1051
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            933,
+            952,
+            1044,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Shankar LLC",
+        "Coordinate": [
+            992,
+            1047,
+            1913,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Batra  Patil and Verma",
+        "Coordinate": [
+            979,
+            1158,
+            2228,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81/44, Banerjee, Rajpur Sonarpur 862405",
+        "Coordinate": [
+            914,
+            1374,
+            2276,
+            1521
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 50, Sarkar, South Dumdum-535279",
+        "Coordinate": [
+            887,
+            1529,
+            2291,
+            1683
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7787693467",
+        "Coordinate": [
+            1847,
+            1802,
+            2296,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8709630179",
+        "Coordinate": [
+            889,
+            1810,
+            1318,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            889,
+            1937,
+            1402,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gunbir Dada - 9806583892",
+        "Coordinate": [
+            927,
+            2045,
+            1864,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dakshesh Vasa - 7953180992",
+        "Coordinate": [
+            944,
+            2180,
+            1856,
+            2293
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "875000000000.0",
+        "Coordinate": [
+            608,
+            2387,
+            1076,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            613,
+            2480,
+            915,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/22/2023",
+        "Coordinate": [
+            624,
+            2578,
+            1125,
+            2677
+        ]
+    }
+]

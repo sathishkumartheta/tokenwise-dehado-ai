@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chasmum Mitter",
+        "Coordinate": [
+            906,
+            401,
+            1582,
+            502
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Mitter",
+        "Coordinate": [
+            908,
+            502,
+            1459,
+            603
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-04-1962",
+        "Coordinate": [
+            921,
+            600,
+            1297,
+            705
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            919,
+            704,
+            1233,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            956,
+            801,
+            1256,
+            901
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1804,
+            811,
+            2148,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            922,
+            2140,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            947,
+            908,
+            1098,
+            1005
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sarma-Goda",
+        "Coordinate": [
+            1020,
+            1011,
+            2144,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Raman Group",
+        "Coordinate": [
+            1020,
+            1130,
+            2177,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "728, Nori Marg, Panvel 420438",
+        "Coordinate": [
+            900,
+            1256,
+            2173,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 462, Sur Zila, Bhilwara 493941",
+        "Coordinate": [
+            902,
+            1530,
+            2351,
+            1699
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9001092070",
+        "Coordinate": [
+            1850,
+            1793,
+            2300,
+            1897
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7537365131",
+        "Coordinate": [
+            883,
+            1785,
+            1344,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Bengali",
+        "Coordinate": [
+            915,
+            1925,
+            2008,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Sen - 7510381336",
+        "Coordinate": [
+            966,
+            2039,
+            1974,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bahadurjit Sathe - 8053343670",
+        "Coordinate": [
+            973,
+            2163,
+            2279,
+            2294
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GFRMA6000J",
+        "Coordinate": [
+            1671,
+            2368,
+            2213,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            637,
+            2443,
+            1032,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/14/2024",
+        "Coordinate": [
+            656,
+            2539,
+            1078,
+            2646
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darika Agarwal",
+        "Coordinate": [
+            907,
+            389,
+            1453,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arjun Agarwal",
+        "Coordinate": [
+            945,
+            490,
+            1523,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-02-1985",
+        "Coordinate": [
+            991,
+            591,
+            1334,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            986,
+            686,
+            1355,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            790,
+            1221,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            788,
+            1997,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            900,
+            2087,
+            987
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1040,
+            894,
+            1160,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saini-Ganesan",
+        "Coordinate": [
+            1061,
+            991,
+            2050,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Tailor-Radhakrishnan",
+        "Coordinate": [
+            1090,
+            1102,
+            2370,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 793, Seth Street, Visakhapatnam 054115",
+        "Coordinate": [
+            934,
+            1230,
+            2299,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "181, Subramanian Path, Chinsurah-962015",
+        "Coordinate": [
+            900,
+            1477,
+            2338,
+            1604
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8306232443",
+        "Coordinate": [
+            1840,
+            1745,
+            2270,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8796622130",
+        "Coordinate": [
+            904,
+            1749,
+            1295,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, Kannada, English",
+        "Coordinate": [
+            893,
+            1892,
+            2159,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranveer Rout - 7288679802",
+        "Coordinate": [
+            961,
+            2001,
+            1951,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Baghyawati Mishra - 9287761553",
+        "Coordinate": [
+            961,
+            2120,
+            2151,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "862000000000.0",
+        "Coordinate": [
+            631,
+            2332,
+            1178,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            688,
+            2420,
+            941,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/17/2023",
+        "Coordinate": [
+            669,
+            2514,
+            1080,
+            2603
+        ]
+    }
+]

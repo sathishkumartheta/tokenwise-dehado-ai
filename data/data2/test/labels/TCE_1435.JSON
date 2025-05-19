@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pahal Vora",
+        "Coordinate": [
+            902,
+            475,
+            1364,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ryan Vora",
+        "Coordinate": [
+            902,
+            570,
+            1385,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/27/1983",
+        "Coordinate": [
+            960,
+            663,
+            1349,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            922,
+            764,
+            1169,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            937,
+            869,
+            1248,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1801,
+            850,
+            2106,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            962,
+            944,
+            1164,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            955,
+            2087,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bumb LLC",
+        "Coordinate": [
+            1069,
+            1017,
+            2095,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Khanna LLC",
+        "Coordinate": [
+            1000,
+            1154,
+            2298,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18/00, Ratta Marg, Raurkela Industrial Township 772136",
+        "Coordinate": [
+            897,
+            1269,
+            2310,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/80, Sandal Nagar, Narasaraopet 782369",
+        "Coordinate": [
+            902,
+            1498,
+            2331,
+            1713
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Telugu, Tamil",
+        "Coordinate": [
+            892,
+            1884,
+            2249,
+            2004
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7647278292",
+        "Coordinate": [
+            977,
+            1759,
+            1425,
+            1876
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9408769484",
+        "Coordinate": [
+            1809,
+            1750,
+            2302,
+            1849
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Agastya Tata - 7078464103",
+        "Coordinate": [
+            924,
+            2008,
+            2022,
+            2116
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            648,
+            2399,
+            1216,
+            2504
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Om Bhattacharyya - 9963122035",
+        "Coordinate": [
+            952,
+            2139,
+            2206,
+            2260
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/8/2023",
+        "Coordinate": [
+            711,
+            2491,
+            1092,
+            2608
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lopa Sen",
+        "Coordinate": [
+            879,
+            387,
+            1212,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anmol Sen",
+        "Coordinate": [
+            884,
+            485,
+            1308,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/19/1993",
+        "Coordinate": [
+            895,
+            587,
+            1246,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            881,
+            680,
+            1169,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            786,
+            1173,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1848,
+            784,
+            2104,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            889,
+            2111,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            902,
+            893,
+            1038,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dalal and Sons",
+        "Coordinate": [
+            981,
+            977,
+            2084,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Wable  Roy and Nagar",
+        "Coordinate": [
+            966,
+            1097,
+            2282,
+            1223
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "202, Ganesan Zila, Pallavaram 055033",
+        "Coordinate": [
+            876,
+            1245,
+            2264,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 088, Kothari Marg, Sambhal 391900",
+        "Coordinate": [
+            883,
+            1476,
+            2300,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8521848566",
+        "Coordinate": [
+            1875,
+            1753,
+            2313,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9550530073",
+        "Coordinate": [
+            890,
+            1756,
+            1328,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, English, Bengali",
+        "Coordinate": [
+            879,
+            1886,
+            2165,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jairaj Krishnan - 9919465557",
+        "Coordinate": [
+            969,
+            2001,
+            2117,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nidra Agate - 7879929043",
+        "Coordinate": [
+            972,
+            2124,
+            1982,
+            2248
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LLEVP0273Z",
+        "Coordinate": [
+            1628,
+            2331,
+            2160,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            577,
+            2416,
+            826,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-05-2024",
+        "Coordinate": [
+            585,
+            2511,
+            956,
+            2599
+        ]
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Sunder",
+        "Coordinate": [
+            910,
+            466,
+            1574,
+            590
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Sunder",
+        "Coordinate": [
+            905,
+            581,
+            1626,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1964",
+        "Coordinate": [
+            930,
+            661,
+            1462,
+            794
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            910,
+            782,
+            1362,
+            866
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            874,
+            1318,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            915,
+            965,
+            1099,
+            1066
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Andra  Krish and Dixit",
+        "Coordinate": [
+            950,
+            1050,
+            2307,
+            1174
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Desai Inc",
+        "Coordinate": [
+            995,
+            1166,
+            1947,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "88/691, Ravel Circle, Ludhiana 094195",
+        "Coordinate": [
+            885,
+            1271,
+            2155,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 16, Oak Circle, Etawah-698105",
+        "Coordinate": [
+            900,
+            1510,
+            2275,
+            1646
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9108493901",
+        "Coordinate": [
+            890,
+            1756,
+            1387,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9951474761",
+        "Coordinate": [
+            1830,
+            1776,
+            2267,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Tamil, Telugu",
+        "Coordinate": [
+            890,
+            1925,
+            2183,
+            2018
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dayamai Andra - 7874885925",
+        "Coordinate": [
+            925,
+            2006,
+            2087,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tristan Memon - 9793926376",
+        "Coordinate": [
+            965,
+            2126,
+            2191,
+            2222
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            644,
+            2410,
+            1002,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/8/2023",
+        "Coordinate": [
+            630,
+            2511,
+            1195,
+            2638
+        ]
+    }
+]

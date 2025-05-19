@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chameli Buch",
+        "Coordinate": [
+            876,
+            426,
+            1307,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Buch",
+        "Coordinate": [
+            876,
+            521,
+            1283,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1971",
+        "Coordinate": [
+            894,
+            626,
+            1208,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            895,
+            725,
+            1243,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            828,
+            1179,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1864,
+            827,
+            2120,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1874,
+            936,
+            2121,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            927,
+            929,
+            1035,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bose-Chopra",
+        "Coordinate": [
+            963,
+            1027,
+            1789,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Majumdar Inc",
+        "Coordinate": [
+            960,
+            1142,
+            1900,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "380, Saha Road, Bhalswa Jahangir Pur-670431",
+        "Coordinate": [
+            888,
+            1298,
+            2362,
+            1460
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "56/95, Sunder Path, Berhampore 924243",
+        "Coordinate": [
+            856,
+            1562,
+            2309,
+            1716
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8576788634",
+        "Coordinate": [
+            1842,
+            1810,
+            2289,
+            1928
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7553519700",
+        "Coordinate": [
+            870,
+            1803,
+            1293,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Telugu, Marathi",
+        "Coordinate": [
+            873,
+            1938,
+            1995,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kamya Mani - 7890619776",
+        "Coordinate": [
+            940,
+            2049,
+            1822,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manbir Pandit - 7435301029",
+        "Coordinate": [
+            964,
+            2177,
+            1943,
+            2297
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "244000000000.0",
+        "Coordinate": [
+            555,
+            2373,
+            1098,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            579,
+            2464,
+            827,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/19/2024",
+        "Coordinate": [
+            611,
+            2563,
+            1079,
+            2660
+        ]
+    }
+]

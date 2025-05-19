@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gauri Ravi",
+        "Coordinate": [
+            910,
+            413,
+            1291,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Ravi",
+        "Coordinate": [
+            944,
+            513,
+            1310,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/15/2007",
+        "Coordinate": [
+            920,
+            620,
+            1257,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            939,
+            708,
+            1227,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            927,
+            818,
+            1174,
+            898
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            953,
+            915,
+            1101,
+            1008
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            794,
+            2049,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1895,
+            896,
+            2161,
+            991
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dalal-Merchant",
+        "Coordinate": [
+            1001,
+            1001,
+            1973,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kant-Kanda",
+        "Coordinate": [
+            1015,
+            1129,
+            1878,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "795, Sinha Marg, Shahjahanpur-878519",
+        "Coordinate": [
+            927,
+            1229,
+            2342,
+            1367
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/98, Gala Street, Saharsa 139718",
+        "Coordinate": [
+            944,
+            1505,
+            2270,
+            1595
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7030983664",
+        "Coordinate": [
+            1681,
+            1807,
+            2123,
+            1892
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9602644880",
+        "Coordinate": [
+            936,
+            1778,
+            1395,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Gujarati, English",
+        "Coordinate": [
+            927,
+            1911,
+            2206,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Christopher Setty - 8361231090",
+        "Coordinate": [
+            1032,
+            2023,
+            2030,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yochana Sagar - 9691418158",
+        "Coordinate": [
+            1020,
+            2149,
+            2016,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            663,
+            2458,
+            994,
+            2544
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "817858000000",
+        "Coordinate": [
+            665,
+            2354,
+            925,
+            2442
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2022",
+        "Coordinate": [
+            680,
+            2530,
+            986,
+            2637
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isha Vohra",
+        "Coordinate": [
+            974,
+            461,
+            1452,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balvan Vohra",
+        "Coordinate": [
+            984,
+            554,
+            1574,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/21/1996",
+        "Coordinate": [
+            996,
+            668,
+            1393,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            963,
+            746,
+            1586,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            860,
+            1334,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            963,
+            965,
+            1146,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Baral  Sethi and Kade",
+        "Coordinate": [
+            1034,
+            1051,
+            2380,
+            1146
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1871,
+            851,
+            2161,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1916,
+            944,
+            2197,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Varkey-Bhatti",
+        "Coordinate": [
+            1072,
+            1158,
+            2109,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 79, Mittal Nagar, Sasaram 268384",
+        "Coordinate": [
+            984,
+            1288,
+            1949,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "802, Srinivas Nagar, Vijayawada-396121",
+        "Coordinate": [
+            986,
+            1550,
+            2159,
+            1788
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7917322799",
+        "Coordinate": [
+            960,
+            1826,
+            1443,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Malayalam, Hindi",
+        "Coordinate": [
+            960,
+            1954,
+            2411,
+            2066
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8042603653",
+        "Coordinate": [
+            1957,
+            1821,
+            2430,
+            1926
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gauri Chakrabarti - 8788218723",
+        "Coordinate": [
+            1039,
+            2075,
+            2373,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mohammed Zacharia - 7427335466",
+        "Coordinate": [
+            1051,
+            2202,
+            2389,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "220232000000",
+        "Coordinate": [
+            665,
+            2397,
+            1362,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            665,
+            2492,
+            967,
+            2589
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/5/2022",
+        "Coordinate": [
+            684,
+            2596,
+            1150,
+            2670
+        ]
+    }
+]

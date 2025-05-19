@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Logan Rao",
+        "Coordinate": [
+            912,
+            396,
+            1253,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Indrajit Rao",
+        "Coordinate": [
+            910,
+            491,
+            1349,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/26/1998",
+        "Coordinate": [
+            923,
+            590,
+            1261,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            937,
+            686,
+            1222,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            948,
+            786,
+            1276,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            787,
+            1983,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            895,
+            2100,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            954,
+            890,
+            1115,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bhagat PLC",
+        "Coordinate": [
+            972,
+            986,
+            1806,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sridhar-Zachariah",
+        "Coordinate": [
+            986,
+            1105,
+            2079,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "27, Vasa Zila, Satna 036915",
+        "Coordinate": [
+            908,
+            1236,
+            1926,
+            1363
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "843, Sinha Road, Ambarnath 763655",
+        "Coordinate": [
+            893,
+            1473,
+            2232,
+            1610
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8443868271",
+        "Coordinate": [
+            1849,
+            1749,
+            2266,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8023655502",
+        "Coordinate": [
+            888,
+            1747,
+            1307,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Malayalam, Telugu",
+        "Coordinate": [
+            899,
+            1888,
+            2087,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ati Seshadri - 9882107411",
+        "Coordinate": [
+            964,
+            2003,
+            1903,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Karnik - 7526958881",
+        "Coordinate": [
+            968,
+            2129,
+            1994,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "466000000000.0",
+        "Coordinate": [
+            597,
+            2326,
+            1116,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            608,
+            2421,
+            984,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-10-2024",
+        "Coordinate": [
+            640,
+            2512,
+            1039,
+            2599
+        ]
+    }
+]

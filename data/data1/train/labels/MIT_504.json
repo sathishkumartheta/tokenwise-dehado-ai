@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rajeshri Varty",
+        "Coordinate": [
+            964,
+            451,
+            1486,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Robert Varty",
+        "Coordinate": [
+            966,
+            554,
+            1422,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-12-1988",
+        "Coordinate": [
+            981,
+            652,
+            1282,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            973,
+            751,
+            1271,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            974,
+            854,
+            1267,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1810,
+            847,
+            2031,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1910,
+            954,
+            2150,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            972,
+            949,
+            1105,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sami  Chowdhury and Chada",
+        "Coordinate": [
+            1032,
+            1052,
+            2352,
+            1164
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Singhal  Rajan and Sarna",
+        "Coordinate": [
+            1029,
+            1166,
+            2359,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/617, Nagi Nagar, Thoothukudi 534581",
+        "Coordinate": [
+            987,
+            1309,
+            2141,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 72, Pingle Circle, Bharatpur 399824",
+        "Coordinate": [
+            961,
+            1551,
+            2238,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8103716996",
+        "Coordinate": [
+            1920,
+            1805,
+            2240,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8346890677",
+        "Coordinate": [
+            970,
+            1811,
+            1324,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada",
+        "Coordinate": [
+            964,
+            1951,
+            1503,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lipika Ratta - 7920098072",
+        "Coordinate": [
+            1030,
+            2062,
+            1904,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Girindra Sidhu - 7641745900",
+        "Coordinate": [
+            1016,
+            2189,
+            1910,
+            2303
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "896000000000.0",
+        "Coordinate": [
+            681,
+            2388,
+            1067,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            709,
+            2484,
+            944,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/31/2022",
+        "Coordinate": [
+            692,
+            2570,
+            1091,
+            2659
+        ]
+    }
+]

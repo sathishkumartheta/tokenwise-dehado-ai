@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Christopher Sinha",
+        "Coordinate": [
+            885,
+            395,
+            1541,
+            501
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Karan Sinha",
+        "Coordinate": [
+            879,
+            504,
+            1363,
+            593
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-11-2003",
+        "Coordinate": [
+            887,
+            598,
+            1298,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            696,
+            1533,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            893,
+            792,
+            1124,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1748,
+            779,
+            1944,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            889,
+            2087,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            894,
+            903,
+            1003,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bali LLC",
+        "Coordinate": [
+            963,
+            983,
+            1784,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Lal-Iyer",
+        "Coordinate": [
+            957,
+            1098,
+            1844,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "385, Keer Nagar, Srinagar 516991",
+        "Coordinate": [
+            871,
+            1226,
+            2185,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 01, Taneja Nagar, Etawah-743000",
+        "Coordinate": [
+            874,
+            1475,
+            2266,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9291980155",
+        "Coordinate": [
+            1844,
+            1747,
+            2252,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7628031932",
+        "Coordinate": [
+            886,
+            1755,
+            1307,
+            1856
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Telugu, Marathi",
+        "Coordinate": [
+            861,
+            1883,
+            2134,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ladli Badami - 8080025973",
+        "Coordinate": [
+            967,
+            2006,
+            2028,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charles Ram - 7127980465",
+        "Coordinate": [
+            960,
+            2128,
+            2065,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "527000000000.0",
+        "Coordinate": [
+            572,
+            2337,
+            1188,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            574,
+            2428,
+            836,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/16/2025",
+        "Coordinate": [
+            583,
+            2523,
+            998,
+            2609
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaid Ravel",
+        "Coordinate": [
+            902,
+            388,
+            1357,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv Ravel",
+        "Coordinate": [
+            895,
+            486,
+            1378,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-03-1999",
+        "Coordinate": [
+            930,
+            586,
+            1226,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            902,
+            680,
+            1244,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            783,
+            1196,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1802,
+            781,
+            2032,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            882,
+            2107,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            948,
+            886,
+            1114,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kurian-Chhabra",
+        "Coordinate": [
+            974,
+            982,
+            2022,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kapoor and Sons",
+        "Coordinate": [
+            968,
+            1095,
+            2092,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "188, Sachar Path, Gurgaon-413297",
+        "Coordinate": [
+            913,
+            1229,
+            2338,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 666, Sachdeva Street, Ludhiana 514377",
+        "Coordinate": [
+            886,
+            1479,
+            2320,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9290075872",
+        "Coordinate": [
+            1925,
+            1743,
+            2313,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7065257791",
+        "Coordinate": [
+            898,
+            1755,
+            1329,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Hindi",
+        "Coordinate": [
+            914,
+            1877,
+            1882,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanish Ravi - 7193895587",
+        "Coordinate": [
+            967,
+            1996,
+            2042,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wahab Mangat - 7052749348",
+        "Coordinate": [
+            954,
+            2120,
+            2165,
+            2250
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "637000000000.0",
+        "Coordinate": [
+            619,
+            2324,
+            1191,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            602,
+            2418,
+            871,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2025",
+        "Coordinate": [
+            623,
+            2511,
+            980,
+            2609
+        ]
+    }
+]

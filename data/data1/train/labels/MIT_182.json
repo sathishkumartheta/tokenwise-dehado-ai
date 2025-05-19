@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Victor Narasimhan",
+        "Coordinate": [
+            891,
+            389,
+            1528,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manthan Narasimhan",
+        "Coordinate": [
+            891,
+            485,
+            1665,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/29/1983",
+        "Coordinate": [
+            889,
+            586,
+            1259,
+            670
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            894,
+            681,
+            1248,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            901,
+            782,
+            1113,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            784,
+            1978,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            885,
+            2054,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            894,
+            1003,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Ahluwalia LLC",
+        "Coordinate": [
+            954,
+            984,
+            1866,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Grewal  Ratti and Pant",
+        "Coordinate": [
+            933,
+            1096,
+            2153,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "73, Wadhwa Zila, Bulandshahr 702437",
+        "Coordinate": [
+            898,
+            1226,
+            2257,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 56, Yadav Street, Moradabad-722560",
+        "Coordinate": [
+            892,
+            1486,
+            1802,
+            1677
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8081451891",
+        "Coordinate": [
+            1864,
+            1746,
+            2297,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7863063656",
+        "Coordinate": [
+            867,
+            1748,
+            1333,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Kannada, Marathi",
+        "Coordinate": [
+            879,
+            1884,
+            2170,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rushil Choudhry - 9852468671",
+        "Coordinate": [
+            952,
+            2000,
+            2125,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavani Baria - 7790257632",
+        "Coordinate": [
+            959,
+            2120,
+            2123,
+            2221
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "981000000000.0",
+        "Coordinate": [
+            603,
+            2327,
+            1066,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            609,
+            2420,
+            921,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/16/2023",
+        "Coordinate": [
+            602,
+            2510,
+            1051,
+            2601
+        ]
+    }
+]

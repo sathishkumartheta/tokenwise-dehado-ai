@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zashil Parekh",
+        "Coordinate": [
+            857,
+            423,
+            1460,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fariq Parekh",
+        "Coordinate": [
+            867,
+            536,
+            1447,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/11/2000",
+        "Coordinate": [
+            865,
+            649,
+            1198,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            867,
+            752,
+            1270,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            875,
+            844,
+            1242,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1732,
+            839,
+            1920,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            967,
+            949,
+            1093,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            942,
+            2122,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Khanna  Tripathi and Thakkar",
+        "Coordinate": [
+            939,
+            1039,
+            2364,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Agrawal Ltd",
+        "Coordinate": [
+            936,
+            1167,
+            1917,
+            1291
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 497, Taneja Chowk, Agartala 361657",
+        "Coordinate": [
+            877,
+            1432,
+            2335,
+            1558
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "822, Chopra Marg, Agartala-294849",
+        "Coordinate": [
+            872,
+            1691,
+            2263,
+            1814
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9131853780",
+        "Coordinate": [
+            872,
+            1860,
+            1247,
+            1950
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9123747357",
+        "Coordinate": [
+            1717,
+            1881,
+            2112,
+            1961
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            880,
+            1955,
+            1445,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranveer Kunda - 9081618020",
+        "Coordinate": [
+            908,
+            2094,
+            1902,
+            2189
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tara Srinivasan - 9402961912",
+        "Coordinate": [
+            957,
+            2222,
+            2043,
+            2333
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GXNIP4215N",
+        "Coordinate": [
+            1632,
+            2407,
+            2084,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            567,
+            2484,
+            977,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/26/2022",
+        "Coordinate": [
+            610,
+            2587,
+            1021,
+            2674
+        ]
+    }
+]

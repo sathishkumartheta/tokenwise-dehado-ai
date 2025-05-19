@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hredhaan Handa",
+        "Coordinate": [
+            891,
+            464,
+            1571,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Handa",
+        "Coordinate": [
+            887,
+            570,
+            1389,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/1/1971",
+        "Coordinate": [
+            893,
+            678,
+            1297,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            768,
+            1491,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            896,
+            865,
+            1187,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            941,
+            957,
+            1111,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Mitra  Sandal and Rana",
+        "Coordinate": [
+            988,
+            1042,
+            2288,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Saxena Inc",
+        "Coordinate": [
+            984,
+            1153,
+            1959,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "63/21, Karan Ganj, Ratlam 145544",
+        "Coordinate": [
+            908,
+            1262,
+            2188,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "700, Varty Road, Firozabad-225973",
+        "Coordinate": [
+            926,
+            1531,
+            2226,
+            1631
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9698199428",
+        "Coordinate": [
+            893,
+            1784,
+            1352,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8271711527",
+        "Coordinate": [
+            1836,
+            1763,
+            2256,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Gujarati, Hindi",
+        "Coordinate": [
+            910,
+            1919,
+            2188,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tejas Swamy - 9392654269",
+        "Coordinate": [
+            967,
+            2028,
+            2046,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yutika Patla - 9056782077",
+        "Coordinate": [
+            988,
+            2150,
+            1971,
+            2256
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            610,
+            2427,
+            910,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/3/2025",
+        "Coordinate": [
+            617,
+            2510,
+            1078,
+            2613
+        ]
+    }
+]

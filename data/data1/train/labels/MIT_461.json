@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekalinga Nagy",
+        "Coordinate": [
+            869,
+            406,
+            1334,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagdish Nagy",
+        "Coordinate": [
+            874,
+            506,
+            1334,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/22/1970",
+        "Coordinate": [
+            884,
+            604,
+            1240,
+            692
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            700,
+            1231,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            806,
+            1212,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1825,
+            798,
+            2014,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            900,
+            2061,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            913,
+            904,
+            1031,
+            992
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sharma-Puri",
+        "Coordinate": [
+            961,
+            992,
+            1886,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Grover  Kuruvilla and Gandhi",
+        "Coordinate": [
+            955,
+            1116,
+            2288,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "923, Nigam Circle, Ranchi-320914",
+        "Coordinate": [
+            898,
+            1258,
+            2232,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "93, Gill Ganj, Durg 347199",
+        "Coordinate": [
+            892,
+            1509,
+            2017,
+            1655
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7910366552",
+        "Coordinate": [
+            1867,
+            1754,
+            2311,
+            1851
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8627127401",
+        "Coordinate": [
+            881,
+            1769,
+            1283,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Tamil, Kannada",
+        "Coordinate": [
+            881,
+            1904,
+            2241,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aditya Subramanian - 7056543355",
+        "Coordinate": [
+            954,
+            2011,
+            2259,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekani Chad - 9366344882",
+        "Coordinate": [
+            966,
+            2135,
+            2049,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "953000000000.0",
+        "Coordinate": [
+            598,
+            2348,
+            1194,
+            2439
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            612,
+            2442,
+            885,
+            2524
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-05-2024",
+        "Coordinate": [
+            623,
+            2533,
+            1020,
+            2618
+        ]
+    }
+]

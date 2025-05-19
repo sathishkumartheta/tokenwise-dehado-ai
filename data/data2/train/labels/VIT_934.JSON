@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amara Bansal",
+        "Coordinate": [
+            880,
+            434,
+            1526,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Omkaar Bansal",
+        "Coordinate": [
+            890,
+            532,
+            1554,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/1962",
+        "Coordinate": [
+            880,
+            632,
+            1390,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            880,
+            738,
+            1280,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            840,
+            1276,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            882,
+            938,
+            1034,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bera  Kamdar and Bassi",
+        "Coordinate": [
+            976,
+            1048,
+            2334,
+            1148
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            939,
+            2110,
+            1040
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            832,
+            2074,
+            922
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Grover-Patel",
+        "Coordinate": [
+            960,
+            1158,
+            2116,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 56, Muni Road, Bhimavaram 124361",
+        "Coordinate": [
+            888,
+            1274,
+            1786,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 02, Basak, Silchar-918149",
+        "Coordinate": [
+            884,
+            1536,
+            2326,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7193872128",
+        "Coordinate": [
+            900,
+            1818,
+            1374,
+            1920
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8916828609",
+        "Coordinate": [
+            1882,
+            1812,
+            2364,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, English, Bengali",
+        "Coordinate": [
+            876,
+            1950,
+            2212,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nitara Tak - 8600333978",
+        "Coordinate": [
+            966,
+            2056,
+            2178,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Akshay Khalsa - 8930839403",
+        "Coordinate": [
+            984,
+            2182,
+            2208,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "304168000000",
+        "Coordinate": [
+            586,
+            2394,
+            1278,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            603,
+            2490,
+            897,
+            2588
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/17/2025",
+        "Coordinate": [
+            580,
+            2586,
+            1076,
+            2678
+        ]
+    }
+]

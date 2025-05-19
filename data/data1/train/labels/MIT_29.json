@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zansi Barad",
+        "Coordinate": [
+            912,
+            410,
+            1369,
+            510
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Om Barad",
+        "Coordinate": [
+            914,
+            517,
+            1304,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/19/2001",
+        "Coordinate": [
+            929,
+            618,
+            1284,
+            704
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            920,
+            717,
+            1303,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            926,
+            820,
+            1133,
+            921
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1854,
+            805,
+            2120,
+            900
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1876,
+            908,
+            2154,
+            1002
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            989,
+            916,
+            1111,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Puri and Sons",
+        "Coordinate": [
+            1001,
+            1001,
+            1875,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Golla Ltd",
+        "Coordinate": [
+            990,
+            1122,
+            1778,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 653, Mane Chowk, Muzaffarpur-473597",
+        "Coordinate": [
+            907,
+            1258,
+            2357,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88, Edwin Marg, Mahbubnagar-407581",
+        "Coordinate": [
+            912,
+            1529,
+            2159,
+            1687
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9236857254",
+        "Coordinate": [
+            1888,
+            1767,
+            2333,
+            1872
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9716409644",
+        "Coordinate": [
+            905,
+            1780,
+            1307,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Kannada",
+        "Coordinate": [
+            910,
+            1912,
+            1879,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Chacko - 8126983800",
+        "Coordinate": [
+            988,
+            2011,
+            2033,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anjali Sengupta - 7232901974",
+        "Coordinate": [
+            991,
+            2146,
+            2104,
+            2267
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "708000000000.0",
+        "Coordinate": [
+            612,
+            2348,
+            1104,
+            2430
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YSHCG8326E",
+        "Coordinate": [
+            1672,
+            2344,
+            2151,
+            2448
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            614,
+            2437,
+            969,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/30/2024",
+        "Coordinate": [
+            623,
+            2539,
+            1014,
+            2622
+        ]
+    }
+]

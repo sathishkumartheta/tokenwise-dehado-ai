@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wriddhish Oak",
+        "Coordinate": [
+            906,
+            490,
+            1498,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv Oak",
+        "Coordinate": [
+            946,
+            584,
+            1396,
+            669
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/30/1983",
+        "Coordinate": [
+            946,
+            682,
+            1378,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            962,
+            778,
+            1374,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            868,
+            1282,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            998,
+            964,
+            1114,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Wagle  Mital and Dada",
+        "Coordinate": [
+            970,
+            1064,
+            2296,
+            1173
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mukherjee  Varghese and Goswami",
+        "Coordinate": [
+            914,
+            1182,
+            2318,
+            1299
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 11, Vig Circle, Ahmednagar 670061",
+        "Coordinate": [
+            930,
+            1320,
+            2176,
+            1501
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "47/38, Balan Zila, Sambalpur-072185",
+        "Coordinate": [
+            954,
+            1544,
+            2222,
+            1731
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8442774069",
+        "Coordinate": [
+            894,
+            1804,
+            1352,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9699714253",
+        "Coordinate": [
+            1810,
+            1788,
+            2242,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Telugu",
+        "Coordinate": [
+            900,
+            1934,
+            1958,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Joshua Devan - 8149100823",
+        "Coordinate": [
+            944,
+            2036,
+            2064,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhruv Ratta - 7377850279",
+        "Coordinate": [
+            1000,
+            2158,
+            2018,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            684,
+            2414,
+            1032,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/2/2025",
+        "Coordinate": [
+            732,
+            2508,
+            1170,
+            2575
+        ]
+    }
+]

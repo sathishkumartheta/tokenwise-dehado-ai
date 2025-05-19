@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Madan",
+        "Coordinate": [
+            902,
+            434,
+            1355,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Madan",
+        "Coordinate": [
+            927,
+            545,
+            1462,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/16/1971",
+        "Coordinate": [
+            907,
+            652,
+            1217,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            887,
+            737,
+            1185,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            837,
+            1152,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1752,
+            842,
+            2010,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            937,
+            2132,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            920,
+            942,
+            1042,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Tandon Inc",
+        "Coordinate": [
+            1022,
+            1040,
+            1895,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kalla-Brar",
+        "Coordinate": [
+            1045,
+            1155,
+            1905,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "22, Shukla Street, Tadipatri 893674",
+        "Coordinate": [
+            917,
+            1290,
+            2102,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 176, Wagle Chowk, Kakinada-111305",
+        "Coordinate": [
+            892,
+            1537,
+            2225,
+            1690
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7054268481",
+        "Coordinate": [
+            885,
+            1832,
+            1250,
+            1935
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8688837543",
+        "Coordinate": [
+            1840,
+            1822,
+            2282,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Hindi",
+        "Coordinate": [
+            887,
+            1957,
+            1712,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Matthew Johal - 9008441065",
+        "Coordinate": [
+            955,
+            2057,
+            1990,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Januja Gala - 8587727584",
+        "Coordinate": [
+            972,
+            2187,
+            1932,
+            2322
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "877017000000",
+        "Coordinate": [
+            607,
+            2405,
+            1145,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            612,
+            2495,
+            877,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/9/2023",
+        "Coordinate": [
+            620,
+            2582,
+            980,
+            2657
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zehaan Balasubramanian",
+        "Coordinate": [
+            891,
+            404,
+            1759,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samaksh Balasubramanian",
+        "Coordinate": [
+            906,
+            506,
+            1795,
+            602
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/23/1999",
+        "Coordinate": [
+            921,
+            612,
+            1278,
+            699
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            939,
+            709,
+            1257,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            964,
+            814,
+            1249,
+            903
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            788,
+            1957,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            895,
+            2099,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1005,
+            910,
+            1146,
+            991
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bansal PLC",
+        "Coordinate": [
+            981,
+            991,
+            1783,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Zacharia-Sodhi",
+        "Coordinate": [
+            993,
+            1104,
+            1964,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39, Desai Road, Orai-658039",
+        "Coordinate": [
+            926,
+            1225,
+            2000,
+            1339
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22, Dhingra, Secunderabad-373145",
+        "Coordinate": [
+            957,
+            1478,
+            2224,
+            1606
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9638438225",
+        "Coordinate": [
+            1724,
+            1799,
+            2215,
+            1892
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7098876984",
+        "Coordinate": [
+            962,
+            1761,
+            1397,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Tamil, English",
+        "Coordinate": [
+            955,
+            1902,
+            1992,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Brijesh Jhaveri - 8073175419",
+        "Coordinate": [
+            988,
+            2008,
+            2045,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lipika Singh - 8778827710",
+        "Coordinate": [
+            1004,
+            2132,
+            2011,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "508000000000.0",
+        "Coordinate": [
+            652,
+            2350,
+            1212,
+            2439
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            645,
+            2447,
+            927,
+            2530
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/31/2023",
+        "Coordinate": [
+            684,
+            2537,
+            1099,
+            2623
+        ]
+    }
+]

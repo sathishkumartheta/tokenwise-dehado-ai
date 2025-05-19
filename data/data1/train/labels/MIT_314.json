@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advik Balasubramanian",
+        "Coordinate": [
+            867,
+            388,
+            1694,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Benjamin Balasubramanian",
+        "Coordinate": [
+            895,
+            495,
+            1827,
+            604
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-08-1981",
+        "Coordinate": [
+            917,
+            598,
+            1200,
+            687
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            891,
+            692,
+            1192,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            798,
+            1163,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1811,
+            786,
+            1990,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1854,
+            890,
+            2110,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            939,
+            896,
+            1088,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bumb Inc",
+        "Coordinate": [
+            983,
+            984,
+            1648,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Gupta  Srivastava and Chaudhari",
+        "Coordinate": [
+            983,
+            1094,
+            2326,
+            1223
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 902, Munshi Path, Raipur-442182",
+        "Coordinate": [
+            900,
+            1269,
+            2218,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81, Gill Street, Orai-567086",
+        "Coordinate": [
+            907,
+            1503,
+            1862,
+            1643
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7223236916",
+        "Coordinate": [
+            1863,
+            1747,
+            2241,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7768215938",
+        "Coordinate": [
+            921,
+            1759,
+            1329,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Marathi",
+        "Coordinate": [
+            882,
+            1886,
+            1781,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Atharv Basu - 9846977842",
+        "Coordinate": [
+            950,
+            2005,
+            1899,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarnav Lal - 7941557072",
+        "Coordinate": [
+            960,
+            2127,
+            1978,
+            2230
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NRYKB6503U",
+        "Coordinate": [
+            1626,
+            2330,
+            2152,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            627,
+            2423,
+            920,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-09-2023",
+        "Coordinate": [
+            638,
+            2521,
+            1012,
+            2629
+        ]
+    }
+]

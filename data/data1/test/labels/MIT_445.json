@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Sengupta",
+        "Coordinate": [
+            914,
+            424,
+            1543,
+            519
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Agastya Sengupta",
+        "Coordinate": [
+            934,
+            523,
+            1558,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/17/1985",
+        "Coordinate": [
+            953,
+            627,
+            1296,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            964,
+            724,
+            1277,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            966,
+            823,
+            1267,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1823,
+            802,
+            2003,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            907,
+            2117,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            985,
+            926,
+            1144,
+            1012
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Gola  Bhatt and Oak",
+        "Coordinate": [
+            1003,
+            1008,
+            2134,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sarna  Gupta and Agate",
+        "Coordinate": [
+            1003,
+            1127,
+            2333,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "82/43, Vala Circle, Sambalpur 217816",
+        "Coordinate": [
+            944,
+            1257,
+            2308,
+            1389
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64, Comar Ganj, Dehri-164928",
+        "Coordinate": [
+            946,
+            1498,
+            2134,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8378173039",
+        "Coordinate": [
+            1902,
+            1763,
+            2331,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7721193566",
+        "Coordinate": [
+            938,
+            1781,
+            1362,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Bengali",
+        "Coordinate": [
+            941,
+            1923,
+            1871,
+            2022
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falguni Agarwal - 8452749832",
+        "Coordinate": [
+            1008,
+            2021,
+            2200,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saumya Batra - 9300764100",
+        "Coordinate": [
+            1038,
+            2152,
+            2179,
+            2253
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "577000000000.0",
+        "Coordinate": [
+            653,
+            2368,
+            1179,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            675,
+            2460,
+            1124,
+            2550
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/25/2024",
+        "Coordinate": [
+            706,
+            2555,
+            1138,
+            2645
+        ]
+    }
+]

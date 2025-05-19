@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Indrajit Seshadri",
+        "Coordinate": [
+            867,
+            388,
+            1422,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Owen Seshadri",
+        "Coordinate": [
+            869,
+            487,
+            1421,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/19/1961",
+        "Coordinate": [
+            883,
+            593,
+            1143,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            885,
+            690,
+            1175,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            794,
+            1151,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1769,
+            779,
+            1934,
+            857
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            890,
+            2041,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            910,
+            897,
+            1019,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bera-Randhawa",
+        "Coordinate": [
+            953,
+            983,
+            1955,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Prakash  Keer and Raju",
+        "Coordinate": [
+            948,
+            1102,
+            2205,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "051, Dhingra Path, Agra 727790",
+        "Coordinate": [
+            890,
+            1236,
+            2000,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 32, Wable Circle, Bhubaneswar 341036",
+        "Coordinate": [
+            880,
+            1475,
+            2300,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7850859428",
+        "Coordinate": [
+            1844,
+            1742,
+            2248,
+            1829
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8056557698",
+        "Coordinate": [
+            884,
+            1756,
+            1289,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Marathi, Hindi",
+        "Coordinate": [
+            891,
+            1887,
+            1825,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dev Choudhry - 9296387265",
+        "Coordinate": [
+            953,
+            2003,
+            1918,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amol Varma - 9299685297",
+        "Coordinate": [
+            946,
+            2123,
+            1955,
+            2225
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "850000000000.0",
+        "Coordinate": [
+            594,
+            2328,
+            1245,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            609,
+            2426,
+            852,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-03-2024",
+        "Coordinate": [
+            612,
+            2515,
+            942,
+            2600
+        ]
+    }
+]

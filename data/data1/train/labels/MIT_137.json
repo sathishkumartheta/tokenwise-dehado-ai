@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isha Dutta",
+        "Coordinate": [
+            909,
+            425,
+            1324,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laban Dutta",
+        "Coordinate": [
+            919,
+            525,
+            1348,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-10-1968",
+        "Coordinate": [
+            941,
+            625,
+            1261,
+            712
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            936,
+            721,
+            1230,
+            815
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            929,
+            824,
+            1102,
+            919
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1809,
+            820,
+            2043,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            930,
+            2090,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            944,
+            924,
+            1049,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kuruvilla LLC",
+        "Coordinate": [
+            982,
+            1028,
+            1836,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Goda  Basak and Sunder",
+        "Coordinate": [
+            966,
+            1140,
+            2207,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 594, Ray Zila, Mysore 231981",
+        "Coordinate": [
+            906,
+            1270,
+            2194,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 391, Narayan Path, Noida 321234",
+        "Coordinate": [
+            911,
+            1524,
+            2243,
+            1676
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7477413074",
+        "Coordinate": [
+            1856,
+            1803,
+            2247,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8573085780",
+        "Coordinate": [
+            893,
+            1803,
+            1309,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            885,
+            1938,
+            1384,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nilima Kumar - 7574319248",
+        "Coordinate": [
+            960,
+            2045,
+            1928,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vritti Walla - 9303120704",
+        "Coordinate": [
+            990,
+            2184,
+            1891,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "395000000000.0",
+        "Coordinate": [
+            614,
+            2375,
+            1098,
+            2463
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            604,
+            2471,
+            906,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-12-2023",
+        "Coordinate": [
+            625,
+            2563,
+            965,
+            2651
+        ]
+    }
+]

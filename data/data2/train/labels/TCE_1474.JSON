@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Orinder Dugal",
+        "Coordinate": [
+            892,
+            461,
+            1505,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wahab Dugal",
+        "Coordinate": [
+            897,
+            561,
+            1492,
+            689
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/17/1978",
+        "Coordinate": [
+            897,
+            661,
+            1349,
+            769
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            897,
+            746,
+            1276,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            844,
+            1177,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1744,
+            824,
+            2034,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            942,
+            2138,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Anne  Ganguly and Hari",
+        "Coordinate": [
+            967,
+            1041,
+            2226,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Parmer and Sons",
+        "Coordinate": [
+            975,
+            1145,
+            2070,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45/96, Kala Ganj, Katni-749169",
+        "Coordinate": [
+            892,
+            1268,
+            2306,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 56, Hari Zila, Faridabad 751042",
+        "Coordinate": [
+            887,
+            1502,
+            2290,
+            1622
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7149267888",
+        "Coordinate": [
+            862,
+            1777,
+            1365,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9906243531",
+        "Coordinate": [
+            1830,
+            1758,
+            2303,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Tamil, Bengali",
+        "Coordinate": [
+            872,
+            1897,
+            2177,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Laksh Nagi - 8070543162",
+        "Coordinate": [
+            932,
+            2002,
+            1918,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maya Prasad - 9354100655",
+        "Coordinate": [
+            917,
+            2112,
+            1978,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            589,
+            2385,
+            929,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/8/2025",
+        "Coordinate": [
+            636,
+            2507,
+            1024,
+            2596
+        ]
+    }
+]

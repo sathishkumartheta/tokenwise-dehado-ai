@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Owen Nagarajan",
+        "Coordinate": [
+            893,
+            410,
+            1451,
+            504
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Nagarajan",
+        "Coordinate": [
+            889,
+            515,
+            1462,
+            608
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-01-1962",
+        "Coordinate": [
+            889,
+            608,
+            1209,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            909,
+            705,
+            1231,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            811,
+            1265,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1783,
+            804,
+            1988,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            909,
+            2120,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            923,
+            908,
+            1033,
+            999
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kalita  Tata and Mander",
+        "Coordinate": [
+            973,
+            1000,
+            2261,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Rau-Bansal",
+        "Coordinate": [
+            992,
+            1125,
+            1903,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 396, Bahl Zila, Jaunpur 900170",
+        "Coordinate": [
+            895,
+            1309,
+            2300,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49/07, Sankaran Circle, Dehri-516215",
+        "Coordinate": [
+            891,
+            1487,
+            2313,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7446374913",
+        "Coordinate": [
+            1852,
+            1763,
+            2273,
+            1865
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7473957635",
+        "Coordinate": [
+            882,
+            1762,
+            1330,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi",
+        "Coordinate": [
+            891,
+            1908,
+            1376,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Panini Saxena - 8306727934",
+        "Coordinate": [
+            973,
+            2011,
+            2100,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zaid Pandit - 8772987473",
+        "Coordinate": [
+            980,
+            2137,
+            2002,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "450000000000.0",
+        "Coordinate": [
+            596,
+            2346,
+            1124,
+            2434
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            603,
+            2444,
+            923,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-02-2025",
+        "Coordinate": [
+            612,
+            2535,
+            1071,
+            2623
+        ]
+    }
+]

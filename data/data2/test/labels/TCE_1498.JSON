@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashica Samra",
+        "Coordinate": [
+            890,
+            466,
+            1454,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Samra",
+        "Coordinate": [
+            905,
+            566,
+            1506,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/2007",
+        "Coordinate": [
+            910,
+            651,
+            1290,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            900,
+            750,
+            1230,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            845,
+            1166,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            846,
+            2062,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            931,
+            2054,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            910,
+            965,
+            1134,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Chowdhury PLC",
+        "Coordinate": [
+            995,
+            1026,
+            1998,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Balan  Naidu and Trivedi",
+        "Coordinate": [
+            995,
+            1146,
+            2262,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76/90, Prashad Road, Satna-773188",
+        "Coordinate": [
+            915,
+            1306,
+            2254,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "75, Kamdar Ganj, Hindupur 095332",
+        "Coordinate": [
+            905,
+            1531,
+            2230,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7559460807",
+        "Coordinate": [
+            910,
+            1786,
+            1338,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9517173976",
+        "Coordinate": [
+            1810,
+            1776,
+            2266,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Marathi, Malayalam",
+        "Coordinate": [
+            905,
+            1916,
+            2130,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yug Hegde - 9809202156",
+        "Coordinate": [
+            970,
+            2015,
+            1890,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anirudh Ramaswamy - 7750010481",
+        "Coordinate": [
+            980,
+            2130,
+            2226,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            610,
+            2426,
+            906,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/14/2022",
+        "Coordinate": [
+            625,
+            2500,
+            1002,
+            2586
+        ]
+    }
+]

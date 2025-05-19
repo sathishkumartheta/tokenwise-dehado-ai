@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatin Bhat",
+        "Coordinate": [
+            890,
+            419,
+            1427,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sai Bhat",
+        "Coordinate": [
+            907,
+            520,
+            1349,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/30/1973",
+        "Coordinate": [
+            907,
+            620,
+            1398,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            893,
+            717,
+            1096,
+            815
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            819,
+            1181,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1767,
+            798,
+            1999,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            925,
+            2133,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chana Inc",
+        "Coordinate": [
+            952,
+            1024,
+            1939,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Biswas  Sankar and Chander",
+        "Coordinate": [
+            921,
+            1134,
+            2379,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 30, Konda, Tiruppur 340377",
+        "Coordinate": [
+            892,
+            1260,
+            2315,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 379, Bala Ganj, Jalandhar 004582",
+        "Coordinate": [
+            893,
+            1511,
+            2334,
+            1737
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8507670743",
+        "Coordinate": [
+            1855,
+            1795,
+            2333,
+            1905
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7241574421",
+        "Coordinate": [
+            880,
+            1795,
+            1356,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Tamil, Kannada",
+        "Coordinate": [
+            887,
+            1929,
+            2347,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vansha Dhawan - 7345060267",
+        "Coordinate": [
+            936,
+            2039,
+            2149,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mahika Gopal - 9302958850",
+        "Coordinate": [
+            951,
+            2166,
+            2206,
+            2279
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HXTUF1338R",
+        "Coordinate": [
+            1630,
+            2380,
+            2247,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            588,
+            2469,
+            883,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-03-2025",
+        "Coordinate": [
+            590,
+            2562,
+            1131,
+            2660
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Devansh Deshmukh",
+        "Coordinate": [
+            931,
+            398,
+            1557,
+            496
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekansh Deshmukh",
+        "Coordinate": [
+            935,
+            502,
+            1549,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/26/1978",
+        "Coordinate": [
+            948,
+            603,
+            1300,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            950,
+            699,
+            1256,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            949,
+            799,
+            1244,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1841,
+            791,
+            2041,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            901,
+            2141,
+            995
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            959,
+            906,
+            1074,
+            991
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Balay LLC",
+        "Coordinate": [
+            1017,
+            994,
+            1770,
+            1107
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at De and Sons",
+        "Coordinate": [
+            1009,
+            1112,
+            1905,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 62, Chandran Nagar, Aurangabad-348433",
+        "Coordinate": [
+            946,
+            1223,
+            2296,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "252, Radhakrishnan Circle, Kakinada 394564",
+        "Coordinate": [
+            946,
+            1483,
+            2378,
+            1630
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7332998849",
+        "Coordinate": [
+            1909,
+            1757,
+            2328,
+            1862
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9648265122",
+        "Coordinate": [
+            935,
+            1765,
+            1333,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Telugu",
+        "Coordinate": [
+            929,
+            1900,
+            1788,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jonathan Kalita - 7416847278",
+        "Coordinate": [
+            1013,
+            2007,
+            1948,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Quincy Tella - 7836662325",
+        "Coordinate": [
+            1016,
+            2136,
+            1872,
+            2253
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RZFLC1831M",
+        "Coordinate": [
+            1687,
+            2344,
+            2117,
+            2437
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            630,
+            2435,
+            1239,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-04-2023",
+        "Coordinate": [
+            645,
+            2530,
+            1026,
+            2619
+        ]
+    }
+]

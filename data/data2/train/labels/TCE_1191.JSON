@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayamai Natt",
+        "Coordinate": [
+            913,
+            469,
+            1374,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rayaan Natt",
+        "Coordinate": [
+            905,
+            554,
+            1371,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/27/1985",
+        "Coordinate": [
+            892,
+            652,
+            1371,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            905,
+            757,
+            1242,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            853,
+            1214,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1729,
+            833,
+            1983,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1793,
+            954,
+            2061,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            908,
+            957,
+            1042,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Nazareth-Sawhney",
+        "Coordinate": [
+            993,
+            1053,
+            2052,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kakar LLC",
+        "Coordinate": [
+            1002,
+            1165,
+            1729,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "928, Bhavsar Circle, Gopalpur 385247",
+        "Coordinate": [
+            892,
+            1299,
+            2122,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "54/508, Naidu Path, Panvel-980690",
+        "Coordinate": [
+            917,
+            1529,
+            2024,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7118252142",
+        "Coordinate": [
+            919,
+            1786,
+            1252,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7928607449",
+        "Coordinate": [
+            1829,
+            1759,
+            2202,
+            1843
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            908,
+            1897,
+            1393,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wridesh Soman - 7840853063",
+        "Coordinate": [
+            984,
+            2010,
+            1931,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksha Mammen - 7266884702",
+        "Coordinate": [
+            984,
+            2146,
+            2012,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            632,
+            2419,
+            1040,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/20/2024",
+        "Coordinate": [
+            627,
+            2512,
+            944,
+            2580
+        ]
+    }
+]

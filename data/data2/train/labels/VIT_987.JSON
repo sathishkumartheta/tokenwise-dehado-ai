@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Nagy",
+        "Coordinate": [
+            880,
+            447,
+            1380,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balveer Nagy",
+        "Coordinate": [
+            882,
+            545,
+            1435,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/1968",
+        "Coordinate": [
+            900,
+            662,
+            1250,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            740,
+            1212,
+            835
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            865,
+            925,
+            987,
+            1012
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            890,
+            847,
+            1087,
+            960
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1747,
+            845,
+            1950,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            947,
+            2090,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Basu Inc",
+        "Coordinate": [
+            990,
+            1040,
+            1890,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chakraborty  Taneja and Mittal",
+        "Coordinate": [
+            965,
+            1150,
+            2350,
+            1347
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 114, Sampath, Bhagalpur-098910",
+        "Coordinate": [
+            882,
+            1335,
+            2315,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 59, Chaudry Marg, Agartala 059758",
+        "Coordinate": [
+            879,
+            1557,
+            2357,
+            1785
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8503399646",
+        "Coordinate": [
+            887,
+            1812,
+            1377,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9685939852",
+        "Coordinate": [
+            1795,
+            1807,
+            2350,
+            1955
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, English, Hindi",
+        "Coordinate": [
+            875,
+            1950,
+            2150,
+            2080
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adweta Mannan - 9833481073",
+        "Coordinate": [
+            962,
+            2055,
+            2242,
+            2192
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anjali Ganguly - 9188996511",
+        "Coordinate": [
+            962,
+            2207,
+            2185,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "720554000000",
+        "Coordinate": [
+            570,
+            2397,
+            1237,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            600,
+            2482,
+            1000,
+            2600
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/15/2022",
+        "Coordinate": [
+            620,
+            2567,
+            1090,
+            2660
+        ]
+    }
+]

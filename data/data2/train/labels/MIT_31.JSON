@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upadhriti Agarwal",
+        "Coordinate": [
+            872,
+            425,
+            1515,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Agarwal",
+        "Coordinate": [
+            900,
+            537,
+            1505,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/11/1975",
+        "Coordinate": [
+            922,
+            640,
+            1297,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            912,
+            712,
+            1200,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            815,
+            1217,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1847,
+            810,
+            2092,
+            917
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            895,
+            935,
+            1072,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1900,
+            930,
+            2170,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Saha  Grover and Chada",
+        "Coordinate": [
+            1005,
+            1030,
+            2335,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Patel  Bir and Vora",
+        "Coordinate": [
+            982,
+            1150,
+            2175,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06, Kulkarni Path, Raurkela Industrial Township 531952",
+        "Coordinate": [
+            895,
+            1297,
+            2322,
+            1522
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "52/77, Deshmukh Street, Berhampore 430305",
+        "Coordinate": [
+            902,
+            1547,
+            2332,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7355985200",
+        "Coordinate": [
+            897,
+            1800,
+            1380,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8501334139",
+        "Coordinate": [
+            1572,
+            1845,
+            2052,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati",
+        "Coordinate": [
+            895,
+            1937,
+            1537,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yutika Rao - 7539008173",
+        "Coordinate": [
+            970,
+            2037,
+            1942,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zehaan Bansal - 7130265038",
+        "Coordinate": [
+            975,
+            2202,
+            2155,
+            2307
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OXUUJ8936A",
+        "Coordinate": [
+            1660,
+            2370,
+            2245,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            612,
+            2475,
+            1020,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/17/2025",
+        "Coordinate": [
+            605,
+            2580,
+            1045,
+            2662
+        ]
+    }
+]

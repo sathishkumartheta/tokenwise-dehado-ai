@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavika Ganesh",
+        "Coordinate": [
+            892,
+            435,
+            1560,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Teerth Ganesh",
+        "Coordinate": [
+            888,
+            539,
+            1529,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-07-1978",
+        "Coordinate": [
+            900,
+            637,
+            1263,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            919,
+            733,
+            1527,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            837,
+            1243,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1789,
+            820,
+            2101,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            934,
+            2133,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Mistry-Sule",
+        "Coordinate": [
+            1036,
+            1038,
+            2068,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Patel LLC",
+        "Coordinate": [
+            1036,
+            1144,
+            1992,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "93/71, Modi Street, Tenali-965756",
+        "Coordinate": [
+            921,
+            1277,
+            2337,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 93, Murthy Chowk, Sikar-479356",
+        "Coordinate": [
+            917,
+            1520,
+            2357,
+            1726
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9718555984",
+        "Coordinate": [
+            1870,
+            1785,
+            2346,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7187769945",
+        "Coordinate": [
+            940,
+            1801,
+            1381,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            939,
+            1938,
+            1619,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Maya Patla - 7995513131",
+        "Coordinate": [
+            1006,
+            2041,
+            1944,
+            2158
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ryan Gole - 8910667384",
+        "Coordinate": [
+            1020,
+            2179,
+            2043,
+            2293
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NJWDT9166L",
+        "Coordinate": [
+            1663,
+            2368,
+            2306,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            725,
+            2472,
+            984,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/24/2022",
+        "Coordinate": [
+            683,
+            2573,
+            1124,
+            2676
+        ]
+    }
+]

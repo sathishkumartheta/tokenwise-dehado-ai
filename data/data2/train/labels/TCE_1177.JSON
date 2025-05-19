@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Logan Yadav",
+        "Coordinate": [
+            900,
+            463,
+            1538,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advik Yadav",
+        "Coordinate": [
+            902,
+            551,
+            1520,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1981",
+        "Coordinate": [
+            922,
+            663,
+            1365,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            750,
+            1300,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            850,
+            1200,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            838,
+            1995,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            943,
+            2130,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            910,
+            952,
+            1098,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Chander  Kulkarni and Keer",
+        "Coordinate": [
+            972,
+            1033,
+            2351,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Varty  Vig and Goda",
+        "Coordinate": [
+            983,
+            1138,
+            2316,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "49, Lad Nagar, Mehsana-813240",
+        "Coordinate": [
+            908,
+            1260,
+            2194,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 461, Kalita Ganj, Bhilwara-337025",
+        "Coordinate": [
+            912,
+            1513,
+            2185,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7204297557",
+        "Coordinate": [
+            903,
+            1777,
+            1382,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9187347402",
+        "Coordinate": [
+            1845,
+            1757,
+            2351,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Marathi",
+        "Coordinate": [
+            907,
+            1894,
+            2187,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Idika Raman - 8882815591",
+        "Coordinate": [
+            973,
+            2010,
+            2332,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bina Dar - 8159253602",
+        "Coordinate": [
+            1003,
+            2125,
+            2160,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            628,
+            2422,
+            1028,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/18/2025",
+        "Coordinate": [
+            640,
+            2504,
+            1212,
+            2597
+        ]
+    }
+]

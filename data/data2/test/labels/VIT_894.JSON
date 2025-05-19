@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasatika Narain",
+        "Coordinate": [
+            875,
+            445,
+            1470,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Narain",
+        "Coordinate": [
+            882,
+            557,
+            1393,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/19/2006",
+        "Coordinate": [
+            882,
+            651,
+            1320,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            890,
+            752,
+            1230,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            860,
+            1101,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1713,
+            844,
+            1994,
+            914
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            877,
+            972,
+            1011,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            950,
+            2165,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shere Group",
+        "Coordinate": [
+            956,
+            1042,
+            1856,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sahni  Chander and Ghosh",
+        "Coordinate": [
+            943,
+            1156,
+            2323,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "93/333, Sarin Path, Bhatpara-184457",
+        "Coordinate": [
+            875,
+            1279,
+            2240,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 629, Bera Path, Ichalkaranji-031841",
+        "Coordinate": [
+            899,
+            1540,
+            2347,
+            1671
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9269019579",
+        "Coordinate": [
+            893,
+            1812,
+            1279,
+            1911
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7458637468",
+        "Coordinate": [
+            1867,
+            1810,
+            2292,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Gujarati",
+        "Coordinate": [
+            893,
+            1944,
+            1766,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yatan Gole - 9908782677",
+        "Coordinate": [
+            947,
+            2062,
+            1930,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jyoti Dey - 9847370148",
+        "Coordinate": [
+            967,
+            2189,
+            1851,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "666318000000",
+        "Coordinate": [
+            585,
+            2407,
+            1029,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            570,
+            2514,
+            827,
+            2584
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/28/2024",
+        "Coordinate": [
+            581,
+            2580,
+            980,
+            2672
+        ]
+    }
+]

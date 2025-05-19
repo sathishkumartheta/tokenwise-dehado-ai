@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Imaran Desai",
+        "Coordinate": [
+            909,
+            472,
+            1519,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nicholas Desai",
+        "Coordinate": [
+            940,
+            567,
+            1616,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/7/1997",
+        "Coordinate": [
+            938,
+            675,
+            1314,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            953,
+            753,
+            1379,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            846,
+            1291,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1894,
+            852,
+            2073,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1016,
+            945,
+            1196,
+            1038
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1907,
+            945,
+            2154,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Reddy and Sons",
+        "Coordinate": [
+            1071,
+            1033,
+            2175,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chana-Kari",
+        "Coordinate": [
+            1086,
+            1149,
+            2103,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 36, Prabhu Street, Tezpur 539305",
+        "Coordinate": [
+            957,
+            1270,
+            2270,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62/404, Radhakrishnan Marg, Bhopal 061958",
+        "Coordinate": [
+            970,
+            1516,
+            2257,
+            1715
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9035077676",
+        "Coordinate": [
+            943,
+            1793,
+            1367,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9909614664",
+        "Coordinate": [
+            1881,
+            1765,
+            2310,
+            1846
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, English, Tamil",
+        "Coordinate": [
+            972,
+            1911,
+            2187,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Keya Chand - 7082364675",
+        "Coordinate": [
+            1054,
+            2010,
+            2192,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manthan Sankar - 9429796350",
+        "Coordinate": [
+            1050,
+            2124,
+            2320,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            721,
+            2415,
+            1019,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/10/2022",
+        "Coordinate": [
+            717,
+            2510,
+            1219,
+            2590
+        ]
+    }
+]

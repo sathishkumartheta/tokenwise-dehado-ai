@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Liam Seth",
+        "Coordinate": [
+            890,
+            466,
+            1294,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Owen Seth",
+        "Coordinate": [
+            905,
+            586,
+            1286,
+            682
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/11/1961",
+        "Coordinate": [
+            930,
+            665,
+            1242,
+            774
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            930,
+            776,
+            1246,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            866,
+            1242,
+            958
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            841,
+            1986,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            941,
+            2090,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            920,
+            941,
+            1058,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Borra Group",
+        "Coordinate": [
+            1015,
+            1025,
+            1886,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Varma  Das and Parmar",
+        "Coordinate": [
+            1000,
+            1136,
+            2202,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "64, Sahni Nagar, Bhiwandi-003908",
+        "Coordinate": [
+            910,
+            1281,
+            2146,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "04/765, Natarajan, Tumkur 888850",
+        "Coordinate": [
+            925,
+            1506,
+            2206,
+            1614
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8246487882",
+        "Coordinate": [
+            905,
+            1765,
+            1346,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8083938541",
+        "Coordinate": [
+            1870,
+            1760,
+            2290,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Malayalam",
+        "Coordinate": [
+            950,
+            1910,
+            1810,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vritti Gaba - 7536628889",
+        "Coordinate": [
+            1010,
+            2010,
+            2010,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samarth Bala - 7485353791",
+        "Coordinate": [
+            995,
+            2146,
+            1986,
+            2226
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            610,
+            2426,
+            870,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/7/2025",
+        "Coordinate": [
+            625,
+            2516,
+            1018,
+            2594
+        ]
+    }
+]

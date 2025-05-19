@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Azad Wagle",
+        "Coordinate": [
+            871,
+            418,
+            1345,
+            513
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Wagle",
+        "Coordinate": [
+            873,
+            516,
+            1394,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/17/1970",
+        "Coordinate": [
+            877,
+            615,
+            1246,
+            706
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            879,
+            715,
+            1239,
+            807
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            814,
+            1177,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1762,
+            809,
+            1965,
+            897
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            916,
+            2124,
+            1006
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            890,
+            917,
+            1017,
+            1006
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Hayer  Kothari and Gola",
+        "Coordinate": [
+            939,
+            1001,
+            2294,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Balan Ltd",
+        "Coordinate": [
+            943,
+            1123,
+            1859,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 11, Ram Marg, Eluru-252145",
+        "Coordinate": [
+            861,
+            1258,
+            2170,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Lad Street, Kollam-515718",
+        "Coordinate": [
+            867,
+            1490,
+            2258,
+            1630
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9953678361",
+        "Coordinate": [
+            1835,
+            1770,
+            2273,
+            1876
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8913300872",
+        "Coordinate": [
+            876,
+            1772,
+            1335,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Telugu, Hindi",
+        "Coordinate": [
+            870,
+            1912,
+            2066,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anmol Bhat - 7699402446",
+        "Coordinate": [
+            927,
+            2019,
+            1939,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kashvi Chandran - 9060101327",
+        "Coordinate": [
+            957,
+            2144,
+            2088,
+            2257
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BFSWB1214P",
+        "Coordinate": [
+            1611,
+            2358,
+            2103,
+            2456
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            579,
+            2445,
+            880,
+            2528
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/13/2022",
+        "Coordinate": [
+            571,
+            2533,
+            940,
+            2624
+        ]
+    }
+]

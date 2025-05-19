@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagrati Sarna",
+        "Coordinate": [
+            875,
+            441,
+            1342,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathan Sarna",
+        "Coordinate": [
+            884,
+            543,
+            1376,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-02-1995",
+        "Coordinate": [
+            873,
+            642,
+            1181,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            879,
+            742,
+            1183,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            842,
+            1099,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            833,
+            2002,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            941,
+            2100,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            879,
+            952,
+            971,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Ratti PLC",
+        "Coordinate": [
+            966,
+            1040,
+            1658,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Pillay Inc",
+        "Coordinate": [
+            963,
+            1155,
+            1732,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/02, Deol Ganj, Sri Ganganagar 935803",
+        "Coordinate": [
+            879,
+            1291,
+            2288,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "80/50, Mutti Chowk, Mehsana 973544",
+        "Coordinate": [
+            883,
+            1534,
+            2215,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8828046485",
+        "Coordinate": [
+            1861,
+            1811,
+            2314,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7729212858",
+        "Coordinate": [
+            881,
+            1812,
+            1354,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada",
+        "Coordinate": [
+            875,
+            1951,
+            1411,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishita Golla - 7537231833",
+        "Coordinate": [
+            954,
+            2064,
+            1891,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urvashi Tailor - 8245070303",
+        "Coordinate": [
+            939,
+            2193,
+            1988,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "784000000000.0",
+        "Coordinate": [
+            575,
+            2397,
+            1249,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            579,
+            2487,
+            919,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-07-2022",
+        "Coordinate": [
+            576,
+            2582,
+            994,
+            2672
+        ]
+    }
+]

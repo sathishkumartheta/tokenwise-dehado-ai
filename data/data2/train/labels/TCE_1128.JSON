@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvashi Luthra",
+        "Coordinate": [
+            915,
+            476,
+            1470,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Indrajit Luthra",
+        "Coordinate": [
+            913,
+            585,
+            1516,
+            695
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/12/1969",
+        "Coordinate": [
+            917,
+            695,
+            1276,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            917,
+            772,
+            1108,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            864,
+            1239,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1758,
+            853,
+            2018,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            963,
+            2124,
+            1048
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            927,
+            971,
+            1054,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bedi  Ben and Ratta",
+        "Coordinate": [
+            1006,
+            1057,
+            2203,
+            1182
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Agrawal  Koshy and Agate",
+        "Coordinate": [
+            1004,
+            1183,
+            2300,
+            1319
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "667, Tripathi Path, Amaravati-715733",
+        "Coordinate": [
+            929,
+            1311,
+            2083,
+            1499
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "837, Barad, Shahjahanpur-056947",
+        "Coordinate": [
+            925,
+            1524,
+            1963,
+            1751
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7665079131",
+        "Coordinate": [
+            905,
+            1804,
+            1316,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8451721845",
+        "Coordinate": [
+            1839,
+            1790,
+            2263,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Bengali",
+        "Coordinate": [
+            936,
+            1918,
+            1873,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Henry Ganguly - 8109517750",
+        "Coordinate": [
+            962,
+            2044,
+            2133,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagdish Dube - 8076927294",
+        "Coordinate": [
+            988,
+            2194,
+            2119,
+            2294
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            626,
+            2430,
+            1064,
+            2549
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/24/2022",
+        "Coordinate": [
+            622,
+            2540,
+            1097,
+            2637
+        ]
+    }
+]

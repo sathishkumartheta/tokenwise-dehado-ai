@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayita Bakshi",
+        "Coordinate": [
+            914,
+            384,
+            1550,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laksh Bakshi",
+        "Coordinate": [
+            949,
+            484,
+            1617,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/1975",
+        "Coordinate": [
+            969,
+            586,
+            1513,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            973,
+            682,
+            1678,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            936,
+            785,
+            1325,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1817,
+            775,
+            2143,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            886,
+            2226,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            973,
+            890,
+            1142,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dewan Ltd",
+        "Coordinate": [
+            1065,
+            987,
+            2008,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chahal PLC",
+        "Coordinate": [
+            1062,
+            1096,
+            2184,
+            1201
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 133, Bala Circle, Bongaigaon-379402",
+        "Coordinate": [
+            919,
+            1238,
+            2293,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 23, Chaudry Path, Nadiad-559407",
+        "Coordinate": [
+            912,
+            1483,
+            2382,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9787612803",
+        "Coordinate": [
+            1750,
+            1795,
+            2313,
+            1883
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9351045691",
+        "Coordinate": [
+            919,
+            1758,
+            1389,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Telugu, Hindi",
+        "Coordinate": [
+            919,
+            1889,
+            2203,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kritika Brar - 7099406444",
+        "Coordinate": [
+            993,
+            1999,
+            2261,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Handa - 8634823848",
+        "Coordinate": [
+            1024,
+            2120,
+            2345,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "358000000000.0",
+        "Coordinate": [
+            627,
+            2332,
+            1284,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            630,
+            2427,
+            1048,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/17/2023",
+        "Coordinate": [
+            637,
+            2515,
+            1103,
+            2611
+        ]
+    }
+]

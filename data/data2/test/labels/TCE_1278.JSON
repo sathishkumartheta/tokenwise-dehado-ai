@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pahal Kaur",
+        "Coordinate": [
+            898,
+            471,
+            1310,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Viraj Kaur",
+        "Coordinate": [
+            905,
+            570,
+            1349,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/30/1980",
+        "Coordinate": [
+            920,
+            658,
+            1262,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            750,
+            1421,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            844,
+            1168,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            851,
+            2028,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            908,
+            948,
+            1090,
+            1021
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            948,
+            2079,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Goda and Sons",
+        "Coordinate": [
+            1000,
+            1045,
+            2089,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sundaram and Sons",
+        "Coordinate": [
+            986,
+            1147,
+            2226,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "80/56, Goel Nagar, Jalgaon 703213",
+        "Coordinate": [
+            910,
+            1314,
+            2259,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "00/68, Anne Road, Alwar-938555",
+        "Coordinate": [
+            901,
+            1501,
+            2197,
+            1628
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7342294431",
+        "Coordinate": [
+            898,
+            1773,
+            1343,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9154158334",
+        "Coordinate": [
+            1836,
+            1777,
+            2285,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati",
+        "Coordinate": [
+            906,
+            1905,
+            1600,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Reva Gulati - 9670643665",
+        "Coordinate": [
+            978,
+            2006,
+            2047,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhimanyu Barad - 7059716346",
+        "Coordinate": [
+            983,
+            2136,
+            2160,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            624,
+            2406,
+            922,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/18/2023",
+        "Coordinate": [
+            627,
+            2500,
+            1007,
+            2585
+        ]
+    }
+]

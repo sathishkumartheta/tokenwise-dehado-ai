@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krisha Bera",
+        "Coordinate": [
+            920,
+            480,
+            1479,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayush Bera",
+        "Coordinate": [
+            920,
+            571,
+            1319,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/10/1996",
+        "Coordinate": [
+            955,
+            671,
+            1323,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            965,
+            766,
+            1267,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            955,
+            861,
+            1323,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            841,
+            2063,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            945,
+            940,
+            1167,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            955,
+            2091,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Rege-Roy",
+        "Coordinate": [
+            1015,
+            1036,
+            1851,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Venkataraman-Brahmbhatt",
+        "Coordinate": [
+            1055,
+            1141,
+            2327,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "36/22, Khosla Ganj, Kharagpur 695494",
+        "Coordinate": [
+            910,
+            1301,
+            2279,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "92/054, Viswanathan Circle, Faridabad-325791",
+        "Coordinate": [
+            920,
+            1536,
+            2263,
+            1757
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8810291115",
+        "Coordinate": [
+            900,
+            1776,
+            1279,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7440548968",
+        "Coordinate": [
+            1855,
+            1760,
+            2287,
+            1881
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Bengali, Hindi",
+        "Coordinate": [
+            940,
+            1901,
+            1823,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qasim Bhandari - 8472279648",
+        "Coordinate": [
+            1030,
+            2001,
+            2147,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vansha Gandhi - 7874018077",
+        "Coordinate": [
+            1035,
+            2160,
+            2183,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            669,
+            2415,
+            1267,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/8/2022",
+        "Coordinate": [
+            640,
+            2516,
+            1027,
+            2601
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warda Sidhu",
+        "Coordinate": [
+            922,
+            512,
+            1372,
+            595
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naksh Sidhu",
+        "Coordinate": [
+            944,
+            612,
+            1384,
+            697
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/18/1987",
+        "Coordinate": [
+            936,
+            696,
+            1292,
+            785
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            964,
+            793,
+            1238,
+            864
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            894,
+            1206,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            877,
+            1988,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            965,
+            986,
+            1078,
+            1057
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            988,
+            2110,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Acharya  Saraf and Bains",
+        "Coordinate": [
+            1016,
+            1070,
+            2292,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at D\u2019Alia-Tiwari",
+        "Coordinate": [
+            1016,
+            1166,
+            2016,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 956, Chaudhry Marg, Miryalaguda-892107",
+        "Coordinate": [
+            920,
+            1282,
+            2300,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 35, Khanna Circle, Bhimavaram 533631",
+        "Coordinate": [
+            919,
+            1542,
+            2274,
+            1719
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9446393598",
+        "Coordinate": [
+            926,
+            1803,
+            1360,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9907568149",
+        "Coordinate": [
+            1856,
+            1798,
+            2268,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English",
+        "Coordinate": [
+            940,
+            1926,
+            1494,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krish Thaker - 7542086203",
+        "Coordinate": [
+            966,
+            2024,
+            1950,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Girindra Varty - 7391110607",
+        "Coordinate": [
+            998,
+            2162,
+            1964,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            630,
+            2424,
+            922,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/13/2023",
+        "Coordinate": [
+            642,
+            2524,
+            1058,
+            2589
+        ]
+    }
+]

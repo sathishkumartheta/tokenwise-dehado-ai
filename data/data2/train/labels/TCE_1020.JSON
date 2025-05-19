@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nakul Modi",
+        "Coordinate": [
+            920,
+            480,
+            1358,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jonathan Modi",
+        "Coordinate": [
+            910,
+            574,
+            1410,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/29/1995",
+        "Coordinate": [
+            904,
+            664,
+            1276,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            916,
+            744,
+            1396,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            874,
+            1236,
+            967
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1710,
+            852,
+            1906,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1770,
+            947,
+            2020,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            960,
+            952,
+            1114,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Contractor PLC",
+        "Coordinate": [
+            998,
+            1068,
+            2264,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kalla-Goel",
+        "Coordinate": [
+            970,
+            1174,
+            1840,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 58, Suri Circle, Parbhani 503151",
+        "Coordinate": [
+            924,
+            1296,
+            2148,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/086, Sahota Path, Muzaffarnagar-447713",
+        "Coordinate": [
+            926,
+            1552,
+            2324,
+            1699
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8979363003",
+        "Coordinate": [
+            908,
+            1782,
+            1306,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9767213061",
+        "Coordinate": [
+            1862,
+            1791,
+            2246,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            914,
+            1920,
+            1360,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gabriel Gandhi - 9454223165",
+        "Coordinate": [
+            1006,
+            2034,
+            2054,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "William Venkataraman - 8410972581",
+        "Coordinate": [
+            968,
+            2144,
+            2124,
+            2229
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            635,
+            2442,
+            1178,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/6/2023",
+        "Coordinate": [
+            630,
+            2530,
+            980,
+            2609
+        ]
+    }
+]

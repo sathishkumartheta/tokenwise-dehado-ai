@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurang Kannan",
+        "Coordinate": [
+            880,
+            476,
+            1650,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Kannan",
+        "Coordinate": [
+            910,
+            576,
+            1638,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1964",
+        "Coordinate": [
+            925,
+            676,
+            1418,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            925,
+            760,
+            1298,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            846,
+            1226,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            909,
+            955,
+            1134,
+            1051
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            851,
+            1934,
+            955
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            965,
+            2090,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Murty-Bail",
+        "Coordinate": [
+            1010,
+            1041,
+            2090,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Mody  Dash and Kar",
+        "Coordinate": [
+            970,
+            1156,
+            2270,
+            1287
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 81, Bandi Road, Bangalore-190504",
+        "Coordinate": [
+            909,
+            1276,
+            2258,
+            1499
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81/645, Banerjee Circle, Visakhapatnam 355197",
+        "Coordinate": [
+            890,
+            1541,
+            2018,
+            1763
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9286218814",
+        "Coordinate": [
+            890,
+            1780,
+            1346,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7569154256",
+        "Coordinate": [
+            1810,
+            1786,
+            2266,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Hindi, Malayalam",
+        "Coordinate": [
+            905,
+            1920,
+            2290,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mohini Gupta - 9335101325",
+        "Coordinate": [
+            969,
+            2026,
+            2214,
+            2143
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anjali Parikh - 7906253874",
+        "Coordinate": [
+            970,
+            2151,
+            2234,
+            2279
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            585,
+            2426,
+            1434,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/22/2025",
+        "Coordinate": [
+            645,
+            2526,
+            1242,
+            2623
+        ]
+    }
+]

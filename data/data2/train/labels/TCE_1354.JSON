@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "William Subramanian",
+        "Coordinate": [
+            890,
+            476,
+            1722,
+            580
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charan Subramanian",
+        "Coordinate": [
+            904,
+            586,
+            1861,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/16/1992",
+        "Coordinate": [
+            930,
+            681,
+            1366,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            925,
+            765,
+            1214,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            871,
+            1294,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            871,
+            1974,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            930,
+            2118,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            990,
+            940,
+            1214,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Bains  Zachariah and Kumar",
+        "Coordinate": [
+            965,
+            1036,
+            2310,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bumb  Nagar and Dutta",
+        "Coordinate": [
+            990,
+            1151,
+            2306,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11/527, Atwal Path, Kurnool-132040",
+        "Coordinate": [
+            900,
+            1270,
+            2302,
+            1424
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "236, Toor Street, Amaravati-991113",
+        "Coordinate": [
+            905,
+            1511,
+            2166,
+            1720
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9963138206",
+        "Coordinate": [
+            895,
+            1761,
+            1358,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7817334904",
+        "Coordinate": [
+            1805,
+            1771,
+            2278,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Tamil",
+        "Coordinate": [
+            910,
+            1925,
+            2058,
+            2020
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vaishnavi Karnik - 7432302355",
+        "Coordinate": [
+            975,
+            2016,
+            2294,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lila Chana - 7511282969",
+        "Coordinate": [
+            959,
+            2116,
+            2037,
+            2228
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            595,
+            2406,
+            1118,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/5/2022",
+        "Coordinate": [
+            625,
+            2486,
+            1166,
+            2584
+        ]
+    }
+]

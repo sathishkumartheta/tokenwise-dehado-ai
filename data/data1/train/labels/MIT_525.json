@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advay Kalita",
+        "Coordinate": [
+            906,
+            436,
+            1424,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Kalita",
+        "Coordinate": [
+            916,
+            536,
+            1459,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/31/1996",
+        "Coordinate": [
+            933,
+            640,
+            1292,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            952,
+            739,
+            1108,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            835,
+            1212,
+            923
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1850,
+            823,
+            2035,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1884,
+            939,
+            2111,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            954,
+            948,
+            1069,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kashyap  Aggarwal and Bala",
+        "Coordinate": [
+            996,
+            1040,
+            2439,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kannan-Sur",
+        "Coordinate": [
+            999,
+            1144,
+            2213,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "31/592, Comar Street, Karawal Nagar-659341",
+        "Coordinate": [
+            903,
+            1271,
+            2233,
+            1479
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 629, Bumb Zila, Tirunelveli 824718",
+        "Coordinate": [
+            1091,
+            1515,
+            2198,
+            1729
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7491088056",
+        "Coordinate": [
+            1909,
+            1788,
+            2325,
+            1892
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9527487552",
+        "Coordinate": [
+            939,
+            1797,
+            1371,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Tamil, Bengali",
+        "Coordinate": [
+            912,
+            1930,
+            2159,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anmol Chahal - 8327129661",
+        "Coordinate": [
+            975,
+            2044,
+            2102,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanya Rattan - 7496066362",
+        "Coordinate": [
+            1002,
+            2183,
+            2195,
+            2305
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BDTQA1363J",
+        "Coordinate": [
+            1685,
+            2377,
+            2197,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            643,
+            2474,
+            1021,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2025",
+        "Coordinate": [
+            690,
+            2565,
+            1171,
+            2657
+        ]
+    }
+]

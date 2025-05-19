@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anjali Dua",
+        "Coordinate": [
+            865,
+            424,
+            1343,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Champak Dua",
+        "Coordinate": [
+            871,
+            522,
+            1542,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-08-1989",
+        "Coordinate": [
+            886,
+            628,
+            1263,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            867,
+            730,
+            1243,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            834,
+            1297,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            827,
+            2096,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            936,
+            2170,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            900,
+            942,
+            1052,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mohan-Narula",
+        "Coordinate": [
+            948,
+            1038,
+            2204,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Subramanian Group",
+        "Coordinate": [
+            922,
+            1146,
+            2237,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "380, Palla Road, Farrukhabad 827725",
+        "Coordinate": [
+            884,
+            1279,
+            2366,
+            1526
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 959, Wali Street, Loni-358727",
+        "Coordinate": [
+            834,
+            1539,
+            2090,
+            1791
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8513607240",
+        "Coordinate": [
+            1722,
+            1860,
+            2287,
+            1954
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9108105345",
+        "Coordinate": [
+            873,
+            1807,
+            1360,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Malayalam",
+        "Coordinate": [
+            884,
+            1940,
+            2252,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranveer Kale - 7809289135",
+        "Coordinate": [
+            897,
+            2054,
+            2257,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urmi Babu - 9154175041",
+        "Coordinate": [
+            915,
+            2183,
+            2307,
+            2320
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "788000000000.0",
+        "Coordinate": [
+            590,
+            2381,
+            1261,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            581,
+            2472,
+            1120,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-10-2022",
+        "Coordinate": [
+            574,
+            2566,
+            1099,
+            2673
+        ]
+    }
+]

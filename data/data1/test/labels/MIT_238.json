@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashasvi Pradhan",
+        "Coordinate": [
+            890,
+            396,
+            1499,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Pradhan",
+        "Coordinate": [
+            902,
+            493,
+            1487,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/1982",
+        "Coordinate": [
+            925,
+            597,
+            1249,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            956,
+            690,
+            1222,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            993,
+            796,
+            1205,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1818,
+            787,
+            2054,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1870,
+            897,
+            2130,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            944,
+            885,
+            1055,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Patla  Choudhury and Gola",
+        "Coordinate": [
+            939,
+            982,
+            2334,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Wali-Rajagopal",
+        "Coordinate": [
+            951,
+            1106,
+            2012,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 594, Varma Ganj, Raebareli 740177",
+        "Coordinate": [
+            912,
+            1229,
+            2310,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "54/65, Bajwa Road, Mangalore 560754",
+        "Coordinate": [
+            893,
+            1485,
+            2291,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7881740719",
+        "Coordinate": [
+            1853,
+            1743,
+            2246,
+            1833
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7372413908",
+        "Coordinate": [
+            892,
+            1759,
+            1320,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Malayalam, English",
+        "Coordinate": [
+            847,
+            1888,
+            2153,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isaac Parikh - 7194397176",
+        "Coordinate": [
+            944,
+            2002,
+            1964,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Kothari - 7470316582",
+        "Coordinate": [
+            947,
+            2128,
+            2019,
+            2239
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "269000000000.0",
+        "Coordinate": [
+            601,
+            2330,
+            1105,
+            2412
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HGIYP8616C",
+        "Coordinate": [
+            1626,
+            2332,
+            2085,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            610,
+            2427,
+            845,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/31/2022",
+        "Coordinate": [
+            604,
+            2514,
+            951,
+            2597
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Atharv Parmer",
+        "Coordinate": [
+            901,
+            485,
+            1437,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Parmer",
+        "Coordinate": [
+            887,
+            580,
+            1442,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/2001",
+        "Coordinate": [
+            932,
+            644,
+            1321,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            760,
+            1313,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            865,
+            1181,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            892,
+            965,
+            1109,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1756,
+            854,
+            1979,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1771,
+            962,
+            2035,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Nagi-Dave",
+        "Coordinate": [
+            971,
+            1038,
+            1895,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Jha-Koshy",
+        "Coordinate": [
+            988,
+            1147,
+            1967,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "598, Dewan Street, Kottayam 016244",
+        "Coordinate": [
+            901,
+            1279,
+            2291,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 696, Kale Zila, Kanpur 408497",
+        "Coordinate": [
+            893,
+            1509,
+            2276,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9372296384",
+        "Coordinate": [
+            872,
+            1769,
+            1349,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8881814204",
+        "Coordinate": [
+            1836,
+            1769,
+            2241,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Tamil, Telugu",
+        "Coordinate": [
+            887,
+            1910,
+            2078,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Umang Dara - 8089138616",
+        "Coordinate": [
+            964,
+            2021,
+            2056,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitanya Dewan - 7835954983",
+        "Coordinate": [
+            956,
+            2137,
+            2216,
+            2273
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            597,
+            2408,
+            1001,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/7/2025",
+        "Coordinate": [
+            595,
+            2509,
+            1029,
+            2605
+        ]
+    }
+]

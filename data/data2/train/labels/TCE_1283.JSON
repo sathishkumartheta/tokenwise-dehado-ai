@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Megha Som",
+        "Coordinate": [
+            902,
+            466,
+            1346,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Som",
+        "Coordinate": [
+            902,
+            559,
+            1379,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/25/1982",
+        "Coordinate": [
+            930,
+            664,
+            1343,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            934,
+            759,
+            1289,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            978,
+            846,
+            1291,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1822,
+            846,
+            2128,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            930,
+            951,
+            1040,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            936,
+            2086,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Saraf  Mitra and Shenoy",
+        "Coordinate": [
+            1040,
+            1038,
+            2299,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Char  Sule and Dhingra",
+        "Coordinate": [
+            1027,
+            1147,
+            2278,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98, Murthy Zila, Rajahmundry 533843",
+        "Coordinate": [
+            917,
+            1265,
+            2287,
+            1388
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97, Uppal Circle, Bhagalpur 020852",
+        "Coordinate": [
+            907,
+            1523,
+            2215,
+            1643
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9595883839",
+        "Coordinate": [
+            926,
+            1782,
+            1346,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8284883282",
+        "Coordinate": [
+            1865,
+            1761,
+            2255,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu",
+        "Coordinate": [
+            930,
+            1900,
+            1521,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janani Ratta - 8627956475",
+        "Coordinate": [
+            1006,
+            2012,
+            2054,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hamsini Viswanathan - 8367719207",
+        "Coordinate": [
+            1033,
+            2128,
+            2286,
+            2244
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            645,
+            2413,
+            896,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/21/2023",
+        "Coordinate": [
+            632,
+            2504,
+            1075,
+            2584
+        ]
+    }
+]

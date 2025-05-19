@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harsh Badami",
+        "Coordinate": [
+            882,
+            435,
+            1543,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ikbal Badami",
+        "Coordinate": [
+            877,
+            521,
+            1590,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/31/1967",
+        "Coordinate": [
+            893,
+            638,
+            1324,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            735,
+            1268,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            821,
+            1249,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            899,
+            941,
+            1060,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1835,
+            827,
+            2085,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            941,
+            2176,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Viswanathan-Ghosh",
+        "Coordinate": [
+            952,
+            1041,
+            2332,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Saxena  Modi and Raj",
+        "Coordinate": [
+            955,
+            1149,
+            2343,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "356, D\u2019Alia Zila, Ahmedabad-806958",
+        "Coordinate": [
+            893,
+            1285,
+            2276,
+            1513
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "18/531, Chandra Zila, Ambala-779036",
+        "Coordinate": [
+            882,
+            1532,
+            2309,
+            1776
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8316774893",
+        "Coordinate": [
+            893,
+            1804,
+            1354,
+            1951
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9027529736",
+        "Coordinate": [
+            1599,
+            1862,
+            2204,
+            1954
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada",
+        "Coordinate": [
+            952,
+            1960,
+            1743,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lekha Ramaswamy - 9103199368",
+        "Coordinate": [
+            977,
+            2068,
+            2354,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manya Modi - 7210919285",
+        "Coordinate": [
+            968,
+            2196,
+            2284,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "253505000000",
+        "Coordinate": [
+            580,
+            2398,
+            1249,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            580,
+            2470,
+            902,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2024",
+        "Coordinate": [
+            588,
+            2570,
+            1063,
+            2673
+        ]
+    }
+]

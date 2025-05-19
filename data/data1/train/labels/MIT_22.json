@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chavvi Pillai",
+        "Coordinate": [
+            871,
+            391,
+            1289,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Praneel Pillai",
+        "Coordinate": [
+            885,
+            489,
+            1330,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-11-1963",
+        "Coordinate": [
+            902,
+            593,
+            1198,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            929,
+            687,
+            1235,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            939,
+            789,
+            1204,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1826,
+            781,
+            2050,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            887,
+            2103,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            944,
+            896,
+            1067,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Majumdar-Gupta",
+        "Coordinate": [
+            970,
+            980,
+            1993,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sha Inc",
+        "Coordinate": [
+            977,
+            1099,
+            1772,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 532, Jha, Begusarai-933529",
+        "Coordinate": [
+            875,
+            1259,
+            1902,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "284, Choudhary Street, Mira-Bhayandar 539502",
+        "Coordinate": [
+            906,
+            1503,
+            2251,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7211810851",
+        "Coordinate": [
+            1859,
+            1750,
+            2221,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7139855700",
+        "Coordinate": [
+            894,
+            1765,
+            1259,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Kannada, Hindi",
+        "Coordinate": [
+            893,
+            1892,
+            1916,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charles Date - 7641129293",
+        "Coordinate": [
+            968,
+            2004,
+            1879,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishaan Bhatt - 9580560594",
+        "Coordinate": [
+            957,
+            2129,
+            1951,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "370000000000.0",
+        "Coordinate": [
+            626,
+            2330,
+            1075,
+            2414
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KWDDF7705I",
+        "Coordinate": [
+            1652,
+            2332,
+            2083,
+            2420
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            644,
+            2422,
+            887,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/21/2022",
+        "Coordinate": [
+            653,
+            2515,
+            1034,
+            2601
+        ]
+    }
+]

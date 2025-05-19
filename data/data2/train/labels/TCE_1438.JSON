@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girish Kibe",
+        "Coordinate": [
+            900,
+            484,
+            1324,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Parth Kibe",
+        "Coordinate": [
+            886,
+            579,
+            1348,
+            664
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/22/2005",
+        "Coordinate": [
+            935,
+            642,
+            1324,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            891,
+            758,
+            1311,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            863,
+            1179,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            891,
+            962,
+            1107,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1790,
+            844,
+            2013,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            963,
+            2097,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Vala-Mishra",
+        "Coordinate": [
+            970,
+            1035,
+            1837,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Shah Inc",
+        "Coordinate": [
+            987,
+            1144,
+            1789,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03/36, Jayaraman Zila, Rajpur Sonarpur 506050",
+        "Coordinate": [
+            900,
+            1276,
+            2045,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "51/163, Mani Chowk, Hospet-625303",
+        "Coordinate": [
+            892,
+            1505,
+            2206,
+            1630
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8102356702",
+        "Coordinate": [
+            871,
+            1764,
+            1348,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7691366446",
+        "Coordinate": [
+            1870,
+            1764,
+            2274,
+            1856
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Kannada",
+        "Coordinate": [
+            886,
+            1905,
+            1783,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jeremiah Sant - 8974255987",
+        "Coordinate": [
+            1007,
+            1996,
+            2010,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Om Sastry - 9776506977",
+        "Coordinate": [
+            979,
+            2131,
+            1914,
+            2227
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            645,
+            2426,
+            1303,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/3/2023",
+        "Coordinate": [
+            630,
+            2503,
+            1063,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gautam Kalita",
+        "Coordinate": [
+            944,
+            455,
+            1661,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Kalita",
+        "Coordinate": [
+            969,
+            552,
+            1560,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-05-1959",
+        "Coordinate": [
+            974,
+            649,
+            1441,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            982,
+            740,
+            1198,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            961,
+            849,
+            1380,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1820,
+            845,
+            2052,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1919,
+            955,
+            2233,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            965,
+            954,
+            1078,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Prabhu  Buch and Choudhary",
+        "Coordinate": [
+            1027,
+            1046,
+            2492,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Buch  Lanka and Modi",
+        "Coordinate": [
+            994,
+            1159,
+            2367,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 69, Dhar Chowk, Hapur 619276",
+        "Coordinate": [
+            958,
+            1284,
+            2315,
+            1484
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "771, Tella Circle, Ajmer-395612",
+        "Coordinate": [
+            957,
+            1535,
+            2393,
+            1663
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7132165634",
+        "Coordinate": [
+            1918,
+            1803,
+            2399,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7190825156",
+        "Coordinate": [
+            928,
+            1808,
+            1428,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English",
+        "Coordinate": [
+            946,
+            1948,
+            1643,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshmi Sastry - 7806496893",
+        "Coordinate": [
+            1009,
+            2052,
+            2350,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aryan Pradhan - 9468155629",
+        "Coordinate": [
+            1019,
+            2182,
+            2376,
+            2298
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "264000000000.0",
+        "Coordinate": [
+            633,
+            2396,
+            1271,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            675,
+            2483,
+            944,
+            2571
+        ]
+    }
+]

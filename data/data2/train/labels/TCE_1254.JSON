@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ronith Kohli",
+        "Coordinate": [
+            926,
+            470,
+            1397,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanay Kohli",
+        "Coordinate": [
+            926,
+            557,
+            1401,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/7/2004",
+        "Coordinate": [
+            966,
+            660,
+            1397,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            957,
+            746,
+            1300,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            963,
+            842,
+            1193,
+            954
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1734,
+            836,
+            1981,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            966,
+            941,
+            1137,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            934,
+            2066,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhagat  Datta and Raju",
+        "Coordinate": [
+            990,
+            1027,
+            2234,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Vaidya  Sha and Dada",
+        "Coordinate": [
+            986,
+            1139,
+            2223,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "40/53, Wali Zila, Bathinda-228876",
+        "Coordinate": [
+            957,
+            1271,
+            2277,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "746, Anne Nagar, Durg 058828",
+        "Coordinate": [
+            943,
+            1525,
+            2156,
+            1691
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7944426924",
+        "Coordinate": [
+            943,
+            1789,
+            1374,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8113459533",
+        "Coordinate": [
+            1826,
+            1769,
+            2257,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Telugu, English",
+        "Coordinate": [
+            939,
+            1906,
+            1864,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayaan Keer - 9757661086",
+        "Coordinate": [
+            995,
+            1992,
+            1933,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurang Sood - 8604915139",
+        "Coordinate": [
+            1011,
+            2122,
+            2072,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            685,
+            2416,
+            1073,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/21/2022",
+        "Coordinate": [
+            717,
+            2492,
+            1172,
+            2591
+        ]
+    }
+]

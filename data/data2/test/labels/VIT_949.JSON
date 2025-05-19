@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashasvi Srinivasan",
+        "Coordinate": [
+            894,
+            430,
+            1776,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekalinga Srinivasan",
+        "Coordinate": [
+            910,
+            538,
+            1706,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/26/1967",
+        "Coordinate": [
+            894,
+            630,
+            1352,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            914,
+            726,
+            1448,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            830,
+            1316,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            922,
+            928,
+            1122,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Devi Inc",
+        "Coordinate": [
+            986,
+            1038,
+            2184,
+            1144
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            812,
+            2186,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1872,
+            938,
+            2228,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Vaidya and Sons",
+        "Coordinate": [
+            968,
+            1156,
+            2272,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 505, Palla, Unnao-168068",
+        "Coordinate": [
+            904,
+            1272,
+            2330,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 400, Madan Path, Saharsa 131433",
+        "Coordinate": [
+            886,
+            1526,
+            1996,
+            1754
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8226274368",
+        "Coordinate": [
+            1840,
+            1802,
+            2318,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, Telugu",
+        "Coordinate": [
+            926,
+            1944,
+            2348,
+            2050
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8989048358",
+        "Coordinate": [
+            894,
+            1795,
+            1366,
+            1919
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aadi Parmar - 7684946817",
+        "Coordinate": [
+            961,
+            2052,
+            2362,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adweta Hayre - 8243601399",
+        "Coordinate": [
+            954,
+            2188,
+            2316,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "730009000000",
+        "Coordinate": [
+            600,
+            2394,
+            1296,
+            2468
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            638,
+            2476,
+            1324,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/14/2025",
+        "Coordinate": [
+            636,
+            2578,
+            1280,
+            2692
+        ]
+    }
+]

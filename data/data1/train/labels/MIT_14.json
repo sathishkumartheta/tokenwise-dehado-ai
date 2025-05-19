@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oni Pandey",
+        "Coordinate": [
+            929,
+            436,
+            1421,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Utkarsh Pandey",
+        "Coordinate": [
+            947,
+            548,
+            1612,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-04-1977",
+        "Coordinate": [
+            956,
+            644,
+            1328,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            953,
+            738,
+            1362,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            943,
+            844,
+            1271,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            838,
+            2088,
+            948
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            953,
+            2194,
+            1051
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            960,
+            946,
+            1095,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Krishnamurthy-Kashyap",
+        "Coordinate": [
+            1003,
+            1046,
+            2376,
+            1168
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Hans LLC",
+        "Coordinate": [
+            1039,
+            1163,
+            1899,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "374, Vohra, Salem 435240",
+        "Coordinate": [
+            930,
+            1311,
+            2019,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 084, Swaminathan Street, Ahmedabad-777520",
+        "Coordinate": [
+            915,
+            1541,
+            2021,
+            1773
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9571203910",
+        "Coordinate": [
+            1890,
+            1809,
+            2310,
+            1939
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9003953334",
+        "Coordinate": [
+            900,
+            1803,
+            1354,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Tamil, Marathi",
+        "Coordinate": [
+            960,
+            1943,
+            2286,
+            2060
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vanya Comar - 8081563258",
+        "Coordinate": [
+            987,
+            2064,
+            2049,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nandini Swamy - 8816818481",
+        "Coordinate": [
+            995,
+            2191,
+            2113,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "910000000000.0",
+        "Coordinate": [
+            612,
+            2374,
+            1162,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            626,
+            2462,
+            917,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/27/2024",
+        "Coordinate": [
+            627,
+            2560,
+            1095,
+            2664
+        ]
+    }
+]

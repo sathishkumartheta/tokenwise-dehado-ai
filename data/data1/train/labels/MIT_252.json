@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Tripathi",
+        "Coordinate": [
+            878,
+            388,
+            1409,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranit Tripathi",
+        "Coordinate": [
+            892,
+            487,
+            1360,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-07-1991",
+        "Coordinate": [
+            901,
+            592,
+            1192,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            693,
+            1140,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            790,
+            1139,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            778,
+            1965,
+            851
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            886,
+            2064,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            908,
+            890,
+            1000,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Trivedi-Choudhury",
+        "Coordinate": [
+            953,
+            976,
+            1893,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Babu-Amble",
+        "Coordinate": [
+            948,
+            1092,
+            1828,
+            1192
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15, Mukherjee Path, Raebareli-316704",
+        "Coordinate": [
+            881,
+            1216,
+            2173,
+            1337
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "329, Dave Nagar, Kolhapur 009345",
+        "Coordinate": [
+            881,
+            1470,
+            2060,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8044116716",
+        "Coordinate": [
+            1870,
+            1741,
+            2242,
+            1827
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7505993726",
+        "Coordinate": [
+            874,
+            1750,
+            1883,
+            1982
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nakul Saini - 9613627491",
+        "Coordinate": [
+            929,
+            1986,
+            1789,
+            2079
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Owen Venkataraman - 8703918445",
+        "Coordinate": [
+            940,
+            2116,
+            2068,
+            2215
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "327000000000.0",
+        "Coordinate": [
+            582,
+            2329,
+            961,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            609,
+            2419,
+            820,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/27/2024",
+        "Coordinate": [
+            606,
+            2515,
+            982,
+            2593
+        ]
+    }
+]

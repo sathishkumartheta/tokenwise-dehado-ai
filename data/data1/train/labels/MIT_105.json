@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vincent Seth",
+        "Coordinate": [
+            905,
+            436,
+            1504,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Seth",
+        "Coordinate": [
+            880,
+            537,
+            1558,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/23/1993",
+        "Coordinate": [
+            903,
+            638,
+            1308,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            883,
+            744,
+            1306,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            844,
+            1297,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1867,
+            835,
+            2164,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            940,
+            2235,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            917,
+            948,
+            1053,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Gole PLC",
+        "Coordinate": [
+            973,
+            1039,
+            1959,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Deshmukh  Ramaswamy and Sachdev",
+        "Coordinate": [
+            965,
+            1146,
+            2464,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 279, Sha Ganj, Chandrapur 211175",
+        "Coordinate": [
+            914,
+            1270,
+            2404,
+            1506
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89/268, Bassi Marg, Thanjavur 222064",
+        "Coordinate": [
+            919,
+            1531,
+            2253,
+            1749
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9443675929",
+        "Coordinate": [
+            1856,
+            1801,
+            2346,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8712655760",
+        "Coordinate": [
+            902,
+            1805,
+            1341,
+            1947
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Bengali, Malayalam",
+        "Coordinate": [
+            893,
+            1940,
+            2338,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanaya Mani - 9518285276",
+        "Coordinate": [
+            965,
+            2050,
+            2114,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jacob Deep - 9951483066",
+        "Coordinate": [
+            974,
+            2184,
+            2082,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "245000000000.0",
+        "Coordinate": [
+            572,
+            2386,
+            1120,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            571,
+            2477,
+            991,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-08-2022",
+        "Coordinate": [
+            582,
+            2574,
+            1112,
+            2675
+        ]
+    }
+]

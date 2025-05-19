@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eshana Bakshi",
+        "Coordinate": [
+            882,
+            397,
+            1410,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Bakshi",
+        "Coordinate": [
+            886,
+            495,
+            1347,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/17/2000",
+        "Coordinate": [
+            897,
+            599,
+            1191,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            909,
+            694,
+            1048,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            797,
+            1169,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1799,
+            788,
+            2045,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            897,
+            2078,
+            991
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            975,
+            901,
+            1088,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Nayak-Reddy",
+        "Coordinate": [
+            1002,
+            984,
+            1873,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Prasad  Singhal and Menon",
+        "Coordinate": [
+            996,
+            1108,
+            2231,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 04, Bal Street, Narasaraopet 588953",
+        "Coordinate": [
+            874,
+            1247,
+            2301,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26/113, Thakur, Siwan-809788",
+        "Coordinate": [
+            891,
+            1485,
+            1991,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8599762600",
+        "Coordinate": [
+            1845,
+            1755,
+            2304,
+            1877
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8911867745",
+        "Coordinate": [
+            888,
+            1768,
+            1318,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, English",
+        "Coordinate": [
+            876,
+            1897,
+            1662,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Edhitha Luthra - 8821803219",
+        "Coordinate": [
+            952,
+            2009,
+            2029,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaaya Kohli - 7030501255",
+        "Coordinate": [
+            954,
+            2138,
+            2060,
+            2267
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "486000000000.0",
+        "Coordinate": [
+            594,
+            2339,
+            1174,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            623,
+            2426,
+            895,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/29/2022",
+        "Coordinate": [
+            611,
+            2522,
+            1015,
+            2619
+        ]
+    }
+]

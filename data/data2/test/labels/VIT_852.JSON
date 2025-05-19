@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amara Varkey",
+        "Coordinate": [
+            918,
+            427,
+            1390,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advaith Varkey",
+        "Coordinate": [
+            911,
+            512,
+            1421,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/11/1987",
+        "Coordinate": [
+            923,
+            607,
+            1245,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            925,
+            695,
+            1200,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            792,
+            1127,
+            868
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1677,
+            780,
+            1922,
+            837
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            918,
+            878,
+            1070,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1756,
+            875,
+            1986,
+            944
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kalita  Bobal and Khatri",
+        "Coordinate": [
+            987,
+            965,
+            2133,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Narasimhan  Master and Khare",
+        "Coordinate": [
+            1013,
+            1072,
+            2264,
+            1146
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45/90, Kadakia Chowk, Bhatpara 111264",
+        "Coordinate": [
+            932,
+            1226,
+            2197,
+            1317
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81/544, Tiwari Chowk, Madhyamgram-070507",
+        "Coordinate": [
+            923,
+            1438,
+            2344,
+            1544
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8445983337",
+        "Coordinate": [
+            930,
+            1684,
+            1336,
+            1756
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8596683861",
+        "Coordinate": [
+            1820,
+            1666,
+            2249,
+            1734
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, English, Malayalam",
+        "Coordinate": [
+            927,
+            1801,
+            2081,
+            1881
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kamala Bahri - 7273163151",
+        "Coordinate": [
+            989,
+            1900,
+            1886,
+            1974
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kalpit Rajan - 8893377214",
+        "Coordinate": [
+            1003,
+            2005,
+            1860,
+            2097
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "210908000000",
+        "Coordinate": [
+            647,
+            2209,
+            1120,
+            2280
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            647,
+            2283,
+            1305,
+            2368
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/17/2024",
+        "Coordinate": [
+            655,
+            2377,
+            1013,
+            2449
+        ]
+    }
+]

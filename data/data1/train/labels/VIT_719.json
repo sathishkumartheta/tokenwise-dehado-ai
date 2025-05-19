@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Madhavi Boase",
+        "Coordinate": [
+            888,
+            422,
+            1314,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lucky Boase",
+        "Coordinate": [
+            895,
+            525,
+            1264,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-12-1969",
+        "Coordinate": [
+            908,
+            631,
+            1231,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            914,
+            727,
+            1061,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            833,
+            1136,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            820,
+            2005,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            931,
+            2035,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            918,
+            935,
+            1014,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Mohanty-Kala",
+        "Coordinate": [
+            991,
+            1029,
+            1779,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Goyal PLC",
+        "Coordinate": [
+            997,
+            1142,
+            1660,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "13/72, Dhar Street, Pune-524392",
+        "Coordinate": [
+            886,
+            1262,
+            2083,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 149, Deol Marg, Indore-695390",
+        "Coordinate": [
+            879,
+            1514,
+            2171,
+            1671
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7703060962",
+        "Coordinate": [
+            1872,
+            1792,
+            2219,
+            1884
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9730030990",
+        "Coordinate": [
+            892,
+            1801,
+            1243,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Bengali, English",
+        "Coordinate": [
+            895,
+            1937,
+            1863,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Simon Menon - 8749218057",
+        "Coordinate": [
+            967,
+            2049,
+            1864,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Neha Shankar - 8363831322",
+        "Coordinate": [
+            987,
+            2182,
+            1951,
+            2301
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            580,
+            2468,
+            1097,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2024",
+        "Coordinate": [
+            596,
+            2563,
+            971,
+            2656
+        ]
+    }
+]

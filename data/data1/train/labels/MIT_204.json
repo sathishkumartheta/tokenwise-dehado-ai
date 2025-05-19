@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Garde",
+        "Coordinate": [
+            884,
+            387,
+            1406,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekapad Garde",
+        "Coordinate": [
+            901,
+            486,
+            1419,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-10-1999",
+        "Coordinate": [
+            924,
+            587,
+            1297,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            913,
+            683,
+            1436,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            786,
+            1183,
+            884
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            917,
+            890,
+            1030,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Dar-Date",
+        "Coordinate": [
+            955,
+            983,
+            1735,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Divan-Sachdev",
+        "Coordinate": [
+            958,
+            1093,
+            1939,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83/97, Mand Chowk, Karawal Nagar-144158",
+        "Coordinate": [
+            902,
+            1221,
+            2342,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "11/703, Kalita Nagar, Kharagpur-715398",
+        "Coordinate": [
+            879,
+            1469,
+            2285,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9011165401",
+        "Coordinate": [
+            1844,
+            1743,
+            2243,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8681025533",
+        "Coordinate": [
+            891,
+            1750,
+            1307,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Hindi",
+        "Coordinate": [
+            910,
+            1882,
+            1756,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Devika Setty - 8280965051",
+        "Coordinate": [
+            942,
+            2000,
+            1895,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yamini Cherian - 7124308277",
+        "Coordinate": [
+            948,
+            2122,
+            2013,
+            2238
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TCTTP4237D",
+        "Coordinate": [
+            1607,
+            2325,
+            2095,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            608,
+            2412,
+            1393,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/19/2025",
+        "Coordinate": [
+            615,
+            2508,
+            1046,
+            2607
+        ]
+    }
+]

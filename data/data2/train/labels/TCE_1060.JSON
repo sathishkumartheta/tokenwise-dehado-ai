@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rehaan Reddy",
+        "Coordinate": [
+            948,
+            468,
+            1524,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Reddy",
+        "Coordinate": [
+            972,
+            586,
+            1516,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/28/1966",
+        "Coordinate": [
+            958,
+            680,
+            1386,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            980,
+            764,
+            1186,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            860,
+            1304,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            843,
+            2062,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            954,
+            2118,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            974,
+            964,
+            1216,
+            1065
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Kumer-Lad",
+        "Coordinate": [
+            974,
+            1074,
+            1918,
+            1171
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Puri  Nigam and Sharaf",
+        "Coordinate": [
+            1054,
+            1190,
+            2336,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 620, Wable Marg, Tirupati 991987",
+        "Coordinate": [
+            928,
+            1282,
+            2240,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "981, Joshi Zila, Kolkata-339141",
+        "Coordinate": [
+            920,
+            1524,
+            2134,
+            1671
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7501011321",
+        "Coordinate": [
+            962,
+            1796,
+            1382,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8478702243",
+        "Coordinate": [
+            1664,
+            1811,
+            2196,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Kannada",
+        "Coordinate": [
+            916,
+            1915,
+            1784,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faqid Sarma - 8294194054",
+        "Coordinate": [
+            992,
+            2018,
+            2206,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zaid Hayer - 8138750792",
+        "Coordinate": [
+            1042,
+            2162,
+            2238,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            660,
+            2440,
+            1406,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/25/2022",
+        "Coordinate": [
+            702,
+            2510,
+            1190,
+            2609
+        ]
+    }
+]

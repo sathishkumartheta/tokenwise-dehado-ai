@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oscar Ghosh",
+        "Coordinate": [
+            873,
+            430,
+            1386,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wahab Ghosh",
+        "Coordinate": [
+            879,
+            531,
+            1487,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/1997",
+        "Coordinate": [
+            887,
+            636,
+            1294,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            885,
+            732,
+            1227,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            835,
+            1232,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            833,
+            1979,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1758,
+            935,
+            2053,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            873,
+            944,
+            989,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kapadia  Natt and Shan",
+        "Coordinate": [
+            948,
+            1042,
+            2370,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Kothari PLC",
+        "Coordinate": [
+            966,
+            1148,
+            2013,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "073, Oak Road, Dhule 236412",
+        "Coordinate": [
+            877,
+            1287,
+            2201,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40, Yohannan, Jhansi-203350",
+        "Coordinate": [
+            873,
+            1562,
+            2190,
+            1725
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9353611354",
+        "Coordinate": [
+            1867,
+            1805,
+            2331,
+            1930
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7386233183",
+        "Coordinate": [
+            888,
+            1812,
+            1342,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, English, Gujarati",
+        "Coordinate": [
+            874,
+            1947,
+            2094,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Elijah Ratta - 7613086588",
+        "Coordinate": [
+            942,
+            2056,
+            2047,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeremiah Kothari - 7324526400",
+        "Coordinate": [
+            941,
+            2184,
+            2272,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "220000000000.0",
+        "Coordinate": [
+            594,
+            2393,
+            1130,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            575,
+            2481,
+            946,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2024",
+        "Coordinate": [
+            580,
+            2576,
+            996,
+            2670
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gopal Mangat",
+        "Coordinate": [
+            911,
+            428,
+            1594,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lakshit Mangat",
+        "Coordinate": [
+            876,
+            528,
+            1680,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/18/1995",
+        "Coordinate": [
+            876,
+            633,
+            1381,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            871,
+            727,
+            1542,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            913,
+            829,
+            1235,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            817,
+            2043,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            932,
+            2168,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sastry-Dalal",
+        "Coordinate": [
+            994,
+            1035,
+            2031,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dixit-Dugar",
+        "Coordinate": [
+            993,
+            1149,
+            2023,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 988, Jhaveri Zila, Jamalpur 424932",
+        "Coordinate": [
+            899,
+            1272,
+            2307,
+            1493
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/70, Balakrishnan Street, Dhanbad 601662",
+        "Coordinate": [
+            896,
+            1538,
+            2328,
+            1787
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7670561267",
+        "Coordinate": [
+            1840,
+            1812,
+            2297,
+            1944
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8044636065",
+        "Coordinate": [
+            886,
+            1801,
+            1350,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu",
+        "Coordinate": [
+            919,
+            1940,
+            1561,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishani Muni - 7553554078",
+        "Coordinate": [
+            973,
+            2039,
+            2266,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rudra Walla - 9084396566",
+        "Coordinate": [
+            975,
+            2182,
+            2362,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "864000000000.0",
+        "Coordinate": [
+            586,
+            2378,
+            1227,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            592,
+            2477,
+            893,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-03-2025",
+        "Coordinate": [
+            603,
+            2571,
+            1117,
+            2682
+        ]
+    }
+]

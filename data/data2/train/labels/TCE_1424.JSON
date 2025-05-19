@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Owen Thaker",
+        "Coordinate": [
+            901,
+            485,
+            1450,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Thaker",
+        "Coordinate": [
+            887,
+            580,
+            1530,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/20/1977",
+        "Coordinate": [
+            936,
+            644,
+            1325,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            760,
+            1313,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            892,
+            865,
+            1181,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            892,
+            965,
+            1109,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1728,
+            846,
+            2015,
+            962
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            966,
+            2099,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Raja LLC",
+        "Coordinate": [
+            971,
+            1038,
+            1839,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Narula PLC",
+        "Coordinate": [
+            988,
+            1147,
+            1927,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "164, Batta Chowk, Phagwara 887534",
+        "Coordinate": [
+            897,
+            1280,
+            2023,
+            1503
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "32/845, Vaidya Marg, Asansol 817108",
+        "Coordinate": [
+            893,
+            1510,
+            2208,
+            1635
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8814205289",
+        "Coordinate": [
+            872,
+            1770,
+            1349,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9013486060",
+        "Coordinate": [
+            1596,
+            1830,
+            2000,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Marathi, Tamil",
+        "Coordinate": [
+            887,
+            1911,
+            2094,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Luke Dar - 8023279987",
+        "Coordinate": [
+            972,
+            2002,
+            1760,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksh Kala - 9898044156",
+        "Coordinate": [
+            980,
+            2138,
+            1916,
+            2234
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            645,
+            2434,
+            945,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/31/2024",
+        "Coordinate": [
+            631,
+            2511,
+            1065,
+            2607
+        ]
+    }
+]

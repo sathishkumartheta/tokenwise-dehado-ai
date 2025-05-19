@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fiyaz Dixit",
+        "Coordinate": [
+            900,
+            435,
+            1288,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Dixit",
+        "Coordinate": [
+            924,
+            532,
+            1388,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-03-1983",
+        "Coordinate": [
+            943,
+            634,
+            1253,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            940,
+            731,
+            1470,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            952,
+            839,
+            1161,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1832,
+            831,
+            2035,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            942,
+            2153,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            967,
+            939,
+            1118,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Jayaraman LLC",
+        "Coordinate": [
+            1004,
+            1040,
+            2006,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Khatri-Sharaf",
+        "Coordinate": [
+            1004,
+            1151,
+            1883,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 00, Parikh Chowk, Khandwa 486735",
+        "Coordinate": [
+            891,
+            1273,
+            1991,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/748, Manda Chowk, Hospet 599584",
+        "Coordinate": [
+            917,
+            1528,
+            1960,
+            1709
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7280565476",
+        "Coordinate": [
+            1845,
+            1805,
+            2210,
+            1907
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7421763822",
+        "Coordinate": [
+            917,
+            1805,
+            1308,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            939,
+            1948,
+            1437,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Pradhan - 7289033565",
+        "Coordinate": [
+            973,
+            2050,
+            2008,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Upasna Dash - 8064506496",
+        "Coordinate": [
+            983,
+            2180,
+            1962,
+            2289
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MVSTB2835X",
+        "Coordinate": [
+            1647,
+            2389,
+            2076,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            628,
+            2478,
+            925,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/15/2024",
+        "Coordinate": [
+            668,
+            2572,
+            1029,
+            2661
+        ]
+    }
+]

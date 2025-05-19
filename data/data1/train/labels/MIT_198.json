@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Salvi",
+        "Coordinate": [
+            882,
+            397,
+            1328,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hitesh Salvi",
+        "Coordinate": [
+            884,
+            498,
+            1290,
+            593
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/28/1974",
+        "Coordinate": [
+            893,
+            599,
+            1218,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            898,
+            699,
+            1200,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            805,
+            1149,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1850,
+            789,
+            2039,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            897,
+            2073,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            912,
+            902,
+            1062,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Raj-Contractor",
+        "Coordinate": [
+            979,
+            984,
+            1816,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Singh Inc",
+        "Coordinate": [
+            974,
+            1101,
+            1707,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "60, Kapur Path, Agartala 463060",
+        "Coordinate": [
+            880,
+            1225,
+            1987,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "589, Nayak Path, Aurangabad 386396",
+        "Coordinate": [
+            875,
+            1466,
+            2196,
+            1602
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8980427550",
+        "Coordinate": [
+            1888,
+            1742,
+            2263,
+            1829
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7386546699",
+        "Coordinate": [
+            874,
+            1746,
+            1259,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Malayalam, Gujarati",
+        "Coordinate": [
+            874,
+            1881,
+            2096,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pushti Dave - 9255073120",
+        "Coordinate": [
+            933,
+            1996,
+            1761,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Oscar Rau - 7415776556",
+        "Coordinate": [
+            949,
+            2123,
+            1751,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "398000000000.0",
+        "Coordinate": [
+            605,
+            2335,
+            1054,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            598,
+            2419,
+            861,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/14/2023",
+        "Coordinate": [
+            597,
+            2513,
+            943,
+            2600
+        ]
+    }
+]

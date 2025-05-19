@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jeremiah Roy",
+        "Coordinate": [
+            879,
+            434,
+            1411,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Simon Roy",
+        "Coordinate": [
+            899,
+            536,
+            1307,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/21/1994",
+        "Coordinate": [
+            901,
+            635,
+            1243,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            897,
+            734,
+            1054,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            878,
+            836,
+            1083,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1798,
+            828,
+            1980,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            937,
+            2096,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            879,
+            942,
+            972,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Nagy  Kapadia and Gandhi",
+        "Coordinate": [
+            962,
+            1034,
+            2362,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kibe LLC",
+        "Coordinate": [
+            977,
+            1146,
+            1891,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/73, Wali Road, Thane-264259",
+        "Coordinate": [
+            900,
+            1279,
+            2184,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 554, Gade Circle, Motihari-921474",
+        "Coordinate": [
+            895,
+            1534,
+            2317,
+            1747
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8750061834",
+        "Coordinate": [
+            1867,
+            1803,
+            2342,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8246033857",
+        "Coordinate": [
+            884,
+            1803,
+            1342,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Telugu, Malayalam",
+        "Coordinate": [
+            909,
+            1942,
+            2353,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanya Mody - 7340168181",
+        "Coordinate": [
+            955,
+            2050,
+            2021,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abdul Menon - 9216474660",
+        "Coordinate": [
+            977,
+            2183,
+            2181,
+            2308
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LVJDC7146P",
+        "Coordinate": [
+            1622,
+            2385,
+            2211,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            591,
+            2480,
+            879,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-12-2025",
+        "Coordinate": [
+            595,
+            2575,
+            1034,
+            2664
+        ]
+    }
+]

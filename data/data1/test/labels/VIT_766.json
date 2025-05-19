@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jalsa Balay",
+        "Coordinate": [
+            896,
+            436,
+            1270,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Balay",
+        "Coordinate": [
+            896,
+            534,
+            1327,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/1970",
+        "Coordinate": [
+            904,
+            637,
+            1283,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            919,
+            729,
+            1348,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            837,
+            1174,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1832,
+            830,
+            2040,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            937,
+            2052,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            963,
+            942,
+            1082,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Thakkar Ltd",
+        "Coordinate": [
+            999,
+            1046,
+            1823,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Shan  Setty and Bir",
+        "Coordinate": [
+            980,
+            1147,
+            2011,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58, Golla Chowk, Bulandshahr-411048",
+        "Coordinate": [
+            898,
+            1290,
+            2164,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/12, Narang Marg, Kozhikode 829127",
+        "Coordinate": [
+            888,
+            1553,
+            2163,
+            1689
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7464251107",
+        "Coordinate": [
+            1881,
+            1811,
+            2245,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7069161248",
+        "Coordinate": [
+            906,
+            1810,
+            1259,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Malayalam",
+        "Coordinate": [
+            895,
+            1951,
+            1605,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nitesh Kuruvilla - 8415389164",
+        "Coordinate": [
+            934,
+            2052,
+            1964,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nidhi Bal - 8109059958",
+        "Coordinate": [
+            969,
+            2183,
+            1755,
+            2283
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "883000000000.0",
+        "Coordinate": [
+            609,
+            2386,
+            1112,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            598,
+            2488,
+            887,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-12-2022",
+        "Coordinate": [
+            597,
+            2582,
+            918,
+            2663
+        ]
+    }
+]

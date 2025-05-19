@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Singhal",
+        "Coordinate": [
+            905,
+            465,
+            1406,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harshil Singhal",
+        "Coordinate": [
+            910,
+            551,
+            1426,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/3/1986",
+        "Coordinate": [
+            910,
+            671,
+            1222,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            895,
+            750,
+            1226,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            870,
+            846,
+            1154,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            885,
+            966,
+            1002,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1699,
+            850,
+            1941,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            946,
+            2014,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Merchant  Dhillon and Dada",
+        "Coordinate": [
+            990,
+            1036,
+            2206,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Natt-Sinha",
+        "Coordinate": [
+            990,
+            1150,
+            1782,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04/36, Chakraborty, Durg-380869",
+        "Coordinate": [
+            880,
+            1266,
+            2078,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/81, Mistry Chowk, Ozhukarai 753700",
+        "Coordinate": [
+            850,
+            1505,
+            2314,
+            1646
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8645757299",
+        "Coordinate": [
+            890,
+            1765,
+            1382,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8566484160",
+        "Coordinate": [
+            1815,
+            1795,
+            2254,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Tamil, Malayalam",
+        "Coordinate": [
+            890,
+            1905,
+            2074,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indrajit Bandi - 7812773921",
+        "Coordinate": [
+            959,
+            2015,
+            1981,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sai Kanda - 9205574159",
+        "Coordinate": [
+            950,
+            2140,
+            1946,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            609,
+            2406,
+            905,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/19/2022",
+        "Coordinate": [
+            615,
+            2516,
+            970,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hamsini Dora",
+        "Coordinate": [
+            880,
+            396,
+            1275,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Timothy Dora",
+        "Coordinate": [
+            878,
+            493,
+            1297,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-05-1974",
+        "Coordinate": [
+            884,
+            595,
+            1200,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            881,
+            698,
+            1003,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            802,
+            1146,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1711,
+            793,
+            1930,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            898,
+            2039,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            917,
+            900,
+            1071,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Gupta  Vig and Ghosh",
+        "Coordinate": [
+            969,
+            986,
+            2057,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mani LLC",
+        "Coordinate": [
+            969,
+            1106,
+            1685,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 32, Sampath Ganj, Chandigarh-076108",
+        "Coordinate": [
+            867,
+            1229,
+            2137,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26/97, Tiwari Zila, Kollam-010712",
+        "Coordinate": [
+            882,
+            1489,
+            2034,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7745495240",
+        "Coordinate": [
+            1850,
+            1752,
+            2292,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9899144172",
+        "Coordinate": [
+            869,
+            1765,
+            1250,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, English",
+        "Coordinate": [
+            883,
+            1892,
+            1739,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Pandya - 7228301641",
+        "Coordinate": [
+            930,
+            2006,
+            1888,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qadim Chakraborty - 8719901847",
+        "Coordinate": [
+            931,
+            2130,
+            2140,
+            2245
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "865000000000.0",
+        "Coordinate": [
+            614,
+            2333,
+            1121,
+            2412
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            567,
+            2435,
+            834,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-10-2023",
+        "Coordinate": [
+            555,
+            2520,
+            931,
+            2600
+        ]
+    }
+]

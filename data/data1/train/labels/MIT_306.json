@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aryan Malhotra",
+        "Coordinate": [
+            890,
+            395,
+            1419,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nachiket Malhotra",
+        "Coordinate": [
+            898,
+            496,
+            1510,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-06-1996",
+        "Coordinate": [
+            911,
+            598,
+            1203,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            910,
+            692,
+            1055,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            796,
+            1175,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1797,
+            785,
+            1974,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            890,
+            2059,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            928,
+            897,
+            1078,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Buch  Mishra and Mishra",
+        "Coordinate": [
+            944,
+            979,
+            2194,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Raval Inc",
+        "Coordinate": [
+            945,
+            1102,
+            1706,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 540, Biswas Street, Giridih 170756",
+        "Coordinate": [
+            882,
+            1231,
+            2227,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "983, Natt Zila, Udaipur 073228",
+        "Coordinate": [
+            874,
+            1476,
+            1941,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8710344173",
+        "Coordinate": [
+            1845,
+            1747,
+            2251,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9385848365",
+        "Coordinate": [
+            879,
+            1752,
+            1313,
+            1845
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam",
+        "Coordinate": [
+            872,
+            1890,
+            1458,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nikita Ahluwalia - 7014321743",
+        "Coordinate": [
+            943,
+            1999,
+            1985,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raghav Tailor - 9886296950",
+        "Coordinate": [
+            940,
+            2125,
+            1865,
+            2224
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HNSNF1658G",
+        "Coordinate": [
+            1625,
+            2333,
+            2062,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            602,
+            2419,
+            870,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2025",
+        "Coordinate": [
+            597,
+            2510,
+            928,
+            2591
+        ]
+    }
+]

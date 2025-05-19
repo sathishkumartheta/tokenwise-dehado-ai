@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aayush Sibal",
+        "Coordinate": [
+            918,
+            474,
+            1380,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harsh Sibal",
+        "Coordinate": [
+            888,
+            572,
+            1286,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/28/1996",
+        "Coordinate": [
+            892,
+            674,
+            1330,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            914,
+            772,
+            1052,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            858,
+            1208,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1690,
+            866,
+            1886,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            948,
+            964,
+            1120,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            965,
+            2066,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Ramaswamy  Narasimhan and Mann",
+        "Coordinate": [
+            1002,
+            1046,
+            2280,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saxena Inc",
+        "Coordinate": [
+            958,
+            1152,
+            1800,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "699, Vohra Street, Bhavnagar 497619",
+        "Coordinate": [
+            884,
+            1262,
+            2080,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77/60, Kapadia Zila, Lucknow-245311",
+        "Coordinate": [
+            896,
+            1522,
+            2178,
+            1615
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7571113694",
+        "Coordinate": [
+            892,
+            1776,
+            1284,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9270507126",
+        "Coordinate": [
+            1822,
+            1784,
+            2176,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam",
+        "Coordinate": [
+            890,
+            1914,
+            1612,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Waida Cherian - 9580655075",
+        "Coordinate": [
+            948,
+            2012,
+            1962,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi Nayak - 9100530672",
+        "Coordinate": [
+            952,
+            2148,
+            1872,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            600,
+            2412,
+            934,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/25/2022",
+        "Coordinate": [
+            608,
+            2508,
+            978,
+            2577
+        ]
+    }
+]

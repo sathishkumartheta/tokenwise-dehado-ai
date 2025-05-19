@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Unnati Chander",
+        "Coordinate": [
+            891,
+            431,
+            1426,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Chander",
+        "Coordinate": [
+            899,
+            529,
+            1495,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-07-1994",
+        "Coordinate": [
+            908,
+            636,
+            1217,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            732,
+            1232,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            833,
+            1209,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            810,
+            2060,
+            897
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            917,
+            2116,
+            1000
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            916,
+            940,
+            1024,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Acharya-Mand",
+        "Coordinate": [
+            990,
+            1016,
+            1965,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Shenoy  Sabharwal and Ratta",
+        "Coordinate": [
+            998,
+            1132,
+            2374,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/525, Oza Marg, Pune-423302",
+        "Coordinate": [
+            902,
+            1248,
+            2164,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40, Mall Path, New Delhi-221405",
+        "Coordinate": [
+            908,
+            1501,
+            2179,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8245859039",
+        "Coordinate": [
+            1908,
+            1767,
+            2348,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7916114525",
+        "Coordinate": [
+            927,
+            1786,
+            1353,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Bengali, Kannada",
+        "Coordinate": [
+            911,
+            1924,
+            2195,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tarak Chakrabarti - 8094977826",
+        "Coordinate": [
+            988,
+            2022,
+            2180,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krisha Bali - 7889040971",
+        "Coordinate": [
+            1002,
+            2150,
+            1954,
+            2250
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "321000000000.0",
+        "Coordinate": [
+            644,
+            2377,
+            1198,
+            2463
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HDSOP4577F",
+        "Coordinate": [
+            1681,
+            2356,
+            2231,
+            2453
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            639,
+            2472,
+            941,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/18/2022",
+        "Coordinate": [
+            635,
+            2565,
+            1026,
+            2654
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Arora",
+        "Coordinate": [
+            884,
+            433,
+            1325,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Arora",
+        "Coordinate": [
+            895,
+            531,
+            1356,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/26/1994",
+        "Coordinate": [
+            893,
+            629,
+            1292,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            734,
+            1097,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            832,
+            1211,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1792,
+            826,
+            1970,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            937,
+            2076,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            925,
+            942,
+            1048,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bhavsar-Narasimhan",
+        "Coordinate": [
+            933,
+            1033,
+            2348,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Nagarajan-Dada",
+        "Coordinate": [
+            958,
+            1140,
+            2136,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "57/829, Narayan Nagar, Avadi-219114",
+        "Coordinate": [
+            904,
+            1272,
+            2071,
+            1505
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14/14, Chad Nagar, Anand-699391",
+        "Coordinate": [
+            931,
+            1514,
+            2310,
+            1688
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9243954025",
+        "Coordinate": [
+            1864,
+            1804,
+            2328,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9147825294",
+        "Coordinate": [
+            885,
+            1807,
+            1364,
+            1939
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Bengali",
+        "Coordinate": [
+            896,
+            1939,
+            1958,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Om Sachar - 8571741137",
+        "Coordinate": [
+            930,
+            2050,
+            2043,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mitesh Ahluwalia - 7668108403",
+        "Coordinate": [
+            978,
+            2174,
+            2268,
+            2294
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NWIUJ1500K",
+        "Coordinate": [
+            1665,
+            2374,
+            2258,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            603,
+            2470,
+            970,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2025",
+        "Coordinate": [
+            627,
+            2563,
+            1140,
+            2666
+        ]
+    }
+]

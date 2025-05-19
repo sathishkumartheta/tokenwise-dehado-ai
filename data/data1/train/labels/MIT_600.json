@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Noah Dani",
+        "Coordinate": [
+            881,
+            443,
+            1388,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lucky Dani",
+        "Coordinate": [
+            884,
+            549,
+            1396,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/21/2001",
+        "Coordinate": [
+            895,
+            647,
+            1306,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            895,
+            745,
+            1294,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            901,
+            848,
+            1224,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1878,
+            835,
+            2104,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1884,
+            943,
+            2186,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            922,
+            947,
+            1078,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dugal-Lala",
+        "Coordinate": [
+            974,
+            1049,
+            1994,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bera  Guha and Dey",
+        "Coordinate": [
+            959,
+            1153,
+            2310,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 77, Master Zila, Pudukkottai-093555",
+        "Coordinate": [
+            905,
+            1278,
+            1894,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 200, Comar Marg, Chandrapur 364459",
+        "Coordinate": [
+            914,
+            1528,
+            1938,
+            1720
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7470664289",
+        "Coordinate": [
+            1864,
+            1812,
+            2322,
+            1928
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8791769139",
+        "Coordinate": [
+            903,
+            1809,
+            1339,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Telugu, Hindi",
+        "Coordinate": [
+            882,
+            1951,
+            2245,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upma Ramanathan - 9136284955",
+        "Coordinate": [
+            952,
+            2059,
+            2356,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathaniel Chokshi - 7365065594",
+        "Coordinate": [
+            962,
+            2185,
+            2366,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "523000000000.0",
+        "Coordinate": [
+            576,
+            2395,
+            1202,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            586,
+            2494,
+            899,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-07-2025",
+        "Coordinate": [
+            612,
+            2585,
+            1092,
+            2672
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manya Bedi",
+        "Coordinate": [
+            894,
+            393,
+            1259,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Bedi",
+        "Coordinate": [
+            904,
+            491,
+            1278,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/30/1983",
+        "Coordinate": [
+            918,
+            588,
+            1218,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            925,
+            685,
+            1522,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            933,
+            793,
+            1203,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1763,
+            784,
+            1992,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1874,
+            887,
+            2118,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Nayak-Pandey",
+        "Coordinate": [
+            966,
+            986,
+            1766,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Patla Group",
+        "Coordinate": [
+            969,
+            1099,
+            1772,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "20/90, Nath Circle, Aligarh-740913",
+        "Coordinate": [
+            891,
+            1241,
+            2062,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 786, Bahl Zila, Ozhukarai 760220",
+        "Coordinate": [
+            893,
+            1475,
+            2214,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9712051204",
+        "Coordinate": [
+            1866,
+            1745,
+            2256,
+            1836
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8086181205",
+        "Coordinate": [
+            883,
+            1746,
+            1276,
+            1832
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            892,
+            1888,
+            1496,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kamala Kaur - 8853135320",
+        "Coordinate": [
+            957,
+            1998,
+            1863,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amrita Chacko - 9947739851",
+        "Coordinate": [
+            973,
+            2122,
+            1950,
+            2222
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "547000000000.0",
+        "Coordinate": [
+            607,
+            2328,
+            1104,
+            2412
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JQZSA4291A",
+        "Coordinate": [
+            1640,
+            2331,
+            2055,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            600,
+            2425,
+            920,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-06-2025",
+        "Coordinate": [
+            598,
+            2514,
+            894,
+            2595
+        ]
+    }
+]

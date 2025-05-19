@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaid Konda",
+        "Coordinate": [
+            902,
+            443,
+            1282,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Konda",
+        "Coordinate": [
+            908,
+            543,
+            1355,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/21/1980",
+        "Coordinate": [
+            924,
+            641,
+            1215,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            741,
+            1170,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            846,
+            1137,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            838,
+            1930,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            947,
+            2071,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            914,
+            945,
+            1006,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Naidu and Sons",
+        "Coordinate": [
+            982,
+            1047,
+            1880,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mann Inc",
+        "Coordinate": [
+            983,
+            1163,
+            1729,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 72, Bala Marg, Phusro 291459",
+        "Coordinate": [
+            906,
+            1278,
+            2019,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "660, Walia, Amaravati-981747",
+        "Coordinate": [
+            899,
+            1534,
+            1869,
+            1661
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8078475349",
+        "Coordinate": [
+            1863,
+            1811,
+            2253,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7698160477",
+        "Coordinate": [
+            896,
+            1821,
+            1272,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Marathi, Hindi",
+        "Coordinate": [
+            897,
+            1956,
+            1845,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lopa Sarin - 8147295610",
+        "Coordinate": [
+            961,
+            2063,
+            1680,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samarth Sastry - 9952860645",
+        "Coordinate": [
+            949,
+            2191,
+            1825,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "642000000000.0",
+        "Coordinate": [
+            593,
+            2397,
+            1061,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            608,
+            2491,
+            894,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-07-2025",
+        "Coordinate": [
+            607,
+            2584,
+            920,
+            2663
+        ]
+    }
+]

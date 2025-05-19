@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amaira Naidu",
+        "Coordinate": [
+            895,
+            438,
+            1425,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harshil Naidu",
+        "Coordinate": [
+            932,
+            553,
+            1475,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/8/1963",
+        "Coordinate": [
+            897,
+            655,
+            1351,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            882,
+            743,
+            1441,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            855,
+            1151,
+            1001
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            805,
+            2019,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            953,
+            2133,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            910,
+            950,
+            1063,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dave Ltd",
+        "Coordinate": [
+            965,
+            1060,
+            1765,
+            1179
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kar and Sons",
+        "Coordinate": [
+            997,
+            1193,
+            1989,
+            1339
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "871, Dhawan Marg, Shahjahanpur 689058",
+        "Coordinate": [
+            887,
+            1303,
+            2341,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "01/53, Shankar Ganj, Davanagere 670277",
+        "Coordinate": [
+            915,
+            1532,
+            2421,
+            1675
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9223124278",
+        "Coordinate": [
+            900,
+            1825,
+            1389,
+            1915
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9294444423",
+        "Coordinate": [
+            1702,
+            1865,
+            2343,
+            1977
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi",
+        "Coordinate": [
+            900,
+            1945,
+            1875,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yasti Sharma - 8899087488",
+        "Coordinate": [
+            962,
+            2067,
+            2157,
+            2215
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Eiravati Raj - 9810418191",
+        "Coordinate": [
+            919,
+            2203,
+            2092,
+            2343
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "270851000000",
+        "Coordinate": [
+            595,
+            2383,
+            1267,
+            2499
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            600,
+            2503,
+            912,
+            2595
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2024",
+        "Coordinate": [
+            625,
+            2591,
+            1117,
+            2738
+        ]
+    }
+]

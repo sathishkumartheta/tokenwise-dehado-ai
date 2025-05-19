@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandresh Thaman",
+        "Coordinate": [
+            925,
+            393,
+            1752,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bachittar Thaman",
+        "Coordinate": [
+            965,
+            498,
+            1801,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-12-1990",
+        "Coordinate": [
+            1004,
+            602,
+            1406,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1041,
+            700,
+            1440,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            810,
+            1276,
+            891
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1890,
+            796,
+            2114,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1930,
+            900,
+            2233,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            985,
+            898,
+            1180,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Prasad-Prabhakar",
+        "Coordinate": [
+            1085,
+            986,
+            2310,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dua PLC",
+        "Coordinate": [
+            1096,
+            1106,
+            1935,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 492, Jha Path, Haldia 982838",
+        "Coordinate": [
+            926,
+            1248,
+            2060,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 77, Palla Marg, Imphal 705549",
+        "Coordinate": [
+            916,
+            1484,
+            2088,
+            1713
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7851606430",
+        "Coordinate": [
+            961,
+            1771,
+            1333,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu",
+        "Coordinate": [
+            992,
+            1903,
+            1702,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Shivansh Mohan - 7858488147",
+        "Coordinate": [
+            1033,
+            2008,
+            2181,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachana Yadav - 7369407801",
+        "Coordinate": [
+            1017,
+            2138,
+            2314,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "381000000000.0",
+        "Coordinate": [
+            662,
+            2339,
+            1253,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            657,
+            2430,
+            1000,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/19/2022",
+        "Coordinate": [
+            685,
+            2523,
+            1193,
+            2609
+        ]
+    }
+]

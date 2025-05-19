@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanish Rau",
+        "Coordinate": [
+            894,
+            389,
+            1241,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Rau",
+        "Coordinate": [
+            900,
+            488,
+            1233,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-10-1990",
+        "Coordinate": [
+            915,
+            589,
+            1167,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            685,
+            1168,
+            771
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            929,
+            783,
+            1111,
+            880
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1846,
+            782,
+            2000,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            884,
+            2071,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            947,
+            890,
+            1073,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhat-Rau",
+        "Coordinate": [
+            997,
+            983,
+            1650,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Keer-Ravel",
+        "Coordinate": [
+            1000,
+            1097,
+            1721,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 06, Dhawan Circle, Tirunelveli-355216",
+        "Coordinate": [
+            899,
+            1234,
+            1722,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 87, Lanka Zila, Jehanabad 182192",
+        "Coordinate": [
+            916,
+            1497,
+            1735,
+            1704
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8795323296",
+        "Coordinate": [
+            1913,
+            1751,
+            2270,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9224053785",
+        "Coordinate": [
+            922,
+            1756,
+            1262,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Marathi",
+        "Coordinate": [
+            1030,
+            1884,
+            1823,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mitali Shan - 8707113001",
+        "Coordinate": [
+            1015,
+            1998,
+            1776,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amrita Keer - 7148870248",
+        "Coordinate": [
+            1026,
+            2121,
+            1838,
+            2219
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "316000000000.0",
+        "Coordinate": [
+            638,
+            2327,
+            991,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            679,
+            2416,
+            923,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/19/2025",
+        "Coordinate": [
+            663,
+            2510,
+            936,
+            2593
+        ]
+    }
+]

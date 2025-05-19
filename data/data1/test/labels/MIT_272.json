@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harish Singhal",
+        "Coordinate": [
+            878,
+            386,
+            1432,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranveer Singhal",
+        "Coordinate": [
+            873,
+            490,
+            1478,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-02-1985",
+        "Coordinate": [
+            893,
+            592,
+            1252,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            889,
+            684,
+            1441,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            795,
+            1240,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1743,
+            780,
+            1934,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            887,
+            2136,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Madan Ltd",
+        "Coordinate": [
+            956,
+            983,
+            1755,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Nayak-Peri",
+        "Coordinate": [
+            961,
+            1104,
+            1821,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52/548, Suresh Ganj, Shimoga-715810",
+        "Coordinate": [
+            884,
+            1238,
+            2233,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "125, Dube Zila, Chandigarh-005912",
+        "Coordinate": [
+            886,
+            1473,
+            2269,
+            1612
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7900422870",
+        "Coordinate": [
+            1846,
+            1746,
+            2345,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8077661310",
+        "Coordinate": [
+            878,
+            1752,
+            1348,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Malayalam",
+        "Coordinate": [
+            891,
+            1886,
+            1962,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ganga Cherian - 9841529081",
+        "Coordinate": [
+            936,
+            2003,
+            1972,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksh Dewan - 7668647729",
+        "Coordinate": [
+            948,
+            2124,
+            2015,
+            2242
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "232000000000.0",
+        "Coordinate": [
+            593,
+            2328,
+            1221,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            588,
+            2422,
+            847,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-01-2023",
+        "Coordinate": [
+            607,
+            2513,
+            1037,
+            2605
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Diya Dua",
+        "Coordinate": [
+            904,
+            440,
+            1314,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wridesh Dua",
+        "Coordinate": [
+            910,
+            538,
+            1422,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-09-1978",
+        "Coordinate": [
+            917,
+            637,
+            1355,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            734,
+            1306,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            841,
+            1265,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1813,
+            832,
+            2148,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            945,
+            2209,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            936,
+            944,
+            1116,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kamdar  Dube and Dhillon",
+        "Coordinate": [
+            1010,
+            1036,
+            2364,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Oommen-Cherian",
+        "Coordinate": [
+            1001,
+            1147,
+            2222,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 925, Bhavsar Circle, Kumbakonam-212360",
+        "Coordinate": [
+            934,
+            1281,
+            2087,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "994, Kuruvilla Path, Dhule 531563",
+        "Coordinate": [
+            939,
+            1532,
+            2350,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9947034450",
+        "Coordinate": [
+            1892,
+            1794,
+            2328,
+            1899
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8848103884",
+        "Coordinate": [
+            944,
+            1805,
+            1405,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Malayalam, Telugu",
+        "Coordinate": [
+            907,
+            1929,
+            2239,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xavier Anand - 7109355318",
+        "Coordinate": [
+            982,
+            2043,
+            2052,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mugdha Verma - 7898727740",
+        "Coordinate": [
+            993,
+            2176,
+            2332,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "663000000000.0",
+        "Coordinate": [
+            641,
+            2383,
+            1310,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            626,
+            2479,
+            979,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2022",
+        "Coordinate": [
+            660,
+            2571,
+            1249,
+            2667
+        ]
+    }
+]

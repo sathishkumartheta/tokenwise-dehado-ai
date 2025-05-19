@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanay Mallick",
+        "Coordinate": [
+            889,
+            400,
+            1372,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Mallick",
+        "Coordinate": [
+            900,
+            508,
+            1415,
+            603
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1965",
+        "Coordinate": [
+            925,
+            604,
+            1300,
+            696
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            914,
+            703,
+            1467,
+            792
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            948,
+            799,
+            1183,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1838,
+            795,
+            2054,
+            891
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            899,
+            2084,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            985,
+            903,
+            1132,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Datta-Gopal",
+        "Coordinate": [
+            1044,
+            993,
+            1903,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Pandit-Nagar",
+        "Coordinate": [
+            1044,
+            1111,
+            1909,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69, Devi Path, Yamunanagar-878878",
+        "Coordinate": [
+            924,
+            1282,
+            2183,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 968, Kanda, Noida-030587",
+        "Coordinate": [
+            900,
+            1515,
+            2023,
+            1650
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8750534880",
+        "Coordinate": [
+            1640,
+            1785,
+            2085,
+            1888
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8294454662",
+        "Coordinate": [
+            920,
+            1757,
+            1344,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati",
+        "Coordinate": [
+            978,
+            1895,
+            1608,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Imaran Bhasin - 9289724166",
+        "Coordinate": [
+            985,
+            2001,
+            2027,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jalsa Dewan - 7845673020",
+        "Coordinate": [
+            985,
+            2139,
+            2017,
+            2261
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "703829000000",
+        "Coordinate": [
+            648,
+            2334,
+            1165,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            685,
+            2423,
+            970,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/7/2024",
+        "Coordinate": [
+            692,
+            2523,
+            1118,
+            2620
+        ]
+    }
+]

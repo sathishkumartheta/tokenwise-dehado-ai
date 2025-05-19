@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ojas Sharaf",
+        "Coordinate": [
+            898,
+            466,
+            1351,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samar Sharaf",
+        "Coordinate": [
+            892,
+            555,
+            1371,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/1959",
+        "Coordinate": [
+            904,
+            647,
+            1322,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            933,
+            752,
+            1209,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            839,
+            1200,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1724,
+            835,
+            1929,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            949,
+            2000,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            967,
+            963,
+            1065,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Ravi Ltd",
+        "Coordinate": [
+            996,
+            1030,
+            1549,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ramakrishnan-Sathe",
+        "Coordinate": [
+            994,
+            1146,
+            1941,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83, Balay Marg, Amaravati-978920",
+        "Coordinate": [
+            890,
+            1271,
+            2057,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "38/101, Raval Ganj, Parbhani-831952",
+        "Coordinate": [
+            918,
+            1521,
+            2079,
+            1647
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9095743039",
+        "Coordinate": [
+            916,
+            1789,
+            1298,
+            1880
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7377336783",
+        "Coordinate": [
+            1841,
+            1768,
+            2221,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil",
+        "Coordinate": [
+            929,
+            1892,
+            1393,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advika Rana - 8404583665",
+        "Coordinate": [
+            981,
+            2006,
+            1868,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavika Krishnan - 7707550689",
+        "Coordinate": [
+            998,
+            2134,
+            1977,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            659,
+            2403,
+            1052,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2023",
+        "Coordinate": [
+            663,
+            2497,
+            1018,
+            2580
+        ]
+    }
+]

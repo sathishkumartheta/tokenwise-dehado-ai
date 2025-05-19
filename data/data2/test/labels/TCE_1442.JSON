@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedhika Chauhan",
+        "Coordinate": [
+            891,
+            461,
+            1504,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Chauhan",
+        "Coordinate": [
+            896,
+            561,
+            1491,
+            690
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/28/1972",
+        "Coordinate": [
+            896,
+            662,
+            1348,
+            770
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            747,
+            1123,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            845,
+            1176,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1706,
+            853,
+            1997,
+            954
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            896,
+            957,
+            1087,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1762,
+            947,
+            2089,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Manda  Arora and Yadav",
+        "Coordinate": [
+            962,
+            1042,
+            2273,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Walia  Toor and Peri",
+        "Coordinate": [
+            974,
+            1146,
+            2204,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02/85, Biswas Street, Faridabad-416485",
+        "Coordinate": [
+            939,
+            1309,
+            2268,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 96, Zachariah Road, Patna 218703",
+        "Coordinate": [
+            910,
+            1515,
+            2252,
+            1636
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7742606489",
+        "Coordinate": [
+            933,
+            1779,
+            1364,
+            1860
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8356170228",
+        "Coordinate": [
+            1828,
+            1759,
+            2285,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Marathi",
+        "Coordinate": [
+            915,
+            1899,
+            1875,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Banjeet Varughese - 8031154815",
+        "Coordinate": [
+            931,
+            2004,
+            2093,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nitesh Kata - 8251459181",
+        "Coordinate": [
+            916,
+            2114,
+            1977,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            588,
+            2387,
+            928,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2024",
+        "Coordinate": [
+            635,
+            2509,
+            1023,
+            2598
+        ]
+    }
+]

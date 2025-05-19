@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "948596000000",
+        "Coordinate": [
+            578,
+            2392,
+            1082,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            602,
+            2472,
+            890,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/30/2024",
+        "Coordinate": [
+            632,
+            2570,
+            1052,
+            2656
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GPANA6718Y",
+        "Coordinate": [
+            1621,
+            2384,
+            2114,
+            2482
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayyan Venkatesh - 9709146767",
+        "Coordinate": [
+            976,
+            2178,
+            2166,
+            2272
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samesh Bhatia - 8528804013",
+        "Coordinate": [
+            966,
+            2056,
+            1936,
+            2142
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            898,
+            1945,
+            1554,
+            2035
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7328614526",
+        "Coordinate": [
+            898,
+            1810,
+            1298,
+            1900
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7074060155",
+        "Coordinate": [
+            1856,
+            1810,
+            2260,
+            1916
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Tripathi LLC",
+        "Coordinate": [
+            987,
+            1044,
+            1705,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Thaman  Radhakrishnan and Wali",
+        "Coordinate": [
+            964,
+            1154,
+            2312,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39/429, Bali Nagar, Khammam 783980",
+        "Coordinate": [
+            904,
+            1306,
+            2198,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 377, Butala Ganj, Faridabad-886948",
+        "Coordinate": [
+            906,
+            1538,
+            2312,
+            1686
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1792,
+            934,
+            2048,
+            1014
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1696,
+            816,
+            1852,
+            898
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            734,
+            1230,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            834,
+            1176,
+            918
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            898,
+            938,
+            1062,
+            1022
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/18/1969",
+        "Coordinate": [
+            896,
+            636,
+            1262,
+            712
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranit Bala",
+        "Coordinate": [
+            872,
+            532,
+            1288,
+            622
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Thomas Bala",
+        "Coordinate": [
+            886,
+            438,
+            1328,
+            516
+        ]
+    }
+]

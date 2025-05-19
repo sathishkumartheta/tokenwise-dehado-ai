@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omkaar Verma",
+        "Coordinate": [
+            930,
+            484,
+            1549,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Verma",
+        "Coordinate": [
+            933,
+            577,
+            1578,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/8/1981",
+        "Coordinate": [
+            917,
+            660,
+            1306,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            950,
+            754,
+            1362,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            966,
+            854,
+            1284,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            847,
+            2029,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1020,
+            947,
+            1154,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1910,
+            947,
+            2162,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Palan-Ahuja",
+        "Coordinate": [
+            987,
+            1057,
+            2066,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Nagi  Golla and Ramachandran",
+        "Coordinate": [
+            979,
+            1160,
+            2472,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04, Roy Chowk, Narasaraopet 683505",
+        "Coordinate": [
+            927,
+            1301,
+            2274,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 40, Shankar Street, Mirzapur 701429",
+        "Coordinate": [
+            913,
+            1534,
+            2034,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7028989889",
+        "Coordinate": [
+            923,
+            1787,
+            1364,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9044734395",
+        "Coordinate": [
+            1643,
+            1817,
+            2167,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Telugu, Hindi",
+        "Coordinate": [
+            923,
+            1910,
+            2287,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ansh Khosla - 7700043742",
+        "Coordinate": [
+            1010,
+            2024,
+            2218,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Priya Konda - 9951545288",
+        "Coordinate": [
+            1036,
+            2144,
+            2231,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            690,
+            2427,
+            927,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/11/2023",
+        "Coordinate": [
+            693,
+            2514,
+            1154,
+            2590
+        ]
+    }
+]

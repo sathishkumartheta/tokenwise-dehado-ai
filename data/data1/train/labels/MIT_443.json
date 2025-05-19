@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Bains",
+        "Coordinate": [
+            920,
+            454,
+            1304,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samaksh Bains",
+        "Coordinate": [
+            926,
+            550,
+            1416,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/17/1991",
+        "Coordinate": [
+            929,
+            647,
+            1224,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            746,
+            1239,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            852,
+            1199,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1756,
+            848,
+            1997,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            954,
+            2082,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            925,
+            952,
+            1026,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Dara  Deshmukh and Goswami",
+        "Coordinate": [
+            953,
+            1043,
+            2227,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Goswami  Salvi and Roy",
+        "Coordinate": [
+            965,
+            1154,
+            2047,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 908, Trivedi Chowk, Ozhukarai-859067",
+        "Coordinate": [
+            907,
+            1303,
+            2282,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "428, Thakur, Silchar-550492",
+        "Coordinate": [
+            910,
+            1532,
+            1896,
+            1650
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7861556539",
+        "Coordinate": [
+            1878,
+            1810,
+            2283,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9132469220",
+        "Coordinate": [
+            905,
+            1814,
+            1313,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            905,
+            1949,
+            1380,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jacob Shah - 7748798255",
+        "Coordinate": [
+            957,
+            2054,
+            1812,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adweta Sami - 7232770289",
+        "Coordinate": [
+            971,
+            2184,
+            1809,
+            2283
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "781000000000.0",
+        "Coordinate": [
+            610,
+            2391,
+            1040,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            613,
+            2479,
+            891,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2022",
+        "Coordinate": [
+            607,
+            2574,
+            964,
+            2663
+        ]
+    }
+]

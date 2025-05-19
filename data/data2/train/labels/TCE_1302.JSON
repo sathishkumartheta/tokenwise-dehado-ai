@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zilmil Gade",
+        "Coordinate": [
+            908,
+            490,
+            1346,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tarak Gade",
+        "Coordinate": [
+            924,
+            570,
+            1304,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/1964",
+        "Coordinate": [
+            932,
+            668,
+            1304,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            916,
+            750,
+            1226,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            859,
+            1188,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1701,
+            854,
+            1933,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1792,
+            944,
+            2026,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            910,
+            966,
+            1022,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Arora LLC",
+        "Coordinate": [
+            976,
+            1048,
+            1796,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Uppal Group",
+        "Coordinate": [
+            978,
+            1182,
+            1840,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 906, Mangal Street, Serampore 122562",
+        "Coordinate": [
+            942,
+            1296,
+            2284,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "762, Dugal, Khandwa 545667",
+        "Coordinate": [
+            936,
+            1506,
+            1814,
+            1629
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7908839507",
+        "Coordinate": [
+            930,
+            1774,
+            1322,
+            1849
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7188142011",
+        "Coordinate": [
+            1838,
+            1768,
+            2190,
+            1843
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Marathi, Malayalam",
+        "Coordinate": [
+            918,
+            1921,
+            1984,
+            1982
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranveer Sarraf - 7161942708",
+        "Coordinate": [
+            1000,
+            2018,
+            1892,
+            2085
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ria Batta - 8124833402",
+        "Coordinate": [
+            976,
+            2134,
+            1970,
+            2217
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            674,
+            2436,
+            964,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/10/2025",
+        "Coordinate": [
+            692,
+            2516,
+            1036,
+            2581
+        ]
+    }
+]

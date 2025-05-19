@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ranbir Upadhyay",
+        "Coordinate": [
+            878,
+            429,
+            1433,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Upadhyay",
+        "Coordinate": [
+            888,
+            534,
+            1540,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/29/1971",
+        "Coordinate": [
+            886,
+            634,
+            1206,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            729,
+            1200,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            833,
+            1184,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1798,
+            822,
+            1975,
+            901
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            925,
+            2060,
+            1010
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            902,
+            935,
+            1016,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Baria-Vala",
+        "Coordinate": [
+            978,
+            1024,
+            1859,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chauhan-Ahluwalia",
+        "Coordinate": [
+            975,
+            1137,
+            2150,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "89, Magar Nagar, Shivpuri 820762",
+        "Coordinate": [
+            881,
+            1298,
+            2148,
+            1447
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 522, Dhar Ganj, Bokaro-824084",
+        "Coordinate": [
+            874,
+            1553,
+            2178,
+            1698
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7481450327",
+        "Coordinate": [
+            1858,
+            1791,
+            2282,
+            1881
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9818868665",
+        "Coordinate": [
+            885,
+            1791,
+            1287,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, English, Marathi",
+        "Coordinate": [
+            878,
+            1927,
+            1935,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eta Dugal - 7731788832",
+        "Coordinate": [
+            951,
+            2043,
+            1778,
+            2147
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Mishra - 9877010142",
+        "Coordinate": [
+            967,
+            2177,
+            2005,
+            2293
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "541000000000.0",
+        "Coordinate": [
+            583,
+            2370,
+            1151,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            603,
+            2466,
+            936,
+            2551
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-09-2022",
+        "Coordinate": [
+            597,
+            2559,
+            982,
+            2653
+        ]
+    }
+]

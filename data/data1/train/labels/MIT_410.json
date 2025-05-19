@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jackson Chada",
+        "Coordinate": [
+            885,
+            394,
+            1452,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Chada",
+        "Coordinate": [
+            900,
+            497,
+            1345,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/2003",
+        "Coordinate": [
+            902,
+            594,
+            1259,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            896,
+            687,
+            1190,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            793,
+            1149,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1864,
+            788,
+            2062,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            891,
+            2136,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            899,
+            892,
+            1082,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Seshadri-Shenoy",
+        "Coordinate": [
+            949,
+            985,
+            2010,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Amble LLC",
+        "Coordinate": [
+            945,
+            1104,
+            1843,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 079, Chaudhry Road, Kozhikode 538109",
+        "Coordinate": [
+            863,
+            1273,
+            2291,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 224, Shroff Circle, Dharmavaram-264963",
+        "Coordinate": [
+            860,
+            1532,
+            2277,
+            1672
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8071479458",
+        "Coordinate": [
+            1873,
+            1754,
+            2294,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9286825678",
+        "Coordinate": [
+            893,
+            1761,
+            1307,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Gujarati",
+        "Coordinate": [
+            884,
+            1889,
+            1819,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Peter Prakash - 9560715345",
+        "Coordinate": [
+            922,
+            2005,
+            1906,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warhi Misra - 8551926612",
+        "Coordinate": [
+            934,
+            2130,
+            1946,
+            2242
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZCJSG3991V",
+        "Coordinate": [
+            1628,
+            2335,
+            2069,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            579,
+            2420,
+            830,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/27/2024",
+        "Coordinate": [
+            586,
+            2516,
+            970,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Watika Borra",
+        "Coordinate": [
+            889,
+            434,
+            1445,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krish Borra",
+        "Coordinate": [
+            897,
+            539,
+            1364,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/26/2004",
+        "Coordinate": [
+            907,
+            640,
+            1301,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            902,
+            737,
+            1228,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            919,
+            841,
+            1154,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            831,
+            2070,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            942,
+            2085,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            932,
+            945,
+            1057,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Oommen  Tella and Chaudhry",
+        "Coordinate": [
+            997,
+            1043,
+            2377,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sharma  Amble and Chandran",
+        "Coordinate": [
+            981,
+            1152,
+            2356,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19/679, Deo Chowk, Tadipatri 519201",
+        "Coordinate": [
+            904,
+            1287,
+            2349,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "332, Sengupta, Agartala-795829",
+        "Coordinate": [
+            878,
+            1551,
+            2158,
+            1714
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7168689930",
+        "Coordinate": [
+            1884,
+            1805,
+            2352,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9031744938",
+        "Coordinate": [
+            887,
+            1811,
+            1345,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati",
+        "Coordinate": [
+            888,
+            1947,
+            1545,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemal Wason - 8262305210",
+        "Coordinate": [
+            998,
+            2057,
+            2036,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekantika Dash - 9380393038",
+        "Coordinate": [
+            1006,
+            2190,
+            2175,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "983000000000.0",
+        "Coordinate": [
+            619,
+            2391,
+            1219,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            605,
+            2482,
+            962,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/27/2025",
+        "Coordinate": [
+            624,
+            2579,
+            1092,
+            2674
+        ]
+    }
+]

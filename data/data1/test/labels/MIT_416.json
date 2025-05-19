@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Forum Keer",
+        "Coordinate": [
+            883,
+            391,
+            1252,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Keer",
+        "Coordinate": [
+            888,
+            487,
+            1342,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/21/2005",
+        "Coordinate": [
+            907,
+            594,
+            1295,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            926,
+            682,
+            1264,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            783,
+            1175,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1787,
+            779,
+            2041,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            887,
+            2089,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            957,
+            898,
+            1072,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Jaggi-Shan",
+        "Coordinate": [
+            1004,
+            980,
+            1922,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Wali  Sharaf and Basu",
+        "Coordinate": [
+            993,
+            1103,
+            2306,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "54/81, Sandal Circle, Rampur-300099",
+        "Coordinate": [
+            882,
+            1213,
+            2298,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "611, Sehgal Ganj, Jalandhar 519854",
+        "Coordinate": [
+            883,
+            1465,
+            2252,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9832868894",
+        "Coordinate": [
+            1875,
+            1742,
+            2315,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8252299753",
+        "Coordinate": [
+            876,
+            1745,
+            1327,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, Kannada, English",
+        "Coordinate": [
+            918,
+            1881,
+            2155,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yachana Dhaliwal - 8567420441",
+        "Coordinate": [
+            934,
+            2006,
+            2103,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mason Badami - 8665280333",
+        "Coordinate": [
+            947,
+            2125,
+            2069,
+            2239
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "941000000000.0",
+        "Coordinate": [
+            590,
+            2328,
+            1132,
+            2413
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WZXHB1713U",
+        "Coordinate": [
+            1607,
+            2328,
+            2043,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            601,
+            2417,
+            889,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/19/2025",
+        "Coordinate": [
+            630,
+            2505,
+            1029,
+            2601
+        ]
+    }
+]

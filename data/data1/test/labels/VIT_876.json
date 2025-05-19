@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kalpit Pandit",
+        "Coordinate": [
+            885,
+            439,
+            1392,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayush Pandit",
+        "Coordinate": [
+            899,
+            534,
+            1452,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/18/2005",
+        "Coordinate": [
+            911,
+            636,
+            1264,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            921,
+            735,
+            1274,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            837,
+            1142,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            829,
+            1959,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            935,
+            2106,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            916,
+            945,
+            1040,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Mohan and Sons",
+        "Coordinate": [
+            993,
+            1043,
+            2083,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dubey  Parekh and Sidhu",
+        "Coordinate": [
+            1014,
+            1147,
+            2353,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61/02, Padmanabhan Circle, Aligarh 382552",
+        "Coordinate": [
+            908,
+            1275,
+            2334,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "865, Dalal, Phusro 528390",
+        "Coordinate": [
+            946,
+            1543,
+            2070,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7114404751",
+        "Coordinate": [
+            1901,
+            1811,
+            2345,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9799995837",
+        "Coordinate": [
+            883,
+            1814,
+            1366,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Gujarati, English",
+        "Coordinate": [
+            913,
+            1946,
+            2311,
+            2058
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Robert Aurora - 8385599164",
+        "Coordinate": [
+            964,
+            2062,
+            2160,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrinda Kanda - 7656963240",
+        "Coordinate": [
+            983,
+            2186,
+            2199,
+            2302
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BNVDH2772U",
+        "Coordinate": [
+            1641,
+            2395,
+            2194,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            612,
+            2484,
+            1072,
+            2583
+        ]
+    }
+]

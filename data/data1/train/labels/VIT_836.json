@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Janya Hayre",
+        "Coordinate": [
+            876,
+            437,
+            1315,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Siddharth Hayre",
+        "Coordinate": [
+            879,
+            542,
+            1389,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/21/1990",
+        "Coordinate": [
+            884,
+            643,
+            1287,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            878,
+            739,
+            1365,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            879,
+            840,
+            1065,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1784,
+            830,
+            2020,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1809,
+            947,
+            2039,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            876,
+            946,
+            992,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhagat-Viswanathan",
+        "Coordinate": [
+            942,
+            1047,
+            2008,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Chaudry  Garde and Bath",
+        "Coordinate": [
+            956,
+            1153,
+            2233,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 76, Walla, Mysore 256208",
+        "Coordinate": [
+            897,
+            1289,
+            1935,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 088, Dixit Nagar, Pallavaram-162063",
+        "Coordinate": [
+            895,
+            1530,
+            2378,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9117225953",
+        "Coordinate": [
+            1868,
+            1804,
+            2347,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9558867450",
+        "Coordinate": [
+            888,
+            1810,
+            1371,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Kannada",
+        "Coordinate": [
+            886,
+            1952,
+            1864,
+            2064
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "David Kara - 7422763568",
+        "Coordinate": [
+            924,
+            2075,
+            1963,
+            2188
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Geetika Pandey - 9507257540",
+        "Coordinate": [
+            940,
+            2194,
+            2198,
+            2325
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MGWWT6089A",
+        "Coordinate": [
+            1640,
+            2394,
+            2210,
+            2503
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            599,
+            2487,
+            907,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/21/2023",
+        "Coordinate": [
+            587,
+            2581,
+            969,
+            2677
+        ]
+    }
+]

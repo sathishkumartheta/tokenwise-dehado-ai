@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chavvi Bava",
+        "Coordinate": [
+            896,
+            393,
+            1277,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frederick Bava",
+        "Coordinate": [
+            901,
+            488,
+            1449,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/17/1980",
+        "Coordinate": [
+            900,
+            589,
+            1211,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            890,
+            681,
+            1332,
+            767
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            785,
+            1156,
+            871
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1739,
+            780,
+            1974,
+            851
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            885,
+            2061,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            903,
+            888,
+            1005,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Golla-Pai",
+        "Coordinate": [
+            980,
+            985,
+            1663,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Wali  Rau and Sood",
+        "Coordinate": [
+            975,
+            1095,
+            1900,
+            1198
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 822, Radhakrishnan Street, Meerut-396727",
+        "Coordinate": [
+            891,
+            1212,
+            2209,
+            1320
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/68, Mody Ganj, Farrukhabad 511131",
+        "Coordinate": [
+            902,
+            1462,
+            2211,
+            1585
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7995428201",
+        "Coordinate": [
+            1862,
+            1747,
+            2300,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9008123517",
+        "Coordinate": [
+            893,
+            1746,
+            1304,
+            1830
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, English",
+        "Coordinate": [
+            891,
+            1885,
+            1807,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dakshesh Chad - 7226959131",
+        "Coordinate": [
+            949,
+            1999,
+            1844,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Waida Anne - 9399644729",
+        "Coordinate": [
+            959,
+            2124,
+            1828,
+            2220
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "292000000000.0",
+        "Coordinate": [
+            596,
+            2332,
+            1062,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            588,
+            2422,
+            814,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2022",
+        "Coordinate": [
+            588,
+            2513,
+            961,
+            2593
+        ]
+    }
+]

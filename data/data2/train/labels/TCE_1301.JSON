@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Sibal",
+        "Coordinate": [
+            912,
+            476,
+            1414,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Omkaar Sibal",
+        "Coordinate": [
+            908,
+            568,
+            1668,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/27/1988",
+        "Coordinate": [
+            924,
+            666,
+            1472,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            944,
+            752,
+            1328,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            866,
+            1262,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            840,
+            2096,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            953,
+            2160,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            996,
+            951,
+            1122,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Mutti-Karan",
+        "Coordinate": [
+            1028,
+            1048,
+            2168,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Rout  Rege and Varughese",
+        "Coordinate": [
+            996,
+            1150,
+            2312,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 39, Mohanty Street, Kollam 733264",
+        "Coordinate": [
+            936,
+            1274,
+            2298,
+            1471
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/48, Bhasin, Nagpur 273599",
+        "Coordinate": [
+            936,
+            1514,
+            2288,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9622271988",
+        "Coordinate": [
+            934,
+            1784,
+            1372,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8313305288",
+        "Coordinate": [
+            1852,
+            1770,
+            2302,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Gujarati, Tamil",
+        "Coordinate": [
+            918,
+            1910,
+            2298,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Joshua Chander - 8873801783",
+        "Coordinate": [
+            972,
+            2004,
+            2164,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vamakshi Tripathi - 8473954399",
+        "Coordinate": [
+            986,
+            2128,
+            2282,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            658,
+            2426,
+            932,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/5/2023",
+        "Coordinate": [
+            642,
+            2506,
+            1200,
+            2587
+        ]
+    }
+]

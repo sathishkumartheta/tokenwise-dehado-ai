@@ -1,0 +1,162 @@
+[
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Konda",
+        "Coordinate": [
+            937,
+            505,
+            1396,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-05-2004",
+        "Coordinate": [
+            933,
+            606,
+            1309,
+            698
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            956,
+            707,
+            1228,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            967,
+            802,
+            1276,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1881,
+            869,
+            2074,
+            965
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            961,
+            908,
+            1134,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Narayan  Kaul and Mukherjee",
+        "Coordinate": [
+            970,
+            976,
+            2080,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chana  Chander and Aggarwal",
+        "Coordinate": [
+            1031,
+            1072,
+            2396,
+            1184
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 476, Dugal Road, Dibrugarh 157385",
+        "Coordinate": [
+            979,
+            1195,
+            2396,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "817, Narayan Chowk, Guntur 959781",
+        "Coordinate": [
+            978,
+            1568,
+            2184,
+            1695
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9503872459",
+        "Coordinate": [
+            1982,
+            1820,
+            2370,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9608848998",
+        "Coordinate": [
+            999,
+            1854,
+            1386,
+            1954
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janaki Lad - 8933464372",
+        "Coordinate": [
+            1014,
+            1998,
+            1483,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krisha Bath - 7961444713",
+        "Coordinate": [
+            1039,
+            2104,
+            1897,
+            2340
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            693,
+            2416,
+            2247,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/18/2023",
+        "Coordinate": [
+            742,
+            2534,
+            1100,
+            2630
+        ]
+    }
+]

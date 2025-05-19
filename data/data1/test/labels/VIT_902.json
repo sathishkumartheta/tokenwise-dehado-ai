@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harita Bal",
+        "Coordinate": [
+            889,
+            427,
+            1378,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Bal",
+        "Coordinate": [
+            882,
+            527,
+            1402,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-09-1961",
+        "Coordinate": [
+            905,
+            632,
+            1248,
+            714
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            888,
+            722,
+            1299,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            825,
+            1211,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1762,
+            821,
+            2087,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            934,
+            2143,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            916,
+            935,
+            1049,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bajwa and Sons",
+        "Coordinate": [
+            975,
+            1036,
+            2169,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sidhu-Palla",
+        "Coordinate": [
+            969,
+            1144,
+            1977,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53, Saraf, Hubli\u2013Dharwad 382511",
+        "Coordinate": [
+            894,
+            1267,
+            2186,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/358, Chakraborty Street, Akola-330804",
+        "Coordinate": [
+            878,
+            1536,
+            1933,
+            1781
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8305515263",
+        "Coordinate": [
+            1866,
+            1801,
+            2284,
+            1918
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9871253942",
+        "Coordinate": [
+            883,
+            1814,
+            1369,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Gujarati",
+        "Coordinate": [
+            889,
+            1938,
+            1874,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yutika Sanghvi - 9667832615",
+        "Coordinate": [
+            955,
+            2050,
+            2016,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hredhaan Ganesan - 8440370012",
+        "Coordinate": [
+            971,
+            2185,
+            2329,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "543000000000.0",
+        "Coordinate": [
+            582,
+            2383,
+            1186,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            611,
+            2476,
+            873,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2024",
+        "Coordinate": [
+            597,
+            2571,
+            924,
+            2666
+        ]
+    }
+]

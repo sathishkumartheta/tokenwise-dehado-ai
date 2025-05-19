@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandresh Gandhi",
+        "Coordinate": [
+            878,
+            391,
+            1647,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaiah Gandhi",
+        "Coordinate": [
+            889,
+            492,
+            1528,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-02-1969",
+        "Coordinate": [
+            889,
+            592,
+            1235,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            684,
+            1107,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            790,
+            1201,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1835,
+            784,
+            2038,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1895,
+            891,
+            2185,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            909,
+            893,
+            1034,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Samra  Jain and Mallick",
+        "Coordinate": [
+            966,
+            978,
+            2274,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Rattan LLC",
+        "Coordinate": [
+            967,
+            1104,
+            1949,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75, Mital Street, Aurangabad-843991",
+        "Coordinate": [
+            890,
+            1278,
+            2300,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "272, Raman Ganj, Gurgaon 933513",
+        "Coordinate": [
+            864,
+            1482,
+            2307,
+            1636
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9153736824",
+        "Coordinate": [
+            1832,
+            1743,
+            2328,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9320223597",
+        "Coordinate": [
+            876,
+            1753,
+            1365,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi",
+        "Coordinate": [
+            892,
+            1889,
+            1533,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Logan Ratti - 9172601262",
+        "Coordinate": [
+            952,
+            2001,
+            1995,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Max Jha - 8815996032",
+        "Coordinate": [
+            959,
+            2134,
+            1928,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "729000000000.0",
+        "Coordinate": [
+            581,
+            2329,
+            1133,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            591,
+            2422,
+            864,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-01-2024",
+        "Coordinate": [
+            609,
+            2514,
+            1064,
+            2604
+        ]
+    }
+]

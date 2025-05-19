@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harsh Sane",
+        "Coordinate": [
+            883,
+            393,
+            1333,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Quincy Sane",
+        "Coordinate": [
+            878,
+            491,
+            1332,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/19/2006",
+        "Coordinate": [
+            877,
+            593,
+            1244,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            879,
+            687,
+            1394,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            874,
+            787,
+            1131,
+            869
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1779,
+            785,
+            1988,
+            852
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            892,
+            2073,
+            965
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            886,
+            893,
+            1028,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Batta and Sons",
+        "Coordinate": [
+            943,
+            978,
+            1942,
+            1076
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Merchant-Mitter",
+        "Coordinate": [
+            943,
+            1096,
+            1966,
+            1198
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/67, Oza Road, Karaikudi 524062",
+        "Coordinate": [
+            875,
+            1217,
+            2143,
+            1331
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 59, Sarin, Durgapur-622219",
+        "Coordinate": [
+            868,
+            1467,
+            2098,
+            1584
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7502731103",
+        "Coordinate": [
+            1848,
+            1750,
+            2221,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8389618913",
+        "Coordinate": [
+            865,
+            1751,
+            1225,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            880,
+            1891,
+            1332,
+            1973
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Garima Keer - 9323844298",
+        "Coordinate": [
+            953,
+            1995,
+            1910,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitaly Sarraf - 8729474126",
+        "Coordinate": [
+            940,
+            2124,
+            2001,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "623000000000.0",
+        "Coordinate": [
+            582,
+            2337,
+            1012,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            582,
+            2426,
+            790,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-12-2022",
+        "Coordinate": [
+            588,
+            2518,
+            960,
+            2597
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sarthak Varty",
+        "Coordinate": [
+            888,
+            422,
+            1954,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Varty",
+        "Coordinate": [
+            878,
+            522,
+            2094,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/12/1974",
+        "Coordinate": [
+            898,
+            620,
+            1702,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            922,
+            728,
+            1606,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            820,
+            1346,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            898,
+            936,
+            1100,
+            1018
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1738,
+            818,
+            2062,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            940,
+            2288,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Tandon PLC",
+        "Coordinate": [
+            992,
+            1018,
+            2320,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Seshadri and Sons",
+        "Coordinate": [
+            1004,
+            1132,
+            2266,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 94, Garg Zila, Bhilwara 923258",
+        "Coordinate": [
+            890,
+            1254,
+            1926,
+            1504
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 55, Brahmbhatt Chowk, Yamunanagar 743514",
+        "Coordinate": [
+            886,
+            1520,
+            2356,
+            1766
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8580001297",
+        "Coordinate": [
+            908,
+            1799,
+            1370,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7962919310",
+        "Coordinate": [
+            1846,
+            1788,
+            2346,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Tamil, Hindi",
+        "Coordinate": [
+            895,
+            1932,
+            2326,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yoshita Sabharwal - 9989692545",
+        "Coordinate": [
+            976,
+            2054,
+            2416,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krish Tandon - 7076918060",
+        "Coordinate": [
+            960,
+            2182,
+            2244,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UAJPA3225Q",
+        "Coordinate": [
+            1644,
+            2374,
+            2326,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            574,
+            2458,
+            990,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/5/2024",
+        "Coordinate": [
+            598,
+            2564,
+            1086,
+            2678
+        ]
+    }
+]

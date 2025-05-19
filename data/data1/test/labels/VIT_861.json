@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charita Bora",
+        "Coordinate": [
+            898,
+            431,
+            1507,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faris Bora",
+        "Coordinate": [
+            938,
+            534,
+            1385,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-09-1988",
+        "Coordinate": [
+            953,
+            636,
+            1370,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            950,
+            730,
+            1338,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            833,
+            1231,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1779,
+            833,
+            2063,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            940,
+            2150,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            928,
+            932,
+            1065,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bhagat  Bail and Tella",
+        "Coordinate": [
+            985,
+            1039,
+            2207,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bedi-Sami",
+        "Coordinate": [
+            988,
+            1146,
+            1796,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 16, Ramachandran Marg, Kota 729420",
+        "Coordinate": [
+            895,
+            1278,
+            2181,
+            1482
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 805, Padmanabhan Circle, Parbhani-497795",
+        "Coordinate": [
+            894,
+            1547,
+            2334,
+            1778
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9718892324",
+        "Coordinate": [
+            1860,
+            1808,
+            2290,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7443300273",
+        "Coordinate": [
+            885,
+            1808,
+            1322,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            905,
+            1946,
+            1505,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Patrick Mane - 7497905355",
+        "Coordinate": [
+            967,
+            2053,
+            2102,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bahadurjit Kashyap - 8427000466",
+        "Coordinate": [
+            972,
+            2182,
+            2289,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "694000000000.0",
+        "Coordinate": [
+            572,
+            2388,
+            1156,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            614,
+            2481,
+            938,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2023",
+        "Coordinate": [
+            613,
+            2576,
+            1029,
+            2672
+        ]
+    }
+]

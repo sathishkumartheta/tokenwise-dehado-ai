@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amara Samra",
+        "Coordinate": [
+            922,
+            474,
+            1388,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qarin Samra",
+        "Coordinate": [
+            926,
+            550,
+            1316,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/16/1990",
+        "Coordinate": [
+            942,
+            682,
+            1236,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            920,
+            768,
+            1206,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            852,
+            1082,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1718,
+            858,
+            2030,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1768,
+            945,
+            2038,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            952,
+            960,
+            1092,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sehgal Group",
+        "Coordinate": [
+            1004,
+            1058,
+            1806,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Peri-Sama",
+        "Coordinate": [
+            982,
+            1170,
+            2100,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70, Kaul Ganj, Gandhinagar-774410",
+        "Coordinate": [
+            920,
+            1286,
+            2220,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/18, Bhakta Street, Bellary 093582",
+        "Coordinate": [
+            928,
+            1536,
+            2136,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7377829236",
+        "Coordinate": [
+            906,
+            1785,
+            1326,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9583859141",
+        "Coordinate": [
+            1838,
+            1760,
+            2312,
+            1851
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Marathi, Bengali",
+        "Coordinate": [
+            922,
+            1919,
+            1818,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishaan Sunder - 7985864691",
+        "Coordinate": [
+            974,
+            2006,
+            1844,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krishna Bera - 7225552060",
+        "Coordinate": [
+            960,
+            2132,
+            1802,
+            2229
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            606,
+            2420,
+            920,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/19/2024",
+        "Coordinate": [
+            612,
+            2514,
+            1036,
+            2601
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Naveen Rattan",
+        "Coordinate": [
+            898,
+            388,
+            1424,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Owen Rattan",
+        "Coordinate": [
+            891,
+            484,
+            1369,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-12-1971",
+        "Coordinate": [
+            897,
+            589,
+            1237,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            882,
+            683,
+            1039,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            881,
+            786,
+            1122,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1842,
+            784,
+            2029,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            887,
+            2117,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            890,
+            888,
+            1000,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Chakraborty-Nath",
+        "Coordinate": [
+            965,
+            981,
+            2148,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Yohannan-Kari",
+        "Coordinate": [
+            964,
+            1099,
+            2074,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 165, Tank, Eluru 475575",
+        "Coordinate": [
+            895,
+            1277,
+            2054,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 01, Mukherjee Ganj, Karaikudi-691311",
+        "Coordinate": [
+            891,
+            1524,
+            2308,
+            1663
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7738576415",
+        "Coordinate": [
+            1865,
+            1748,
+            2275,
+            1846
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9932525267",
+        "Coordinate": [
+            887,
+            1758,
+            1333,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Gujarati",
+        "Coordinate": [
+            877,
+            1884,
+            1904,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Dhingra - 7489463984",
+        "Coordinate": [
+            944,
+            2000,
+            2150,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Irya Ranganathan - 7013971802",
+        "Coordinate": [
+            948,
+            2124,
+            2234,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "964000000000.0",
+        "Coordinate": [
+            589,
+            2330,
+            1131,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            592,
+            2422,
+            862,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/20/2022",
+        "Coordinate": [
+            591,
+            2512,
+            1060,
+            2604
+        ]
+    }
+]

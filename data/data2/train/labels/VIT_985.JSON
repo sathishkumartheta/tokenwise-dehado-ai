@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aahana Nagy",
+        "Coordinate": [
+            902,
+            434,
+            1436,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Nagy",
+        "Coordinate": [
+            896,
+            526,
+            1434,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/25/1997",
+        "Coordinate": [
+            924,
+            624,
+            1376,
+            712
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            940,
+            738,
+            1586,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            822,
+            1292,
+            906
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            984,
+            932,
+            1138,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pau-Ben",
+        "Coordinate": [
+            1008,
+            1036,
+            1822,
+            1132
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            822,
+            2082,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            926,
+            2156,
+            1008
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Shetty-Sachdev",
+        "Coordinate": [
+            1000,
+            1162,
+            2168,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 159, Munshi Nagar, Bathinda 870426",
+        "Coordinate": [
+            884,
+            1338,
+            2212,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "79/50, Batta Circle, Sikar 063828",
+        "Coordinate": [
+            878,
+            1594,
+            2272,
+            1726
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9645552780",
+        "Coordinate": [
+            882,
+            1800,
+            1346,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali",
+        "Coordinate": [
+            900,
+            1938,
+            1710,
+            2042
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7198728028",
+        "Coordinate": [
+            1866,
+            1802,
+            2332,
+            1902
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Azad Merchant - 7822440833",
+        "Coordinate": [
+            978,
+            2046,
+            2228,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omisha Dhar - 9534860782",
+        "Coordinate": [
+            1026,
+            2172,
+            2292,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "224103000000",
+        "Coordinate": [
+            620,
+            2380,
+            1252,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            660,
+            2472,
+            980,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/20/2022",
+        "Coordinate": [
+            614,
+            2566,
+            1144,
+            2656
+        ]
+    }
+]

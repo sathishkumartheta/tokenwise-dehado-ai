@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Saanvi Badal",
+        "Coordinate": [
+            889,
+            447,
+            1305,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Badal",
+        "Coordinate": [
+            882,
+            544,
+            1529,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/1965",
+        "Coordinate": [
+            908,
+            663,
+            1248,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            901,
+            768,
+            1257,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            875,
+            1267,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            991,
+            967,
+            1093,
+            1051
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1857,
+            810,
+            2159,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1876,
+            946,
+            2204,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Bajwa  Nigam and Mammen",
+        "Coordinate": [
+            1027,
+            1058,
+            2454,
+            1177
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dhar Group",
+        "Coordinate": [
+            1034,
+            1186,
+            2028,
+            1298
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/335, Kalla Marg, Khora  010009",
+        "Coordinate": [
+            896,
+            1288,
+            2282,
+            1488
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 878, Aggarwal Zila, Katihar 283541",
+        "Coordinate": [
+            941,
+            1533,
+            2373,
+            1738
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8661453393",
+        "Coordinate": [
+            1873,
+            1781,
+            2328,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8469750844",
+        "Coordinate": [
+            896,
+            1807,
+            1334,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Bengali",
+        "Coordinate": [
+            948,
+            1933,
+            1793,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Bedi - 9572790223",
+        "Coordinate": [
+            913,
+            2085,
+            2090,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chandran Lala - 7138479408",
+        "Coordinate": [
+            1074,
+            2194,
+            2254,
+            2311
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IVFYF4273D",
+        "Coordinate": [
+            1702,
+            2366,
+            2199,
+            2534
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            630,
+            2482,
+            894,
+            2596
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/6/2022",
+        "Coordinate": [
+            611,
+            2599,
+            1084,
+            2718
+        ]
+    }
+]

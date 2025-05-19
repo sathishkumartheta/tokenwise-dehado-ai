@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rajeshri Ratti",
+        "Coordinate": [
+            961,
+            440,
+            1582,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hemang Ratti",
+        "Coordinate": [
+            985,
+            543,
+            1547,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/1979",
+        "Coordinate": [
+            1045,
+            643,
+            1458,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            1029,
+            742,
+            1416,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            963,
+            840,
+            1315,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1796,
+            840,
+            2105,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            945,
+            2183,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1043,
+            944,
+            1170,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chakraborty PLC",
+        "Coordinate": [
+            999,
+            1046,
+            2248,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sarna and Sons",
+        "Coordinate": [
+            1041,
+            1158,
+            2305,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02/585, Narula Marg, Mathura-773031",
+        "Coordinate": [
+            934,
+            1294,
+            2270,
+            1515
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/192, Chokshi Marg, Ichalkaranji-201240",
+        "Coordinate": [
+            914,
+            1553,
+            2107,
+            1791
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7642338596",
+        "Coordinate": [
+            1862,
+            1818,
+            2350,
+            1943
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7841317977",
+        "Coordinate": [
+            917,
+            1822,
+            1354,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            960,
+            1952,
+            1727,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kavya Mannan - 7372708191",
+        "Coordinate": [
+            1014,
+            2063,
+            2258,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekani Bajwa - 7277939641",
+        "Coordinate": [
+            1046,
+            2190,
+            2323,
+            2318
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "378000000000.0",
+        "Coordinate": [
+            620,
+            2393,
+            1211,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            644,
+            2484,
+            1176,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2022",
+        "Coordinate": [
+            686,
+            2578,
+            1161,
+            2683
+        ]
+    }
+]

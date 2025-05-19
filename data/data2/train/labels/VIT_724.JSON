@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Megha Comar",
+        "Coordinate": [
+            892,
+            433,
+            1446,
+            513
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Comar",
+        "Coordinate": [
+            909,
+            538,
+            1459,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/7/1973",
+        "Coordinate": [
+            915,
+            626,
+            1352,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            960,
+            733,
+            1352,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            821,
+            1222,
+            919
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1759,
+            836,
+            2085,
+            915
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            881,
+            924,
+            1059,
+            1007
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            932,
+            2123,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Chowdhury Group",
+        "Coordinate": [
+            990,
+            1031,
+            2241,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Arora  Bakshi and Prasad",
+        "Coordinate": [
+            990,
+            1132,
+            2363,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 18, Dewan Ganj, Gaya-625202",
+        "Coordinate": [
+            879,
+            1251,
+            2252,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 167, Pal, Dehradun 267011",
+        "Coordinate": [
+            892,
+            1534,
+            2055,
+            1751
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9033503328",
+        "Coordinate": [
+            874,
+            1809,
+            1363,
+            1913
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7276260577",
+        "Coordinate": [
+            1530,
+            1860,
+            2126,
+            1935
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, Marathi, English",
+        "Coordinate": [
+            881,
+            1929,
+            2355,
+            2031
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanaya Tiwari - 8648675601",
+        "Coordinate": [
+            926,
+            2065,
+            2126,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isaiah Sant - 9306602881",
+        "Coordinate": [
+            947,
+            2166,
+            2190,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "802189000000",
+        "Coordinate": [
+            590,
+            2372,
+            1142,
+            2458
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SDTUB6367H",
+        "Coordinate": [
+            1629,
+            2374,
+            2134,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            573,
+            2464,
+            1333,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/16/2022",
+        "Coordinate": [
+            585,
+            2560,
+            1200,
+            2648
+        ]
+    }
+]

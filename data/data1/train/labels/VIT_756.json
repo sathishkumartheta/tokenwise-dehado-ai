@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maya Singh",
+        "Coordinate": [
+            884,
+            433,
+            1236,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tristan Singh",
+        "Coordinate": [
+            924,
+            533,
+            1397,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/2006",
+        "Coordinate": [
+            935,
+            634,
+            1299,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            931,
+            731,
+            1112,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            924,
+            832,
+            1177,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1741,
+            819,
+            2034,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            939,
+            2042,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            947,
+            940,
+            1115,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sachdev PLC",
+        "Coordinate": [
+            998,
+            1040,
+            1985,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Gulati Inc",
+        "Coordinate": [
+            977,
+            1148,
+            1861,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/123, Uppal Street, Katni-539418",
+        "Coordinate": [
+            928,
+            1286,
+            2211,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 54, Zacharia Zila, Ratlam 140035",
+        "Coordinate": [
+            883,
+            1545,
+            2269,
+            1700
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7132392950",
+        "Coordinate": [
+            1841,
+            1808,
+            2317,
+            1932
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8716568760",
+        "Coordinate": [
+            875,
+            1814,
+            1332,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu",
+        "Coordinate": [
+            932,
+            1943,
+            1560,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Umang Bala - 7114415835",
+        "Coordinate": [
+            959,
+            2049,
+            1899,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan Tiwari - 9975902246",
+        "Coordinate": [
+            963,
+            2186,
+            2010,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "368000000000.0",
+        "Coordinate": [
+            605,
+            2383,
+            1153,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            662,
+            2477,
+            929,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/25/2022",
+        "Coordinate": [
+            654,
+            2569,
+            1152,
+            2679
+        ]
+    }
+]

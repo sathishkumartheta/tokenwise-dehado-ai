@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qasim Rama",
+        "Coordinate": [
+            877,
+            440,
+            1532,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gopal Rama",
+        "Coordinate": [
+            872,
+            525,
+            1425,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/10/1986",
+        "Coordinate": [
+            902,
+            637,
+            1320,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            922,
+            725,
+            1362,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            822,
+            1257,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1739,
+            835,
+            1969,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            937,
+            2162,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            942,
+            932,
+            1100,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Uppal-Varma",
+        "Coordinate": [
+            965,
+            1037,
+            2075,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Karpe  Sarkar and Tella",
+        "Coordinate": [
+            984,
+            1157,
+            2307,
+            1290
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44, Tripathi Road, Ludhiana-326739",
+        "Coordinate": [
+            885,
+            1285,
+            2337,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "04, Menon Street, Tadepalligudem-119247",
+        "Coordinate": [
+            885,
+            1547,
+            2237,
+            1780
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7389667596",
+        "Coordinate": [
+            875,
+            1795,
+            1385,
+            1930
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9120163072",
+        "Coordinate": [
+            1840,
+            1807,
+            2350,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam",
+        "Coordinate": [
+            880,
+            1932,
+            1757,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Simon Om - 7821723427",
+        "Coordinate": [
+            935,
+            2052,
+            2080,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raagini Subramanian - 7286124351",
+        "Coordinate": [
+            937,
+            2192,
+            2342,
+            2305
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IASNB7989Q",
+        "Coordinate": [
+            1627,
+            2390,
+            2167,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            575,
+            2487,
+            922,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/19/2023",
+        "Coordinate": [
+            577,
+            2567,
+            1092,
+            2665
+        ]
+    }
+]

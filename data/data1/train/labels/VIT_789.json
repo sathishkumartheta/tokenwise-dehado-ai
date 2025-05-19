@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaitra Seshadri",
+        "Coordinate": [
+            875,
+            440,
+            1321,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mason Seshadri",
+        "Coordinate": [
+            879,
+            542,
+            1381,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-02-1993",
+        "Coordinate": [
+            877,
+            645,
+            1130,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            878,
+            740,
+            1329,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            880,
+            844,
+            1128,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            842,
+            1991,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            952,
+            2026,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            881,
+            953,
+            979,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pal  Pathak and Sethi",
+        "Coordinate": [
+            952,
+            1045,
+            1970,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Konda Inc",
+        "Coordinate": [
+            965,
+            1148,
+            1624,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 96, Saran Zila, Buxar 257477",
+        "Coordinate": [
+            884,
+            1280,
+            1903,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "721, Kapadia Street, Kottayam-756191",
+        "Coordinate": [
+            871,
+            1547,
+            1957,
+            1676
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9003519714",
+        "Coordinate": [
+            1861,
+            1816,
+            2177,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7745793818",
+        "Coordinate": [
+            880,
+            1816,
+            1217,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            891,
+            1964,
+            1324,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurangi Prakash - 9488341544",
+        "Coordinate": [
+            941,
+            2060,
+            1876,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Timothy Date - 8888162849",
+        "Coordinate": [
+            947,
+            2189,
+            1746,
+            2296
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "738000000000.0",
+        "Coordinate": [
+            596,
+            2403,
+            1068,
+            2484
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RXTBF4275D",
+        "Coordinate": [
+            1647,
+            2399,
+            2024,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            582,
+            2491,
+            843,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/20/2022",
+        "Coordinate": [
+            581,
+            2585,
+            872,
+            2669
+        ]
+    }
+]

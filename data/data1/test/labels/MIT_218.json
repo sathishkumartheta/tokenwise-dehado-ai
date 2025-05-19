@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lekha Kalita",
+        "Coordinate": [
+            879,
+            403,
+            1256,
+            494
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Akshay Kalita",
+        "Coordinate": [
+            875,
+            507,
+            1272,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-11-1982",
+        "Coordinate": [
+            870,
+            604,
+            1136,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            874,
+            697,
+            1111,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            883,
+            809,
+            1053,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            781,
+            1928,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            901,
+            2007,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            892,
+            914,
+            1009,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saraf  Sane and Bhandari",
+        "Coordinate": [
+            942,
+            976,
+            2056,
+            1081
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Rama Ltd",
+        "Coordinate": [
+            959,
+            1091,
+            1624,
+            1188
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99, Lad Circle, Eluru 320441",
+        "Coordinate": [
+            889,
+            1208,
+            1717,
+            1315
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 96, Mahal Nagar, Agartala-901495",
+        "Coordinate": [
+            863,
+            1469,
+            2069,
+            1613
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9101224949",
+        "Coordinate": [
+            1836,
+            1740,
+            2200,
+            1827
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9698049791",
+        "Coordinate": [
+            874,
+            1746,
+            1284,
+            1839
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Bengali, Telugu",
+        "Coordinate": [
+            871,
+            1882,
+            1703,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Praneel Sawhney - 9110093347",
+        "Coordinate": [
+            954,
+            1994,
+            1805,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anay Sarraf - 8278687926",
+        "Coordinate": [
+            972,
+            2124,
+            1735,
+            2229
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "274000000000.0",
+        "Coordinate": [
+            578,
+            2334,
+            997,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            594,
+            2432,
+            898,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-02-2023",
+        "Coordinate": [
+            603,
+            2529,
+            933,
+            2608
+        ]
+    }
+]

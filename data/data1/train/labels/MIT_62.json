@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darsh Basak",
+        "Coordinate": [
+            893,
+            398,
+            1348,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vihaan Basak",
+        "Coordinate": [
+            902,
+            505,
+            1391,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-08-1962",
+        "Coordinate": [
+            916,
+            606,
+            1250,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            702,
+            1230,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            911,
+            805,
+            1095,
+            906
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1789,
+            787,
+            1973,
+            892
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            905,
+            2049,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            926,
+            912,
+            1082,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sant Ltd",
+        "Coordinate": [
+            1001,
+            998,
+            1851,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Taneja-Balan",
+        "Coordinate": [
+            1001,
+            1119,
+            1861,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "532, Mammen Road, Jalgaon-999347",
+        "Coordinate": [
+            885,
+            1247,
+            2054,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 146, Saini Street, Hajipur-806578",
+        "Coordinate": [
+            883,
+            1479,
+            2101,
+            1631
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8909195017",
+        "Coordinate": [
+            1845,
+            1749,
+            2250,
+            1833
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9033172817",
+        "Coordinate": [
+            889,
+            1762,
+            1262,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, Tamil",
+        "Coordinate": [
+            896,
+            1888,
+            1638,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Thakkar - 8982445787",
+        "Coordinate": [
+            963,
+            2006,
+            1880,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lipika Madan - 9921710547",
+        "Coordinate": [
+            960,
+            2126,
+            1856,
+            2220
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "618000000000.0",
+        "Coordinate": [
+            598,
+            2337,
+            1075,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            601,
+            2428,
+            904,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/24/2024",
+        "Coordinate": [
+            606,
+            2523,
+            1011,
+            2609
+        ]
+    }
+]

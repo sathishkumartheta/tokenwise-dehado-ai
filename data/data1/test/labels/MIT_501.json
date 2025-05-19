@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mugdha Ben",
+        "Coordinate": [
+            912,
+            432,
+            1287,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Ben",
+        "Coordinate": [
+            932,
+            535,
+            1247,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/21/1960",
+        "Coordinate": [
+            958,
+            635,
+            1307,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            955,
+            729,
+            1393,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            834,
+            1198,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            823,
+            1994,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            933,
+            2103,
+            1019
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1021,
+            930,
+            1137,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Karpe Ltd",
+        "Coordinate": [
+            1010,
+            1033,
+            1853,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Wagle  Desai and Chander",
+        "Coordinate": [
+            971,
+            1139,
+            2285,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23/37, Bhalla Street, Ratlam 676706",
+        "Coordinate": [
+            942,
+            1264,
+            2294,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "32/863, Chowdhury Nagar, Durgapur-008484",
+        "Coordinate": [
+            959,
+            1517,
+            2263,
+            1731
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8139075007",
+        "Coordinate": [
+            1910,
+            1790,
+            2323,
+            1898
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8547763789",
+        "Coordinate": [
+            942,
+            1796,
+            1395,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            956,
+            1931,
+            1553,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lipika Kulkarni - 8753637009",
+        "Coordinate": [
+            1011,
+            2034,
+            2099,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samarth Kala - 8624057984",
+        "Coordinate": [
+            1047,
+            2176,
+            2191,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "985000000000.0",
+        "Coordinate": [
+            670,
+            2374,
+            1320,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            700,
+            2467,
+            987,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-08-2025",
+        "Coordinate": [
+            698,
+            2560,
+            1104,
+            2648
+        ]
+    }
+]

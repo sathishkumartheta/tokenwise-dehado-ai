@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Triveni Iyengar",
+        "Coordinate": [
+            870,
+            422,
+            1344,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Raghav Iyengar",
+        "Coordinate": [
+            883,
+            527,
+            1371,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-04-1974",
+        "Coordinate": [
+            889,
+            622,
+            1185,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            869,
+            725,
+            1155,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            829,
+            1157,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1751,
+            814,
+            1976,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1788,
+            928,
+            2010,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            945,
+            929,
+            1064,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sinha PLC",
+        "Coordinate": [
+            954,
+            1036,
+            1636,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhagat-Sarin",
+        "Coordinate": [
+            979,
+            1140,
+            1801,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "72/65, Shankar Street, Secunderabad-352090",
+        "Coordinate": [
+            874,
+            1298,
+            2262,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 776, Oza Street, Sagar 929831",
+        "Coordinate": [
+            874,
+            1531,
+            2013,
+            1682
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9320209009",
+        "Coordinate": [
+            1743,
+            1837,
+            2093,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8100391531",
+        "Coordinate": [
+            868,
+            1807,
+            1270,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Gujarati, Marathi",
+        "Coordinate": [
+            881,
+            1934,
+            1848,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vrinda Kalita - 9787872013",
+        "Coordinate": [
+            945,
+            2041,
+            1867,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Turvi Mallick - 7791378820",
+        "Coordinate": [
+            973,
+            2169,
+            1833,
+            2289
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "286000000000.0",
+        "Coordinate": [
+            597,
+            2379,
+            1033,
+            2469
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HRIJG5455E",
+        "Coordinate": [
+            1605,
+            2372,
+            2082,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            625,
+            2471,
+            962,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/13/2025",
+        "Coordinate": [
+            648,
+            2561,
+            967,
+            2652
+        ]
+    }
+]

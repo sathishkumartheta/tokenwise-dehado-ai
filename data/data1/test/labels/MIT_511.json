@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wakeeta Chaudhari",
+        "Coordinate": [
+            921,
+            447,
+            1531,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Chaudhari",
+        "Coordinate": [
+            964,
+            546,
+            1507,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/25/1991",
+        "Coordinate": [
+            973,
+            648,
+            1285,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            977,
+            748,
+            1268,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            974,
+            852,
+            1193,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            843,
+            2000,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            952,
+            2058,
+            1048
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1066,
+            952,
+            1186,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Dass-Wali",
+        "Coordinate": [
+            1084,
+            1049,
+            1794,
+            1169
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kalita  Rege and Keer",
+        "Coordinate": [
+            1064,
+            1160,
+            2212,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 162, Ratti Chowk, Guntakal-266678",
+        "Coordinate": [
+            937,
+            1325,
+            2373,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61, Nair Marg, Gaya 749935",
+        "Coordinate": [
+            931,
+            1579,
+            2002,
+            1740
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9413881804",
+        "Coordinate": [
+            1879,
+            1814,
+            2273,
+            1933
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9943163569",
+        "Coordinate": [
+            917,
+            1808,
+            1356,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Malayalam",
+        "Coordinate": [
+            944,
+            1951,
+            1864,
+            2058
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Naik - 9087009479",
+        "Coordinate": [
+            983,
+            2066,
+            1914,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vansha Srinivasan - 9179706353",
+        "Coordinate": [
+            976,
+            2192,
+            2050,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "276000000000.0",
+        "Coordinate": [
+            615,
+            2387,
+            1112,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            646,
+            2477,
+            1000,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/17/2022",
+        "Coordinate": [
+            687,
+            2574,
+            1044,
+            2681
+        ]
+    }
+]

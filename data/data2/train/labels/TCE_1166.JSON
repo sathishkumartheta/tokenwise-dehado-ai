@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Teerth Shah",
+        "Coordinate": [
+            926,
+            481,
+            1408,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hardik Shah",
+        "Coordinate": [
+            925,
+            593,
+            1433,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/28/2007",
+        "Coordinate": [
+            920,
+            677,
+            1350,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            928,
+            786,
+            1523,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            952,
+            866,
+            1274,
+            954
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1745,
+            860,
+            1930,
+            949
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            965,
+            2090,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1037,
+            976,
+            1171,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Boase-Mistry",
+        "Coordinate": [
+            989,
+            1063,
+            2013,
+            1165
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhatia  Mander and Tara",
+        "Coordinate": [
+            970,
+            1173,
+            2270,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45/61, Wason Path, Dibrugarh-106994",
+        "Coordinate": [
+            923,
+            1287,
+            2214,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "319, Thaman Chowk, Nagaon-201089",
+        "Coordinate": [
+            918,
+            1533,
+            2306,
+            1679
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9287414869",
+        "Coordinate": [
+            926,
+            1803,
+            1367,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9825675080",
+        "Coordinate": [
+            1850,
+            1815,
+            2274,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Kannada",
+        "Coordinate": [
+            923,
+            1928,
+            1863,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abhimanyu Srivastava - 7856155262",
+        "Coordinate": [
+            981,
+            2025,
+            2268,
+            2134
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Victor Divan - 9498819813",
+        "Coordinate": [
+            983,
+            2162,
+            2017,
+            2276
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            633,
+            2433,
+            1034,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/21/2024",
+        "Coordinate": [
+            651,
+            2535,
+            1059,
+            2614
+        ]
+    }
+]

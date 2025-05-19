@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faqid Parmer",
+        "Coordinate": [
+            921,
+            484,
+            1464,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kai Parmer",
+        "Coordinate": [
+            926,
+            576,
+            1464,
+            680
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/30/2004",
+        "Coordinate": [
+            941,
+            684,
+            1324,
+            782
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            902,
+            781,
+            1096,
+            873
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            924,
+            879,
+            1169,
+            991
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            864,
+            1995,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            921,
+            972,
+            1083,
+            1057
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            974,
+            2038,
+            1059
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Shankar  Gokhale and Ratta",
+        "Coordinate": [
+            957,
+            1066,
+            2282,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chaudhry Ltd",
+        "Coordinate": [
+            969,
+            1189,
+            2082,
+            1294
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/86, Sathe Marg, Agartala 957903",
+        "Coordinate": [
+            923,
+            1335,
+            2276,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06/428, Kapadia Street, Jehanabad 887691",
+        "Coordinate": [
+            907,
+            1554,
+            2243,
+            1771
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7448016371",
+        "Coordinate": [
+            917,
+            1820,
+            1347,
+            1923
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8260633433",
+        "Coordinate": [
+            1834,
+            1794,
+            2279,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, English",
+        "Coordinate": [
+            933,
+            1925,
+            1809,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Barkha Vasa - 8924014445",
+        "Coordinate": [
+            987,
+            2050,
+            1979,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faqid Gill - 9261214601",
+        "Coordinate": [
+            994,
+            2182,
+            2007,
+            2299
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            632,
+            2447,
+            948,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/13/2022",
+        "Coordinate": [
+            650,
+            2549,
+            1063,
+            2638
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "391148000000",
+        "Coordinate": [
+            625,
+            2358,
+            1197,
+            2457
+        ]
+    }
+]

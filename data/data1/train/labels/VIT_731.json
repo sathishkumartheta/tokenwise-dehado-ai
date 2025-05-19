@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayamai Peri",
+        "Coordinate": [
+            888,
+            420,
+            1444,
+            510
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Baljiwan Peri",
+        "Coordinate": [
+            892,
+            519,
+            1448,
+            616
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/23/1970",
+        "Coordinate": [
+            885,
+            621,
+            1264,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            882,
+            718,
+            1362,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            823,
+            1142,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1811,
+            820,
+            2066,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            929,
+            2180,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            956,
+            925,
+            1085,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Choudhry  Das and Reddy",
+        "Coordinate": [
+            982,
+            1025,
+            2365,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Swaminathan-Ghose",
+        "Coordinate": [
+            975,
+            1137,
+            2236,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Thaker, Malegaon 735399",
+        "Coordinate": [
+            880,
+            1280,
+            2219,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/530, Shetty Nagar, Jamshedpur-518347",
+        "Coordinate": [
+            1284,
+            1521,
+            2340,
+            1710
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7008914616",
+        "Coordinate": [
+            1868,
+            1795,
+            2270,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7918594692",
+        "Coordinate": [
+            883,
+            1796,
+            1328,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Tamil",
+        "Coordinate": [
+            879,
+            1932,
+            1890,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Bava - 8297684065",
+        "Coordinate": [
+            917,
+            2030,
+            2114,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udyati Garg - 8147208557",
+        "Coordinate": [
+            946,
+            2169,
+            2120,
+            2291
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IAYFC1640M",
+        "Coordinate": [
+            1662,
+            2377,
+            2185,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            612,
+            2465,
+            914,
+            2550
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2025",
+        "Coordinate": [
+            590,
+            2559,
+            1024,
+            2645
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "6/8/2024",
+        "Coordinate": [
+            630,
+            2508,
+            1160,
+            2615
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            628,
+            2412,
+            930,
+            2509
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arunima Prasad - 9731112825",
+        "Coordinate": [
+            996,
+            2138,
+            2076,
+            2215
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandani Luthra - 7246533925",
+        "Coordinate": [
+            1002,
+            2018,
+            2060,
+            2111
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Hindi, Telugu",
+        "Coordinate": [
+            908,
+            1902,
+            2048,
+            1977
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8649034935",
+        "Coordinate": [
+            1832,
+            1776,
+            2240,
+            1867
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7278851943",
+        "Coordinate": [
+            910,
+            1790,
+            1364,
+            1875
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 79, Bandi Road, Pondicherry 532932",
+        "Coordinate": [
+            920,
+            1534,
+            2212,
+            1661
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 90, Kuruvilla Road, Ichalkaranji 764344",
+        "Coordinate": [
+            920,
+            1298,
+            2296,
+            1437
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Verma Group",
+        "Coordinate": [
+            996,
+            1144,
+            1928,
+            1223
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Memon LLC",
+        "Coordinate": [
+            996,
+            1052,
+            1836,
+            1123
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1778,
+            970,
+            2076,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1744,
+            866,
+            1956,
+            937
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            870,
+            1208,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            960,
+            952,
+            1080,
+            1043
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            928,
+            748,
+            1138,
+            851
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/5/1976",
+        "Coordinate": [
+            910,
+            670,
+            1238,
+            751
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Dutt",
+        "Coordinate": [
+            934,
+            570,
+            1354,
+            667
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Balveer Dutt",
+        "Coordinate": [
+            932,
+            484,
+            1312,
+            573
+        ]
+    }
+]

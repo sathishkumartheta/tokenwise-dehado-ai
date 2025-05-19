@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedika Kapur",
+        "Coordinate": [
+            904,
+            418,
+            1376,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faras Kapur",
+        "Coordinate": [
+            915,
+            518,
+            1332,
+            613
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-11-1993",
+        "Coordinate": [
+            937,
+            620,
+            1245,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            932,
+            712,
+            1406,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            817,
+            1241,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1804,
+            809,
+            2022,
+            892
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1898,
+            922,
+            2134,
+            1009
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            985,
+            923,
+            1106,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Vohra  Chacko and Mannan",
+        "Coordinate": [
+            1002,
+            1018,
+            2283,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sarkar-Buch",
+        "Coordinate": [
+            1004,
+            1135,
+            1969,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "243, Sane Circle, Jehanabad-810818",
+        "Coordinate": [
+            942,
+            1289,
+            2247,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 794, Kumar Path, Ambala-172260",
+        "Coordinate": [
+            913,
+            1543,
+            2128,
+            1697
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9123015530",
+        "Coordinate": [
+            1869,
+            1801,
+            2246,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9940753793",
+        "Coordinate": [
+            889,
+            1793,
+            1324,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            948,
+            1929,
+            1394,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omaja Mishra - 9444194703",
+        "Coordinate": [
+            990,
+            2034,
+            1883,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Suhani Sengupta - 7250746671",
+        "Coordinate": [
+            991,
+            2175,
+            2023,
+            2298
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "964000000000.0",
+        "Coordinate": [
+            592,
+            2371,
+            1096,
+            2463
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            622,
+            2463,
+            1014,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-02-2022",
+        "Coordinate": [
+            656,
+            2558,
+            1007,
+            2656
+        ]
+    }
+]

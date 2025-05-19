@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lila Bal",
+        "Coordinate": [
+            890,
+            476,
+            1250,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishaan Bal",
+        "Coordinate": [
+            905,
+            581,
+            1310,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/28/2001",
+        "Coordinate": [
+            895,
+            651,
+            1242,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            750,
+            1218,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            851,
+            1122,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            905,
+            960,
+            1018,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1680,
+            856,
+            1890,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1765,
+            941,
+            1990,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sidhu  Ratta and Dayal",
+        "Coordinate": [
+            985,
+            1046,
+            2170,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Choudhry PLC",
+        "Coordinate": [
+            985,
+            1151,
+            1902,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04/38, Buch, Avadi 199120",
+        "Coordinate": [
+            910,
+            1270,
+            1778,
+            1375
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 41, Mutti Circle, Coimbatore-641509",
+        "Coordinate": [
+            895,
+            1511,
+            2206,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9832532084",
+        "Coordinate": [
+            885,
+            1765,
+            1290,
+            1851
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9447877555",
+        "Coordinate": [
+            1800,
+            1791,
+            2202,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            900,
+            1906,
+            1534,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warda Narayanan - 8596848033",
+        "Coordinate": [
+            970,
+            2000,
+            1950,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gabriel Borah - 7654127311",
+        "Coordinate": [
+            975,
+            2116,
+            1934,
+            2227
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            630,
+            2411,
+            1046,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/11/2023",
+        "Coordinate": [
+            620,
+            2495,
+            1006,
+            2591
+        ]
+    }
+]

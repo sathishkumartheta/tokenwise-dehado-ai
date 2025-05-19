@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandran Sagar",
+        "Coordinate": [
+            920,
+            456,
+            1460,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Sagar",
+        "Coordinate": [
+            896,
+            552,
+            1394,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1999",
+        "Coordinate": [
+            954,
+            632,
+            1198,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            960,
+            734,
+            1222,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            834,
+            1154,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            936,
+            937,
+            1116,
+            1028
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1734,
+            826,
+            1954,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            934,
+            2112,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Soni-Choudhury",
+        "Coordinate": [
+            1012,
+            1032,
+            1864,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mannan and Sons",
+        "Coordinate": [
+            1028,
+            1158,
+            1872,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 284, Deol Street, Jalandhar 018313",
+        "Coordinate": [
+            903,
+            1290,
+            2232,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/403, Om Nagar, Chapra-517333",
+        "Coordinate": [
+            928,
+            1576,
+            2100,
+            1696
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9988392313",
+        "Coordinate": [
+            900,
+            1814,
+            1318,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Gujarati",
+        "Coordinate": [
+            936,
+            1943,
+            1688,
+            2037
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7700494205",
+        "Coordinate": [
+            1854,
+            1802,
+            2284,
+            1906
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishwar Kaul - 8708775175",
+        "Coordinate": [
+            1022,
+            2062,
+            1836,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Xiti Gade - 9230344574",
+        "Coordinate": [
+            1016,
+            2184,
+            1792,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "367217000000",
+        "Coordinate": [
+            626,
+            2392,
+            1094,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            634,
+            2486,
+            838,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/18/2024",
+        "Coordinate": [
+            634,
+            2582,
+            938,
+            2662
+        ]
+    }
+]

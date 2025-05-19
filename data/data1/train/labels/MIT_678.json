@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Andrew Buch",
+        "Coordinate": [
+            871,
+            436,
+            1330,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harish Buch",
+        "Coordinate": [
+            872,
+            537,
+            1309,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-07-1963",
+        "Coordinate": [
+            874,
+            637,
+            1194,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            872,
+            736,
+            1200,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            837,
+            1171,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1811,
+            831,
+            2001,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            941,
+            2070,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            880,
+            946,
+            1027,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Rai  Kumar and Sandhu",
+        "Coordinate": [
+            946,
+            1043,
+            2127,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dasgupta  Dixit and Raj",
+        "Coordinate": [
+            937,
+            1150,
+            2210,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19/69, Gulati, Uluberia-031387",
+        "Coordinate": [
+            883,
+            1280,
+            1964,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 68, Varma Street, Dindigul-355262",
+        "Coordinate": [
+            870,
+            1541,
+            2276,
+            1687
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8022800501",
+        "Coordinate": [
+            1883,
+            1806,
+            2250,
+            1910
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9760320462",
+        "Coordinate": [
+            884,
+            1808,
+            1265,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Kannada, Telugu",
+        "Coordinate": [
+            872,
+            1945,
+            2074,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Laban Malhotra - 8618301889",
+        "Coordinate": [
+            937,
+            2052,
+            1938,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zehaan Srinivasan - 8016164790",
+        "Coordinate": [
+            954,
+            2189,
+            2037,
+            2309
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LTVKT6973Y",
+        "Coordinate": [
+            1638,
+            2389,
+            2041,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            582,
+            2481,
+            827,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-07-2024",
+        "Coordinate": [
+            580,
+            2572,
+            943,
+            2661
+        ]
+    }
+]

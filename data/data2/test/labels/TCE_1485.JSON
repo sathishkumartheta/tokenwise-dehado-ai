@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Brinda Nigam",
+        "Coordinate": [
+            891,
+            462,
+            1503,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaac Nigam",
+        "Coordinate": [
+            896,
+            562,
+            1490,
+            691
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/3/1971",
+        "Coordinate": [
+            896,
+            663,
+            1347,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            896,
+            748,
+            1275,
+            856
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            846,
+            1175,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1706,
+            854,
+            1996,
+            956
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            896,
+            959,
+            1087,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1762,
+            949,
+            2088,
+            1052
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Kapadia  Chandra and Lad",
+        "Coordinate": [
+            962,
+            1044,
+            2272,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kata  Desai and Varughese",
+        "Coordinate": [
+            974,
+            1148,
+            2203,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "596, Malhotra Ganj, Rourkela-247193",
+        "Coordinate": [
+            891,
+            1271,
+            2219,
+            1390
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 27, Issac Chowk, Tinsukia 240364",
+        "Coordinate": [
+            886,
+            1506,
+            2227,
+            1626
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9140927158",
+        "Coordinate": [
+            861,
+            1782,
+            1363,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8604418829",
+        "Coordinate": [
+            1828,
+            1762,
+            2300,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Tamil, English",
+        "Coordinate": [
+            871,
+            1902,
+            1874,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advik Gandhi - 9100065018",
+        "Coordinate": [
+            931,
+            2007,
+            1916,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavna Andra - 7083914897",
+        "Coordinate": [
+            916,
+            2118,
+            1976,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            588,
+            2391,
+            928,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/19/2024",
+        "Coordinate": [
+            635,
+            2513,
+            1023,
+            2602
+        ]
+    }
+]

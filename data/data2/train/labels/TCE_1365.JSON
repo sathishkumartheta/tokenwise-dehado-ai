@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavika Manda",
+        "Coordinate": [
+            910,
+            481,
+            1518,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Om Manda",
+        "Coordinate": [
+            920,
+            576,
+            1362,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/24/1990",
+        "Coordinate": [
+            930,
+            660,
+            1326,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            920,
+            756,
+            1290,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            875,
+            1274,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            920,
+            976,
+            1062,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1789,
+            816,
+            2122,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            920,
+            2178,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Prasad  Amble and Nayar",
+        "Coordinate": [
+            1000,
+            1046,
+            2473,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Balakrishnan PLC",
+        "Coordinate": [
+            1010,
+            1141,
+            2190,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 60, Dave Ganj, Machilipatnam 510315",
+        "Coordinate": [
+            930,
+            1301,
+            2302,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/33, Gaba Nagar, Bulandshahr-769688",
+        "Coordinate": [
+            925,
+            1541,
+            2246,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9234064803",
+        "Coordinate": [
+            925,
+            1770,
+            1382,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9409248223",
+        "Coordinate": [
+            1845,
+            1765,
+            2294,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Telugu",
+        "Coordinate": [
+            920,
+            1911,
+            1910,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abdul Sandal - 8593501538",
+        "Coordinate": [
+            980,
+            2041,
+            2166,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurav Bhalla - 7593011136",
+        "Coordinate": [
+            1020,
+            2136,
+            2118,
+            2265
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "275050000000",
+        "Coordinate": [
+            620,
+            2321,
+            918,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            630,
+            2421,
+            1014,
+            2525
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/14/2022",
+        "Coordinate": [
+            665,
+            2521,
+            1074,
+            2593
+        ]
+    }
+]

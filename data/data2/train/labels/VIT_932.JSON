@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gabriel Srinivas",
+        "Coordinate": [
+            925,
+            420,
+            1727,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jairaj Srinivas",
+        "Coordinate": [
+            922,
+            530,
+            1732,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/25/1995",
+        "Coordinate": [
+            920,
+            605,
+            1417,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            922,
+            720,
+            1307,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            812,
+            1295,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            825,
+            2142,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            932,
+            2212,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            965,
+            920,
+            1172,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sant  Ramesh and Sarkar",
+        "Coordinate": [
+            1002,
+            1022,
+            2352,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bhatnagar-Chacko",
+        "Coordinate": [
+            955,
+            1142,
+            2302,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 292, Divan Chowk, Maheshtala 677798",
+        "Coordinate": [
+            882,
+            1292,
+            2382,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "78, Apte Zila, Delhi-408935",
+        "Coordinate": [
+            890,
+            1560,
+            2360,
+            1740
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7731543735",
+        "Coordinate": [
+            860,
+            1805,
+            1370,
+            1925
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9121401755",
+        "Coordinate": [
+            1872,
+            1807,
+            2345,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            887,
+            1925,
+            1622,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Theodore Halder - 8688101340",
+        "Coordinate": [
+            992,
+            2035,
+            2325,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isha Sha - 7361357295",
+        "Coordinate": [
+            1055,
+            2167,
+            2205,
+            2297
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RWZST1075V",
+        "Coordinate": [
+            1662,
+            2380,
+            2225,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            602,
+            2470,
+            937,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2023",
+        "Coordinate": [
+            672,
+            2560,
+            1157,
+            2670
+        ]
+    }
+]

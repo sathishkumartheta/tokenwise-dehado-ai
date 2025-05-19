@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vritti Bhasin",
+        "Coordinate": [
+            870,
+            389,
+            1282,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dominic Bhasin",
+        "Coordinate": [
+            872,
+            486,
+            1373,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-08-1991",
+        "Coordinate": [
+            884,
+            584,
+            1197,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            897,
+            681,
+            1378,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            783,
+            1213,
+            875
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1827,
+            778,
+            2082,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            887,
+            2081,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            938,
+            883,
+            1093,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Magar LLC",
+        "Coordinate": [
+            965,
+            984,
+            1691,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Keer PLC",
+        "Coordinate": [
+            963,
+            1094,
+            1696,
+            1201
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "258, Saha Marg, Anantapur 787442",
+        "Coordinate": [
+            883,
+            1222,
+            2126,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/548, Sami Path, Ratlam-282491",
+        "Coordinate": [
+            878,
+            1474,
+            2142,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7641824036",
+        "Coordinate": [
+            1851,
+            1750,
+            2262,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7230482418",
+        "Coordinate": [
+            898,
+            1751,
+            1319,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Kannada, English",
+        "Coordinate": [
+            850,
+            1878,
+            2030,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Priya Natarajan - 7284079075",
+        "Coordinate": [
+            920,
+            2001,
+            1985,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Laban Ahuja - 9304401687",
+        "Coordinate": [
+            932,
+            2126,
+            1864,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "397000000000.0",
+        "Coordinate": [
+            575,
+            2326,
+            1029,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            605,
+            2414,
+            865,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-04-2025",
+        "Coordinate": [
+            589,
+            2510,
+            980,
+            2598
+        ]
+    }
+]

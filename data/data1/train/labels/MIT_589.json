@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Sachdev",
+        "Coordinate": [
+            873,
+            432,
+            1318,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Karan Sachdev",
+        "Coordinate": [
+            893,
+            530,
+            1300,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/30/1967",
+        "Coordinate": [
+            895,
+            634,
+            1175,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            894,
+            731,
+            1146,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            833,
+            1132,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1817,
+            829,
+            2031,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            936,
+            2019,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            891,
+            937,
+            992,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sarin  Khare and Sampath",
+        "Coordinate": [
+            965,
+            1038,
+            2083,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Gulati  Nadig and Bhatti",
+        "Coordinate": [
+            956,
+            1147,
+            2084,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "40, Din Ganj, Gangtok-932528",
+        "Coordinate": [
+            903,
+            1292,
+            1748,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12, Khosla Marg, Ballia-999522",
+        "Coordinate": [
+            892,
+            1538,
+            1723,
+            1663
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9551076600",
+        "Coordinate": [
+            1847,
+            1799,
+            2193,
+            1886
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8055677088",
+        "Coordinate": [
+            907,
+            1815,
+            1250,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            910,
+            1946,
+            1335,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qasim Sachdeva - 7217297994",
+        "Coordinate": [
+            970,
+            2052,
+            1836,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarna Mitra - 7387328001",
+        "Coordinate": [
+            976,
+            2180,
+            1805,
+            2281
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "268000000000.0",
+        "Coordinate": [
+            590,
+            2386,
+            1037,
+            2470
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OHAUL7826Y",
+        "Coordinate": [
+            1624,
+            2389,
+            1997,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            588,
+            2476,
+            880,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/13/2023",
+        "Coordinate": [
+            591,
+            2570,
+            866,
+            2658
+        ]
+    }
+]

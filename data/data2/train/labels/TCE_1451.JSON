@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pahal Chhabra",
+        "Coordinate": [
+            895,
+            491,
+            1394,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Timothy Chhabra",
+        "Coordinate": [
+            915,
+            576,
+            1434,
+            689
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            855,
+            1154,
+            953
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/24/1980",
+        "Coordinate": [
+            910,
+            661,
+            1214,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            890,
+            761,
+            1074,
+            849
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            935,
+            955,
+            1066,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1710,
+            846,
+            1938,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            936,
+            2010,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mishra-Mannan",
+        "Coordinate": [
+            955,
+            1041,
+            1782,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Kohli PLC",
+        "Coordinate": [
+            965,
+            1155,
+            1634,
+            1229
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23/55, Ramanathan Street, Jaunpur-380617",
+        "Coordinate": [
+            870,
+            1271,
+            1698,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 38, Bera Zila, Sikar-105950",
+        "Coordinate": [
+            875,
+            1501,
+            1950,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8946774570",
+        "Coordinate": [
+            1830,
+            1765,
+            2146,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7480735429",
+        "Coordinate": [
+            870,
+            1786,
+            1278,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            890,
+            1916,
+            1438,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Neha Dash - 7993167031",
+        "Coordinate": [
+            940,
+            2000,
+            1650,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aayush Lall - 8624950303",
+        "Coordinate": [
+            945,
+            2111,
+            1734,
+            2217
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            589,
+            2436,
+            889,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2022",
+        "Coordinate": [
+            595,
+            2506,
+            958,
+            2605
+        ]
+    }
+]

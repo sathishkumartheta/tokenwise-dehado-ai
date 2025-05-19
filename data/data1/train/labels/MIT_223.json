@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eshana Barman",
+        "Coordinate": [
+            915,
+            390,
+            1558,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Henry Barman",
+        "Coordinate": [
+            940,
+            491,
+            1585,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/1988",
+        "Coordinate": [
+            966,
+            592,
+            1339,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            955,
+            691,
+            1539,
+            807
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            950,
+            800,
+            1228,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1827,
+            793,
+            2098,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1863,
+            902,
+            2185,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            989,
+            895,
+            1117,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mall  Murthy and Chaudhary",
+        "Coordinate": [
+            970,
+            994,
+            2345,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mane-Gandhi",
+        "Coordinate": [
+            976,
+            1122,
+            2121,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 77, Gara Ganj, Rampur 342138",
+        "Coordinate": [
+            885,
+            1258,
+            2276,
+            1466
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "08/83, Suresh Nagar, Uluberia-496782",
+        "Coordinate": [
+            903,
+            1507,
+            2275,
+            1732
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8838541617",
+        "Coordinate": [
+            1859,
+            1751,
+            2332,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9040348647",
+        "Coordinate": [
+            905,
+            1760,
+            1371,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Marathi",
+        "Coordinate": [
+            906,
+            1891,
+            2191,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chakrika Choudhary - 9189912357",
+        "Coordinate": [
+            919,
+            2000,
+            2330,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sai Sankaran - 7674708135",
+        "Coordinate": [
+            942,
+            2126,
+            2257,
+            2251
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JSLAC6617W",
+        "Coordinate": [
+            1633,
+            2330,
+            2219,
+            2436
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            637,
+            2416,
+            925,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-11-2024",
+        "Coordinate": [
+            657,
+            2517,
+            1149,
+            2629
+        ]
+    }
+]

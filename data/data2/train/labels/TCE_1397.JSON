@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yoshita Misra",
+        "Coordinate": [
+            910,
+            471,
+            1422,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dominic Misra",
+        "Coordinate": [
+            910,
+            556,
+            1402,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/19/1999",
+        "Coordinate": [
+            920,
+            656,
+            1282,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            920,
+            765,
+            1130,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            905,
+            845,
+            1126,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            885,
+            941,
+            1054,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1695,
+            841,
+            1974,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            941,
+            2082,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Badal-Mane",
+        "Coordinate": [
+            990,
+            1040,
+            1882,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dugar-Bhalla",
+        "Coordinate": [
+            990,
+            1141,
+            1938,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/22, Peri Zila, Ahmednagar-397682",
+        "Coordinate": [
+            864,
+            1266,
+            2262,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "815, Solanki Road, Bhagalpur 995575",
+        "Coordinate": [
+            910,
+            1506,
+            2330,
+            1662
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9305104313",
+        "Coordinate": [
+            1830,
+            1770,
+            2298,
+            1882
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8541466355",
+        "Coordinate": [
+            920,
+            1781,
+            1390,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            905,
+            1886,
+            1646,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wazir Wadhwa - 8022746390",
+        "Coordinate": [
+            970,
+            2005,
+            2070,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janani Balasubramanian - 9317558371",
+        "Coordinate": [
+            969,
+            2126,
+            2290,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            640,
+            2406,
+            894,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/2/2024",
+        "Coordinate": [
+            630,
+            2485,
+            1030,
+            2586
+        ]
+    }
+]

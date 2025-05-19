@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anirudh Dhar",
+        "Coordinate": [
+            911,
+            479,
+            1431,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jacob Dhar",
+        "Coordinate": [
+            913,
+            572,
+            1427,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/30/2006",
+        "Coordinate": [
+            914,
+            667,
+            1325,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            923,
+            770,
+            1268,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            924,
+            859,
+            1232,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1709,
+            854,
+            1920,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            967,
+            2072,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            915,
+            962,
+            1095,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Zacharia  Randhawa and Kade",
+        "Coordinate": [
+            963,
+            1054,
+            2296,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chandra  Barad and Saini",
+        "Coordinate": [
+            971,
+            1166,
+            2255,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 67, Sachdeva Circle, Thane-816919",
+        "Coordinate": [
+            916,
+            1289,
+            2261,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07, Yogi Marg, Bardhaman 491185",
+        "Coordinate": [
+            892,
+            1548,
+            2162,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8095430588",
+        "Coordinate": [
+            908,
+            1808,
+            1342,
+            1896
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9996839610",
+        "Coordinate": [
+            1810,
+            1781,
+            2241,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Gujarati",
+        "Coordinate": [
+            900,
+            1914,
+            1726,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Brijesh Cherian - 7875069311",
+        "Coordinate": [
+            969,
+            2021,
+            1970,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adya Ganesan - 7850041433",
+        "Coordinate": [
+            975,
+            2159,
+            1995,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            612,
+            2425,
+            916,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/29/2023",
+        "Coordinate": [
+            617,
+            2524,
+            1030,
+            2608
+        ]
+    }
+]

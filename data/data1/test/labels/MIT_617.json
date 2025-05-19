@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedhika Merchant",
+        "Coordinate": [
+            869,
+            430,
+            1426,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Merchant",
+        "Coordinate": [
+            875,
+            535,
+            1491,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/25/1992",
+        "Coordinate": [
+            876,
+            641,
+            1223,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            875,
+            738,
+            1187,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            834,
+            1174,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1829,
+            819,
+            2066,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            936,
+            2122,
+            1027
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            926,
+            939,
+            1070,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Oza-Prabhakar",
+        "Coordinate": [
+            978,
+            1036,
+            1765,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bal-Oommen",
+        "Coordinate": [
+            975,
+            1148,
+            1782,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/917, Mital Zila, Baranagar 839525",
+        "Coordinate": [
+            886,
+            1293,
+            2131,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "078, Gade Circle, Singrauli-119214",
+        "Coordinate": [
+            888,
+            1524,
+            1949,
+            1677
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8573856038",
+        "Coordinate": [
+            1867,
+            1800,
+            2286,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7305358090",
+        "Coordinate": [
+            889,
+            1816,
+            1328,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            903,
+            1946,
+            1336,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vyanjana Merchant - 9314795111",
+        "Coordinate": [
+            960,
+            2052,
+            1872,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaja Dixit - 9836366495",
+        "Coordinate": [
+            967,
+            2183,
+            1799,
+            2302
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "528000000000.0",
+        "Coordinate": [
+            597,
+            2388,
+            1060,
+            2471
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JZVLH3909Z",
+        "Coordinate": [
+            1667,
+            2389,
+            2092,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            601,
+            2481,
+            1232,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-01-2024",
+        "Coordinate": [
+            601,
+            2579,
+            920,
+            2670
+        ]
+    }
+]

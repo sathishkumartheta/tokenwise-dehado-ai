@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kai Gaba",
+        "Coordinate": [
+            884,
+            431,
+            1151,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayush Gaba",
+        "Coordinate": [
+            889,
+            529,
+            1243,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-08-1969",
+        "Coordinate": [
+            922,
+            635,
+            1181,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            924,
+            731,
+            1162,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            841,
+            1143,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            826,
+            1959,
+            908
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            937,
+            2034,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            956,
+            938,
+            1065,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Shenoy-Deshmukh",
+        "Coordinate": [
+            989,
+            1035,
+            1809,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Gade-Bera",
+        "Coordinate": [
+            987,
+            1148,
+            1570,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50, Manne Road, Kottayam 219285",
+        "Coordinate": [
+            932,
+            1308,
+            1935,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 51, Pandey Circle, Ahmedabad 845765",
+        "Coordinate": [
+            919,
+            1536,
+            2119,
+            1685
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8356150236",
+        "Coordinate": [
+            1867,
+            1801,
+            2251,
+            1888
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8214816566",
+        "Coordinate": [
+            918,
+            1815,
+            1255,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Telugu, Kannada",
+        "Coordinate": [
+            920,
+            1943,
+            1749,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harsh Kamdar - 9121620486",
+        "Coordinate": [
+            964,
+            2062,
+            1756,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yahvi Kant - 9691799433",
+        "Coordinate": [
+            963,
+            2186,
+            1736,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "625000000000.0",
+        "Coordinate": [
+            671,
+            2381,
+            1081,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            670,
+            2479,
+            910,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/16/2023",
+        "Coordinate": [
+            675,
+            2571,
+            986,
+            2660
+        ]
+    }
+]

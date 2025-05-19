@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Radhika Johal",
+        "Coordinate": [
+            905,
+            399,
+            1397,
+            498
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Johal",
+        "Coordinate": [
+            922,
+            505,
+            1350,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-05-1966",
+        "Coordinate": [
+            938,
+            606,
+            1226,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            933,
+            703,
+            1220,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            941,
+            808,
+            1225,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1825,
+            800,
+            2070,
+            900
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            906,
+            2093,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            983,
+            902,
+            1136,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bains-Sachdev",
+        "Coordinate": [
+            976,
+            987,
+            1879,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sur Ltd",
+        "Coordinate": [
+            983,
+            1106,
+            1702,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/572, Misra Street, Mangalore 155799",
+        "Coordinate": [
+            908,
+            1236,
+            2121,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "41/39, Wason Nagar, Kadapa 351305",
+        "Coordinate": [
+            945,
+            1500,
+            2197,
+            1669
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9195488769",
+        "Coordinate": [
+            1878,
+            1753,
+            2298,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7848282991",
+        "Coordinate": [
+            885,
+            1755,
+            1285,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, Bengali, Malayalam",
+        "Coordinate": [
+            913,
+            1891,
+            2248,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Thomas Chacko - 9673351988",
+        "Coordinate": [
+            950,
+            2009,
+            1986,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amrita Mahal - 7406194735",
+        "Coordinate": [
+            975,
+            2135,
+            2026,
+            2252
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "295000000000.0",
+        "Coordinate": [
+            615,
+            2333,
+            1115,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            631,
+            2426,
+            958,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2024",
+        "Coordinate": [
+            656,
+            2518,
+            1062,
+            2607
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nathaniel Rana",
+        "Coordinate": [
+            922,
+            496,
+            1558,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tarak Rana",
+        "Coordinate": [
+            942,
+            590,
+            1386,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/26/1974",
+        "Coordinate": [
+            920,
+            698,
+            1310,
+            777
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            790,
+            1258,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            880,
+            1162,
+            957
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1875,
+            877,
+            2090,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1882,
+            978,
+            2158,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            942,
+            970,
+            1096,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Nadig-Maharaj",
+        "Coordinate": [
+            1028,
+            1068,
+            2108,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Raja  Mammen and Gara",
+        "Coordinate": [
+            997,
+            1172,
+            2290,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99, Nigam Street, Dehri-003580",
+        "Coordinate": [
+            938,
+            1294,
+            1608,
+            1495
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34, Chatterjee Road, Guna-348831",
+        "Coordinate": [
+            940,
+            1524,
+            2296,
+            1691
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9147154082",
+        "Coordinate": [
+            912,
+            1800,
+            1348,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9354330544",
+        "Coordinate": [
+            1850,
+            1794,
+            2314,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Marathi, Kannada",
+        "Coordinate": [
+            932,
+            1922,
+            2292,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ridhi Gade - 7587881684",
+        "Coordinate": [
+            992,
+            2026,
+            2020,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saanvi Toor - 7022909001",
+        "Coordinate": [
+            972,
+            2160,
+            2040,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            670,
+            2424,
+            1046,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/27/2024",
+        "Coordinate": [
+            648,
+            2516,
+            1110,
+            2587
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shivani Sarma",
+        "Coordinate": [
+            883,
+            432,
+            1348,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Sarma",
+        "Coordinate": [
+            876,
+            534,
+            1369,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/22/1964",
+        "Coordinate": [
+            897,
+            638,
+            1299,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            880,
+            735,
+            1164,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            841,
+            1136,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            834,
+            2014,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            947,
+            2039,
+            1042
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            891,
+            947,
+            990,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sachdev-Doshi",
+        "Coordinate": [
+            984,
+            1049,
+            1910,
+            1164
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ravi  Palan and Ranganathan",
+        "Coordinate": [
+            958,
+            1146,
+            2338,
+            1276
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 253, Varghese Marg, Maheshtala-092254",
+        "Coordinate": [
+            899,
+            1281,
+            2383,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06/94, Sarna Nagar, Kurnool 183410",
+        "Coordinate": [
+            891,
+            1527,
+            2097,
+            1683
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8917030827",
+        "Coordinate": [
+            1873,
+            1802,
+            2363,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7868341090",
+        "Coordinate": [
+            887,
+            1806,
+            1332,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Kannada",
+        "Coordinate": [
+            884,
+            1952,
+            1666,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aayush Sarkar - 7925769637",
+        "Coordinate": [
+            957,
+            2071,
+            2041,
+            2189
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekantika Zacharia - 7969881907",
+        "Coordinate": [
+            942,
+            2200,
+            2063,
+            2327
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "822000000000.0",
+        "Coordinate": [
+            594,
+            2395,
+            1073,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            585,
+            2487,
+            882,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-07-2022",
+        "Coordinate": [
+            588,
+            2579,
+            958,
+            2674
+        ]
+    }
+]

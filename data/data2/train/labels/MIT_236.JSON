@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Veer Randhawa",
+        "Coordinate": [
+            875,
+            386,
+            1964,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Randhawa",
+        "Coordinate": [
+            887,
+            505,
+            1471,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/31/1990",
+        "Coordinate": [
+            906,
+            605,
+            1227,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            914,
+            700,
+            1231,
+            786
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            908,
+            797,
+            1160,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1765,
+            780,
+            1959,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            883,
+            2072,
+            960
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            908,
+            915,
+            1028,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Divan and Sons",
+        "Coordinate": [
+            942,
+            973,
+            1802,
+            1064
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mitra LLC",
+        "Coordinate": [
+            953,
+            1089,
+            1664,
+            1175
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "361, Dube Ganj, Kolkata 251786",
+        "Coordinate": [
+            908,
+            1221,
+            1987,
+            1334
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/316, Nadkarni Street, Silchar-469681",
+        "Coordinate": [
+            890,
+            1463,
+            2234,
+            1589
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9145364865",
+        "Coordinate": [
+            1858,
+            1739,
+            2226,
+            1824
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8374609538",
+        "Coordinate": [
+            900,
+            1749,
+            1279,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Tamil, Kannada",
+        "Coordinate": [
+            887,
+            1885,
+            1940,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vrinda Bala - 8578850026",
+        "Coordinate": [
+            933,
+            1993,
+            1733,
+            2088
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranav Keer - 9363997344",
+        "Coordinate": [
+            964,
+            2114,
+            1799,
+            2197
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "842113000000",
+        "Coordinate": [
+            608,
+            2329,
+            1030,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            602,
+            2419,
+            908,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2025",
+        "Coordinate": [
+            621,
+            2516,
+            931,
+            2599
+        ]
+    }
+]

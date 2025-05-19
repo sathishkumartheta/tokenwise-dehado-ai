@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falguni Sunder",
+        "Coordinate": [
+            980,
+            429,
+            1559,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zashil Sunder",
+        "Coordinate": [
+            983,
+            530,
+            1556,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/30/1997",
+        "Coordinate": [
+            982,
+            632,
+            1365,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            992,
+            733,
+            1163,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            954,
+            836,
+            1213,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1825,
+            830,
+            2112,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            939,
+            2108,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1018,
+            935,
+            1144,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Yogi PLC",
+        "Coordinate": [
+            1053,
+            1041,
+            1874,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Barad LLC",
+        "Coordinate": [
+            1082,
+            1148,
+            2050,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "38, Comar Circle, Danapur-851856",
+        "Coordinate": [
+            938,
+            1287,
+            2312,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/656, Yadav Circle, Nadiad 280072",
+        "Coordinate": [
+            902,
+            1533,
+            2275,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8575282341",
+        "Coordinate": [
+            1868,
+            1805,
+            2331,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9705513000",
+        "Coordinate": [
+            919,
+            1804,
+            1343,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            974,
+            1943,
+            1529,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Naksh Agarwal - 8324911043",
+        "Coordinate": [
+            1019,
+            2047,
+            2173,
+            2174
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bina Sem - 7587704265",
+        "Coordinate": [
+            1061,
+            2187,
+            2042,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "698000000000.0",
+        "Coordinate": [
+            606,
+            2382,
+            1148,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            748,
+            2477,
+            1090,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/16/2025",
+        "Coordinate": [
+            816,
+            2570,
+            1218,
+            2663
+        ]
+    }
+]

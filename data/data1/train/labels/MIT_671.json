@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarush Sule",
+        "Coordinate": [
+            883,
+            433,
+            1269,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wriddhish Sule",
+        "Coordinate": [
+            892,
+            526,
+            1380,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1984",
+        "Coordinate": [
+            892,
+            634,
+            1194,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            732,
+            1220,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            833,
+            1186,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1821,
+            823,
+            1996,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            935,
+            2127,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            929,
+            942,
+            1078,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kant Inc",
+        "Coordinate": [
+            962,
+            1037,
+            1683,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bose-Apte",
+        "Coordinate": [
+            957,
+            1147,
+            1712,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 689, Mani Chowk, Kollam-147320",
+        "Coordinate": [
+            900,
+            1280,
+            2216,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 927, Kothari Road, Mangalore 665602",
+        "Coordinate": [
+            919,
+            1534,
+            2304,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9793646193",
+        "Coordinate": [
+            1896,
+            1803,
+            2302,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8439454552",
+        "Coordinate": [
+            891,
+            1806,
+            1336,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Malayalam",
+        "Coordinate": [
+            889,
+            1943,
+            1765,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saksham Ratti - 7841442284",
+        "Coordinate": [
+            946,
+            2047,
+            1982,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Odika Parekh - 7645359526",
+        "Coordinate": [
+            958,
+            2187,
+            1984,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "266000000000.0",
+        "Coordinate": [
+            608,
+            2389,
+            1092,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            608,
+            2479,
+            822,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2024",
+        "Coordinate": [
+            596,
+            2575,
+            945,
+            2666
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Peter Dewan",
+        "Coordinate": [
+            875,
+            435,
+            1297,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Christopher Dewan",
+        "Coordinate": [
+            880,
+            531,
+            1548,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/19/1989",
+        "Coordinate": [
+            886,
+            632,
+            1182,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            742,
+            1051,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            851,
+            1198,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1817,
+            846,
+            2066,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            894,
+            939,
+            1059,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            953,
+            2148,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Aggarwal-Dara",
+        "Coordinate": [
+            958,
+            1051,
+            1852,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sahni PLC",
+        "Coordinate": [
+            958,
+            1161,
+            1791,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 05, Sood Nagar, Bhavnagar-913943",
+        "Coordinate": [
+            891,
+            1310,
+            2346,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "25/027, Ranganathan Road, Mathura 844037",
+        "Coordinate": [
+            891,
+            1575,
+            2354,
+            1716
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9046076537",
+        "Coordinate": [
+            894,
+            1815,
+            1358,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9101655154",
+        "Coordinate": [
+            1529,
+            1852,
+            1999,
+            1948
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Hindi",
+        "Coordinate": [
+            878,
+            1951,
+            1708,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isha Kurian - 8370226912",
+        "Coordinate": [
+            971,
+            2068,
+            2114,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amaira Dubey - 8149754779",
+        "Coordinate": [
+            958,
+            2215,
+            2100,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "790559000000",
+        "Coordinate": [
+            576,
+            2407,
+            1297,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            571,
+            2488,
+            790,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/5/2024",
+        "Coordinate": [
+            581,
+            2576,
+            920,
+            2658
+        ]
+    }
+]

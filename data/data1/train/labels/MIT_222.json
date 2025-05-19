@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yasti Wagle",
+        "Coordinate": [
+            883,
+            395,
+            1315,
+            498
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Wagle",
+        "Coordinate": [
+            891,
+            501,
+            1308,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/24/1988",
+        "Coordinate": [
+            892,
+            598,
+            1235,
+            691
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            888,
+            698,
+            1180,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            804,
+            1138,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1787,
+            795,
+            2037,
+            889
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            901,
+            2072,
+            1000
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            904,
+            904,
+            1069,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Datta-Ratti",
+        "Coordinate": [
+            967,
+            991,
+            1814,
+            1107
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Khurana  Memon and Dani",
+        "Coordinate": [
+            946,
+            1115,
+            2286,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99/10, Pant Zila, Alappuzha 647229",
+        "Coordinate": [
+            884,
+            1241,
+            2248,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 995, Raghavan Chowk, Bahraich 894134",
+        "Coordinate": [
+            872,
+            1481,
+            2237,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9541614120",
+        "Coordinate": [
+            1849,
+            1753,
+            2227,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7998092740",
+        "Coordinate": [
+            887,
+            1755,
+            1315,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Tamil, Bengali",
+        "Coordinate": [
+            869,
+            1887,
+            1849,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harita Bava - 7454938679",
+        "Coordinate": [
+            938,
+            2009,
+            1909,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavika Naidu - 9847473014",
+        "Coordinate": [
+            946,
+            2132,
+            1979,
+            2253
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "296000000000.0",
+        "Coordinate": [
+            581,
+            2331,
+            1101,
+            2420
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            580,
+            2424,
+            986,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-11-2024",
+        "Coordinate": [
+            581,
+            2516,
+            968,
+            2611
+        ]
+    }
+]

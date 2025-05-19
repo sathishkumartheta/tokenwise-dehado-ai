@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lajita Sidhu",
+        "Coordinate": [
+            864,
+            436,
+            1303,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Alexander Sidhu",
+        "Coordinate": [
+            901,
+            538,
+            1550,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/1989",
+        "Coordinate": [
+            881,
+            638,
+            1240,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            871,
+            740,
+            1161,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            884,
+            846,
+            1100,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1879,
+            835,
+            2132,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1892,
+            947,
+            2157,
+            1049
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            889,
+            943,
+            1051,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dhar  Ranganathan and Deshpande",
+        "Coordinate": [
+            975,
+            1045,
+            2335,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Chawla-Sood",
+        "Coordinate": [
+            979,
+            1158,
+            1885,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 603, Prabhu Street, Ahmednagar 398844",
+        "Coordinate": [
+            853,
+            1305,
+            2241,
+            1534
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95/23, Chana Marg, Gudivada-964549",
+        "Coordinate": [
+            867,
+            1554,
+            2323,
+            1719
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9338291135",
+        "Coordinate": [
+            1847,
+            1804,
+            2308,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7760872047",
+        "Coordinate": [
+            870,
+            1820,
+            1343,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Kannada",
+        "Coordinate": [
+            874,
+            1951,
+            1727,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Irya Shan - 7955060731",
+        "Coordinate": [
+            965,
+            2068,
+            1852,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Oscar Sen - 9081288102",
+        "Coordinate": [
+            943,
+            2194,
+            1828,
+            2313
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TDSDG8704B",
+        "Coordinate": [
+            1625,
+            2398,
+            2134,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            585,
+            2484,
+            870,
+            2591
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-01-2025",
+        "Coordinate": [
+            589,
+            2581,
+            936,
+            2673
+        ]
+    }
+]

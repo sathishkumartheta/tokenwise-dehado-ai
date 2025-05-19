@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "295771000000",
+        "Coordinate": [
+            594,
+            2390,
+            1190,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            618,
+            2488,
+            944,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/15/2024",
+        "Coordinate": [
+            621,
+            2586,
+            1058,
+            2682
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhiram Oak - 7581602190",
+        "Coordinate": [
+            966,
+            2184,
+            2006,
+            2280
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidhi Tak - 8161110329",
+        "Coordinate": [
+            970,
+            2054,
+            1878,
+            2156
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            910,
+            1948,
+            1668,
+            2044
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9882626232",
+        "Coordinate": [
+            896,
+            1802,
+            1348,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9149820344",
+        "Coordinate": [
+            1876,
+            1802,
+            2334,
+            1926
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73, Bail Marg, Berhampur-399506",
+        "Coordinate": [
+            888,
+            1524,
+            2302,
+            1712
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26/608, Sampath Marg, Chandigarh 840390",
+        "Coordinate": [
+            894,
+            1268,
+            1888,
+            1514
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sehgal and Sons",
+        "Coordinate": [
+            984,
+            1154,
+            2164,
+            1256
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Ram  Gade and Babu",
+        "Coordinate": [
+            986,
+            1040,
+            2300,
+            1148
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            928,
+            940,
+            1090,
+            1022
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Kritika Sankaran",
+        "Coordinate": [
+            888,
+            436,
+            1610,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Sankaran",
+        "Coordinate": [
+            882,
+            532,
+            1606,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/12/1965",
+        "Coordinate": [
+            894,
+            642,
+            1368,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            886,
+            720,
+            1494,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            834,
+            1266,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1804,
+            832,
+            2094,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            934,
+            2118,
+            1028
+        ]
+    }
+]

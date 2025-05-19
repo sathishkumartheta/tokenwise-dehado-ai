@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harish Bhardwaj",
+        "Coordinate": [
+            902,
+            391,
+            1466,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeet Bhardwaj",
+        "Coordinate": [
+            910,
+            491,
+            1387,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/28/1961",
+        "Coordinate": [
+            910,
+            590,
+            1245,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            901,
+            682,
+            1227,
+            767
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            778,
+            1169,
+            866
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1788,
+            781,
+            1970,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            893,
+            2043,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            902,
+            883,
+            1013,
+            966
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bedi-Patel",
+        "Coordinate": [
+            955,
+            984,
+            1704,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Issac  Mahal and Pillay",
+        "Coordinate": [
+            941,
+            1094,
+            2148,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/357, Sehgal, Bhalswa Jahangir Pur-524140",
+        "Coordinate": [
+            914,
+            1220,
+            2207,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "933, Jhaveri Ganj, Alappuzha-072290",
+        "Coordinate": [
+            900,
+            1469,
+            2221,
+            1607
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7799221160",
+        "Coordinate": [
+            1859,
+            1750,
+            2274,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9025099294",
+        "Coordinate": [
+            910,
+            1746,
+            1343,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil",
+        "Coordinate": [
+            890,
+            1885,
+            1463,
+            1980
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zayyan Mody - 7780476470",
+        "Coordinate": [
+            943,
+            1993,
+            1948,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pallavi Puri - 9017826847",
+        "Coordinate": [
+            964,
+            2121,
+            1965,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "427000000000.0",
+        "Coordinate": [
+            607,
+            2321,
+            1100,
+            2405
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XMITC8353D",
+        "Coordinate": [
+            1620,
+            2335,
+            2096,
+            2430
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            611,
+            2419,
+            971,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/13/2022",
+        "Coordinate": [
+            601,
+            2509,
+            1003,
+            2595
+        ]
+    }
+]

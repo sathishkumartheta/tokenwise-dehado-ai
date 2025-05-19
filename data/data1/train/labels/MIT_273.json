@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandani Chand",
+        "Coordinate": [
+            871,
+            390,
+            1421,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarav Chand",
+        "Coordinate": [
+            874,
+            487,
+            1355,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/14/1988",
+        "Coordinate": [
+            890,
+            588,
+            1248,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            872,
+            683,
+            1026,
+            771
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            883,
+            779,
+            1081,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            779,
+            2066,
+            861
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            886,
+            2084,
+            968
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            881,
+            886,
+            984,
+            965
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kaul  Kade and Bedi",
+        "Coordinate": [
+            942,
+            972,
+            2152,
+            1076
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Buch  Ram and Nagi",
+        "Coordinate": [
+            933,
+            1089,
+            2090,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "792, Mani Chowk, Mango-801234",
+        "Coordinate": [
+            862,
+            1217,
+            2117,
+            1348
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "11/325, Gaba Ganj, Guntakal-968436",
+        "Coordinate": [
+            862,
+            1460,
+            2272,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9228112519",
+        "Coordinate": [
+            1846,
+            1741,
+            2244,
+            1830
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7987863405",
+        "Coordinate": [
+            867,
+            1741,
+            1295,
+            1822
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati",
+        "Coordinate": [
+            859,
+            1883,
+            1453,
+            1979
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemani Khosla - 7205378429",
+        "Coordinate": [
+            924,
+            1992,
+            2079,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayan Manda - 7819583445",
+        "Coordinate": [
+            944,
+            2120,
+            2085,
+            2224
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YAPOC3612J",
+        "Coordinate": [
+            1606,
+            2332,
+            2093,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            585,
+            2418,
+            839,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-03-2023",
+        "Coordinate": [
+            586,
+            2508,
+            1031,
+            2594
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nakul Chahal",
+        "Coordinate": [
+            941,
+            464,
+            1544,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Chahal",
+        "Coordinate": [
+            971,
+            562,
+            1501,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/27/1986",
+        "Coordinate": [
+            1000,
+            666,
+            1462,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1002,
+            753,
+            1340,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            992,
+            844,
+            1315,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1774,
+            847,
+            2026,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            934,
+            2065,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1014,
+            936,
+            1185,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Raj  Reddy and Arora",
+        "Coordinate": [
+            1045,
+            1043,
+            2193,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Varghese-Basu",
+        "Coordinate": [
+            1063,
+            1156,
+            2143,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/981, Vyas Path, Ujjain 570211",
+        "Coordinate": [
+            1014,
+            1247,
+            2286,
+            1456
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "02, Gopal Circle, Bardhaman-569178",
+        "Coordinate": [
+            973,
+            1507,
+            2286,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9430685632",
+        "Coordinate": [
+            961,
+            1771,
+            1350,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8226031814",
+        "Coordinate": [
+            1827,
+            1761,
+            2227,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Kannada",
+        "Coordinate": [
+            977,
+            1896,
+            1822,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jasmit Kuruvilla - 7921127742",
+        "Coordinate": [
+            982,
+            2021,
+            2090,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Leena Chadha - 9239601083",
+        "Coordinate": [
+            995,
+            2129,
+            2079,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "469021000000",
+        "Coordinate": [
+            645,
+            2338,
+            1010,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            698,
+            2421,
+            1005,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/10/2025",
+        "Coordinate": [
+            677,
+            2522,
+            1091,
+            2611
+        ]
+    }
+]

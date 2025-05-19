@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Leela Rau",
+        "Coordinate": [
+            880,
+            398,
+            1167,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "William Rau",
+        "Coordinate": [
+            884,
+            490,
+            1260,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1972",
+        "Coordinate": [
+            891,
+            590,
+            1188,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            896,
+            684,
+            1138,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            907,
+            794,
+            1112,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            784,
+            1984,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            889,
+            2026,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            901,
+            898,
+            1007,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Savant-Lala",
+        "Coordinate": [
+            939,
+            983,
+            1634,
+            1085
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dhillon and Sons",
+        "Coordinate": [
+            946,
+            1096,
+            1864,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "280, Master Zila, Jamnagar-892225",
+        "Coordinate": [
+            889,
+            1290,
+            1993,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "29, Kakar Path, Dhanbad-373118",
+        "Coordinate": [
+            872,
+            1488,
+            1886,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8427821797",
+        "Coordinate": [
+            1845,
+            1751,
+            2197,
+            1845
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7510188903",
+        "Coordinate": [
+            872,
+            1757,
+            1220,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            872,
+            1892,
+            1321,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anita Ranganathan - 8355777357",
+        "Coordinate": [
+            931,
+            2001,
+            1885,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anya Cheema - 7958606942",
+        "Coordinate": [
+            935,
+            2124,
+            1777,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "657000000000.0",
+        "Coordinate": [
+            589,
+            2334,
+            1017,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            585,
+            2421,
+            905,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/22/2022",
+        "Coordinate": [
+            587,
+            2516,
+            934,
+            2602
+        ]
+    }
+]

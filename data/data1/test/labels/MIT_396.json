@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Rastogi",
+        "Coordinate": [
+            895,
+            387,
+            1473,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rehaan Rastogi",
+        "Coordinate": [
+            908,
+            486,
+            1524,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-12-1970",
+        "Coordinate": [
+            903,
+            589,
+            1325,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            909,
+            681,
+            1095,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            911,
+            780,
+            1151,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1756,
+            782,
+            1968,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            888,
+            2096,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            914,
+            887,
+            1060,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Pandya  Chandra and Devi",
+        "Coordinate": [
+            947,
+            974,
+            2286,
+            1085
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sem-Jayaraman",
+        "Coordinate": [
+            959,
+            1086,
+            2117,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 53, Mahajan, Bangalore 429907",
+        "Coordinate": [
+            896,
+            1249,
+            2286,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "966, Modi, Bahraich 708089",
+        "Coordinate": [
+            905,
+            1523,
+            2050,
+            1655
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9688977235",
+        "Coordinate": [
+            1862,
+            1746,
+            2323,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7374140468",
+        "Coordinate": [
+            897,
+            1751,
+            1354,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Telugu",
+        "Coordinate": [
+            914,
+            1883,
+            2038,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damyanti Tank - 7675266731",
+        "Coordinate": [
+            962,
+            1996,
+            2159,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Indira Mane - 8267532243",
+        "Coordinate": [
+            984,
+            2125,
+            2150,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "917000000000.0",
+        "Coordinate": [
+            606,
+            2331,
+            1168,
+            2412
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            618,
+            2421,
+            900,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/18/2025",
+        "Coordinate": [
+            625,
+            2514,
+            1071,
+            2601
+        ]
+    }
+]

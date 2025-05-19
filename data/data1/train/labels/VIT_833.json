@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mohammed Rattan",
+        "Coordinate": [
+            879,
+            439,
+            1404,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kalpit Rattan",
+        "Coordinate": [
+            879,
+            545,
+            1282,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/13/1963",
+        "Coordinate": [
+            876,
+            644,
+            1204,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            870,
+            740,
+            1125,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            870,
+            846,
+            1106,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            847,
+            1923,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            949,
+            2044,
+            1042
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            866,
+            951,
+            965,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Lall-Tella",
+        "Coordinate": [
+            943,
+            1053,
+            1662,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Choudhary-Swamy",
+        "Coordinate": [
+            950,
+            1164,
+            1905,
+            1286
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 827, Chopra Chowk, Dewas 605801",
+        "Coordinate": [
+            880,
+            1294,
+            2092,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 70, Garde Circle, Pallavaram-504441",
+        "Coordinate": [
+            880,
+            1534,
+            2198,
+            1655
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8143974953",
+        "Coordinate": [
+            1859,
+            1859,
+            2297,
+            1947
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8058980336",
+        "Coordinate": [
+            874,
+            1844,
+            1291,
+            1947
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi, Marathi",
+        "Coordinate": [
+            869,
+            1960,
+            1576,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arya Devan - 7280764515",
+        "Coordinate": [
+            935,
+            2088,
+            1779,
+            2198
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanav Ravel - 7945459627",
+        "Coordinate": [
+            930,
+            2207,
+            1864,
+            2324
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "647000000000.0",
+        "Coordinate": [
+            575,
+            2398,
+            1029,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            576,
+            2493,
+            787,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2023",
+        "Coordinate": [
+            576,
+            2584,
+            984,
+            2673
+        ]
+    }
+]

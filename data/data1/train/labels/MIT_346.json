@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaid Madan",
+        "Coordinate": [
+            869,
+            390,
+            1368,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Madan",
+        "Coordinate": [
+            873,
+            496,
+            1378,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/23/2000",
+        "Coordinate": [
+            884,
+            594,
+            1249,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            885,
+            685,
+            1251,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            788,
+            1195,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1817,
+            776,
+            2054,
+            859
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            887,
+            2119,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            886,
+            888,
+            1008,
+            967
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sampath  Thaman and Dora",
+        "Coordinate": [
+            943,
+            974,
+            2294,
+            1079
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Ramanathan-Sood",
+        "Coordinate": [
+            950,
+            1088,
+            2122,
+            1188
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 953, Kuruvilla Zila, Amaravati 156078",
+        "Coordinate": [
+            891,
+            1233,
+            2278,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48, Kapur Circle, Burhanpur-179624",
+        "Coordinate": [
+            853,
+            1468,
+            2306,
+            1603
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7844000817",
+        "Coordinate": [
+            1846,
+            1742,
+            2284,
+            1834
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9506693512",
+        "Coordinate": [
+            871,
+            1742,
+            1278,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Gujarati, Telugu",
+        "Coordinate": [
+            895,
+            1874,
+            2201,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oviya Mandal - 8262133702",
+        "Coordinate": [
+            919,
+            1994,
+            1955,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Leela Kothari - 7377076323",
+        "Coordinate": [
+            936,
+            2115,
+            2027,
+            2216
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "786000000000.0",
+        "Coordinate": [
+            589,
+            2326,
+            1105,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            579,
+            2421,
+            776,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2025",
+        "Coordinate": [
+            583,
+            2510,
+            978,
+            2593
+        ]
+    }
+]

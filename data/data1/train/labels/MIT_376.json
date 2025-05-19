@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nicholas Venkataraman",
+        "Coordinate": [
+            882,
+            395,
+            1604,
+            501
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Venkataraman",
+        "Coordinate": [
+            898,
+            503,
+            1530,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/18/1961",
+        "Coordinate": [
+            885,
+            599,
+            1195,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            883,
+            694,
+            1014,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            800,
+            1170,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1808,
+            781,
+            2014,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1854,
+            894,
+            2123,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            906,
+            902,
+            1025,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Doshi Group",
+        "Coordinate": [
+            972,
+            985,
+            1750,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Gokhale  Dave and Bhatti",
+        "Coordinate": [
+            929,
+            1111,
+            2258,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 73, Sandal Zila, Mahbubnagar 391368",
+        "Coordinate": [
+            883,
+            1222,
+            2300,
+            1356
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "031, Radhakrishnan Ganj, Etawah 862092",
+        "Coordinate": [
+            865,
+            1468,
+            2274,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9679980496",
+        "Coordinate": [
+            1863,
+            1747,
+            2302,
+            1865
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9929684946",
+        "Coordinate": [
+            881,
+            1752,
+            1296,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi",
+        "Coordinate": [
+            893,
+            1896,
+            1404,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yatin Padmanabhan - 9117901496",
+        "Coordinate": [
+            946,
+            2001,
+            2143,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kashvi Pandey - 8757669150",
+        "Coordinate": [
+            954,
+            2126,
+            1977,
+            2240
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "584000000000.0",
+        "Coordinate": [
+            594,
+            2330,
+            1084,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            582,
+            2423,
+            945,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/15/2024",
+        "Coordinate": [
+            607,
+            2523,
+            983,
+            2635
+        ]
+    }
+]

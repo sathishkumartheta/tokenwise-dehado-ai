@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Mallick",
+        "Coordinate": [
+            919,
+            425,
+            1630,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ethan Mallick",
+        "Coordinate": [
+            932,
+            527,
+            1473,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-06-1990",
+        "Coordinate": [
+            967,
+            633,
+            1263,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            941,
+            732,
+            1280,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            950,
+            836,
+            1157,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1835,
+            829,
+            2070,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1867,
+            935,
+            2121,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            984,
+            938,
+            1124,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Das LLC",
+        "Coordinate": [
+            1025,
+            1035,
+            1785,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Tank-Kashyap",
+        "Coordinate": [
+            1021,
+            1145,
+            1975,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 017, Gola Nagar, Mahbubnagar-249911",
+        "Coordinate": [
+            895,
+            1283,
+            2354,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "477, Lal Circle, Panvel-061675",
+        "Coordinate": [
+            922,
+            1548,
+            2069,
+            1696
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7090262036",
+        "Coordinate": [
+            1858,
+            1803,
+            2282,
+            1927
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8232979504",
+        "Coordinate": [
+            910,
+            1803,
+            1320,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            911,
+            1937,
+            1591,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saanvi Sharaf - 9584089790",
+        "Coordinate": [
+            970,
+            2048,
+            1989,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bachittar Goel - 7633775327",
+        "Coordinate": [
+            990,
+            2185,
+            2058,
+            2303
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BHLLJ6907D",
+        "Coordinate": [
+            1651,
+            2382,
+            2113,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            599,
+            2473,
+            833,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/26/2022",
+        "Coordinate": [
+            607,
+            2565,
+            987,
+            2663
+        ]
+    }
+]

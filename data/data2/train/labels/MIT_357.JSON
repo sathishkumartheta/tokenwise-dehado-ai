@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarav Issac",
+        "Coordinate": [
+            878,
+            385,
+            1301,
+            474
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhiram Issac",
+        "Coordinate": [
+            880,
+            484,
+            1391,
+            571
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/4/1990",
+        "Coordinate": [
+            887,
+            578,
+            1222,
+            667
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            875,
+            678,
+            1223,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            783,
+            1158,
+            875
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            774,
+            2021,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            882,
+            2086,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            880,
+            882,
+            1037,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Gopal-Aggarwal",
+        "Coordinate": [
+            952,
+            978,
+            1976,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mallick-Narayan",
+        "Coordinate": [
+            946,
+            1093,
+            2044,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 500, Sant Marg, Bhusawal-110654",
+        "Coordinate": [
+            878,
+            1221,
+            2315,
+            1363
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/078, Chaudhry Path, Srikakulam 970890",
+        "Coordinate": [
+            855,
+            1468,
+            2123,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7912142202",
+        "Coordinate": [
+            1857,
+            1744,
+            2292,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9564148713",
+        "Coordinate": [
+            876,
+            1744,
+            1285,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Tamil, Marathi",
+        "Coordinate": [
+            881,
+            1879,
+            2017,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Robert Sani - 7159472127",
+        "Coordinate": [
+            930,
+            1989,
+            1886,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samaksh Menon - 9921389158",
+        "Coordinate": [
+            940,
+            2122,
+            1956,
+            2236
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "549842000000",
+        "Coordinate": [
+            587,
+            2325,
+            1099,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            585,
+            2410,
+            923,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/5/2025",
+        "Coordinate": [
+            593,
+            2505,
+            1000,
+            2593
+        ]
+    }
+]

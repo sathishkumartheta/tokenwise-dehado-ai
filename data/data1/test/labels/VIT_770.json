@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Date",
+        "Coordinate": [
+            878,
+            440,
+            1240,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Date",
+        "Coordinate": [
+            882,
+            543,
+            1227,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/21/1987",
+        "Coordinate": [
+            885,
+            642,
+            1232,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            735,
+            1328,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            844,
+            1152,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1731,
+            836,
+            1910,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            944,
+            2001,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            939,
+            941,
+            1053,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mandal Group",
+        "Coordinate": [
+            971,
+            1045,
+            1705,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Vala-Dugar",
+        "Coordinate": [
+            970,
+            1157,
+            1687,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90, Chokshi Marg, Etawah 261340",
+        "Coordinate": [
+            908,
+            1296,
+            2044,
+            1436
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 220, Rajagopalan Marg, Raebareli-540532",
+        "Coordinate": [
+            889,
+            1537,
+            2322,
+            1662
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9281460309",
+        "Coordinate": [
+            1872,
+            1809,
+            2241,
+            1897
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9763742790",
+        "Coordinate": [
+            893,
+            1819,
+            1312,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Bengali",
+        "Coordinate": [
+            896,
+            1954,
+            1640,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Naksh Comar - 7524546583",
+        "Coordinate": [
+            957,
+            2059,
+            1868,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arunima Kant - 9815164731",
+        "Coordinate": [
+            966,
+            2186,
+            1837,
+            2290
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KBMHJ4056L",
+        "Coordinate": [
+            1648,
+            2396,
+            2128,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            596,
+            2487,
+            827,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-12-2022",
+        "Coordinate": [
+            587,
+            2580,
+            919,
+            2664
+        ]
+    }
+]

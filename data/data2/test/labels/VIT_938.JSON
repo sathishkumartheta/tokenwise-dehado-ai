@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jasmit Sastry",
+        "Coordinate": [
+            880,
+            446,
+            1386,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Sastry",
+        "Coordinate": [
+            880,
+            544,
+            1428,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/10/1985",
+        "Coordinate": [
+            882,
+            648,
+            1306,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            882,
+            756,
+            1036,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            843,
+            1194,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            976,
+            944,
+            1124,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bansal  Bhatia and Vala",
+        "Coordinate": [
+            964,
+            1042,
+            2132,
+            1134
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            940,
+            2084,
+            1024
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            824,
+            2070,
+            912
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sarma-Nori",
+        "Coordinate": [
+            968,
+            1156,
+            1922,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47/63, Wadhwa Zila, Rohtak-900249",
+        "Coordinate": [
+            894,
+            1320,
+            2408,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "52/34, Brar Marg, Coimbatore-167608",
+        "Coordinate": [
+            912,
+            1584,
+            2324,
+            1704
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9094313221",
+        "Coordinate": [
+            882,
+            1826,
+            1296,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Marathi, Gujarati",
+        "Coordinate": [
+            892,
+            1962,
+            1970,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaitanya Chakrabarti - 9586657184",
+        "Coordinate": [
+            968,
+            2056,
+            2178,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kritika Sane - 7667900345",
+        "Coordinate": [
+            952,
+            2184,
+            1938,
+            2286
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "720371000000",
+        "Coordinate": [
+            592,
+            2394,
+            1184,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            588,
+            2488,
+            830,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/2/2024",
+        "Coordinate": [
+            588,
+            2586,
+            1124,
+            2660
+        ]
+    }
+]

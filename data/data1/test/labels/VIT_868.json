@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ira Ghose",
+        "Coordinate": [
+            893,
+            437,
+            1272,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanveer Ghose",
+        "Coordinate": [
+            898,
+            538,
+            1450,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/18/1992",
+        "Coordinate": [
+            920,
+            641,
+            1248,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            918,
+            732,
+            1243,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            836,
+            1234,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1819,
+            830,
+            2098,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            944,
+            2104,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            923,
+            944,
+            1083,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Saha-Kala",
+        "Coordinate": [
+            967,
+            1045,
+            1717,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Kapur  Bora and Borra",
+        "Coordinate": [
+            980,
+            1146,
+            2169,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "843, Singh Nagar, Ozhukarai 842181",
+        "Coordinate": [
+            947,
+            1288,
+            2266,
+            1459
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/72, Chand, Vasai-Virar 265974",
+        "Coordinate": [
+            943,
+            1552,
+            2276,
+            1704
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7801094509",
+        "Coordinate": [
+            1879,
+            1809,
+            2265,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8625897979",
+        "Coordinate": [
+            894,
+            1814,
+            1332,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, English, Bengali",
+        "Coordinate": [
+            915,
+            1947,
+            2165,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abhimanyu Kalla - 7925150666",
+        "Coordinate": [
+            977,
+            2057,
+            2100,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Kala - 7067182551",
+        "Coordinate": [
+            982,
+            2190,
+            1950,
+            2306
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VFJWF4273P",
+        "Coordinate": [
+            1659,
+            2395,
+            2214,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            599,
+            2489,
+            874,
+            2588
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-04-2022",
+        "Coordinate": [
+            613,
+            2581,
+            963,
+            2674
+        ]
+    }
+]

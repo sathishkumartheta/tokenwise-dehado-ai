@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Bassi",
+        "Coordinate": [
+            873,
+            394,
+            1233,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Alexander Bassi",
+        "Coordinate": [
+            871,
+            492,
+            1300,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/15/1972",
+        "Coordinate": [
+            886,
+            598,
+            1147,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            872,
+            696,
+            1285,
+            787
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            790,
+            1134,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1752,
+            778,
+            1919,
+            857
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            892,
+            2020,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            903,
+            896,
+            1012,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mander and Sons",
+        "Coordinate": [
+            936,
+            979,
+            1776,
+            1070
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Lala Ltd",
+        "Coordinate": [
+            951,
+            1099,
+            1600,
+            1196
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/30, Lala Street, Jaipur-615347",
+        "Coordinate": [
+            878,
+            1224,
+            1904,
+            1330
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 28, Saraf, Kochi-233865",
+        "Coordinate": [
+            861,
+            1469,
+            1784,
+            1580
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7450791733",
+        "Coordinate": [
+            1856,
+            1742,
+            2193,
+            1819
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7993062001",
+        "Coordinate": [
+            872,
+            1751,
+            1209,
+            1832
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Kannada",
+        "Coordinate": [
+            859,
+            1893,
+            1514,
+            1980
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pushti Konda - 9535323294",
+        "Coordinate": [
+            947,
+            1996,
+            1684,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ranbir Wason - 9166796502",
+        "Coordinate": [
+            945,
+            2142,
+            1654,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VQSXB7038O",
+        "Coordinate": [
+            1603,
+            2334,
+            1980,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            569,
+            2425,
+            824,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/19/2023",
+        "Coordinate": [
+            574,
+            2516,
+            847,
+            2600
+        ]
+    }
+]

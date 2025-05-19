@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemal Dhillon",
+        "Coordinate": [
+            912,
+            473,
+            1419,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Dhillon",
+        "Coordinate": [
+            936,
+            566,
+            1447,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/7/1960",
+        "Coordinate": [
+            928,
+            663,
+            1279,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            950,
+            766,
+            1561,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            945,
+            866,
+            1197,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            851,
+            2030,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            964,
+            949,
+            1122,
+            1038
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1786,
+            946,
+            2072,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Mody-Raja",
+        "Coordinate": [
+            1010,
+            1051,
+            1910,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Vig-Verma",
+        "Coordinate": [
+            1020,
+            1159,
+            1922,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 95, Srinivas Road, Bokaro 028923",
+        "Coordinate": [
+            928,
+            1284,
+            2269,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/424, Thakur Ganj, Bhilai 724928",
+        "Coordinate": [
+            938,
+            1526,
+            2297,
+            1675
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8917969188",
+        "Coordinate": [
+            907,
+            1786,
+            1345,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7993927375",
+        "Coordinate": [
+            1844,
+            1771,
+            2279,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            914,
+            1907,
+            1519,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Azad Rau - 8362144819",
+        "Coordinate": [
+            1045,
+            2016,
+            1953,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Edhitha Swamy - 9255469946",
+        "Coordinate": [
+            1050,
+            2140,
+            2178,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            637,
+            2419,
+            867,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/23/2024",
+        "Coordinate": [
+            646,
+            2520,
+            1029,
+            2596
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anya Kuruvilla",
+        "Coordinate": [
+            897,
+            420,
+            1533,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Kuruvilla",
+        "Coordinate": [
+            905,
+            539,
+            1440,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/20/1967",
+        "Coordinate": [
+            905,
+            625,
+            1335,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            902,
+            725,
+            1117,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            797,
+            1273,
+            919
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1810,
+            798,
+            2193,
+            903
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            897,
+            2111,
+            993
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            917,
+            940,
+            1073,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Virk  Jaggi and Agrawal",
+        "Coordinate": [
+            992,
+            1035,
+            2369,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Oak LLC",
+        "Coordinate": [
+            967,
+            1158,
+            1847,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "449, Purohit Marg, Chinsurah-989947",
+        "Coordinate": [
+            925,
+            1273,
+            2385,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/069, Chada Nagar, Gandhidham 103847",
+        "Coordinate": [
+            919,
+            1508,
+            2275,
+            1703
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7030579848",
+        "Coordinate": [
+            942,
+            1785,
+            1417,
+            1911
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7699257773",
+        "Coordinate": [
+            1575,
+            1815,
+            2135,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Hindi",
+        "Coordinate": [
+            927,
+            1917,
+            2003,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gayathri Ramanathan - 7900534823",
+        "Coordinate": [
+            990,
+            2023,
+            2371,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagrati Sahota - 8014925800",
+        "Coordinate": [
+            992,
+            2155,
+            2171,
+            2267
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XPVJT4873P",
+        "Coordinate": [
+            1672,
+            2340,
+            2195,
+            2463
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            619,
+            2448,
+            897,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/26/2024",
+        "Coordinate": [
+            643,
+            2557,
+            1062,
+            2653
+        ]
+    }
+]

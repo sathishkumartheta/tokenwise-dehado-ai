@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurav Misra",
+        "Coordinate": [
+            920,
+            482,
+            1412,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Misra",
+        "Coordinate": [
+            919,
+            581,
+            1407,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/1978",
+        "Coordinate": [
+            912,
+            671,
+            1221,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            917,
+            785,
+            1115,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            872,
+            1201,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            906,
+            967,
+            1008,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1731,
+            835,
+            1950,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            951,
+            2015,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bahri-Chauhan",
+        "Coordinate": [
+            999,
+            1049,
+            1883,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Borra Group",
+        "Coordinate": [
+            999,
+            1162,
+            1811,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34/361, Nazareth Road, Patna 290431",
+        "Coordinate": [
+            902,
+            1289,
+            2074,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "66/77, Rajagopal Path, Silchar-633209",
+        "Coordinate": [
+            898,
+            1509,
+            2176,
+            1658
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8419062840",
+        "Coordinate": [
+            904,
+            1767,
+            1344,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9935821505",
+        "Coordinate": [
+            1828,
+            1762,
+            2257,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Marathi",
+        "Coordinate": [
+            913,
+            1906,
+            1683,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girindra Ray - 7683232182",
+        "Coordinate": [
+            995,
+            2022,
+            1870,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rayaan Chada - 7660819135",
+        "Coordinate": [
+            993,
+            2137,
+            1857,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            616,
+            2398,
+            924,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2025",
+        "Coordinate": [
+            621,
+            2507,
+            926,
+            2596
+        ]
+    }
+]

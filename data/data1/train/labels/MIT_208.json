@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaitanya Hari",
+        "Coordinate": [
+            869,
+            407,
+            1320,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Hari",
+        "Coordinate": [
+            873,
+            509,
+            1220,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/15/2002",
+        "Coordinate": [
+            869,
+            610,
+            1149,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            868,
+            706,
+            1138,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            812,
+            1113,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1843,
+            786,
+            2012,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            897,
+            2069,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            883,
+            903,
+            1005,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Mahal Ltd",
+        "Coordinate": [
+            953,
+            990,
+            1631,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sengupta  Vyas and Gill",
+        "Coordinate": [
+            949,
+            1105,
+            2083,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 69, Majumdar Marg, Jhansi 985916",
+        "Coordinate": [
+            868,
+            1221,
+            2090,
+            1341
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 10, Din Chowk, Jalgaon-982474",
+        "Coordinate": [
+            857,
+            1468,
+            2083,
+            1587
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8081591028",
+        "Coordinate": [
+            1842,
+            1750,
+            2172,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8782407242",
+        "Coordinate": [
+            868,
+            1744,
+            1255,
+            1817
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati",
+        "Coordinate": [
+            876,
+            1895,
+            1379,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaitaly Aurora - 7744125751",
+        "Coordinate": [
+            936,
+            2006,
+            1827,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Banjeet Kalla - 8725141095",
+        "Coordinate": [
+            938,
+            2127,
+            1823,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "653000000000.0",
+        "Coordinate": [
+            607,
+            2329,
+            1103,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            605,
+            2430,
+            800,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-10-2022",
+        "Coordinate": [
+            607,
+            2520,
+            905,
+            2597
+        ]
+    }
+]

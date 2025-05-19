@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ronith Kakar",
+        "Coordinate": [
+            874,
+            440,
+            1460,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ikbal Kakar",
+        "Coordinate": [
+            888,
+            543,
+            1411,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-11-1986",
+        "Coordinate": [
+            880,
+            645,
+            1239,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            893,
+            747,
+            1271,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            851,
+            1212,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1726,
+            834,
+            1907,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            942,
+            2113,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            925,
+            950,
+            1110,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sur-Dey",
+        "Coordinate": [
+            969,
+            1040,
+            1691,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Modi LLC",
+        "Coordinate": [
+            971,
+            1148,
+            1677,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08, Keer Ganj, Amritsar 244966",
+        "Coordinate": [
+            880,
+            1296,
+            2098,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 045, Badami Ganj, Jamalpur-725140",
+        "Coordinate": [
+            874,
+            1564,
+            2315,
+            1721
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9579026430",
+        "Coordinate": [
+            1856,
+            1813,
+            2307,
+            1928
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8346032793",
+        "Coordinate": [
+            877,
+            1814,
+            1334,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Bengali, Kannada",
+        "Coordinate": [
+            881,
+            1949,
+            2136,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Imaran Sarma - 9664162149",
+        "Coordinate": [
+            935,
+            2061,
+            2027,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yadavi Sem - 8243420328",
+        "Coordinate": [
+            956,
+            2191,
+            2035,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "216000000000.0",
+        "Coordinate": [
+            581,
+            2394,
+            1253,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            585,
+            2485,
+            983,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-06-2025",
+        "Coordinate": [
+            597,
+            2572,
+            1108,
+            2666
+        ]
+    }
+]

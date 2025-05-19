@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "10/9/2022",
+        "Coordinate": [
+            688,
+            2504,
+            1212,
+            2605
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            634,
+            2418,
+            1004,
+            2503
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Benjamin Radhakrishnan - 7773463309",
+        "Coordinate": [
+            972,
+            2132,
+            2200,
+            2263
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oeshi Mohanty - 7739310214",
+        "Coordinate": [
+            1050,
+            2030,
+            2218,
+            2127
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Malayalam, Telugu",
+        "Coordinate": [
+            948,
+            1910,
+            2214,
+            2001
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7871496470",
+        "Coordinate": [
+            922,
+            1798,
+            1322,
+            1909
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8054576893",
+        "Coordinate": [
+            1878,
+            1774,
+            2300,
+            1877
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42, Ahuja Zila, Noida 288073",
+        "Coordinate": [
+            948,
+            1538,
+            2148,
+            1647
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 85, Soni Circle, Burhanpur 275027",
+        "Coordinate": [
+            950,
+            1316,
+            2322,
+            1445
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Chaudhary Inc",
+        "Coordinate": [
+            1108,
+            1152,
+            2050,
+            1271
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Mangat  Prabhu and Varghese",
+        "Coordinate": [
+            1078,
+            1064,
+            2472,
+            1151
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            952,
+            2084,
+            1047
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1774,
+            839,
+            1990,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            996,
+            960,
+            1180,
+            1043
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            966,
+            868,
+            1288,
+            959
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            990,
+            780,
+            1348,
+            853
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/29/1988",
+        "Coordinate": [
+            978,
+            682,
+            1372,
+            767
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Kashyap",
+        "Coordinate": [
+            976,
+            578,
+            1506,
+            685
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanish Kashyap",
+        "Coordinate": [
+            936,
+            492,
+            1674,
+            565
+        ]
+    }
+]

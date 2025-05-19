@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Thomas Parsa",
+        "Coordinate": [
+            895,
+            594,
+            1469,
+            695
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Parsa",
+        "Coordinate": [
+            907,
+            696,
+            1448,
+            793
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/4/1996",
+        "Coordinate": [
+            908,
+            797,
+            1225,
+            885
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            910,
+            895,
+            1098,
+            975
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            973,
+            1188,
+            1092
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            913,
+            1090,
+            1173,
+            1157
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1769,
+            953,
+            2035,
+            1070
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            1078,
+            2025,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bahri Ltd",
+        "Coordinate": [
+            1012,
+            1165,
+            1802,
+            1263
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Varghese Ltd",
+        "Coordinate": [
+            1040,
+            1265,
+            1912,
+            1382
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98/028, Mallick Road, Jamnagar 836268",
+        "Coordinate": [
+            943,
+            1390,
+            2279,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 479, Lalla Nagar, Sirsa 153792",
+        "Coordinate": [
+            908,
+            1620,
+            2145,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8276303751",
+        "Coordinate": [
+            903,
+            1882,
+            1317,
+            2010
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7305635841",
+        "Coordinate": [
+            1840,
+            1880,
+            2272,
+            2009
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Telugu",
+        "Coordinate": [
+            912,
+            2030,
+            1774,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Andrew Sankar - 7556819932",
+        "Coordinate": [
+            1005,
+            2120,
+            1929,
+            2242
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kai Krish - 7265924714",
+        "Coordinate": [
+            1042,
+            2237,
+            1917,
+            2364
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            623,
+            2526,
+            972,
+            2617
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/7/2025",
+        "Coordinate": [
+            631,
+            2626,
+            1083,
+            2702
+        ]
+    }
+]

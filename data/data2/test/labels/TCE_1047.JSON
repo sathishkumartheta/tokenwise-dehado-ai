@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Utkarsh Mani",
+        "Coordinate": [
+            902,
+            476,
+            1498,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Mani",
+        "Coordinate": [
+            908,
+            590,
+            1478,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/22/1995",
+        "Coordinate": [
+            930,
+            676,
+            1404,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            922,
+            776,
+            1346,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            868,
+            1286,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1854,
+            860,
+            2132,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            978,
+            960,
+            1096,
+            1051
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            955,
+            2201,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kashyap  Sandal and Venkatesh",
+        "Coordinate": [
+            956,
+            1060,
+            2324,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Datta LLC",
+        "Coordinate": [
+            966,
+            1160,
+            1846,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 30, Handa, Kulti-215173",
+        "Coordinate": [
+            900,
+            1278,
+            2000,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06, Doshi Circle, Nandyal 575610",
+        "Coordinate": [
+            920,
+            1530,
+            2232,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7934725439",
+        "Coordinate": [
+            902,
+            1794,
+            1380,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8274989502",
+        "Coordinate": [
+            1834,
+            1798,
+            2264,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            907,
+            1906,
+            1585,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faraj Barad - 8961386273",
+        "Coordinate": [
+            968,
+            2024,
+            2162,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anmol Gaba - 8607716044",
+        "Coordinate": [
+            978,
+            2160,
+            2184,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            646,
+            2424,
+            1030,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/7/2023",
+        "Coordinate": [
+            666,
+            2540,
+            1192,
+            2629
+        ]
+    }
+]

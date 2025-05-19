@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abhiram Peri",
+        "Coordinate": [
+            930,
+            472,
+            1515,
+            572
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Peri",
+        "Coordinate": [
+            935,
+            565,
+            1415,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/24/1970",
+        "Coordinate": [
+            940,
+            647,
+            1322,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            742,
+            1305,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            852,
+            1290,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            849,
+            2002,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            935,
+            957,
+            1087,
+            1032
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1792,
+            965,
+            2145,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Devi-Raghavan",
+        "Coordinate": [
+            1000,
+            1002,
+            2190,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Patla  Hayre and Shanker",
+        "Coordinate": [
+            992,
+            1155,
+            2325,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "191, Kohli Road, Berhampore-547360",
+        "Coordinate": [
+            925,
+            1270,
+            2317,
+            1400
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91, Narasimhan Zila, Jalandhar 162600",
+        "Coordinate": [
+            919,
+            1497,
+            2325,
+            1607
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8101089529",
+        "Coordinate": [
+            915,
+            1770,
+            1350,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9254171169",
+        "Coordinate": [
+            1857,
+            1772,
+            2320,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Tamil, Malayalam",
+        "Coordinate": [
+            917,
+            1902,
+            2207,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krish Rattan - 9359003142",
+        "Coordinate": [
+            982,
+            1995,
+            2055,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sathvik Lal - 7731076644",
+        "Coordinate": [
+            1010,
+            2097,
+            2055,
+            2237
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "440023000000",
+        "Coordinate": [
+            630,
+            2320,
+            1237,
+            2417
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/10/2025",
+        "Coordinate": [
+            647,
+            2500,
+            1132,
+            2620
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            657,
+            2412,
+            987,
+            2505
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradhar Barad",
+        "Coordinate": [
+            902,
+            370,
+            1475,
+            468
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krish Barad",
+        "Coordinate": [
+            918,
+            469,
+            1339,
+            565
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-08-1990",
+        "Coordinate": [
+            927,
+            574,
+            1209,
+            665
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            952,
+            673,
+            2043,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            961,
+            780,
+            1203,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1893,
+            848,
+            2117,
+            937
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at D\u2019Alia  Kari and Pradhan",
+        "Coordinate": [
+            1009,
+            954,
+            2197,
+            1071
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at D\u2019Alia and Sons",
+        "Coordinate": [
+            1025,
+            1072,
+            2064,
+            1180
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 35, Dhingra Chowk, Bettiah 064157",
+        "Coordinate": [
+            906,
+            1194,
+            2246,
+            1559
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/28, Bora Nagar, Dewas 945341",
+        "Coordinate": [
+            1906,
+            1706,
+            2293,
+            1804
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8649677029",
+        "Coordinate": [
+            956,
+            1740,
+            1557,
+            1971
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            1070,
+            1962,
+            2049,
+            2078
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adweta Mani - 9636767829",
+        "Coordinate": [
+            1063,
+            2099,
+            1942,
+            2211
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "721000000000.0",
+        "Coordinate": [
+            702,
+            2320,
+            1149,
+            2493
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            787,
+            2499,
+            1151,
+            2587
+        ]
+    }
+]

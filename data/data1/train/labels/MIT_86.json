@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanveer Vig",
+        "Coordinate": [
+            889,
+            406,
+            1245,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Vig",
+        "Coordinate": [
+            896,
+            507,
+            1326,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-11-1984",
+        "Coordinate": [
+            904,
+            601,
+            1226,
+            693
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            906,
+            701,
+            1061,
+            795
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            907,
+            806,
+            1098,
+            906
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1822,
+            805,
+            1997,
+            901
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            909,
+            2066,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            898,
+            908,
+            985,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Wagle Group",
+        "Coordinate": [
+            974,
+            993,
+            1815,
+            1106
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Subramaniam Group",
+        "Coordinate": [
+            982,
+            1110,
+            2010,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24, Kaul Chowk, Anantapuram 430098",
+        "Coordinate": [
+            894,
+            1264,
+            2187,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35, Pathak Marg, Bhatpara 944869",
+        "Coordinate": [
+            882,
+            1488,
+            2114,
+            1634
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9048251401",
+        "Coordinate": [
+            1769,
+            1786,
+            2202,
+            1898
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7783480252",
+        "Coordinate": [
+            898,
+            1755,
+            1305,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            917,
+            1890,
+            1539,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anya Ranganathan - 7192749264",
+        "Coordinate": [
+            959,
+            2003,
+            2116,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Odika Subramanian - 7707826944",
+        "Coordinate": [
+            957,
+            2127,
+            2163,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "673000000000.0",
+        "Coordinate": [
+            609,
+            2335,
+            1112,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            606,
+            2425,
+            901,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-11-2023",
+        "Coordinate": [
+            613,
+            2515,
+            1000,
+            2599
+        ]
+    }
+]

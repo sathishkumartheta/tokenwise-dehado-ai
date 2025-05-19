@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oviya Bumb",
+        "Coordinate": [
+            888,
+            379,
+            1366,
+            471
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advik Bumb",
+        "Coordinate": [
+            886,
+            471,
+            1378,
+            568
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/5/1974",
+        "Coordinate": [
+            900,
+            576,
+            1273,
+            658
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            896,
+            671,
+            1229,
+            764
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            779,
+            1194,
+            868
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1721,
+            760,
+            2010,
+            851
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            873,
+            2118,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            885,
+            877,
+            1028,
+            964
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sampath  Borde and Krish",
+        "Coordinate": [
+            973,
+            962,
+            2302,
+            1069
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Gala LLC",
+        "Coordinate": [
+            971,
+            1082,
+            1799,
+            1183
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/760, Natt, Shahjahanpur 735058",
+        "Coordinate": [
+            886,
+            1218,
+            2223,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/17, Dash, Ghaziabad-651207",
+        "Coordinate": [
+            847,
+            1485,
+            2220,
+            1635
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8510247664",
+        "Coordinate": [
+            1913,
+            1725,
+            2335,
+            1821
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7431083716",
+        "Coordinate": [
+            882,
+            1728,
+            1338,
+            1817
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Marathi, Hindi",
+        "Coordinate": [
+            909,
+            1872,
+            2061,
+            1977
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charvi Sankaran - 9344645683",
+        "Coordinate": [
+            939,
+            1985,
+            2191,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harsh Bhalla - 7059436649",
+        "Coordinate": [
+            958,
+            2114,
+            2123,
+            2213
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "308024000000",
+        "Coordinate": [
+            594,
+            2319,
+            1150,
+            2403
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            610,
+            2407,
+            919,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/23/2024",
+        "Coordinate": [
+            608,
+            2505,
+            1028,
+            2587
+        ]
+    }
+]

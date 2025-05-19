@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Bhavsar",
+        "Coordinate": [
+            874,
+            384,
+            1524,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Bhavsar",
+        "Coordinate": [
+            890,
+            484,
+            1696,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/17/1965",
+        "Coordinate": [
+            902,
+            589,
+            1297,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            891,
+            683,
+            1241,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            898,
+            786,
+            1170,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1843,
+            780,
+            2054,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            888,
+            2185,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            903,
+            894,
+            1003,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sankaran Inc",
+        "Coordinate": [
+            954,
+            981,
+            2079,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Pradhan  De and Bhasin",
+        "Coordinate": [
+            954,
+            1100,
+            2419,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "56, Mani Nagar, Nagercoil 983273",
+        "Coordinate": [
+            880,
+            1223,
+            2215,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "51/49, Sanghvi Ganj, Narasaraopet 024455",
+        "Coordinate": [
+            883,
+            1472,
+            2341,
+            1706
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9988342269",
+        "Coordinate": [
+            1822,
+            1743,
+            2319,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9922239038",
+        "Coordinate": [
+            882,
+            1741,
+            1374,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Telugu, Malayalam",
+        "Coordinate": [
+            870,
+            1884,
+            2319,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pratyush Dhar - 9622425949",
+        "Coordinate": [
+            1001,
+            1999,
+            2215,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaraj Dhar - 9974170748",
+        "Coordinate": [
+            1037,
+            2125,
+            2157,
+            2240
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "412000000000.0",
+        "Coordinate": [
+            590,
+            2329,
+            1191,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            618,
+            2421,
+            943,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/28/2023",
+        "Coordinate": [
+            609,
+            2512,
+            1023,
+            2606
+        ]
+    }
+]

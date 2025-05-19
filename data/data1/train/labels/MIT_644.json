@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Devansh Madan",
+        "Coordinate": [
+            879,
+            437,
+            1467,
+            546
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ryan Madan",
+        "Coordinate": [
+            885,
+            544,
+            1351,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/22/1996",
+        "Coordinate": [
+            896,
+            648,
+            1306,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            880,
+            749,
+            1200,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            851,
+            1193,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1847,
+            848,
+            2060,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1886,
+            950,
+            2158,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            911,
+            955,
+            1035,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sachar  Subramanian and Batra",
+        "Coordinate": [
+            961,
+            1042,
+            2326,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Randhawa LLC",
+        "Coordinate": [
+            969,
+            1150,
+            1921,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "74, Dugar Nagar, Bharatpur-231252",
+        "Coordinate": [
+            891,
+            1289,
+            2165,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "525, Bandi Marg, Saharsa 894961",
+        "Coordinate": [
+            891,
+            1529,
+            2060,
+            1669
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8407963904",
+        "Coordinate": [
+            1869,
+            1800,
+            2274,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8283078881",
+        "Coordinate": [
+            901,
+            1806,
+            1323,
+            1913
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, English, Malayalam",
+        "Coordinate": [
+            887,
+            1947,
+            2006,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Chokshi - 8332309705",
+        "Coordinate": [
+            1004,
+            2051,
+            1920,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksh Nori - 8235456824",
+        "Coordinate": [
+            975,
+            2183,
+            1852,
+            2297
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "864000000000.0",
+        "Coordinate": [
+            610,
+            2404,
+            1125,
+            2491
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            625,
+            2492,
+            878,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-03-2022",
+        "Coordinate": [
+            596,
+            2582,
+            961,
+            2666
+        ]
+    }
+]

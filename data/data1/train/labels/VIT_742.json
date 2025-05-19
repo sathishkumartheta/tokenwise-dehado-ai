@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurang Sura",
+        "Coordinate": [
+            887,
+            434,
+            1622,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Sura",
+        "Coordinate": [
+            894,
+            534,
+            1599,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/17/1978",
+        "Coordinate": [
+            893,
+            636,
+            1301,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            907,
+            734,
+            1271,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            837,
+            1282,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1748,
+            833,
+            1959,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            940,
+            2118,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            893,
+            942,
+            1028,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Gola  Thakkar and Jaggi",
+        "Coordinate": [
+            932,
+            1040,
+            2352,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ratta Group",
+        "Coordinate": [
+            947,
+            1149,
+            1967,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 06, Verma Marg, Sri Ganganagar 715566",
+        "Coordinate": [
+            887,
+            1272,
+            2382,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89, Bassi Road, Bidar 646059",
+        "Coordinate": [
+            878,
+            1527,
+            2331,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7198890983",
+        "Coordinate": [
+            1845,
+            1804,
+            2349,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8026105253",
+        "Coordinate": [
+            872,
+            1806,
+            1345,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Telugu, Kannada",
+        "Coordinate": [
+            894,
+            1941,
+            2260,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dipta Dar - 9485346315",
+        "Coordinate": [
+            917,
+            2058,
+            2168,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jackson Bora - 7151549998",
+        "Coordinate": [
+            937,
+            2187,
+            2235,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "559000000000.0",
+        "Coordinate": [
+            583,
+            2392,
+            1267,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            588,
+            2486,
+            896,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/24/2023",
+        "Coordinate": [
+            593,
+            2575,
+            1088,
+            2666
+        ]
+    }
+]

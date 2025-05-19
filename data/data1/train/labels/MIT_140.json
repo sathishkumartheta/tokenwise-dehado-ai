@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasana Talwar",
+        "Coordinate": [
+            919,
+            435,
+            1572,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Talwar",
+        "Coordinate": [
+            974,
+            540,
+            1576,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-07-1974",
+        "Coordinate": [
+            998,
+            641,
+            1401,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1010,
+            742,
+            1429,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            839,
+            1280,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            830,
+            2117,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            936,
+            2156,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1018,
+            943,
+            1209,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Jani  Halder and Lata",
+        "Coordinate": [
+            1041,
+            1046,
+            2323,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Talwar-Raja",
+        "Coordinate": [
+            1058,
+            1155,
+            2151,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "934, Sahota Ganj, Alappuzha-044397",
+        "Coordinate": [
+            932,
+            1289,
+            2367,
+            1449
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/07, Naik Street, Rajpur Sonarpur-694118",
+        "Coordinate": [
+            893,
+            1549,
+            2287,
+            1775
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9892052287",
+        "Coordinate": [
+            1893,
+            1799,
+            2350,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8158475429",
+        "Coordinate": [
+            888,
+            1818,
+            1327,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Malayalam, Bengali",
+        "Coordinate": [
+            883,
+            1949,
+            2305,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charles Natarajan - 8379382418",
+        "Coordinate": [
+            1000,
+            2060,
+            2329,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urishilla Pandya - 7283238224",
+        "Coordinate": [
+            1018,
+            2188,
+            2355,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "412000000000.0",
+        "Coordinate": [
+            604,
+            2392,
+            1171,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            691,
+            2485,
+            1037,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/19/2023",
+        "Coordinate": [
+            673,
+            2576,
+            1157,
+            2670
+        ]
+    }
+]

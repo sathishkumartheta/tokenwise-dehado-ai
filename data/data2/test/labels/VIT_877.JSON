@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishaan Vyas",
+        "Coordinate": [
+            862,
+            440,
+            1413,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanav Vyas",
+        "Coordinate": [
+            917,
+            544,
+            1489,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/2/1960",
+        "Coordinate": [
+            932,
+            649,
+            1272,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            947,
+            732,
+            1303,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            934,
+            846,
+            1208,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1797,
+            837,
+            2025,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            913,
+            951,
+            1141,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            943,
+            2130,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sankar Ltd",
+        "Coordinate": [
+            1006,
+            1033,
+            1816,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Shetty-Ratti",
+        "Coordinate": [
+            1014,
+            1158,
+            1892,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/50, Chaudhuri Chowk, Visakhapatnam-744540",
+        "Coordinate": [
+            890,
+            1280,
+            2289,
+            1519
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 38, Saraf Chowk, Dhule-315567",
+        "Coordinate": [
+            888,
+            1552,
+            2348,
+            1759
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8748754843",
+        "Coordinate": [
+            888,
+            1818,
+            1365,
+            1930
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9766101044",
+        "Coordinate": [
+            1869,
+            1810,
+            2318,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Gujarati",
+        "Coordinate": [
+            902,
+            1966,
+            2004,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Divya Shenoy - 7488806014",
+        "Coordinate": [
+            953,
+            2063,
+            2137,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krishna Gole - 8385410209",
+        "Coordinate": [
+            987,
+            2189,
+            2147,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "718026000000",
+        "Coordinate": [
+            597,
+            2405,
+            1170,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            611,
+            2487,
+            1067,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/6/2024",
+        "Coordinate": [
+            609,
+            2586,
+            985,
+            2685
+        ]
+    }
+]

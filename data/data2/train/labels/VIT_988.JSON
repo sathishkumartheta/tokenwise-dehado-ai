@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "443535000000",
+        "Coordinate": [
+            604,
+            2380,
+            1150,
+            2456
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            583,
+            2472,
+            871,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/7/2023",
+        "Coordinate": [
+            588,
+            2574,
+            1004,
+            2650
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samarth Raghavan - 9028264138",
+        "Coordinate": [
+            954,
+            2172,
+            1946,
+            2282
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Garg - 9327361633",
+        "Coordinate": [
+            970,
+            2032,
+            1848,
+            2144
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English",
+        "Coordinate": [
+            932,
+            1930,
+            1502,
+            2032
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8345423532",
+        "Coordinate": [
+            892,
+            1782,
+            1348,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7457335591",
+        "Coordinate": [
+            1842,
+            1786,
+            2330,
+            1890
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87, Nair Street, Visakhapatnam 415190",
+        "Coordinate": [
+            916,
+            1266,
+            2090,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 99, Savant Nagar, Ludhiana-169413",
+        "Coordinate": [
+            916,
+            1526,
+            2062,
+            1724
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ray LLC",
+        "Coordinate": [
+            1012,
+            1152,
+            1690,
+            1240
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Menon  Chakraborty and Varkey",
+        "Coordinate": [
+            986,
+            1028,
+            2372,
+            1134
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            826,
+            1224,
+            910
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            986,
+            926,
+            1160,
+            1018
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            902,
+            722,
+            1236,
+            810
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1762,
+            816,
+            2026,
+            904
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            925,
+            2074,
+            1011
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Netra Gaba",
+        "Coordinate": [
+            904,
+            430,
+            1344,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhiram Gaba",
+        "Coordinate": [
+            902,
+            522,
+            1376,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/2005",
+        "Coordinate": [
+            902,
+            638,
+            1348,
+            716
+        ]
+    }
+]

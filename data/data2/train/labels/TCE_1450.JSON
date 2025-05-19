@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aishani Mallick",
+        "Coordinate": [
+            878,
+            473,
+            1647,
+            580
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Mallick",
+        "Coordinate": [
+            908,
+            573,
+            1636,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/2000",
+        "Coordinate": [
+            923,
+            673,
+            1416,
+            751
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            908,
+            842,
+            1224,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            908,
+            951,
+            1132,
+            1046
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1727,
+            847,
+            2079,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            961,
+            2087,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Chakraborty  Badami and Khare",
+        "Coordinate": [
+            960,
+            1036,
+            2466,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kadakia and Sons",
+        "Coordinate": [
+            968,
+            1151,
+            2267,
+            1281
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18, Agarwal Path, Tadepalligudem-670644",
+        "Coordinate": [
+            908,
+            1270,
+            2255,
+            1493
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 577, Chadha Marg, Ahmedabad 926005",
+        "Coordinate": [
+            888,
+            1534,
+            2015,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9131346961",
+        "Coordinate": [
+            892,
+            1805,
+            1348,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7955395623",
+        "Coordinate": [
+            1519,
+            1794,
+            2031,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Kannada, Tamil",
+        "Coordinate": [
+            903,
+            1912,
+            2287,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mohammed Sachdeva - 9503504740",
+        "Coordinate": [
+            968,
+            2017,
+            2303,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Idika Suresh - 7871259884",
+        "Coordinate": [
+            968,
+            2141,
+            2231,
+            2269
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            584,
+            2415,
+            960,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/9/2022",
+        "Coordinate": [
+            644,
+            2515,
+            1240,
+            2612
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            923,
+            757,
+            1112,
+            859
+        ]
+    }
+]

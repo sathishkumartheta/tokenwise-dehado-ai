@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krisha Ravi",
+        "Coordinate": [
+            905,
+            415,
+            1505,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Omkaar Ravi",
+        "Coordinate": [
+            899,
+            513,
+            1563,
+            610
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-05-2003",
+        "Coordinate": [
+            906,
+            611,
+            1315,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            899,
+            713,
+            1267,
+            804
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            813,
+            1174,
+            913
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1843,
+            815,
+            2139,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1867,
+            924,
+            2164,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            914,
+            917,
+            1118,
+            1008
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dass PLC",
+        "Coordinate": [
+            1007,
+            1025,
+            2032,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Naidu  Saraf and Wason",
+        "Coordinate": [
+            967,
+            1135,
+            2360,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70/706, Bakshi Nagar, Darbhanga 143370",
+        "Coordinate": [
+            906,
+            1255,
+            2242,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/744, Ram Ganj, Gwalior 387621",
+        "Coordinate": [
+            899,
+            1522,
+            2248,
+            1742
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8247944234",
+        "Coordinate": [
+            1857,
+            1795,
+            2353,
+            1899
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7268525837",
+        "Coordinate": [
+            880,
+            1788,
+            1374,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Marathi",
+        "Coordinate": [
+            876,
+            1926,
+            2086,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vanya Suri - 9081740539",
+        "Coordinate": [
+            948,
+            2032,
+            2184,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abeer Nair - 7944341840",
+        "Coordinate": [
+            952,
+            2164,
+            2252,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "237000000000.0",
+        "Coordinate": [
+            571,
+            2365,
+            1160,
+            2449
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            580,
+            2460,
+            1461,
+            2551
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/22/2023",
+        "Coordinate": [
+            576,
+            2552,
+            1135,
+            2641
+        ]
+    }
+]

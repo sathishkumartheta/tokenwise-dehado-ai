@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balhaar Shenoy",
+        "Coordinate": [
+            875,
+            332,
+            1457,
+            452
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rayaan Shenoy",
+        "Coordinate": [
+            889,
+            444,
+            1485,
+            573
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/16/1982",
+        "Coordinate": [
+            885,
+            546,
+            1240,
+            635
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            637,
+            1363,
+            730
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            743,
+            1217,
+            832
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1720,
+            720,
+            1929,
+            822
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            962,
+            835,
+            1095,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            828,
+            2069,
+            936
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Rastogi  Hayer and Ranganathan",
+        "Coordinate": [
+            944,
+            937,
+            2339,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Anne LLC",
+        "Coordinate": [
+            959,
+            1052,
+            1715,
+            1188
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 77, Bir Chowk, Motihari 727422",
+        "Coordinate": [
+            867,
+            1198,
+            2271,
+            1340
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "418, Ganguly Marg, Hyderabad 275230",
+        "Coordinate": [
+            885,
+            1415,
+            2223,
+            1646
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7766037867",
+        "Coordinate": [
+            897,
+            1690,
+            1333,
+            1814
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8846775358",
+        "Coordinate": [
+            1845,
+            1685,
+            2257,
+            1778
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Malayalam",
+        "Coordinate": [
+            899,
+            1827,
+            1935,
+            1956
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Riya Batta - 9845151954",
+        "Coordinate": [
+            951,
+            1942,
+            1917,
+            2063
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi Morar - 9623554563",
+        "Coordinate": [
+            940,
+            2065,
+            2043,
+            2184
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XAXAB3923R",
+        "Coordinate": [
+            1607,
+            2273,
+            2127,
+            2384
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            572,
+            2370,
+            1031,
+            2462
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/5/2022",
+        "Coordinate": [
+            609,
+            2470,
+            1047,
+            2563
+        ]
+    }
+]

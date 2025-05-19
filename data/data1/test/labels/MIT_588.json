@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kai Krishnan",
+        "Coordinate": [
+            889,
+            434,
+            1298,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Krishnan",
+        "Coordinate": [
+            896,
+            532,
+            1406,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/20/1968",
+        "Coordinate": [
+            906,
+            635,
+            1236,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            732,
+            1030,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            834,
+            1140,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            831,
+            1928,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            939,
+            2039,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            895,
+            939,
+            995,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kashyap Inc",
+        "Coordinate": [
+            972,
+            1035,
+            1713,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Vala and Sons",
+        "Coordinate": [
+            976,
+            1146,
+            1774,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69/908, Sridhar Marg, Thiruvananthapuram-104481",
+        "Coordinate": [
+            906,
+            1272,
+            2289,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36/556, Devi Zila, Madurai-206318",
+        "Coordinate": [
+            897,
+            1524,
+            2072,
+            1655
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7228101697",
+        "Coordinate": [
+            1870,
+            1803,
+            2296,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7123201612",
+        "Coordinate": [
+            893,
+            1803,
+            1258,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Kannada, Bengali",
+        "Coordinate": [
+            897,
+            1946,
+            1890,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavna Dara - 7663258372",
+        "Coordinate": [
+            954,
+            2048,
+            1831,
+            2143
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Leena Bhatnagar - 7076534878",
+        "Coordinate": [
+            960,
+            2179,
+            1995,
+            2291
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MYWTG7671B",
+        "Coordinate": [
+            1635,
+            2388,
+            2111,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            596,
+            2474,
+            898,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/15/2025",
+        "Coordinate": [
+            592,
+            2570,
+            942,
+            2661
+        ]
+    }
+]

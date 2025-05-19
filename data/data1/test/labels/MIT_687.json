@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Keer",
+        "Coordinate": [
+            879,
+            431,
+            1209,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balendra Keer",
+        "Coordinate": [
+            887,
+            533,
+            1261,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/23/1964",
+        "Coordinate": [
+            881,
+            636,
+            1180,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            881,
+            729,
+            1235,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            836,
+            1113,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1725,
+            828,
+            1869,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            939,
+            2013,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            896,
+            945,
+            991,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sandhu  Grover and Buch",
+        "Coordinate": [
+            954,
+            1044,
+            1889,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Halder  Nagar and Krish",
+        "Coordinate": [
+            963,
+            1149,
+            1945,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "05/070, Srinivas Chowk, Chennai 949996",
+        "Coordinate": [
+            900,
+            1278,
+            2055,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "68, Sachdeva Marg, Madurai-805951",
+        "Coordinate": [
+            887,
+            1529,
+            1939,
+            1671
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9628257005",
+        "Coordinate": [
+            1866,
+            1800,
+            2222,
+            1898
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9711562363",
+        "Coordinate": [
+            888,
+            1805,
+            1218,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Bengali",
+        "Coordinate": [
+            885,
+            1945,
+            1581,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ati Parmer - 8884549208",
+        "Coordinate": [
+            951,
+            2049,
+            1639,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Onveer Gaba - 9497536252",
+        "Coordinate": [
+            954,
+            2182,
+            1686,
+            2287
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "APUJC5124P",
+        "Coordinate": [
+            1633,
+            2390,
+            1978,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            591,
+            2483,
+            800,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/20/2024",
+        "Coordinate": [
+            591,
+            2574,
+            883,
+            2657
+        ]
+    }
+]

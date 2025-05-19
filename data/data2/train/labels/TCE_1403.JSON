@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekani Deol",
+        "Coordinate": [
+            915,
+            471,
+            1363,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harrison Deol",
+        "Coordinate": [
+            915,
+            586,
+            1431,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/1964",
+        "Coordinate": [
+            935,
+            671,
+            1307,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            770,
+            1311,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            851,
+            1259,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            940,
+            956,
+            1099,
+            1015
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            851,
+            2071,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            946,
+            2111,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sachar-Memon",
+        "Coordinate": [
+            1020,
+            1026,
+            2099,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Batra and Sons",
+        "Coordinate": [
+            1035,
+            1160,
+            2067,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "57, Sani, Sirsa 813434",
+        "Coordinate": [
+            935,
+            1301,
+            1771,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62, Ranganathan Ganj, Vellore 786120",
+        "Coordinate": [
+            890,
+            1520,
+            2059,
+            1715
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9457240292",
+        "Coordinate": [
+            925,
+            1786,
+            1359,
+            1859
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9370424440",
+        "Coordinate": [
+            1855,
+            1766,
+            2255,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Tamil, Bengali",
+        "Coordinate": [
+            934,
+            1905,
+            2207,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ira Tak - 9041941525",
+        "Coordinate": [
+            1014,
+            2010,
+            1798,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nimrat Subramaniam - 9600139291",
+        "Coordinate": [
+            1015,
+            2116,
+            2231,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            655,
+            2411,
+            891,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/18/2022",
+        "Coordinate": [
+            634,
+            2520,
+            1139,
+            2583
+        ]
+    }
+]

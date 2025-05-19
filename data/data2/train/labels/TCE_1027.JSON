@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "7/22/2023",
+        "Coordinate": [
+            630,
+            2510,
+            1096,
+            2583
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            629,
+            2426,
+            1056,
+            2503
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anirudh Kuruvilla - 9572634141",
+        "Coordinate": [
+            986,
+            2120,
+            2158,
+            2255
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hiral Sharma - 8714932362",
+        "Coordinate": [
+            998,
+            1996,
+            2096,
+            2131
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Marathi, Malayalam",
+        "Coordinate": [
+            928,
+            1898,
+            2172,
+            1989
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8626250890",
+        "Coordinate": [
+            1834,
+            1772,
+            2286,
+            1863
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7930779997",
+        "Coordinate": [
+            926,
+            1781,
+            1362,
+            1860
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/309, Lad Street, Tumkur 081322",
+        "Coordinate": [
+            936,
+            1522,
+            2232,
+            1659
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86, Sinha Circle, Tiruppur-557854",
+        "Coordinate": [
+            902,
+            1268,
+            2266,
+            1409
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kadakia Ltd",
+        "Coordinate": [
+            984,
+            1150,
+            1870,
+            1235
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Hari-Gokhale",
+        "Coordinate": [
+            960,
+            1034,
+            1828,
+            1135
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1774,
+            954,
+            2046,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            950,
+            944,
+            1098,
+            1035
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            966,
+            858,
+            1220,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1700,
+            848,
+            1902,
+            941
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            926,
+            760,
+            1304,
+            841
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/1/2006",
+        "Coordinate": [
+            930,
+            666,
+            1330,
+            755
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Modi",
+        "Coordinate": [
+            928,
+            562,
+            1458,
+            659
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Sarthak Modi",
+        "Coordinate": [
+            914,
+            488,
+            1522,
+            559
+        ]
+    }
+]

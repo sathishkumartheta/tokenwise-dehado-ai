@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Varghese",
+        "Coordinate": [
+            989,
+            420,
+            1533,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yuvraj Varghese",
+        "Coordinate": [
+            1010,
+            522,
+            1577,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/13/1991",
+        "Coordinate": [
+            1021,
+            624,
+            1391,
+            713
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1042,
+            718,
+            1211,
+            808
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            959,
+            821,
+            1249,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1877,
+            811,
+            2059,
+            903
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1899,
+            918,
+            2140,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1060,
+            918,
+            1195,
+            1008
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Singh LLC",
+        "Coordinate": [
+            1087,
+            1018,
+            1980,
+            1121
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Prabhakar LLC",
+        "Coordinate": [
+            1112,
+            1137,
+            2167,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/04, Sahni Circle, Jamnagar-536937",
+        "Coordinate": [
+            994,
+            1247,
+            2401,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77, Pandey Street, Kolhapur 280801",
+        "Coordinate": [
+            984,
+            1502,
+            2280,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8176819116",
+        "Coordinate": [
+            1923,
+            1773,
+            2310,
+            1867
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9925719496",
+        "Coordinate": [
+            962,
+            1786,
+            1395,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Malayalam",
+        "Coordinate": [
+            984,
+            1926,
+            1890,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abeer Sachar - 9662955151",
+        "Coordinate": [
+            1082,
+            2032,
+            2121,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vihaan Bir - 9597398776",
+        "Coordinate": [
+            1092,
+            2158,
+            2210,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "730000000000.0",
+        "Coordinate": [
+            702,
+            2368,
+            1214,
+            2452
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            688,
+            2457,
+            935,
+            2545
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-01-2022",
+        "Coordinate": [
+            707,
+            2556,
+            1109,
+            2642
+        ]
+    }
+]

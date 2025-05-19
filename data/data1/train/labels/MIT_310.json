@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Laban Iyengar",
+        "Coordinate": [
+            879,
+            388,
+            1432,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sai Iyengar",
+        "Coordinate": [
+            898,
+            488,
+            1365,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/26/2004",
+        "Coordinate": [
+            908,
+            586,
+            1318,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            906,
+            680,
+            1474,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            780,
+            1204,
+            870
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1947,
+            770,
+            2164,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1953,
+            884,
+            2246,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Parikh  Char and Rai",
+        "Coordinate": [
+            981,
+            971,
+            2248,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Hayre-Konda",
+        "Coordinate": [
+            992,
+            1093,
+            2091,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 57, Walia Ganj, Kumbakonam 680119",
+        "Coordinate": [
+            883,
+            1211,
+            2342,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03, Sachar Chowk, Kota-233351",
+        "Coordinate": [
+            882,
+            1462,
+            2272,
+            1598
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9985126121",
+        "Coordinate": [
+            1887,
+            1742,
+            2324,
+            1841
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8988777205",
+        "Coordinate": [
+            876,
+            1741,
+            1349,
+            1845
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Bengali",
+        "Coordinate": [
+            901,
+            1871,
+            2009,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aahana Apte - 7971684243",
+        "Coordinate": [
+            950,
+            1997,
+            2128,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jai Mand - 7702096122",
+        "Coordinate": [
+            953,
+            2117,
+            2038,
+            2223
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WNINH3280C",
+        "Coordinate": [
+            1640,
+            2318,
+            2252,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            608,
+            2414,
+            978,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2022",
+        "Coordinate": [
+            626,
+            2508,
+            1058,
+            2598
+        ]
+    }
+]

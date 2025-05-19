@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omkaar Bakshi",
+        "Coordinate": [
+            881,
+            432,
+            1469,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Bakshi",
+        "Coordinate": [
+            883,
+            527,
+            1464,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/15/2006",
+        "Coordinate": [
+            895,
+            632,
+            1304,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            908,
+            728,
+            1113,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            833,
+            1129,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1857,
+            829,
+            2058,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            936,
+            2107,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            892,
+            943,
+            1019,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Guha  Prabhakar and Lall",
+        "Coordinate": [
+            959,
+            1033,
+            2273,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mittal-Rattan",
+        "Coordinate": [
+            958,
+            1144,
+            1918,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 145, Sunder Path, Ahmednagar-427186",
+        "Coordinate": [
+            889,
+            1277,
+            2230,
+            1509
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 52, Bhakta, Nagpur-600011",
+        "Coordinate": [
+            874,
+            1539,
+            2228,
+            1708
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8061518757",
+        "Coordinate": [
+            1899,
+            1802,
+            2355,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8965170584",
+        "Coordinate": [
+            885,
+            1805,
+            1351,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Malayalam",
+        "Coordinate": [
+            884,
+            1941,
+            1985,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Fiyaz Narain - 9483916677",
+        "Coordinate": [
+            951,
+            2044,
+            2072,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ethan Sagar - 9825576830",
+        "Coordinate": [
+            959,
+            2184,
+            2102,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "657000000000.0",
+        "Coordinate": [
+            588,
+            2383,
+            1163,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            624,
+            2477,
+            980,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-06-2022",
+        "Coordinate": [
+            593,
+            2570,
+            1009,
+            2660
+        ]
+    }
+]

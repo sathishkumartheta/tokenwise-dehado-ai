@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Talwar",
+        "Coordinate": [
+            952,
+            410,
+            1467,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krish Talwar",
+        "Coordinate": [
+            947,
+            513,
+            1496,
+            606
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/17/1981",
+        "Coordinate": [
+            969,
+            607,
+            1366,
+            698
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            961,
+            707,
+            1123,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            963,
+            812,
+            1242,
+            905
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1842,
+            796,
+            2127,
+            892
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1896,
+            903,
+            2164,
+            996
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1015,
+            907,
+            1163,
+            998
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Nazareth-De",
+        "Coordinate": [
+            1035,
+            1001,
+            1948,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sundaram  Oza and Bava",
+        "Coordinate": [
+            1023,
+            1125,
+            2354,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70/127, Acharya Chowk, Panihati 424154",
+        "Coordinate": [
+            950,
+            1228,
+            2235,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "20/643, Chand Marg, Mumbai 712938",
+        "Coordinate": [
+            961,
+            1480,
+            2319,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7731269775",
+        "Coordinate": [
+            1913,
+            1752,
+            2416,
+            1863
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9916038964",
+        "Coordinate": [
+            962,
+            1758,
+            1418,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, English, Telugu",
+        "Coordinate": [
+            953,
+            1907,
+            2183,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aditya Anand - 9028170267",
+        "Coordinate": [
+            999,
+            2025,
+            1979,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jai Sami - 9870750216",
+        "Coordinate": [
+            1029,
+            2143,
+            1941,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "775000000000.0",
+        "Coordinate": [
+            672,
+            2349,
+            931,
+            2433
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            684,
+            2441,
+            1014,
+            2534
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/27/2025",
+        "Coordinate": [
+            669,
+            2534,
+            1089,
+            2625
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samar Warrior",
+        "Coordinate": [
+            872,
+            413,
+            1543,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanay Warrior",
+        "Coordinate": [
+            898,
+            525,
+            1581,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1960",
+        "Coordinate": [
+            894,
+            627,
+            1414,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            889,
+            737,
+            1276,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            822,
+            1265,
+            922
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            877,
+            932,
+            1053,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kaul  Nadkarni and Singhal",
+        "Coordinate": [
+            965,
+            1013,
+            2332,
+            1117
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1809,
+            818,
+            2014,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            929,
+            2087,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bhatt Group",
+        "Coordinate": [
+            977,
+            1127,
+            1883,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30, Misra, Jamnagar 860205",
+        "Coordinate": [
+            891,
+            1296,
+            2028,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 941, Luthra Ganj, Ballia 197979",
+        "Coordinate": [
+            882,
+            1507,
+            2330,
+            1693
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9904083240",
+        "Coordinate": [
+            1638,
+            1842,
+            2102,
+            1930
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7151045078",
+        "Coordinate": [
+            896,
+            1807,
+            1345,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Marathi",
+        "Coordinate": [
+            908,
+            1919,
+            1902,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Mahajan - 9247842038",
+        "Coordinate": [
+            970,
+            2037,
+            2111,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Michael Luthra - 7670935769",
+        "Coordinate": [
+            982,
+            2159,
+            2121,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "654016000000",
+        "Coordinate": [
+            580,
+            2344,
+            1077,
+            2449
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            604,
+            2461,
+            925,
+            2542
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2024",
+        "Coordinate": [
+            618,
+            2530,
+            1074,
+            2632
+        ]
+    }
+]

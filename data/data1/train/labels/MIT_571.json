@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Viraj Khurana",
+        "Coordinate": [
+            873,
+            432,
+            1414,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatura Khurana",
+        "Coordinate": [
+            870,
+            531,
+            1588,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/21/1967",
+        "Coordinate": [
+            872,
+            635,
+            1202,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            866,
+            729,
+            1206,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            869,
+            833,
+            1150,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1717,
+            829,
+            1905,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            934,
+            2018,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            879,
+            937,
+            991,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Gour-Gopal",
+        "Coordinate": [
+            960,
+            1036,
+            2007,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mukhopadhyay-Bhatti",
+        "Coordinate": [
+            944,
+            1139,
+            2306,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 69, Apte Nagar, Nagaon 293359",
+        "Coordinate": [
+            870,
+            1277,
+            2297,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 22, Yohannan, North Dumdum 677153",
+        "Coordinate": [
+            855,
+            1536,
+            2245,
+            1737
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8547209884",
+        "Coordinate": [
+            1847,
+            1800,
+            2319,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7105308020",
+        "Coordinate": [
+            878,
+            1804,
+            1338,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Marathi",
+        "Coordinate": [
+            865,
+            1941,
+            1792,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Om Ganesan - 9551212986",
+        "Coordinate": [
+            905,
+            2041,
+            1957,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nihal Mitra - 8689468560",
+        "Coordinate": [
+            933,
+            2177,
+            2036,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "775000000000.0",
+        "Coordinate": [
+            575,
+            2387,
+            1112,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            562,
+            2481,
+            838,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/27/2025",
+        "Coordinate": [
+            570,
+            2572,
+            987,
+            2660
+        ]
+    }
+]

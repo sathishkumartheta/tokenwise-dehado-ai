@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Talwar",
+        "Coordinate": [
+            898,
+            389,
+            1445,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Talwar",
+        "Coordinate": [
+            888,
+            485,
+            1410,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/22/1967",
+        "Coordinate": [
+            886,
+            590,
+            1205,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            900,
+            692,
+            1190,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            787,
+            1147,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1815,
+            784,
+            2002,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            891,
+            2055,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            913,
+            896,
+            1045,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bali  Nadig and Korpal",
+        "Coordinate": [
+            964,
+            975,
+            2200,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Yadav-Sandal",
+        "Coordinate": [
+            958,
+            1101,
+            2039,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 042, Raghavan Road, Parbhani 618517",
+        "Coordinate": [
+            878,
+            1222,
+            2191,
+            1353
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "00, Narang Road, Tiruchirappalli 899151",
+        "Coordinate": [
+            862,
+            1469,
+            2233,
+            1600
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7856427610",
+        "Coordinate": [
+            1858,
+            1748,
+            2236,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9371251510",
+        "Coordinate": [
+            876,
+            1749,
+            1245,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            892,
+            1890,
+            1542,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aishani Nath - 9830302976",
+        "Coordinate": [
+            931,
+            1996,
+            1822,
+            2088
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jatin Goswami - 8321284012",
+        "Coordinate": [
+            946,
+            2123,
+            1927,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "317000000000.0",
+        "Coordinate": [
+            588,
+            2331,
+            995,
+            2406
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RJKHC5036H",
+        "Coordinate": [
+            1640,
+            2331,
+            2029,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            576,
+            2422,
+            986,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-03-2022",
+        "Coordinate": [
+            596,
+            2515,
+            972,
+            2597
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Triveni Lad",
+        "Coordinate": [
+            898,
+            418,
+            1295,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vihaan Lad",
+        "Coordinate": [
+            899,
+            520,
+            1308,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/28/1966",
+        "Coordinate": [
+            915,
+            618,
+            1264,
+            696
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            914,
+            710,
+            1417,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            814,
+            1165,
+            903
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1906,
+            812,
+            2153,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1913,
+            914,
+            2158,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            926,
+            910,
+            1038,
+            994
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Tandon-Nagi",
+        "Coordinate": [
+            1001,
+            1006,
+            1967,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sachdev-Cherian",
+        "Coordinate": [
+            1005,
+            1123,
+            2073,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 658, Yadav Ganj, Jamnagar-258122",
+        "Coordinate": [
+            890,
+            1261,
+            2310,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "56/68, Kumar Road, Shahjahanpur 337912",
+        "Coordinate": [
+            886,
+            1487,
+            2293,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7213246002",
+        "Coordinate": [
+            1884,
+            1767,
+            2313,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7600909433",
+        "Coordinate": [
+            888,
+            1782,
+            1306,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Malayalam, Telugu",
+        "Coordinate": [
+            886,
+            1910,
+            2170,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kalpit Chad - 8845385625",
+        "Coordinate": [
+            976,
+            2017,
+            1935,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Champak Dar - 7081317201",
+        "Coordinate": [
+            978,
+            2139,
+            2032,
+            2240
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "812000000000.0",
+        "Coordinate": [
+            596,
+            2352,
+            1109,
+            2437
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            587,
+            2444,
+            855,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/31/2023",
+        "Coordinate": [
+            594,
+            2540,
+            1019,
+            2621
+        ]
+    }
+]

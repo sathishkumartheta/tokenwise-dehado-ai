@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harshil Iyengar",
+        "Coordinate": [
+            901,
+            430,
+            1519,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "George Iyengar",
+        "Coordinate": [
+            906,
+            534,
+            1508,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/15/2004",
+        "Coordinate": [
+            916,
+            636,
+            1298,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            938,
+            731,
+            1289,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            941,
+            833,
+            1203,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1764,
+            826,
+            1966,
+            908
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            932,
+            2137,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            948,
+            935,
+            1088,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Balakrishnan-Chana",
+        "Coordinate": [
+            1021,
+            1034,
+            2225,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mall PLC",
+        "Coordinate": [
+            1022,
+            1145,
+            1871,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "893, Bir Circle, Adoni 833428",
+        "Coordinate": [
+            920,
+            1281,
+            2246,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "875, Goyal, Aligarh 566383",
+        "Coordinate": [
+            898,
+            1531,
+            2101,
+            1679
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9853299593",
+        "Coordinate": [
+            1868,
+            1800,
+            2338,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9295506558",
+        "Coordinate": [
+            901,
+            1807,
+            1343,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Telugu, Tamil",
+        "Coordinate": [
+            888,
+            1935,
+            2093,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isaiah Murthy - 7342872901",
+        "Coordinate": [
+            959,
+            2052,
+            2213,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unnati Choudhary - 9573750509",
+        "Coordinate": [
+            984,
+            2186,
+            2284,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "787000000000.0",
+        "Coordinate": [
+            631,
+            2383,
+            1226,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            655,
+            2477,
+            955,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-11-2024",
+        "Coordinate": [
+            645,
+            2570,
+            1071,
+            2663
+        ]
+    }
+]

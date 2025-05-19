@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dalbir Andra",
+        "Coordinate": [
+            922,
+            474,
+            1440,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Andra",
+        "Coordinate": [
+            918,
+            570,
+            1496,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/26/1995",
+        "Coordinate": [
+            922,
+            668,
+            1326,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            904,
+            752,
+            1240,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            858,
+            1232,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1774,
+            856,
+            2034,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1786,
+            953,
+            2078,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            902,
+            950,
+            1066,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Rout-Sampath",
+        "Coordinate": [
+            1014,
+            1054,
+            1984,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Parikh-Sahni",
+        "Coordinate": [
+            980,
+            1166,
+            1944,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 429, Bhatia Zila, Mango 973645",
+        "Coordinate": [
+            886,
+            1268,
+            2256,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 212, Sehgal Road, Barasat-557213",
+        "Coordinate": [
+            902,
+            1528,
+            2280,
+            1675
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9851193726",
+        "Coordinate": [
+            892,
+            1793,
+            1322,
+            1880
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9583658983",
+        "Coordinate": [
+            1748,
+            1814,
+            2270,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            890,
+            1910,
+            1358,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Fiyaz Kota - 9281855608",
+        "Coordinate": [
+            962,
+            2012,
+            2006,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wyatt Batta - 8831108221",
+        "Coordinate": [
+            948,
+            2152,
+            1952,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            614,
+            2402,
+            978,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/21/2022",
+        "Coordinate": [
+            623,
+            2504,
+            1060,
+            2583
+        ]
+    }
+]

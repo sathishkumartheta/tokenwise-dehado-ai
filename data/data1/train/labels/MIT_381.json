@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Raja",
+        "Coordinate": [
+            862,
+            396,
+            1418,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Raja",
+        "Coordinate": [
+            867,
+            497,
+            1311,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-02-1980",
+        "Coordinate": [
+            870,
+            597,
+            1162,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            871,
+            689,
+            1219,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            870,
+            792,
+            1170,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1705,
+            786,
+            1883,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            897,
+            2052,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            874,
+            901,
+            1004,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Balasubramanian PLC",
+        "Coordinate": [
+            929,
+            987,
+            2082,
+            1102
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Natt  Gopal and Kaul",
+        "Coordinate": [
+            914,
+            1105,
+            2202,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 219, Pandey Zila, Karnal 644974",
+        "Coordinate": [
+            862,
+            1240,
+            2239,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "00/268, Randhawa Chowk, Tirupati-764979",
+        "Coordinate": [
+            854,
+            1477,
+            2166,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8107698235",
+        "Coordinate": [
+            1825,
+            1756,
+            2233,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8192813335",
+        "Coordinate": [
+            857,
+            1759,
+            1249,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English",
+        "Coordinate": [
+            861,
+            1899,
+            1555,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dayamai Chakraborty - 9056838471",
+        "Coordinate": [
+            920,
+            2006,
+            2170,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saksham Rajan - 7849485134",
+        "Coordinate": [
+            930,
+            2133,
+            1994,
+            2248
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "395000000000.0",
+        "Coordinate": [
+            579,
+            2341,
+            1056,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            572,
+            2431,
+            1043,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2022",
+        "Coordinate": [
+            570,
+            2522,
+            901,
+            2607
+        ]
+    }
+]

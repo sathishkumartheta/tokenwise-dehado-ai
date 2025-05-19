@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Guneet Subramanian",
+        "Coordinate": [
+            910,
+            466,
+            1664,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Subramanian",
+        "Coordinate": [
+            912,
+            564,
+            1766,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/14/1977",
+        "Coordinate": [
+            960,
+            664,
+            1290,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            940,
+            762,
+            1442,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            936,
+            854,
+            1210,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1804,
+            864,
+            1992,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            959,
+            2110,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1006,
+            947,
+            1108,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Bhattacharyya LLC",
+        "Coordinate": [
+            1003,
+            1048,
+            2027,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Patla and Sons",
+        "Coordinate": [
+            994,
+            1144,
+            2062,
+            1229
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87, Bala Nagar, Tezpur-450693",
+        "Coordinate": [
+            919,
+            1256,
+            2212,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33, Dada Circle, Jammu 433606",
+        "Coordinate": [
+            926,
+            1528,
+            2202,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7674754264",
+        "Coordinate": [
+            904,
+            1774,
+            1324,
+            1853
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9702187410",
+        "Coordinate": [
+            1860,
+            1792,
+            2240,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Hindi, Telugu",
+        "Coordinate": [
+            899,
+            1910,
+            2134,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abdul Jhaveri - 9224264826",
+        "Coordinate": [
+            986,
+            2002,
+            2090,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nitara Bhalla - 9914884672",
+        "Coordinate": [
+            1004,
+            2134,
+            2118,
+            2233
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            672,
+            2420,
+            910,
+            2473
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/22/2025",
+        "Coordinate": [
+            688,
+            2496,
+            1082,
+            2565
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Sarma",
+        "Coordinate": [
+            895,
+            402,
+            1398,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gautam Sarma",
+        "Coordinate": [
+            909,
+            502,
+            1461,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-03-2000",
+        "Coordinate": [
+            939,
+            598,
+            1253,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            942,
+            694,
+            1107,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            896,
+            799,
+            1155,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1769,
+            785,
+            2049,
+            860
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            894,
+            2128,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            903,
+            903,
+            1008,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Parmer-Balakrishnan",
+        "Coordinate": [
+            984,
+            982,
+            2235,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at De  Subramanian and Sura",
+        "Coordinate": [
+            940,
+            1106,
+            2249,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01, Murthy Road, Loni 588916",
+        "Coordinate": [
+            896,
+            1248,
+            1994,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 62, Bhagat Circle, Sangli-Miraj & Kupwad-721753",
+        "Coordinate": [
+            912,
+            1483,
+            2074,
+            1653
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8741003412",
+        "Coordinate": [
+            1842,
+            1763,
+            2289,
+            1873
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9597199166",
+        "Coordinate": [
+            897,
+            1759,
+            1326,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Tamil",
+        "Coordinate": [
+            914,
+            1892,
+            2013,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arunima Bedi - 8027082124",
+        "Coordinate": [
+            953,
+            2003,
+            2052,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kritika Rau - 9435719265",
+        "Coordinate": [
+            964,
+            2124,
+            2003,
+            2220
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "847000000000.0",
+        "Coordinate": [
+            639,
+            2334,
+            1258,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            631,
+            2429,
+            871,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/29/2022",
+        "Coordinate": [
+            643,
+            2522,
+            1058,
+            2608
+        ]
+    }
+]

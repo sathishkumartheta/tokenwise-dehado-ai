@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ijaya Boase",
+        "Coordinate": [
+            877,
+            386,
+            1300,
+            472
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekbal Boase",
+        "Coordinate": [
+            882,
+            487,
+            1307,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/23/1964",
+        "Coordinate": [
+            874,
+            585,
+            1216,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            885,
+            682,
+            1216,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            781,
+            1202,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            773,
+            2055,
+            857
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            882,
+            2088,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            893,
+            890,
+            1010,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Korpal-Sha",
+        "Coordinate": [
+            955,
+            974,
+            1740,
+            1074
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Rau  Chaudhry and Vyas",
+        "Coordinate": [
+            983,
+            1085,
+            2168,
+            1195
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "16/60, Arya Zila, Mira-Bhayandar-142900",
+        "Coordinate": [
+            888,
+            1203,
+            2304,
+            1313
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13/279, Gade Chowk, Bathinda 230848",
+        "Coordinate": [
+            855,
+            1459,
+            2179,
+            1582
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7053218441",
+        "Coordinate": [
+            1845,
+            1742,
+            2268,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7197506823",
+        "Coordinate": [
+            882,
+            1739,
+            1314,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati",
+        "Coordinate": [
+            897,
+            1879,
+            1408,
+            1965
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ansh Basu - 9826255799",
+        "Coordinate": [
+            986,
+            1985,
+            1847,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Chauhan - 7952300421",
+        "Coordinate": [
+            972,
+            2122,
+            1972,
+            2228
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "574854000000",
+        "Coordinate": [
+            589,
+            2324,
+            1128,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            593,
+            2412,
+            863,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2022",
+        "Coordinate": [
+            603,
+            2510,
+            965,
+            2595
+        ]
+    }
+]

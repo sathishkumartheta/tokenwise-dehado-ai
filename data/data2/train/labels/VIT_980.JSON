@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekantika Menon",
+        "Coordinate": [
+            888,
+            446,
+            1414,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chaitanya Menon",
+        "Coordinate": [
+            880,
+            548,
+            1486,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/5/1973",
+        "Coordinate": [
+            882,
+            666,
+            1284,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            874,
+            750,
+            1210,
+            856
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            882,
+            862,
+            1116,
+            964
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            892,
+            954,
+            1016,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dalal Group",
+        "Coordinate": [
+            992,
+            1046,
+            1782,
+            1166
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1772,
+            806,
+            2028,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            942,
+            2114,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ravi Ltd",
+        "Coordinate": [
+            976,
+            1172,
+            1714,
+            1290
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03/59, Mannan Ganj, Shivpuri 334307",
+        "Coordinate": [
+            897,
+            1288,
+            2304,
+            1474
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 821, Badal Marg, Maheshtala 318678",
+        "Coordinate": [
+            900,
+            1546,
+            2330,
+            1708
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7793890964",
+        "Coordinate": [
+            898,
+            1820,
+            1358,
+            1928
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9688443175",
+        "Coordinate": [
+            1894,
+            1818,
+            2360,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Kannada",
+        "Coordinate": [
+            894,
+            1958,
+            1812,
+            2074
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frado Bala - 9793563054",
+        "Coordinate": [
+            982,
+            2074,
+            2032,
+            2158
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mitesh Keer - 8411666936",
+        "Coordinate": [
+            990,
+            2190,
+            1992,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "854827000000",
+        "Coordinate": [
+            586,
+            2396,
+            1222,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            590,
+            2494,
+            892,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/2/2022",
+        "Coordinate": [
+            618,
+            2584,
+            1032,
+            2698
+        ]
+    }
+]

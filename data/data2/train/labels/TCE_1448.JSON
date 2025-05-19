@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chatresh Tailor",
+        "Coordinate": [
+            900,
+            474,
+            1426,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Tailor",
+        "Coordinate": [
+            908,
+            585,
+            1350,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/14/1975",
+        "Coordinate": [
+            910,
+            653,
+            1242,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            900,
+            758,
+            1238,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            843,
+            1210,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1725,
+            848,
+            1954,
+            927
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            900,
+            925,
+            1054,
+            1034
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            952,
+            2070,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Muni and Sons",
+        "Coordinate": [
+            975,
+            1022,
+            1898,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Karan LLC",
+        "Coordinate": [
+            970,
+            1147,
+            1786,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "79/211, Bhargava Chowk, Bharatpur 459609",
+        "Coordinate": [
+            895,
+            1266,
+            2166,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "717, Barad Street, Pune 709431",
+        "Coordinate": [
+            900,
+            1490,
+            2114,
+            1636
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            890,
+            1879,
+            1570,
+            1999
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8490567330",
+        "Coordinate": [
+            895,
+            1754,
+            1314,
+            1860
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7416445502",
+        "Coordinate": [
+            1810,
+            1797,
+            2270,
+            1888
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Onkar Dada - 9497517427",
+        "Coordinate": [
+            950,
+            1999,
+            1942,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrishti Das - 8281573006",
+        "Coordinate": [
+            950,
+            2133,
+            1990,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            615,
+            2397,
+            906,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/29/2023",
+        "Coordinate": [
+            610,
+            2477,
+            1050,
+            2581
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chameli Basu",
+        "Coordinate": [
+            933,
+            467,
+            1600,
+            572
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Basu",
+        "Coordinate": [
+            947,
+            567,
+            1432,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/22/2001",
+        "Coordinate": [
+            956,
+            674,
+            1493,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            953,
+            751,
+            1357,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            973,
+            857,
+            1245,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            967,
+            954,
+            1248,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1793,
+            847,
+            2072,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            953,
+            2179,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kalla  Dhar and Chandra",
+        "Coordinate": [
+            992,
+            1037,
+            2312,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kala Group",
+        "Coordinate": [
+            1013,
+            1157,
+            2104,
+            1286
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 092, Lall Path, Mehsana-983181",
+        "Coordinate": [
+            916,
+            1314,
+            2314,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 30, Cheema Chowk, Hosur 054508",
+        "Coordinate": [
+            906,
+            1567,
+            2325,
+            1710
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9119813850",
+        "Coordinate": [
+            913,
+            1807,
+            1373,
+            1905
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9526162764",
+        "Coordinate": [
+            1620,
+            1820,
+            2195,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            1000,
+            1904,
+            1856,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wakeeta Parmar - 7887491728",
+        "Coordinate": [
+            990,
+            2007,
+            2261,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zarna Pillay - 8263369980",
+        "Coordinate": [
+            996,
+            2147,
+            2317,
+            2262
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            653,
+            2424,
+            880,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/2/2023",
+        "Coordinate": [
+            640,
+            2500,
+            1005,
+            2619
+        ]
+    }
+]

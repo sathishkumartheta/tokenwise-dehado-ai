@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nandini Brar",
+        "Coordinate": [
+            946,
+            478,
+            1610,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatan Brar",
+        "Coordinate": [
+            934,
+            560,
+            1476,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/9/1980",
+        "Coordinate": [
+            932,
+            670,
+            1356,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            932,
+            758,
+            1376,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            852,
+            1218,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            844,
+            2086,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            946,
+            956,
+            1084,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            954,
+            2176,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Aggarwal-Mangal",
+        "Coordinate": [
+            994,
+            1050,
+            2326,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Ranganathan  Sura and Dash",
+        "Coordinate": [
+            989,
+            1146,
+            2300,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "498, Purohit Path, Bardhaman 650941",
+        "Coordinate": [
+            935,
+            1284,
+            2132,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/240, Raghavan Circle, Karaikudi-013215",
+        "Coordinate": [
+            928,
+            1504,
+            2172,
+            1733
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9179419630",
+        "Coordinate": [
+            918,
+            1794,
+            1324,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7262423697",
+        "Coordinate": [
+            1844,
+            1774,
+            2340,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi",
+        "Coordinate": [
+            936,
+            1925,
+            1592,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Panini Sen - 7978014779",
+        "Coordinate": [
+            972,
+            2016,
+            2060,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dev Bose - 8342606859",
+        "Coordinate": [
+            978,
+            2146,
+            2206,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            650,
+            2424,
+            1070,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/11/2024",
+        "Coordinate": [
+            658,
+            2498,
+            1054,
+            2581
+        ]
+    }
+]

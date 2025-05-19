@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Veer Khurana",
+        "Coordinate": [
+            910,
+            455,
+            1438,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanav Khurana",
+        "Coordinate": [
+            900,
+            566,
+            1578,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/24/1974",
+        "Coordinate": [
+            900,
+            631,
+            1310,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            760,
+            1254,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            851,
+            1274,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1725,
+            836,
+            1974,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            925,
+            941,
+            1054,
+            1013
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            940,
+            2110,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bahri Ltd",
+        "Coordinate": [
+            1019,
+            1041,
+            1929,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Pant  Sem and Kala",
+        "Coordinate": [
+            1010,
+            1166,
+            2174,
+            1281
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/75, Som Circle, Tiruchirappalli 422709",
+        "Coordinate": [
+            910,
+            1275,
+            2278,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72, Batta Nagar, Muzaffarpur 889089",
+        "Coordinate": [
+            915,
+            1521,
+            2246,
+            1673
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8256740360",
+        "Coordinate": [
+            915,
+            1761,
+            1398,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9932392160",
+        "Coordinate": [
+            1740,
+            1761,
+            2250,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Kannada",
+        "Coordinate": [
+            930,
+            1896,
+            1742,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anjali Kannan - 7719734510",
+        "Coordinate": [
+            990,
+            1996,
+            1902,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yatan Goda - 9982229197",
+        "Coordinate": [
+            1000,
+            2141,
+            1838,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            610,
+            2405,
+            966,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/30/2024",
+        "Coordinate": [
+            630,
+            2501,
+            974,
+            2601
+        ]
+    }
+]

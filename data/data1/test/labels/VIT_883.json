@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ucchal Varty",
+        "Coordinate": [
+            883,
+            436,
+            1492,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Falan Varty",
+        "Coordinate": [
+            911,
+            536,
+            1390,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-10-1975",
+        "Coordinate": [
+            927,
+            638,
+            1283,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            929,
+            736,
+            1153,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            842,
+            1212,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            835,
+            2035,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            943,
+            2130,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            903,
+            944,
+            1094,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Basak Group",
+        "Coordinate": [
+            993,
+            1043,
+            2001,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mital PLC",
+        "Coordinate": [
+            989,
+            1154,
+            1897,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15/623, Ramachandran Nagar, Suryapet-194670",
+        "Coordinate": [
+            903,
+            1282,
+            2054,
+            1520
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/804, Sarma Road, Kozhikode 836248",
+        "Coordinate": [
+            940,
+            1544,
+            2206,
+            1759
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8687937813",
+        "Coordinate": [
+            1848,
+            1809,
+            2290,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8095302803",
+        "Coordinate": [
+            896,
+            1814,
+            1318,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu",
+        "Coordinate": [
+            899,
+            1948,
+            1419,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damyanti Thakur - 8408531413",
+        "Coordinate": [
+            967,
+            2050,
+            2146,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Neha Grewal - 9864761744",
+        "Coordinate": [
+            936,
+            2187,
+            2072,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "330000000000.0",
+        "Coordinate": [
+            594,
+            2394,
+            1166,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            604,
+            2485,
+            899,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-03-2025",
+        "Coordinate": [
+            598,
+            2580,
+            968,
+            2672
+        ]
+    }
+]

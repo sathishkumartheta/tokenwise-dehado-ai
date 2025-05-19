@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jatin Kanda",
+        "Coordinate": [
+            915,
+            475,
+            1331,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Kanda",
+        "Coordinate": [
+            915,
+            576,
+            1351,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/28/1969",
+        "Coordinate": [
+            915,
+            676,
+            1239,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            915,
+            745,
+            1219,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            851,
+            1179,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            904,
+            956,
+            1035,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1699,
+            856,
+            1882,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            960,
+            2023,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chaudhari  Murty and Ravi",
+        "Coordinate": [
+            995,
+            1046,
+            2211,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dhaliwal and Sons",
+        "Coordinate": [
+            1010,
+            1156,
+            2031,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46, Srinivasan Circle, Kumbakonam-855137",
+        "Coordinate": [
+            915,
+            1275,
+            2295,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59/797, Babu Circle, Guna 178679",
+        "Coordinate": [
+            905,
+            1506,
+            2019,
+            1624
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7740565424",
+        "Coordinate": [
+            900,
+            1766,
+            1339,
+            1868
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7864004248",
+        "Coordinate": [
+            1830,
+            1771,
+            2247,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Bengali, Malayalam",
+        "Coordinate": [
+            900,
+            1906,
+            1979,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanveer Saran - 7553234959",
+        "Coordinate": [
+            985,
+            2011,
+            1847,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charvi Narayan - 7001854112",
+        "Coordinate": [
+            990,
+            2146,
+            1855,
+            2272
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            620,
+            2426,
+            887,
+            2496
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/16/2023",
+        "Coordinate": [
+            639,
+            2485,
+            966,
+            2580
+        ]
+    }
+]

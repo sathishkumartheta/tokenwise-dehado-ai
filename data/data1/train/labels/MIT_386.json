@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chanchal Sur",
+        "Coordinate": [
+            889,
+            388,
+            1325,
+            476
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Sur",
+        "Coordinate": [
+            902,
+            488,
+            1313,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/15/1978",
+        "Coordinate": [
+            898,
+            587,
+            1245,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            891,
+            685,
+            1152,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            899,
+            792,
+            1093,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1807,
+            780,
+            2011,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            887,
+            2064,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            921,
+            900,
+            1029,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Shroff LLC",
+        "Coordinate": [
+            970,
+            983,
+            1940,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Barad LLC",
+        "Coordinate": [
+            968,
+            1098,
+            1855,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 238, Batta Path, Nanded-665275",
+        "Coordinate": [
+            879,
+            1220,
+            2242,
+            1366
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "282, Kaur, Bhavnagar-256913",
+        "Coordinate": [
+            885,
+            1467,
+            2031,
+            1607
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7755691665",
+        "Coordinate": [
+            1855,
+            1746,
+            2280,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8687580031",
+        "Coordinate": [
+            873,
+            1745,
+            1283,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Kannada",
+        "Coordinate": [
+            880,
+            1884,
+            1674,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advaith Karpe - 9895470671",
+        "Coordinate": [
+            949,
+            1999,
+            2044,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Theodore Hora - 9574428906",
+        "Coordinate": [
+            950,
+            2122,
+            2098,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YKMBF2498F",
+        "Coordinate": [
+            1613,
+            2321,
+            2107,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            591,
+            2415,
+            839,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-09-2022",
+        "Coordinate": [
+            596,
+            2507,
+            928,
+            2595
+        ]
+    }
+]

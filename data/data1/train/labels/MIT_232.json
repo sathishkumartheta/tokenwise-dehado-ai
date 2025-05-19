@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Vora",
+        "Coordinate": [
+            888,
+            396,
+            1217,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gunbir Vora",
+        "Coordinate": [
+            907,
+            495,
+            1249,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/15/1959",
+        "Coordinate": [
+            905,
+            591,
+            1204,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            895,
+            688,
+            1309,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            784,
+            1071,
+            869
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1818,
+            781,
+            1978,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            891,
+            2054,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            912,
+            889,
+            1016,
+            964
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mukherjee  Narasimhan and Chandra",
+        "Coordinate": [
+            925,
+            975,
+            2185,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kulkarni-Thakkar",
+        "Coordinate": [
+            880,
+            1095,
+            1891,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 476, Kulkarni Nagar, Howrah 797727",
+        "Coordinate": [
+            880,
+            1227,
+            2204,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 09, Goel Street, Gwalior 107051",
+        "Coordinate": [
+            880,
+            1479,
+            2105,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9301737779",
+        "Coordinate": [
+            1865,
+            1744,
+            2244,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8474867464",
+        "Coordinate": [
+            889,
+            1750,
+            1293,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Marathi, Telugu",
+        "Coordinate": [
+            904,
+            1888,
+            1857,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rishi Badal - 7009744931",
+        "Coordinate": [
+            935,
+            2001,
+            1788,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Edhitha Gara - 9954190518",
+        "Coordinate": [
+            958,
+            2132,
+            1838,
+            2239
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "338000000000.0",
+        "Coordinate": [
+            596,
+            2329,
+            1013,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            611,
+            2422,
+            883,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/14/2022",
+        "Coordinate": [
+            615,
+            2516,
+            960,
+            2599
+        ]
+    }
+]

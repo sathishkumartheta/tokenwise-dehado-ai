@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Nazareth",
+        "Coordinate": [
+            890,
+            389,
+            1404,
+            476
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girik Nazareth",
+        "Coordinate": [
+            909,
+            485,
+            1563,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-11-1976",
+        "Coordinate": [
+            914,
+            590,
+            1276,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            943,
+            689,
+            1277,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            785,
+            1262,
+            871
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1765,
+            788,
+            1977,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            887,
+            2112,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            986,
+            889,
+            1151,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sura-Shan",
+        "Coordinate": [
+            985,
+            982,
+            1914,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Char  Oommen and Venkataraman",
+        "Coordinate": [
+            919,
+            1098,
+            1840,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 60, Date Circle, Ambattur 118425",
+        "Coordinate": [
+            870,
+            1248,
+            2228,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81, Gopal Circle, Sasaram 230358",
+        "Coordinate": [
+            877,
+            1470,
+            2253,
+            1597
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7580382246",
+        "Coordinate": [
+            1862,
+            1750,
+            2327,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8133725233",
+        "Coordinate": [
+            876,
+            1747,
+            1330,
+            1845
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, English",
+        "Coordinate": [
+            877,
+            1881,
+            1946,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Champak Walia - 7759901360",
+        "Coordinate": [
+            853,
+            1998,
+            2042,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Victor Wali - 8499871433",
+        "Coordinate": [
+            893,
+            2123,
+            1994,
+            2235
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "704000000000.0",
+        "Coordinate": [
+            593,
+            2325,
+            1124,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            608,
+            2420,
+            917,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/25/2022",
+        "Coordinate": [
+            614,
+            2508,
+            1036,
+            2593
+        ]
+    }
+]

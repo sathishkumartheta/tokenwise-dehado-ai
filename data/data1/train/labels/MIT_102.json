@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Adya Master",
+        "Coordinate": [
+            895,
+            423,
+            1413,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Master",
+        "Coordinate": [
+            894,
+            527,
+            1528,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/20/1975",
+        "Coordinate": [
+            904,
+            631,
+            1376,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            727,
+            1205,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            831,
+            1214,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            818,
+            2108,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            933,
+            2136,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            920,
+            932,
+            1132,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Trivedi-Chaudhary",
+        "Coordinate": [
+            955,
+            1029,
+            2103,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sundaram-Wali",
+        "Coordinate": [
+            1009,
+            1142,
+            2098,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "878, Baral Nagar, Bettiah 576205",
+        "Coordinate": [
+            898,
+            1267,
+            2236,
+            1497
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/840, Ram Road, Miryalaguda 325621",
+        "Coordinate": [
+            877,
+            1533,
+            2228,
+            1785
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8317476844",
+        "Coordinate": [
+            1627,
+            1846,
+            2222,
+            1943
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9136143633",
+        "Coordinate": [
+            871,
+            1798,
+            1361,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, English, Malayalam",
+        "Coordinate": [
+            869,
+            1941,
+            2230,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Utkarsh Sahni - 8434664693",
+        "Coordinate": [
+            929,
+            2048,
+            2279,
+            2184
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Michael Sandhu - 9785250550",
+        "Coordinate": [
+            962,
+            2184,
+            2091,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PTNVC8732Q",
+        "Coordinate": [
+            1630,
+            2385,
+            2191,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            597,
+            2468,
+            1003,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/17/2022",
+        "Coordinate": [
+            608,
+            2563,
+            1093,
+            2679
+        ]
+    }
+]

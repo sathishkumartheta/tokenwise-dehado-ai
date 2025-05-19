@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dalbir Panchal",
+        "Coordinate": [
+            910,
+            463,
+            1460,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Panchal",
+        "Coordinate": [
+            927,
+            570,
+            1487,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/1/1987",
+        "Coordinate": [
+            924,
+            657,
+            1253,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            919,
+            749,
+            1291,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            853,
+            1239,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            953,
+            948,
+            1071,
+            1023
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            847,
+            2020,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            958,
+            2117,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Andra-Oak",
+        "Coordinate": [
+            990,
+            1043,
+            1898,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Kothari Ltd",
+        "Coordinate": [
+            1021,
+            1147,
+            1933,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 983, Rajan Circle, Sikar 249895",
+        "Coordinate": [
+            936,
+            1262,
+            2295,
+            1387
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 030, Sastry Circle, Dehri-380404",
+        "Coordinate": [
+            955,
+            1508,
+            2282,
+            1683
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9310563743",
+        "Coordinate": [
+            925,
+            1784,
+            1310,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7930399710",
+        "Coordinate": [
+            1839,
+            1787,
+            2240,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            912,
+            1919,
+            1541,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Guneet Ramachandran - 9743563256",
+        "Coordinate": [
+            1014,
+            2006,
+            2238,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Ravi - 7666629375",
+        "Coordinate": [
+            1014,
+            2143,
+            2002,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            639,
+            2412,
+            946,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/16/2024",
+        "Coordinate": [
+            636,
+            2504,
+            1031,
+            2583
+        ]
+    }
+]

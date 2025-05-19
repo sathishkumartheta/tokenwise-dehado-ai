@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Megha Chaudhry",
+        "Coordinate": [
+            883,
+            435,
+            1440,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathan Chaudhry",
+        "Coordinate": [
+            888,
+            537,
+            1501,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/26/1992",
+        "Coordinate": [
+            889,
+            638,
+            1237,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            876,
+            734,
+            1321,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            840,
+            1146,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1797,
+            834,
+            2039,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            945,
+            2071,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            885,
+            945,
+            993,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Borde Ltd",
+        "Coordinate": [
+            967,
+            1043,
+            1693,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bedi  Dhaliwal and Badami",
+        "Coordinate": [
+            982,
+            1151,
+            2327,
+            1275
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 10, Chaudry Chowk, Guntur 337026",
+        "Coordinate": [
+            907,
+            1285,
+            2236,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14/96, Parmar Ganj, Ludhiana 935311",
+        "Coordinate": [
+            900,
+            1537,
+            2264,
+            1688
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9338209472",
+        "Coordinate": [
+            1867,
+            1804,
+            2342,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8017821607",
+        "Coordinate": [
+            903,
+            1810,
+            1364,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Tamil",
+        "Coordinate": [
+            884,
+            1953,
+            1718,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishaan Naik - 9627365912",
+        "Coordinate": [
+            945,
+            2069,
+            1988,
+            2188
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kala Randhawa - 8124199646",
+        "Coordinate": [
+            964,
+            2191,
+            2027,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "242000000000.0",
+        "Coordinate": [
+            603,
+            2397,
+            1103,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            597,
+            2491,
+            852,
+            2583
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-10-2022",
+        "Coordinate": [
+            587,
+            2582,
+            975,
+            2676
+        ]
+    }
+]

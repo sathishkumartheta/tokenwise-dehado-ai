@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jacob Pal",
+        "Coordinate": [
+            890,
+            404,
+            1227,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Pal",
+        "Coordinate": [
+            907,
+            510,
+            1340,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-12-2001",
+        "Coordinate": [
+            898,
+            605,
+            1222,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            692,
+            1052,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            896,
+            791,
+            1084,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1813,
+            796,
+            1998,
+            886
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            895,
+            2086,
+            989
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            898,
+            905,
+            1017,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Borah Group",
+        "Coordinate": [
+            951,
+            988,
+            1758,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sundaram LLC",
+        "Coordinate": [
+            953,
+            1115,
+            1805,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25/19, Krishnamurthy, Mangalore 171222",
+        "Coordinate": [
+            882,
+            1263,
+            2253,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/387, Gade Street, Karimnagar-221626",
+        "Coordinate": [
+            866,
+            1495,
+            2274,
+            1644
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8840529034",
+        "Coordinate": [
+            1855,
+            1758,
+            2315,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9705221375",
+        "Coordinate": [
+            887,
+            1764,
+            1294,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada, Tamil",
+        "Coordinate": [
+            883,
+            1896,
+            1746,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abha Raja - 8614729663",
+        "Coordinate": [
+            930,
+            2002,
+            1764,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Robert Agarwal - 8544113435",
+        "Coordinate": [
+            962,
+            2128,
+            1983,
+            2236
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QTIEG3318B",
+        "Coordinate": [
+            1617,
+            2340,
+            2070,
+            2441
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            582,
+            2427,
+            839,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-08-2022",
+        "Coordinate": [
+            567,
+            2524,
+            979,
+            2606
+        ]
+    }
+]

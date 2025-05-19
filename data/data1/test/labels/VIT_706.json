@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachit Ramesh",
+        "Coordinate": [
+            908,
+            406,
+            1599,
+            504
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Ramesh",
+        "Coordinate": [
+            904,
+            507,
+            1624,
+            605
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1988",
+        "Coordinate": [
+            895,
+            607,
+            1297,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            901,
+            704,
+            1231,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            811,
+            1253,
+            906
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1903,
+            813,
+            2121,
+            905
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1920,
+            923,
+            2227,
+            1010
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            934,
+            911,
+            1106,
+            1001
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dewan  Bedi and Kannan",
+        "Coordinate": [
+            972,
+            1013,
+            2356,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dutt  Singh and Joshi",
+        "Coordinate": [
+            955,
+            1124,
+            2371,
+            1236
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 256, Goyal Chowk, Bhatpara 008578",
+        "Coordinate": [
+            869,
+            1259,
+            1987,
+            1484
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 32, Golla Road, Munger 009805",
+        "Coordinate": [
+            874,
+            1512,
+            2289,
+            1733
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7569837720",
+        "Coordinate": [
+            1869,
+            1786,
+            2348,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7544244885",
+        "Coordinate": [
+            869,
+            1781,
+            1362,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Bengali",
+        "Coordinate": [
+            886,
+            1923,
+            1809,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Simon Reddy - 9110638119",
+        "Coordinate": [
+            947,
+            2027,
+            1943,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samesh Balasubramanian - 8700612823",
+        "Coordinate": [
+            1227,
+            2160,
+            2359,
+            2265
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "816000000000.0",
+        "Coordinate": [
+            574,
+            2363,
+            1236,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            569,
+            2454,
+            881,
+            2534
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/15/2024",
+        "Coordinate": [
+            579,
+            2544,
+            1077,
+            2636
+        ]
+    }
+]

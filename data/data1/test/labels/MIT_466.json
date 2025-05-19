@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varenya Toor",
+        "Coordinate": [
+            893,
+            424,
+            1407,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samar Toor",
+        "Coordinate": [
+            898,
+            525,
+            1370,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/24/1978",
+        "Coordinate": [
+            908,
+            627,
+            1297,
+            714
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            918,
+            726,
+            1275,
+            813
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            824,
+            1255,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            811,
+            2080,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            924,
+            2131,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            915,
+            927,
+            1080,
+            1012
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Tata-Virk",
+        "Coordinate": [
+            1005,
+            1028,
+            1869,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Naidu-Narang",
+        "Coordinate": [
+            1016,
+            1138,
+            2060,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 12, Singhal Road, Panipat 006875",
+        "Coordinate": [
+            902,
+            1267,
+            2367,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 05, Sachdeva Zila, Nagercoil-512244",
+        "Coordinate": [
+            894,
+            1497,
+            2341,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8103333230",
+        "Coordinate": [
+            1749,
+            1818,
+            2263,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8051191410",
+        "Coordinate": [
+            915,
+            1787,
+            1348,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Hindi, Kannada",
+        "Coordinate": [
+            886,
+            1923,
+            2153,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekapad Vala - 8555345819",
+        "Coordinate": [
+            957,
+            2031,
+            1979,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Ahluwalia - 8914381274",
+        "Coordinate": [
+            958,
+            2164,
+            2241,
+            2284
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ONFZT9060H",
+        "Coordinate": [
+            1635,
+            2364,
+            2117,
+            2461
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            624,
+            2448,
+            1441,
+            2547
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/28/2022",
+        "Coordinate": [
+            627,
+            2546,
+            1065,
+            2646
+        ]
+    }
+]

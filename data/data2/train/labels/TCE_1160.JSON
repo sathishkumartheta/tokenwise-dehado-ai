@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krish Bail",
+        "Coordinate": [
+            904,
+            461,
+            1374,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Parth Bail",
+        "Coordinate": [
+            911,
+            574,
+            1332,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/28/1977",
+        "Coordinate": [
+            908,
+            672,
+            1336,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            916,
+            757,
+            1294,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            858,
+            1298,
+            966
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            853,
+            2007,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            949,
+            2130,
+            1056
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            908,
+            962,
+            1183,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bhattacharyya PLC",
+        "Coordinate": [
+            983,
+            1044,
+            2173,
+            1164
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mistry  Warrior and Nagar",
+        "Coordinate": [
+            977,
+            1156,
+            2353,
+            1280
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "42, Buch Marg, Mira-Bhayandar 740451",
+        "Coordinate": [
+            919,
+            1276,
+            2210,
+            1506
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/93, Balan Chowk, Dhanbad-574318",
+        "Coordinate": [
+            912,
+            1534,
+            2271,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9572242105",
+        "Coordinate": [
+            920,
+            1783,
+            1344,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8619329290",
+        "Coordinate": [
+            1840,
+            1775,
+            2271,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Telugu",
+        "Coordinate": [
+            931,
+            1915,
+            2051,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Balhaar Balan - 8709194836",
+        "Coordinate": [
+            970,
+            2012,
+            2071,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Praneel Kumer - 9587857745",
+        "Coordinate": [
+            978,
+            2148,
+            2142,
+            2276
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            660,
+            2416,
+            966,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/6/2022",
+        "Coordinate": [
+            702,
+            2505,
+            1100,
+            2621
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "521973000000",
+        "Coordinate": [
+            628,
+            2328,
+            1263,
+            2428
+        ]
+    }
+]

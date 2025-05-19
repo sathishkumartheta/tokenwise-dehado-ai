@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Agastya Char",
+        "Coordinate": [
+            891,
+            461,
+            1504,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Raghav Char",
+        "Coordinate": [
+            896,
+            561,
+            1419,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/8/1964",
+        "Coordinate": [
+            932,
+            654,
+            1408,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            896,
+            747,
+            1340,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            845,
+            1228,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1746,
+            845,
+            2073,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            896,
+            957,
+            1087,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            959,
+            2133,
+            1063
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bhalla  Gulati and Banerjee",
+        "Coordinate": [
+            966,
+            1042,
+            2277,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Kale  Viswanathan and Sarma",
+        "Coordinate": [
+            974,
+            1146,
+            2301,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34, Pandya Nagar, Kumbakonam 515698",
+        "Coordinate": [
+            903,
+            1273,
+            2212,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "991, Bhavsar Circle, Guna-919177",
+        "Coordinate": [
+            914,
+            1511,
+            2097,
+            1644
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9342231378",
+        "Coordinate": [
+            865,
+            1779,
+            1352,
+            1860
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8438177946",
+        "Coordinate": [
+            1792,
+            1747,
+            2249,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Kannada, Marathi",
+        "Coordinate": [
+            875,
+            1903,
+            2219,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faris Vora - 9971251043",
+        "Coordinate": [
+            943,
+            2016,
+            1853,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vinaya Sheth - 7706415741",
+        "Coordinate": [
+            992,
+            2150,
+            1921,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            605,
+            2387,
+            1088,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/25/2024",
+        "Coordinate": [
+            635,
+            2509,
+            1059,
+            2614
+        ]
+    }
+]

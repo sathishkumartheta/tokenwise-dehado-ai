@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upkaar Gokhale",
+        "Coordinate": [
+            899,
+            464,
+            1468,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Christopher Gokhale",
+        "Coordinate": [
+            894,
+            565,
+            1609,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/20/1971",
+        "Coordinate": [
+            891,
+            659,
+            1273,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            894,
+            739,
+            1444,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            840,
+            1193,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1681,
+            840,
+            1887,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            923,
+            947,
+            1099,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1764,
+            958,
+            2020,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Thaman  Ratti and Sem",
+        "Coordinate": [
+            950,
+            1043,
+            2271,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kothari Ltd",
+        "Coordinate": [
+            961,
+            1150,
+            1938,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06, Dhingra Ganj, Faridabad 171955",
+        "Coordinate": [
+            907,
+            1270,
+            2285,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "295, Ramaswamy Zila, Cuttack-567486",
+        "Coordinate": [
+            886,
+            1524,
+            1866,
+            1743
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8222505586",
+        "Coordinate": [
+            891,
+            1769,
+            1332,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8649047371",
+        "Coordinate": [
+            1815,
+            1799,
+            2229,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Tamil, Marathi",
+        "Coordinate": [
+            883,
+            1895,
+            1999,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Watika Mandal - 8413271870",
+        "Coordinate": [
+            947,
+            2018,
+            2004,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charan Khalsa - 8768196207",
+        "Coordinate": [
+            945,
+            2127,
+            2068,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            608,
+            2402,
+            985,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/26/2023",
+        "Coordinate": [
+            597,
+            2504,
+            1046,
+            2594
+        ]
+    }
+]

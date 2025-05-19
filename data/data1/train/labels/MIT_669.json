@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshmi Lalla",
+        "Coordinate": [
+            899,
+            440,
+            1348,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Lalla",
+        "Coordinate": [
+            917,
+            540,
+            1409,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-06-1987",
+        "Coordinate": [
+            931,
+            642,
+            1231,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            945,
+            742,
+            1254,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            964,
+            843,
+            1247,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            835,
+            2016,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            944,
+            2052,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1009,
+            947,
+            1161,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Gandhi Group",
+        "Coordinate": [
+            1002,
+            1050,
+            1841,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Pillai Group",
+        "Coordinate": [
+            1020,
+            1158,
+            1828,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53, Kulkarni Road, Kalyan-Dombivli 421867",
+        "Coordinate": [
+            903,
+            1307,
+            2265,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "15/203, Butala Path, Aurangabad 056513",
+        "Coordinate": [
+            917,
+            1566,
+            2185,
+            1710
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9205189697",
+        "Coordinate": [
+            1881,
+            1807,
+            2271,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8763088546",
+        "Coordinate": [
+            916,
+            1827,
+            1312,
+            1935
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil",
+        "Coordinate": [
+            977,
+            1954,
+            1376,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Edhitha Nagarajan - 9271118748",
+        "Coordinate": [
+            1011,
+            2056,
+            2093,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gagan Lall - 9831098487",
+        "Coordinate": [
+            1024,
+            2193,
+            1857,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "761000000000.0",
+        "Coordinate": [
+            619,
+            2400,
+            1215,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            638,
+            2490,
+            952,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-08-2023",
+        "Coordinate": [
+            624,
+            2582,
+            1033,
+            2672
+        ]
+    }
+]

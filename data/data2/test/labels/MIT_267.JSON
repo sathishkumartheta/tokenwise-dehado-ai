@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nathan Bassi",
+        "Coordinate": [
+            879,
+            380,
+            1191,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhimanyu Bassi",
+        "Coordinate": [
+            870,
+            487,
+            1324,
+            570
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/18/1969",
+        "Coordinate": [
+            886,
+            584,
+            1169,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            682,
+            1284,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            782,
+            1117,
+            882
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            901,
+            884,
+            1060,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1907,
+            763,
+            2095,
+            851
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1911,
+            891,
+            2097,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Krishna-Gill",
+        "Coordinate": [
+            946,
+            965,
+            1607,
+            1081
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Shere-Iyer",
+        "Coordinate": [
+            951,
+            1084,
+            1588,
+            1184
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24, Bhatt Circle, Udaipur 570713",
+        "Coordinate": [
+            875,
+            1231,
+            1619,
+            1400
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "850, Bhattacharyya Zila, Kadapa 925502",
+        "Coordinate": [
+            886,
+            1498,
+            1835,
+            1652
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8809135243",
+        "Coordinate": [
+            901,
+            1754,
+            1181,
+            1854
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7214777180",
+        "Coordinate": [
+            1852,
+            1702,
+            2187,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Gujarati",
+        "Coordinate": [
+            898,
+            1885,
+            1536,
+            1968
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vivaan Ahuja - 7831218170",
+        "Coordinate": [
+            982,
+            1999,
+            1669,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarush Bhardwaj - 7736647645",
+        "Coordinate": [
+            1015,
+            2128,
+            1759,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "470970000000",
+        "Coordinate": [
+            568,
+            2318,
+            917,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            558,
+            2423,
+            751,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/16/2025",
+        "Coordinate": [
+            570,
+            2513,
+            903,
+            2599
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wahab Suresh",
+        "Coordinate": [
+            910,
+            481,
+            1414,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Suresh",
+        "Coordinate": [
+            925,
+            571,
+            1474,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/26/1990",
+        "Coordinate": [
+            900,
+            700,
+            1238,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            910,
+            765,
+            1086,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            865,
+            1186,
+            965
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1765,
+            826,
+            1966,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            940,
+            2106,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            980,
+            960,
+            1146,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Buch  Gade and Luthra",
+        "Coordinate": [
+            1025,
+            1046,
+            2278,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Krishnan  Bose and Boase",
+        "Coordinate": [
+            990,
+            1160,
+            2274,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09/127, Saxena Nagar, Kharagpur 206272",
+        "Coordinate": [
+            925,
+            1300,
+            2318,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09, Sanghvi, Bhilwara 071623",
+        "Coordinate": [
+            905,
+            1540,
+            1914,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9523023037",
+        "Coordinate": [
+            910,
+            1786,
+            1330,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9386867370",
+        "Coordinate": [
+            1680,
+            1821,
+            2082,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Hindi",
+        "Coordinate": [
+            929,
+            1901,
+            1761,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishanvi Deol - 9360665081",
+        "Coordinate": [
+            970,
+            2026,
+            1958,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Idika Patla - 8174322057",
+        "Coordinate": [
+            970,
+            2141,
+            1986,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            595,
+            2410,
+            1186,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/16/2022",
+        "Coordinate": [
+            650,
+            2491,
+            1074,
+            2605
+        ]
+    }
+]

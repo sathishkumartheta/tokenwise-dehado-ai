@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gautami Murty",
+        "Coordinate": [
+            906,
+            476,
+            1425,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samar Murty",
+        "Coordinate": [
+            900,
+            589,
+            1420,
+            702
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/30/2002",
+        "Coordinate": [
+            908,
+            664,
+            1303,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            907,
+            766,
+            1215,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            865,
+            1246,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            849,
+            2040,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1799,
+            952,
+            2116,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            927,
+            957,
+            1108,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mahajan Ltd",
+        "Coordinate": [
+            989,
+            1048,
+            1906,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Jani  Ghose and Nair",
+        "Coordinate": [
+            992,
+            1164,
+            2219,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 102, Virk Circle, Kochi 914101",
+        "Coordinate": [
+            904,
+            1291,
+            2182,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 174, Kuruvilla Chowk, Satara 961942",
+        "Coordinate": [
+            902,
+            1541,
+            2303,
+            1688
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9031457832",
+        "Coordinate": [
+            893,
+            1781,
+            1336,
+            1888
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8232251591",
+        "Coordinate": [
+            1817,
+            1769,
+            2268,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Kannada, Bengali",
+        "Coordinate": [
+            902,
+            1917,
+            2250,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xiti Bhalla - 8338716336",
+        "Coordinate": [
+            928,
+            2015,
+            1953,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekansh Gera - 8560853676",
+        "Coordinate": [
+            960,
+            2143,
+            2026,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            627,
+            2423,
+            942,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/19/2022",
+        "Coordinate": [
+            632,
+            2519,
+            1091,
+            2619
+        ]
+    }
+]

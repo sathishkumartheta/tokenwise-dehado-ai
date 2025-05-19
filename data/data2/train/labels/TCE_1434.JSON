@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omisha Gaba",
+        "Coordinate": [
+            902,
+            484,
+            1311,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Gaba",
+        "Coordinate": [
+            888,
+            579,
+            1327,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/17/1969",
+        "Coordinate": [
+            913,
+            646,
+            1219,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            929,
+            754,
+            1287,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            855,
+            1198,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            925,
+            950,
+            1090,
+            1023
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            943,
+            2114,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Chauhan  Sangha and Maharaj",
+        "Coordinate": [
+            972,
+            1035,
+            2269,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Khosla-Lad",
+        "Coordinate": [
+            989,
+            1168,
+            1681,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 27, Mallick Street, Bahraich 398792",
+        "Coordinate": [
+            918,
+            1249,
+            2142,
+            1379
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 82, Ganesh, Karawal Nagar 599686",
+        "Coordinate": [
+            922,
+            1505,
+            2191,
+            1618
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7222235332",
+        "Coordinate": [
+            945,
+            1749,
+            1351,
+            1861
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7418610325",
+        "Coordinate": [
+            1851,
+            1760,
+            2315,
+            1856
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Malayalam",
+        "Coordinate": [
+            936,
+            1881,
+            1944,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abhiram Raghavan - 9446296643",
+        "Coordinate": [
+            977,
+            2008,
+            1954,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Atharv Dara - 9030087696",
+        "Coordinate": [
+            989,
+            2119,
+            1771,
+            2236
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            666,
+            2402,
+            1206,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2025",
+        "Coordinate": [
+            632,
+            2503,
+            1066,
+            2598
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            852,
+            2018,
+            939
+        ]
+    }
+]

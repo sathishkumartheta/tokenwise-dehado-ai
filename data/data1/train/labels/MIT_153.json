@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Naveen Ratti",
+        "Coordinate": [
+            843,
+            405,
+            1209,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Ratti",
+        "Coordinate": [
+            864,
+            502,
+            1180,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-07-1992",
+        "Coordinate": [
+            850,
+            595,
+            1138,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            861,
+            699,
+            999,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            865,
+            796,
+            1033,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1695,
+            794,
+            1851,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            899,
+            2013,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            849,
+            911,
+            967,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Oak Group",
+        "Coordinate": [
+            918,
+            989,
+            1663,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sachdeva Inc",
+        "Coordinate": [
+            918,
+            1107,
+            1740,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 11, Ganguly Zila, Asansol 412462",
+        "Coordinate": [
+            842,
+            1237,
+            2073,
+            1366
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "004, Chaudhary Marg, Ajmer 546103",
+        "Coordinate": [
+            832,
+            1482,
+            2030,
+            1610
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7376476960",
+        "Coordinate": [
+            829,
+            1753,
+            1194,
+            1832
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil",
+        "Coordinate": [
+            837,
+            1898,
+            1386,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warjas Tailor - 9243795117",
+        "Coordinate": [
+            900,
+            2006,
+            1841,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishwar Luthra - 7253654670",
+        "Coordinate": [
+            911,
+            2133,
+            1868,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "881000000000.0",
+        "Coordinate": [
+            540,
+            2334,
+            957,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            544,
+            2429,
+            1208,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/23/2024",
+        "Coordinate": [
+            569,
+            2519,
+            942,
+            2600
+        ]
+    }
+]

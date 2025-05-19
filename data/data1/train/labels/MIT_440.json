@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemang Krishnamurthy",
+        "Coordinate": [
+            914,
+            415,
+            1751,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Madhav Krishnamurthy",
+        "Coordinate": [
+            920,
+            516,
+            1757,
+            612
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/1971",
+        "Coordinate": [
+            952,
+            614,
+            1289,
+            699
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            962,
+            710,
+            1249,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            983,
+            816,
+            1253,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1798,
+            810,
+            1976,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            915,
+            2146,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            998,
+            918,
+            1122,
+            1002
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bath  Mall and Sangha",
+        "Coordinate": [
+            972,
+            1010,
+            2258,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Solanki LLC",
+        "Coordinate": [
+            983,
+            1130,
+            1885,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87/01, Gulati Chowk, Dewas 024837",
+        "Coordinate": [
+            917,
+            1270,
+            2207,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 17, Kanda Street, Hapur 538694",
+        "Coordinate": [
+            909,
+            1501,
+            2197,
+            1640
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9882891361",
+        "Coordinate": [
+            1882,
+            1772,
+            2273,
+            1876
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8210782085",
+        "Coordinate": [
+            914,
+            1769,
+            1297,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            923,
+            1913,
+            1645,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advay Gandhi - 8445817620",
+        "Coordinate": [
+            968,
+            2021,
+            1935,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaaya Wason - 8710546929",
+        "Coordinate": [
+            978,
+            2153,
+            1995,
+            2261
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YOPIH2362X",
+        "Coordinate": [
+            1670,
+            2354,
+            2098,
+            2448
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            642,
+            2443,
+            1059,
+            2532
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2024",
+        "Coordinate": [
+            630,
+            2539,
+            1009,
+            2627
+        ]
+    }
+]

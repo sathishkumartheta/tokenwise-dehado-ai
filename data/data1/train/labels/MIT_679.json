@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurangi Rau",
+        "Coordinate": [
+            888,
+            433,
+            1274,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Rau",
+        "Coordinate": [
+            895,
+            531,
+            1259,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/31/1979",
+        "Coordinate": [
+            903,
+            636,
+            1176,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            898,
+            728,
+            1299,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            834,
+            1078,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            828,
+            1982,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            940,
+            2067,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            900,
+            944,
+            1044,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Pillay  Das and Seth",
+        "Coordinate": [
+            972,
+            1038,
+            1905,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Gandhi and Sons",
+        "Coordinate": [
+            976,
+            1145,
+            1777,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 778, Nayak Marg, Sambalpur-750557",
+        "Coordinate": [
+            895,
+            1264,
+            2301,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/43, Dass Zila, Rajpur Sonarpur-535381",
+        "Coordinate": [
+            872,
+            1534,
+            2268,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7867155838",
+        "Coordinate": [
+            1846,
+            1805,
+            2242,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9439377285",
+        "Coordinate": [
+            874,
+            1808,
+            1326,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            889,
+            1944,
+            1296,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ganga Talwar - 8806332779",
+        "Coordinate": [
+            969,
+            2044,
+            1992,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azad Dhaliwal - 8166507555",
+        "Coordinate": [
+            951,
+            2183,
+            2035,
+            2291
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "392000000000.0",
+        "Coordinate": [
+            574,
+            2384,
+            1059,
+            2468
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NGUGH7961S",
+        "Coordinate": [
+            1652,
+            2389,
+            2124,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            605,
+            2476,
+            887,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/23/2023",
+        "Coordinate": [
+            579,
+            2573,
+            1005,
+            2663
+        ]
+    }
+]

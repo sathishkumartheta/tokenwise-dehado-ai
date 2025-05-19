@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amaira Karpe",
+        "Coordinate": [
+            895,
+            392,
+            1518,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jatin Karpe",
+        "Coordinate": [
+            907,
+            498,
+            1472,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/1961",
+        "Coordinate": [
+            926,
+            597,
+            1370,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            915,
+            691,
+            1341,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            798,
+            1293,
+            898
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1869,
+            792,
+            2205,
+            904
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            900,
+            2201,
+            1000
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            954,
+            894,
+            1102,
+            993
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Dasgupta-Purohit",
+        "Coordinate": [
+            983,
+            996,
+            2327,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Rattan  Deep and Madan",
+        "Coordinate": [
+            985,
+            1122,
+            2349,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 860, Doshi Nagar, Giridih 394568",
+        "Coordinate": [
+            883,
+            1249,
+            2332,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 73, Lalla Zila, Gandhinagar 613684",
+        "Coordinate": [
+            874,
+            1506,
+            2247,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7852855770",
+        "Coordinate": [
+            870,
+            1792,
+            1382,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            941,
+            1904,
+            1706,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Walla - 8840101714",
+        "Coordinate": [
+            948,
+            2021,
+            2074,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lavanya Badal - 7555463039",
+        "Coordinate": [
+            954,
+            2161,
+            2230,
+            2291
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OAFGP2960S",
+        "Coordinate": [
+            1649,
+            2330,
+            2143,
+            2445
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            604,
+            2419,
+            1050,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/20/2025",
+        "Coordinate": [
+            608,
+            2521,
+            1067,
+            2636
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bahadurjit Cheema",
+        "Coordinate": [
+            900,
+            476,
+            1518,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Cheema",
+        "Coordinate": [
+            900,
+            550,
+            1342,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/1995",
+        "Coordinate": [
+            910,
+            656,
+            1242,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            900,
+            761,
+            1238,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            845,
+            1210,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1725,
+            850,
+            1954,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            960,
+            921,
+            1114,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            955,
+            2070,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Krish  Jain and Kapadia",
+        "Coordinate": [
+            975,
+            1026,
+            2278,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kadakia-Sankar",
+        "Coordinate": [
+            970,
+            1151,
+            2034,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 47, Patla Zila, Shimla 944595",
+        "Coordinate": [
+            895,
+            1270,
+            2102,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 09, Setty Chowk, Guwahati-126405",
+        "Coordinate": [
+            900,
+            1496,
+            2302,
+            1630
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Tamil, Gujarati",
+        "Coordinate": [
+            890,
+            1886,
+            2018,
+            2010
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9539496448",
+        "Coordinate": [
+            895,
+            1761,
+            1314,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8737342869",
+        "Coordinate": [
+            1810,
+            1776,
+            2270,
+            1866
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janaki Deshmukh - 9532753020",
+        "Coordinate": [
+            950,
+            2006,
+            2070,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Owen Deshmukh - 7799578247",
+        "Coordinate": [
+            950,
+            2141,
+            1990,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            615,
+            2406,
+            906,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2023",
+        "Coordinate": [
+            610,
+            2485,
+            1002,
+            2590
+        ]
+    }
+]

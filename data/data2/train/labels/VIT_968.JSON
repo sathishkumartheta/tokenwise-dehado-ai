@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advik Bains",
+        "Coordinate": [
+            934,
+            444,
+            1324,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wridesh Bains",
+        "Coordinate": [
+            940,
+            536,
+            1344,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/24/1999",
+        "Coordinate": [
+            942,
+            638,
+            1260,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            936,
+            732,
+            1206,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            838,
+            1188,
+            924
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            950,
+            942,
+            1080,
+            1022
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1838,
+            844,
+            1978,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            942,
+            2048,
+            1012
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sahni-Nayak",
+        "Coordinate": [
+            1031,
+            1042,
+            1773,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Behl Inc",
+        "Coordinate": [
+            1030,
+            1160,
+            1644,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "750, Jaggi, Pune 709280",
+        "Coordinate": [
+            946,
+            1324,
+            1672,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14, Choudhury Street, Chittoor-727939",
+        "Coordinate": [
+            944,
+            1560,
+            2018,
+            1700
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9957722078",
+        "Coordinate": [
+            910,
+            1819,
+            1280,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            952,
+            1952,
+            1504,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Maanas Reddy - 7630984638",
+        "Coordinate": [
+            1012,
+            2062,
+            1972,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Falak Lad - 7387921914",
+        "Coordinate": [
+            1016,
+            2194,
+            1854,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "981119000000",
+        "Coordinate": [
+            606,
+            2378,
+            1006,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            608,
+            2484,
+            954,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/4/2024",
+        "Coordinate": [
+            602,
+            2582,
+            942,
+            2662
+        ]
+    }
+]

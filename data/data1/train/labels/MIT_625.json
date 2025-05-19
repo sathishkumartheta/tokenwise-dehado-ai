@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Logan Nigam",
+        "Coordinate": [
+            881,
+            434,
+            1416,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Nigam",
+        "Coordinate": [
+            884,
+            532,
+            1397,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/24/2005",
+        "Coordinate": [
+            888,
+            628,
+            1373,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            732,
+            1298,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            834,
+            1260,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1777,
+            834,
+            2005,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            941,
+            2153,
+            1027
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            924,
+            942,
+            1054,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Samra-Balakrishnan",
+        "Coordinate": [
+            967,
+            1041,
+            2367,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Kashyap Inc",
+        "Coordinate": [
+            958,
+            1149,
+            1970,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/27, Kannan Street, Dharmavaram 421736",
+        "Coordinate": [
+            895,
+            1280,
+            2433,
+            1488
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/570, Hari, Ludhiana-650811",
+        "Coordinate": [
+            873,
+            1525,
+            2269,
+            1689
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7265017069",
+        "Coordinate": [
+            1851,
+            1804,
+            2330,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8036579961",
+        "Coordinate": [
+            867,
+            1801,
+            1323,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Hindi",
+        "Coordinate": [
+            872,
+            1946,
+            1955,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nisha Lad - 7435798649",
+        "Coordinate": [
+            937,
+            2045,
+            2055,
+            2161
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wridesh Maharaj - 8653812090",
+        "Coordinate": [
+            938,
+            2179,
+            2231,
+            2302
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TFXJJ0933K",
+        "Coordinate": [
+            1628,
+            2391,
+            2175,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            569,
+            2475,
+            1029,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/27/2025",
+        "Coordinate": [
+            573,
+            2571,
+            1048,
+            2673
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falguni Narain",
+        "Coordinate": [
+            898,
+            388,
+            1315,
+            474
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Narain",
+        "Coordinate": [
+            910,
+            487,
+            1322,
+            572
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/22/2006",
+        "Coordinate": [
+            920,
+            586,
+            1220,
+            666
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            933,
+            682,
+            1215,
+            764
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            941,
+            781,
+            1153,
+            869
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1821,
+            774,
+            2029,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            884,
+            2049,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            944,
+            887,
+            1073,
+            968
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dua Inc",
+        "Coordinate": [
+            976,
+            980,
+            1685,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Ramaswamy  Sehgal and Thaman",
+        "Coordinate": [
+            909,
+            1092,
+            2216,
+            1201
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46, Deo Street, Gwalior 908641",
+        "Coordinate": [
+            896,
+            1237,
+            1975,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22/783, Rana Chowk, Kishanganj-314659",
+        "Coordinate": [
+            891,
+            1496,
+            2211,
+            1643
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8166264737",
+        "Coordinate": [
+            1847,
+            1739,
+            2261,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9011188445",
+        "Coordinate": [
+            908,
+            1746,
+            1249,
+            1843
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu",
+        "Coordinate": [
+            928,
+            1887,
+            1447,
+            1979
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isaiah Sachdev - 9362638444",
+        "Coordinate": [
+            982,
+            1993,
+            1896,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jasmit Pall - 8297342643",
+        "Coordinate": [
+            978,
+            2124,
+            1871,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "361000000000.0",
+        "Coordinate": [
+            638,
+            2326,
+            1085,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            706,
+            2418,
+            925,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/26/2025",
+        "Coordinate": [
+            685,
+            2513,
+            1043,
+            2593
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manthan Tandon",
+        "Coordinate": [
+            913,
+            468,
+            1627,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Tandon",
+        "Coordinate": [
+            919,
+            568,
+            1532,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/9/1989",
+        "Coordinate": [
+            910,
+            659,
+            1378,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            909,
+            756,
+            1382,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            863,
+            1304,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1751,
+            848,
+            1939,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            916,
+            956,
+            1113,
+            1040
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            943,
+            2145,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Pingle  Bhattacharyya and Kala",
+        "Coordinate": [
+            987,
+            1043,
+            2289,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mammen Group",
+        "Coordinate": [
+            983,
+            1160,
+            2256,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/91, Saran Road, Rourkela 140798",
+        "Coordinate": [
+            930,
+            1281,
+            1924,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 077, Sama Zila, Salem-831734",
+        "Coordinate": [
+            929,
+            1520,
+            2109,
+            1763
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9980342880",
+        "Coordinate": [
+            915,
+            1777,
+            1376,
+            1909
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9801198625",
+        "Coordinate": [
+            1850,
+            1757,
+            2327,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali",
+        "Coordinate": [
+            907,
+            1908,
+            1764,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samaksh Gill - 7459958366",
+        "Coordinate": [
+            979,
+            2015,
+            2234,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jhalak Parsa - 9629117261",
+        "Coordinate": [
+            972,
+            2152,
+            2257,
+            2240
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            608,
+            2418,
+            972,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/3/2024",
+        "Coordinate": [
+            635,
+            2525,
+            1135,
+            2615
+        ]
+    }
+]

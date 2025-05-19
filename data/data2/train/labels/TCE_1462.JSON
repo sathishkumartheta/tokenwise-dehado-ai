@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isaac Dhillon",
+        "Coordinate": [
+            895,
+            481,
+            1334,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Dhillon",
+        "Coordinate": [
+            895,
+            576,
+            1394,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/12/1984",
+        "Coordinate": [
+            870,
+            671,
+            1206,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            771,
+            1214,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            865,
+            1102,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            930,
+            965,
+            1058,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1765,
+            855,
+            1958,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            976,
+            2050,
+            1058
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bali and Sons",
+        "Coordinate": [
+            990,
+            1066,
+            1794,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Dugal  Chowdhury and Dani",
+        "Coordinate": [
+            955,
+            1176,
+            2258,
+            1294
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 502, Nagar Path, Latur-999629",
+        "Coordinate": [
+            880,
+            1306,
+            2082,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64/977, Soman Nagar, Bellary 562155",
+        "Coordinate": [
+            869,
+            1525,
+            2142,
+            1646
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8957094932",
+        "Coordinate": [
+            885,
+            1786,
+            1346,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7928652039",
+        "Coordinate": [
+            1815,
+            1796,
+            2298,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Tamil, Telugu",
+        "Coordinate": [
+            885,
+            1906,
+            2026,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Laban Sundaram - 9965335967",
+        "Coordinate": [
+            940,
+            2016,
+            1954,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Michael Choudhary - 8221778732",
+        "Coordinate": [
+            930,
+            2136,
+            1982,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            590,
+            2406,
+            826,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/19/2023",
+        "Coordinate": [
+            585,
+            2496,
+            938,
+            2602
+        ]
+    }
+]

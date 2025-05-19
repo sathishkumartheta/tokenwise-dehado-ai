@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurangi Tella",
+        "Coordinate": [
+            909,
+            450,
+            1418,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Tella",
+        "Coordinate": [
+            916,
+            564,
+            1422,
+            669
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/7/1969",
+        "Coordinate": [
+            900,
+            652,
+            1342,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            890,
+            738,
+            1222,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            845,
+            1197,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            949,
+            952,
+            1150,
+            1024
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1751,
+            836,
+            2029,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1778,
+            950,
+            2046,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Subramaniam-Ranganathan",
+        "Coordinate": [
+            979,
+            1036,
+            2301,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sahota  Sankar and Shukla",
+        "Coordinate": [
+            964,
+            1148,
+            2281,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "172, Lata, Srikakulam-751376",
+        "Coordinate": [
+            903,
+            1264,
+            2108,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 19, Talwar Marg, Miryalaguda 519208",
+        "Coordinate": [
+            900,
+            1512,
+            2284,
+            1656
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9909172540",
+        "Coordinate": [
+            925,
+            1768,
+            1355,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7006280595",
+        "Coordinate": [
+            1821,
+            1768,
+            2280,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi",
+        "Coordinate": [
+            920,
+            1905,
+            1453,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pooja Palla - 7162845525",
+        "Coordinate": [
+            953,
+            2009,
+            1942,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yochana Nayar - 8180960784",
+        "Coordinate": [
+            947,
+            2136,
+            2109,
+            2264
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            595,
+            2397,
+            1016,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/1/2023",
+        "Coordinate": [
+            620,
+            2494,
+            1081,
+            2582
+        ]
+    }
+]

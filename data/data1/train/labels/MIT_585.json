@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hardik Jaggi",
+        "Coordinate": [
+            884,
+            430,
+            1392,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Jaggi",
+        "Coordinate": [
+            888,
+            535,
+            1402,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/1989",
+        "Coordinate": [
+            890,
+            633,
+            1211,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            882,
+            737,
+            1011,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            835,
+            1184,
+            923
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1764,
+            830,
+            1937,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            933,
+            2101,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            893,
+            940,
+            1000,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Chauhan  Choudhry and Borah",
+        "Coordinate": [
+            950,
+            1038,
+            2376,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Chhabra-Sampath",
+        "Coordinate": [
+            944,
+            1145,
+            2038,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 90, Chander Street, Baranagar 155967",
+        "Coordinate": [
+            897,
+            1268,
+            2389,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "384, Ray, Dindigul 391703",
+        "Coordinate": [
+            890,
+            1519,
+            1991,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8597643560",
+        "Coordinate": [
+            1856,
+            1799,
+            2318,
+            1895
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8266898255",
+        "Coordinate": [
+            890,
+            1800,
+            1349,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil",
+        "Coordinate": [
+            886,
+            1943,
+            1430,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagvi Kohli - 8481908298",
+        "Coordinate": [
+            941,
+            2039,
+            1966,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Christopher Mukhopadhyay - 9035189542",
+        "Coordinate": [
+            931,
+            2178,
+            2357,
+            2278
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "430000000000.0",
+        "Coordinate": [
+            589,
+            2383,
+            1076,
+            2461
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            575,
+            2478,
+            799,
+            2554
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/13/2024",
+        "Coordinate": [
+            587,
+            2569,
+            1005,
+            2651
+        ]
+    }
+]

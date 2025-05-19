@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai Iyer",
+        "Coordinate": [
+            862,
+            437,
+            1247,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Falan Iyer",
+        "Coordinate": [
+            860,
+            552,
+            1355,
+            680
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/1/1992",
+        "Coordinate": [
+            892,
+            650,
+            1202,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            885,
+            747,
+            1185,
+            845
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            825,
+            2085,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1897,
+            952,
+            2157,
+            1025
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            832,
+            1210,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            900,
+            940,
+            1057,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Tailor-Samra",
+        "Coordinate": [
+            992,
+            1060,
+            2120,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Ramesh-Lalla",
+        "Coordinate": [
+            987,
+            1165,
+            2115,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/949, Savant Road, Karnal 347450",
+        "Coordinate": [
+            910,
+            1300,
+            2150,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 537, Gara Chowk, Karaikudi-896539",
+        "Coordinate": [
+            930,
+            1562,
+            1970,
+            1807
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9278825539",
+        "Coordinate": [
+            882,
+            1830,
+            1317,
+            1932
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8827121570",
+        "Coordinate": [
+            1850,
+            1817,
+            2297,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Hindi",
+        "Coordinate": [
+            910,
+            1969,
+            2110,
+            2087
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurangi Bala - 9789220213",
+        "Coordinate": [
+            962,
+            2060,
+            2117,
+            2195
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ridhi Palla - 8816311931",
+        "Coordinate": [
+            969,
+            2157,
+            2022,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "202426000000",
+        "Coordinate": [
+            567,
+            2375,
+            1192,
+            2502
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            630,
+            2507,
+            1135,
+            2592
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/18/2025",
+        "Coordinate": [
+            580,
+            2612,
+            1002,
+            2677
+        ]
+    }
+]

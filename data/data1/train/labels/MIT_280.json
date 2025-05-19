@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nihal Lad",
+        "Coordinate": [
+            885,
+            405,
+            1224,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Lad",
+        "Coordinate": [
+            885,
+            509,
+            1215,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-07-1967",
+        "Coordinate": [
+            909,
+            605,
+            1198,
+            687
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            701,
+            1225,
+            804
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            810,
+            1199,
+            898
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1797,
+            790,
+            1980,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            897,
+            2067,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            912,
+            917,
+            1017,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mangal  Seth and Balakrishnan",
+        "Coordinate": [
+            935,
+            1004,
+            2208,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Vala-Ravi",
+        "Coordinate": [
+            953,
+            1139,
+            1670,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 061, Iyengar Ganj, Kakinada-570394",
+        "Coordinate": [
+            886,
+            1293,
+            2231,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 03, Nath Street, Panchkula-576927",
+        "Coordinate": [
+            872,
+            1549,
+            2237,
+            1695
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8041537796",
+        "Coordinate": [
+            877,
+            1767,
+            1275,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu",
+        "Coordinate": [
+            889,
+            1897,
+            1448,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavika Kothari - 8937888957",
+        "Coordinate": [
+            934,
+            2012,
+            1973,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hredhaan Acharya - 8545222615",
+        "Coordinate": [
+            956,
+            2145,
+            1984,
+            2264
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "383000000000.0",
+        "Coordinate": [
+            585,
+            2339,
+            1062,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            584,
+            2434,
+            843,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/24/2023",
+        "Coordinate": [
+            615,
+            2527,
+            970,
+            2609
+        ]
+    }
+]

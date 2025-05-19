@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hamsini Khanna",
+        "Coordinate": [
+            868,
+            421,
+            1767,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Khanna",
+        "Coordinate": [
+            871,
+            516,
+            1634,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/11/1981",
+        "Coordinate": [
+            877,
+            620,
+            1234,
+            715
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            899,
+            721,
+            1275,
+            815
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            823,
+            1221,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1728,
+            821,
+            2087,
+            918
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            881,
+            936,
+            1018,
+            1006
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            934,
+            2153,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Gokhale-Sachdev",
+        "Coordinate": [
+            971,
+            1031,
+            2243,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Arya PLC",
+        "Coordinate": [
+            981,
+            1143,
+            1940,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "80/18, Vaidya Circle, Chennai 005378",
+        "Coordinate": [
+            899,
+            1269,
+            2338,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/20, Anne Ganj, Madurai-816922",
+        "Coordinate": [
+            881,
+            1517,
+            2342,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9865037299",
+        "Coordinate": [
+            879,
+            1800,
+            1340,
+            1911
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8292772245",
+        "Coordinate": [
+            1864,
+            1802,
+            2334,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Kannada",
+        "Coordinate": [
+            877,
+            1938,
+            2005,
+            2026
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unni Radhakrishnan - 8692133384",
+        "Coordinate": [
+            951,
+            2046,
+            2291,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Oliver Chowdhury - 8930063957",
+        "Coordinate": [
+            969,
+            2169,
+            2313,
+            2282
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            602,
+            2473,
+            871,
+            2555
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DKLDL8135K",
+        "Coordinate": [
+            1615,
+            2381,
+            2163,
+            2461
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/1/2024",
+        "Coordinate": [
+            628,
+            2566,
+            1057,
+            2648
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charan Koshy",
+        "Coordinate": [
+            909,
+            396,
+            1332,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Avi Koshy",
+        "Coordinate": [
+            931,
+            490,
+            1235,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-04-1990",
+        "Coordinate": [
+            936,
+            589,
+            1219,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            938,
+            685,
+            1209,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            941,
+            787,
+            1189,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1895,
+            785,
+            2060,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1896,
+            893,
+            2120,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            953,
+            893,
+            1064,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Karnik  Natarajan and Buch",
+        "Coordinate": [
+            980,
+            982,
+            2146,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mani LLC",
+        "Coordinate": [
+            997,
+            1105,
+            1614,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 36, Comar Street, Nagpur 962588",
+        "Coordinate": [
+            900,
+            1277,
+            2021,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "69, Taneja Road, Kurnool 805339",
+        "Coordinate": [
+            894,
+            1497,
+            1813,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8614117233",
+        "Coordinate": [
+            1871,
+            1748,
+            2187,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7241972486",
+        "Coordinate": [
+            891,
+            1750,
+            1219,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi, Kannada",
+        "Coordinate": [
+            910,
+            1887,
+            1713,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Naksh Sarraf - 7674422850",
+        "Coordinate": [
+            962,
+            2006,
+            1745,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rajeshri Ramesh - 8600097727",
+        "Coordinate": [
+            973,
+            2124,
+            1816,
+            2220
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ITONA2580Q",
+        "Coordinate": [
+            1636,
+            2330,
+            1973,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            584,
+            2422,
+            804,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-08-2023",
+        "Coordinate": [
+            598,
+            2516,
+            864,
+            2599
+        ]
+    }
+]

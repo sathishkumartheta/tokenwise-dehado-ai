@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bishakha Lad",
+        "Coordinate": [
+            920,
+            469,
+            1426,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Victor Lad",
+        "Coordinate": [
+            909,
+            564,
+            1274,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/4/2006",
+        "Coordinate": [
+            917,
+            663,
+            1248,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            913,
+            748,
+            1255,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            918,
+            843,
+            1146,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1753,
+            851,
+            1980,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            960,
+            958,
+            1125,
+            1040
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            952,
+            2044,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sabharwal-Pandit",
+        "Coordinate": [
+            989,
+            1043,
+            2151,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Singh  Dani and Saha",
+        "Coordinate": [
+            979,
+            1152,
+            2223,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "261, Hayre Street, Ballia 572449",
+        "Coordinate": [
+            899,
+            1276,
+            2225,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48, Sami Street, Barasat 099578",
+        "Coordinate": [
+            886,
+            1503,
+            2212,
+            1635
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9174613749",
+        "Coordinate": [
+            896,
+            1776,
+            1351,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8137006181",
+        "Coordinate": [
+            1819,
+            1792,
+            2236,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Kannada",
+        "Coordinate": [
+            891,
+            1903,
+            1830,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yash Jani - 7174596015",
+        "Coordinate": [
+            973,
+            2018,
+            1882,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vritti Arora - 7595521461",
+        "Coordinate": [
+            987,
+            2143,
+            2004,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            625,
+            2411,
+            1018,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/6/2023",
+        "Coordinate": [
+            623,
+            2507,
+            896,
+            2594
+        ]
+    }
+]

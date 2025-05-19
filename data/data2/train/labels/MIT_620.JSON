@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurangi Guha",
+        "Coordinate": [
+            887,
+            422,
+            1385,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dalbir Guha",
+        "Coordinate": [
+            887,
+            537,
+            1337,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/8/1998",
+        "Coordinate": [
+            920,
+            637,
+            1280,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            727,
+            1257,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            815,
+            1205,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            835,
+            2072,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1879,
+            939,
+            2120,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            904,
+            920,
+            1095,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Banik PLC",
+        "Coordinate": [
+            985,
+            1045,
+            1762,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Boase Ltd",
+        "Coordinate": [
+            982,
+            1147,
+            1785,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 68, Chandra Ganj, Saharanpur-667041",
+        "Coordinate": [
+            887,
+            1285,
+            2177,
+            1515
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 389, Contractor Zila, Ramagundam-501332",
+        "Coordinate": [
+            887,
+            1537,
+            1827,
+            1752
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8398841274",
+        "Coordinate": [
+            895,
+            1809,
+            1312,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8721724966",
+        "Coordinate": [
+            1587,
+            1860,
+            2085,
+            1955
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Tamil",
+        "Coordinate": [
+            960,
+            1927,
+            1700,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yuvraj Magar - 9948083638",
+        "Coordinate": [
+            965,
+            2055,
+            1945,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jhalak Sani - 8273000051",
+        "Coordinate": [
+            1022,
+            2190,
+            1989,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "846366000000",
+        "Coordinate": [
+            612,
+            2385,
+            1067,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            685,
+            2460,
+            945,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/30/2024",
+        "Coordinate": [
+            707,
+            2572,
+            1105,
+            2677
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lipika Madan",
+        "Coordinate": [
+            844,
+            382,
+            2125,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Madan",
+        "Coordinate": [
+            872,
+            495,
+            1392,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/10/1999",
+        "Coordinate": [
+            893,
+            587,
+            1242,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            896,
+            684,
+            1270,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            794,
+            1197,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            778,
+            2050,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            890,
+            2083,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            940,
+            887,
+            1133,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Kari  Munshi and Naik",
+        "Coordinate": [
+            971,
+            982,
+            2203,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Halder LLC",
+        "Coordinate": [
+            977,
+            1101,
+            1793,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 86, Lalla Road, Maheshtala 435885",
+        "Coordinate": [
+            889,
+            1235,
+            2287,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "82/14, Jha Ganj, South Dumdum-536749",
+        "Coordinate": [
+            864,
+            1486,
+            2239,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8897214241",
+        "Coordinate": [
+            1605,
+            1799,
+            2078,
+            1889
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8593287411",
+        "Coordinate": [
+            869,
+            1757,
+            1295,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Gujarati, English",
+        "Coordinate": [
+            877,
+            1888,
+            2067,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harita Dhingra - 7790803795",
+        "Coordinate": [
+            923,
+            2004,
+            2059,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekbal Krishnan - 9502106450",
+        "Coordinate": [
+            966,
+            2128,
+            2025,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "423751000000",
+        "Coordinate": [
+            584,
+            2330,
+            1146,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            590,
+            2418,
+            856,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/1/2025",
+        "Coordinate": [
+            605,
+            2508,
+            997,
+            2597
+        ]
+    }
+]

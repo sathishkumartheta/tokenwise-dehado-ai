@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Patrick Sarraf",
+        "Coordinate": [
+            895,
+            431,
+            1590,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harshil Sarraf",
+        "Coordinate": [
+            904,
+            532,
+            1586,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/20/1991",
+        "Coordinate": [
+            933,
+            635,
+            1536,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            927,
+            733,
+            1364,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            939,
+            835,
+            1306,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1767,
+            819,
+            1995,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            934,
+            2202,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            938,
+            940,
+            1085,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Gara  Dasgupta and Kar",
+        "Coordinate": [
+            973,
+            1033,
+            2370,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Samra Ltd",
+        "Coordinate": [
+            969,
+            1141,
+            2097,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08, Kadakia Nagar, Jabalpur-193178",
+        "Coordinate": [
+            907,
+            1271,
+            2353,
+            1479
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "98/838, Hora Nagar, Alwar 381133",
+        "Coordinate": [
+            935,
+            1534,
+            2273,
+            1747
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9480108380",
+        "Coordinate": [
+            1875,
+            1803,
+            2352,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8577375509",
+        "Coordinate": [
+            881,
+            1797,
+            1357,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Malayalam",
+        "Coordinate": [
+            882,
+            1938,
+            2160,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darsh Krishna - 8166411560",
+        "Coordinate": [
+            956,
+            2044,
+            2119,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Gara - 8562852347",
+        "Coordinate": [
+            979,
+            2178,
+            2223,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "413000000000.0",
+        "Coordinate": [
+            635,
+            2375,
+            1259,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            637,
+            2469,
+            955,
+            2550
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/17/2023",
+        "Coordinate": [
+            641,
+            2561,
+            1190,
+            2664
+        ]
+    }
+]

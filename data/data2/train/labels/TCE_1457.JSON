@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ridhi Choudhary",
+        "Coordinate": [
+            900,
+            476,
+            1560,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Choudhary",
+        "Coordinate": [
+            900,
+            572,
+            1542,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/14/2005",
+        "Coordinate": [
+            902,
+            661,
+            1290,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            920,
+            766,
+            1468,
+            883
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            875,
+            1182,
+            965
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1745,
+            865,
+            2050,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            926,
+            927,
+            1138,
+            1050
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            954,
+            2147,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Nadig and Sons",
+        "Coordinate": [
+            992,
+            1063,
+            2086,
+            1171
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Patel  Nagar and Reddy",
+        "Coordinate": [
+            1006,
+            1154,
+            2199,
+            1283
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "070, Saran Ganj, Tadipatri 736301",
+        "Coordinate": [
+            895,
+            1273,
+            2105,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73, Mandal Chowk, Bhilai 487890",
+        "Coordinate": [
+            900,
+            1502,
+            2134,
+            1630
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            890,
+            1889,
+            1408,
+            1994
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7976111414",
+        "Coordinate": [
+            887,
+            1756,
+            1334,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7201579289",
+        "Coordinate": [
+            1839,
+            1783,
+            2264,
+            1873
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mason Chaudhuri - 8996424458",
+        "Coordinate": [
+            922,
+            2013,
+            2121,
+            2138
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            583,
+            2403,
+            1028,
+            2492
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bimala Bedi - 8092165118",
+        "Coordinate": [
+            950,
+            2144,
+            1910,
+            2238
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/20/2024",
+        "Coordinate": [
+            608,
+            2492,
+            1043,
+            2596
+        ]
+    }
+]

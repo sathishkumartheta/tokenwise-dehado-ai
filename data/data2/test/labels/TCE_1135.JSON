@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatin Balakrishnan",
+        "Coordinate": [
+            912,
+            464,
+            1552,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Balakrishnan",
+        "Coordinate": [
+            920,
+            564,
+            1603,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/10/1971",
+        "Coordinate": [
+            917,
+            667,
+            1259,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            892,
+            753,
+            1241,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            872,
+            1217,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            972,
+            949,
+            1123,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            846,
+            1958,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1781,
+            953,
+            2036,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bose  Goda and Butala",
+        "Coordinate": [
+            963,
+            1039,
+            2197,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Ravi and Sons",
+        "Coordinate": [
+            974,
+            1158,
+            1958,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 67, Bandi Zila, Pali 251933",
+        "Coordinate": [
+            902,
+            1271,
+            2115,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "844, Sur Ganj, Hosur 840125",
+        "Coordinate": [
+            907,
+            1512,
+            2058,
+            1661
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9936741943",
+        "Coordinate": [
+            879,
+            1764,
+            1365,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7141330002",
+        "Coordinate": [
+            1812,
+            1764,
+            2286,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Hindi, Telugu",
+        "Coordinate": [
+            877,
+            1904,
+            2019,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dalbir Bassi - 9768642779",
+        "Coordinate": [
+            947,
+            2008,
+            1995,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yatan Grewal - 8755720187",
+        "Coordinate": [
+            977,
+            2147,
+            2049,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            607,
+            2413,
+            900,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/26/2023",
+        "Coordinate": [
+            608,
+            2492,
+            1074,
+            2595
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachana Chand",
+        "Coordinate": [
+            928,
+            494,
+            1566,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Chand",
+        "Coordinate": [
+            940,
+            614,
+            1548,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/24/1993",
+        "Coordinate": [
+            950,
+            678,
+            1390,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            960,
+            766,
+            1272,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            988,
+            869,
+            1298,
+            960
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1774,
+            856,
+            2054,
+            955
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            976,
+            2102,
+            1049
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            972,
+            974,
+            1112,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Mannan PLC",
+        "Coordinate": [
+            984,
+            1058,
+            1892,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mitra  Dugar and Dhaliwal",
+        "Coordinate": [
+            998,
+            1172,
+            2284,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "154, Badami Ganj, Tiruppur-913156",
+        "Coordinate": [
+            936,
+            1314,
+            2158,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "66/713, Mohan Marg, Thiruvananthapuram 145228",
+        "Coordinate": [
+            920,
+            1514,
+            2288,
+            1661
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9174890362",
+        "Coordinate": [
+            892,
+            1770,
+            1356,
+            1849
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8998795738",
+        "Coordinate": [
+            1826,
+            1778,
+            2280,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Kannada",
+        "Coordinate": [
+            954,
+            1908,
+            1778,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Simon Dewan - 8165823522",
+        "Coordinate": [
+            990,
+            2012,
+            1952,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tarak More - 9155445687",
+        "Coordinate": [
+            1006,
+            2142,
+            1896,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            630,
+            2416,
+            870,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/25/2024",
+        "Coordinate": [
+            624,
+            2520,
+            1032,
+            2587
+        ]
+    }
+]

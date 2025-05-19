@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Champak Dugar",
+        "Coordinate": [
+            907,
+            429,
+            1442,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Caleb Dugar",
+        "Coordinate": [
+            919,
+            543,
+            1325,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/17/2003",
+        "Coordinate": [
+            898,
+            642,
+            1224,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            904,
+            736,
+            1360,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            869,
+            846,
+            1074,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1819,
+            833,
+            1980,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            940,
+            2018,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            867,
+            948,
+            1006,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Balasubramanian  Gade and Gandhi",
+        "Coordinate": [
+            970,
+            1038,
+            2331,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Subramanian-Bhasin",
+        "Coordinate": [
+            973,
+            1145,
+            1970,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02, Sani Circle, Kurnool-957164",
+        "Coordinate": [
+            906,
+            1316,
+            2017,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 003, Andra Chowk, Amroha-378088",
+        "Coordinate": [
+            890,
+            1536,
+            2194,
+            1689
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7320572022",
+        "Coordinate": [
+            1868,
+            1803,
+            2282,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9981481728",
+        "Coordinate": [
+            918,
+            1824,
+            1313,
+            1931
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Marathi",
+        "Coordinate": [
+            891,
+            1948,
+            1791,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Radhika Kar - 9680907974",
+        "Coordinate": [
+            980,
+            2063,
+            1771,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Balhaar Tara - 9452884520",
+        "Coordinate": [
+            963,
+            2195,
+            1877,
+            2314
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EHNCB4107C",
+        "Coordinate": [
+            1675,
+            2399,
+            2111,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            598,
+            2482,
+            814,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2023",
+        "Coordinate": [
+            603,
+            2575,
+            958,
+            2664
+        ]
+    }
+]

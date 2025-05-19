@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedant Chaudhary",
+        "Coordinate": [
+            910,
+            465,
+            1534,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frederick Chaudhary",
+        "Coordinate": [
+            930,
+            566,
+            1606,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/17/1990",
+        "Coordinate": [
+            925,
+            665,
+            1238,
+            766
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            890,
+            766,
+            1194,
+            858
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            866,
+            1182,
+            954
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            940,
+            946,
+            1110,
+            1062
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            830,
+            1986,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1770,
+            946,
+            2078,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kurian-Das",
+        "Coordinate": [
+            1030,
+            1065,
+            1766,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Samra-Nanda",
+        "Coordinate": [
+            1050,
+            1166,
+            1938,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "916, Subramanian Street, Durg 418562",
+        "Coordinate": [
+            910,
+            1306,
+            2266,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "831, Tara Marg, Amaravati-037247",
+        "Coordinate": [
+            920,
+            1506,
+            2286,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9515396318",
+        "Coordinate": [
+            905,
+            1781,
+            1342,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8844672887",
+        "Coordinate": [
+            1814,
+            1751,
+            2254,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            945,
+            1906,
+            1442,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aachal Dani - 8098968895",
+        "Coordinate": [
+            970,
+            2011,
+            1974,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gabriel Hayre - 7458740570",
+        "Coordinate": [
+            965,
+            2145,
+            1946,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            690,
+            2420,
+            1082,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2024",
+        "Coordinate": [
+            650,
+            2521,
+            1050,
+            2618
+        ]
+    }
+]

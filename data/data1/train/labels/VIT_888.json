@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurangi Mukherjee",
+        "Coordinate": [
+            892,
+            439,
+            1663,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Teerth Mukherjee",
+        "Coordinate": [
+            911,
+            537,
+            1596,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/13/1999",
+        "Coordinate": [
+            929,
+            639,
+            1289,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            907,
+            738,
+            1074,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            842,
+            1205,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1744,
+            838,
+            1999,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            950,
+            2098,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            900,
+            944,
+            1062,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Purohit-Bedi",
+        "Coordinate": [
+            989,
+            1045,
+            1954,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at D\u2019Alia  Varkey and Shukla",
+        "Coordinate": [
+            974,
+            1148,
+            2338,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 14, Hans Nagar, Rajahmundry 874512",
+        "Coordinate": [
+            895,
+            1286,
+            2127,
+            1511
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37/90, Dugar Street, Lucknow-431213",
+        "Coordinate": [
+            922,
+            1558,
+            2318,
+            1713
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7239913989",
+        "Coordinate": [
+            1865,
+            1809,
+            2330,
+            1932
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8645172209",
+        "Coordinate": [
+            885,
+            1815,
+            1309,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada",
+        "Coordinate": [
+            899,
+            1952,
+            1608,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekiya Narayanan - 8820979511",
+        "Coordinate": [
+            961,
+            2060,
+            2155,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azaan Baria - 7146828734",
+        "Coordinate": [
+            963,
+            2189,
+            2018,
+            2305
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KGYGL8165Z",
+        "Coordinate": [
+            1641,
+            2396,
+            2180,
+            2498
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            603,
+            2484,
+            887,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2025",
+        "Coordinate": [
+            623,
+            2581,
+            967,
+            2671
+        ]
+    }
+]

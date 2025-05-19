@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jack Pau",
+        "Coordinate": [
+            900,
+            473,
+            1216,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rudra Pau",
+        "Coordinate": [
+            904,
+            566,
+            1272,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/6/1970",
+        "Coordinate": [
+            916,
+            672,
+            1222,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            924,
+            764,
+            1194,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            852,
+            1202,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1700,
+            846,
+            1894,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            948,
+            2024,
+            1007
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            916,
+            944,
+            1046,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Prabhu  Nayar and Badal",
+        "Coordinate": [
+            968,
+            1044,
+            2116,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Jha LLC",
+        "Coordinate": [
+            967,
+            1150,
+            1651,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 341, Kaul Zila, Nellore 022017",
+        "Coordinate": [
+            896,
+            1264,
+            2164,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "606, Ramesh Circle, Bidar-070996",
+        "Coordinate": [
+            900,
+            1500,
+            2122,
+            1589
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8461324159",
+        "Coordinate": [
+            908,
+            1786,
+            1294,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8106608084",
+        "Coordinate": [
+            1852,
+            1773,
+            2250,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Hindi",
+        "Coordinate": [
+            892,
+            1900,
+            1708,
+            1977
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nikita Kari - 9980555838",
+        "Coordinate": [
+            992,
+            2000,
+            1886,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhriti Sanghvi - 8418489556",
+        "Coordinate": [
+            950,
+            2140,
+            1964,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            632,
+            2410,
+            1030,
+            2485
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/14/2025",
+        "Coordinate": [
+            598,
+            2502,
+            982,
+            2573
+        ]
+    }
+]

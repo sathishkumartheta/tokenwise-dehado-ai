@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jatin Bera",
+        "Coordinate": [
+            874,
+            400,
+            1252,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Bera",
+        "Coordinate": [
+            886,
+            508,
+            1269,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-06-1967",
+        "Coordinate": [
+            884,
+            608,
+            1229,
+            691
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            889,
+            699,
+            1182,
+            787
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            886,
+            804,
+            1082,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1875,
+            791,
+            2054,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            898,
+            2130,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            909,
+            907,
+            1030,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Suresh  Kadakia and Bumb",
+        "Coordinate": [
+            951,
+            979,
+            2240,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bhattacharyya-Ganesh",
+        "Coordinate": [
+            938,
+            1106,
+            2183,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87, Nagy Street, Hajipur-774969",
+        "Coordinate": [
+            899,
+            1286,
+            2133,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "373, Kamdar Marg, Khandwa 925481",
+        "Coordinate": [
+            884,
+            1522,
+            2244,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8534538572",
+        "Coordinate": [
+            1861,
+            1751,
+            2277,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8742893293",
+        "Coordinate": [
+            883,
+            1768,
+            1311,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Marathi",
+        "Coordinate": [
+            873,
+            1893,
+            1869,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frado Merchant - 7452118084",
+        "Coordinate": [
+            948,
+            2008,
+            2084,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zilmil Pandey - 7940234335",
+        "Coordinate": [
+            952,
+            2139,
+            2052,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "737000000000.0",
+        "Coordinate": [
+            587,
+            2334,
+            1065,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            598,
+            2428,
+            798,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-03-2023",
+        "Coordinate": [
+            595,
+            2524,
+            997,
+            2611
+        ]
+    }
+]

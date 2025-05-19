@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Meera Mitra",
+        "Coordinate": [
+            910,
+            486,
+            1315,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Mitra",
+        "Coordinate": [
+            905,
+            581,
+            1295,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/14/1961",
+        "Coordinate": [
+            925,
+            681,
+            1207,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            915,
+            771,
+            1163,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            870,
+            1139,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            924,
+            960,
+            1047,
+            1038
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1775,
+            876,
+            1979,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            981,
+            2047,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Saraf-Naidu",
+        "Coordinate": [
+            990,
+            1046,
+            1743,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Shan-Wable",
+        "Coordinate": [
+            955,
+            1171,
+            1811,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 93, Wason, Pallavaram 142580",
+        "Coordinate": [
+            924,
+            1301,
+            2087,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "212, Handa Nagar, Kakinada-001452",
+        "Coordinate": [
+            914,
+            1540,
+            2026,
+            1642
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9392340381",
+        "Coordinate": [
+            1810,
+            1765,
+            2131,
+            1846
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8803101909",
+        "Coordinate": [
+            895,
+            1791,
+            1255,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            890,
+            1926,
+            1379,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Peter Konda - 8496030066",
+        "Coordinate": [
+            945,
+            2016,
+            1731,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ikbal Mani - 8483336249",
+        "Coordinate": [
+            965,
+            2161,
+            1795,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            600,
+            2435,
+            875,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/4/2023",
+        "Coordinate": [
+            614,
+            2506,
+            918,
+            2610
+        ]
+    }
+]

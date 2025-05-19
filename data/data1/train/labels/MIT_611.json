@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Azad Joshi",
+        "Coordinate": [
+            878,
+            435,
+            1240,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeremiah Joshi",
+        "Coordinate": [
+            875,
+            534,
+            1368,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/20/1984",
+        "Coordinate": [
+            879,
+            638,
+            1237,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            895,
+            735,
+            1188,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            839,
+            1157,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1853,
+            831,
+            2015,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            941,
+            2055,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            901,
+            944,
+            1013,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Varty PLC",
+        "Coordinate": [
+            972,
+            1039,
+            1690,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Choudhry and Sons",
+        "Coordinate": [
+            947,
+            1151,
+            1930,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 79, Sami Ganj, Vellore 156862",
+        "Coordinate": [
+            875,
+            1291,
+            2017,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 706, Krishnan Path, Satna-160227",
+        "Coordinate": [
+            865,
+            1528,
+            2135,
+            1660
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7940969610",
+        "Coordinate": [
+            1870,
+            1802,
+            2285,
+            1895
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9382824026",
+        "Coordinate": [
+            881,
+            1808,
+            1273,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            888,
+            1944,
+            1459,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wyatt Kothari - 7818852657",
+        "Coordinate": [
+            960,
+            2053,
+            1820,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanay Sarraf - 8300056031",
+        "Coordinate": [
+            958,
+            2193,
+            1837,
+            2310
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TZAKL0789G",
+        "Coordinate": [
+            1617,
+            2391,
+            2073,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            606,
+            2482,
+            840,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-06-2023",
+        "Coordinate": [
+            604,
+            2575,
+            925,
+            2663
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Radha Khare",
+        "Coordinate": [
+            868,
+            402,
+            1295,
+            496
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aadi Khare",
+        "Coordinate": [
+            873,
+            498,
+            1267,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/14/1970",
+        "Coordinate": [
+            879,
+            600,
+            1182,
+            691
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            871,
+            698,
+            1113,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            893,
+            804,
+            1084,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1819,
+            791,
+            2042,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            897,
+            2046,
+            989
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            891,
+            906,
+            1012,
+            992
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Majumdar Group",
+        "Coordinate": [
+            951,
+            992,
+            1879,
+            1106
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Rana-Ravi",
+        "Coordinate": [
+            955,
+            1110,
+            1751,
+            1222
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11/848, Pall, Bally-937690",
+        "Coordinate": [
+            883,
+            1286,
+            1818,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81, Bora Circle, Mau 848947",
+        "Coordinate": [
+            882,
+            1501,
+            1906,
+            1652
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9033102254",
+        "Coordinate": [
+            1849,
+            1752,
+            2259,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9578661019",
+        "Coordinate": [
+            866,
+            1769,
+            1256,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            901,
+            1899,
+            1377,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Veda Kohli - 9830886806",
+        "Coordinate": [
+            935,
+            2014,
+            1720,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tara Sharma - 7281846728",
+        "Coordinate": [
+            948,
+            2139,
+            1798,
+            2252
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "596000000000.0",
+        "Coordinate": [
+            604,
+            2336,
+            1040,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            621,
+            2432,
+            868,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-06-2023",
+        "Coordinate": [
+            628,
+            2527,
+            1000,
+            2619
+        ]
+    }
+]

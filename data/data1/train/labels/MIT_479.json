@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarna Mann",
+        "Coordinate": [
+            898,
+            397,
+            1360,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhimanyu Mann",
+        "Coordinate": [
+            901,
+            499,
+            1527,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-03-1999",
+        "Coordinate": [
+            908,
+            597,
+            1221,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            908,
+            689,
+            1229,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            792,
+            1174,
+            880
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1907,
+            794,
+            2140,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1912,
+            903,
+            2124,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            912,
+            898,
+            1052,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mangal-Kohli",
+        "Coordinate": [
+            986,
+            985,
+            2036,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Tandon-Saran",
+        "Coordinate": [
+            988,
+            1106,
+            2022,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/85, Behl Circle, Salem-314391",
+        "Coordinate": [
+            895,
+            1255,
+            2103,
+            1381
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 436, Warrior Chowk, Tirunelveli 078187",
+        "Coordinate": [
+            870,
+            1470,
+            2222,
+            1590
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8255462115",
+        "Coordinate": [
+            1908,
+            1752,
+            2258,
+            1824
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7923399834",
+        "Coordinate": [
+            895,
+            1753,
+            1309,
+            1834
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Bengali, Marathi",
+        "Coordinate": [
+            902,
+            1891,
+            2027,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chakradev Ravi - 7111213377",
+        "Coordinate": [
+            969,
+            2001,
+            1927,
+            2082
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pallavi Mitra - 8452872339",
+        "Coordinate": [
+            984,
+            2126,
+            1913,
+            2214
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "226000000000.0",
+        "Coordinate": [
+            595,
+            2331,
+            1122,
+            2402
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            584,
+            2426,
+            1255,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2022",
+        "Coordinate": [
+            590,
+            2520,
+            1010,
+            2599
+        ]
+    }
+]

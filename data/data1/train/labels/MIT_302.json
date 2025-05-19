@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasana Mannan",
+        "Coordinate": [
+            892,
+            402,
+            1341,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Mannan",
+        "Coordinate": [
+            895,
+            502,
+            1365,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-09-1962",
+        "Coordinate": [
+            899,
+            599,
+            1179,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            695,
+            1121,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            796,
+            1134,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            788,
+            1968,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            895,
+            2021,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            905,
+            894,
+            1022,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Natarajan-Badami",
+        "Coordinate": [
+            966,
+            985,
+            1986,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bhatnagar-Som",
+        "Coordinate": [
+            974,
+            1106,
+            1907,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "93/59, Sengupta Ganj, Dewas-394640",
+        "Coordinate": [
+            899,
+            1261,
+            2135,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "736, Sani Nagar, Aurangabad-886084",
+        "Coordinate": [
+            899,
+            1495,
+            2123,
+            1636
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7486551880",
+        "Coordinate": [
+            1882,
+            1755,
+            2221,
+            1848
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9323627727",
+        "Coordinate": [
+            907,
+            1758,
+            1311,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Tamil",
+        "Coordinate": [
+            902,
+            1888,
+            1702,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Watika Kala - 8132022753",
+        "Coordinate": [
+            977,
+            2004,
+            1858,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jack Keer - 8571641740",
+        "Coordinate": [
+            983,
+            2133,
+            1764,
+            2242
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IIOTH6990V",
+        "Coordinate": [
+            1631,
+            2334,
+            2030,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            591,
+            2424,
+            915,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/21/2024",
+        "Coordinate": [
+            591,
+            2519,
+            935,
+            2602
+        ]
+    }
+]

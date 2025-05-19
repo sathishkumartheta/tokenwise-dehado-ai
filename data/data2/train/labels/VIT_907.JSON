@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kabir Chawla",
+        "Coordinate": [
+            887,
+            425,
+            1482,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Timothy Chawla",
+        "Coordinate": [
+            879,
+            532,
+            1494,
+            610
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1976",
+        "Coordinate": [
+            908,
+            639,
+            1318,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            916,
+            731,
+            1420,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            832,
+            1289,
+            912
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1734,
+            811,
+            1909,
+            883
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            918,
+            942,
+            1045,
+            1002
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            936,
+            2085,
+            998
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sibal-Sandal",
+        "Coordinate": [
+            971,
+            1031,
+            1923,
+            1107
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Gopal-Dayal",
+        "Coordinate": [
+            977,
+            1150,
+            1860,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "68/51, Gokhale Marg, Morena 171352",
+        "Coordinate": [
+            910,
+            1248,
+            2348,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 70, Amble Path, Raichur 458076",
+        "Coordinate": [
+            897,
+            1523,
+            2334,
+            1652
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9998766686",
+        "Coordinate": [
+            901,
+            1819,
+            1355,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9002739335",
+        "Coordinate": [
+            1878,
+            1792,
+            2332,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            897,
+            1946,
+            1626,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Devika Warrior - 7852707878",
+        "Coordinate": [
+            951,
+            2050,
+            2106,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zarna Misra - 9250097586",
+        "Coordinate": [
+            961,
+            2172,
+            2091,
+            2274
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "431454000000",
+        "Coordinate": [
+            598,
+            2383,
+            1203,
+            2451
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MZFMF7711E",
+        "Coordinate": [
+            1644,
+            2381,
+            2137,
+            2446
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            608,
+            2477,
+            856,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/7/2025",
+        "Coordinate": [
+            612,
+            2563,
+            1121,
+            2646
+        ]
+    }
+]

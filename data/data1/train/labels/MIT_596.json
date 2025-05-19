@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Joshua Parmer",
+        "Coordinate": [
+            875,
+            441,
+            1363,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Parmer",
+        "Coordinate": [
+            890,
+            548,
+            1436,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/19/1959",
+        "Coordinate": [
+            895,
+            642,
+            1298,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            887,
+            743,
+            1162,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            867,
+            843,
+            1096,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            830,
+            1965,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            941,
+            2072,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            902,
+            953,
+            1080,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sinha  Dalal and Sankaran",
+        "Coordinate": [
+            972,
+            1043,
+            2219,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at More and Sons",
+        "Coordinate": [
+            952,
+            1158,
+            2004,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 54, Golla Path, Anantapur-967577",
+        "Coordinate": [
+            886,
+            1300,
+            2208,
+            1459
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37/983, Mody Nagar, Bhind 274511",
+        "Coordinate": [
+            883,
+            1553,
+            2031,
+            1707
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8842643248",
+        "Coordinate": [
+            1859,
+            1802,
+            2327,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9893506545",
+        "Coordinate": [
+            878,
+            1812,
+            1311,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            892,
+            1953,
+            1419,
+            2059
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aadi Parikh - 8278013623",
+        "Coordinate": [
+            960,
+            2057,
+            1933,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Balvan Chopra - 8784180832",
+        "Coordinate": [
+            952,
+            2193,
+            2039,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "945000000000.0",
+        "Coordinate": [
+            607,
+            2398,
+            1121,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            610,
+            2494,
+            1027,
+            2589
+        ]
+    }
+]

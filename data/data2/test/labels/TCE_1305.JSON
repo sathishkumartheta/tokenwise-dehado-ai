@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Gaba",
+        "Coordinate": [
+            916,
+            478,
+            1398,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jackson Gaba",
+        "Coordinate": [
+            900,
+            566,
+            1394,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/15/1985",
+        "Coordinate": [
+            902,
+            680,
+            1228,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            766,
+            1260,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            864,
+            1238,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            864,
+            2028,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            912,
+            951,
+            1112,
+            1039
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            958,
+            2086,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Ben Inc",
+        "Coordinate": [
+            999,
+            1044,
+            1727,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mann and Sons",
+        "Coordinate": [
+            968,
+            1162,
+            1990,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87/630, Tella Street, Mira-Bhayandar 180319",
+        "Coordinate": [
+            886,
+            1272,
+            2272,
+            1483
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "591, Palla Ganj, Haldia-747888",
+        "Coordinate": [
+            905,
+            1522,
+            2164,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9316186231",
+        "Coordinate": [
+            878,
+            1786,
+            1318,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7374448977",
+        "Coordinate": [
+            1814,
+            1792,
+            2300,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Tamil, Hindi",
+        "Coordinate": [
+            872,
+            1916,
+            1944,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chameli Narula - 9681639930",
+        "Coordinate": [
+            956,
+            2020,
+            2034,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wishi Walla - 7925700897",
+        "Coordinate": [
+            948,
+            2144,
+            2030,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            644,
+            2418,
+            998,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/23/2025",
+        "Coordinate": [
+            646,
+            2518,
+            1128,
+            2601
+        ]
+    }
+]

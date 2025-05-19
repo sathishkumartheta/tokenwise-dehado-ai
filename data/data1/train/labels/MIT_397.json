@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashoda Hari",
+        "Coordinate": [
+            888,
+            391,
+            1357,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayyan Hari",
+        "Coordinate": [
+            892,
+            512,
+            1355,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/22/1979",
+        "Coordinate": [
+            900,
+            604,
+            1296,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            886,
+            696,
+            1045,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            799,
+            1179,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1877,
+            793,
+            2159,
+            899
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1910,
+            908,
+            2171,
+            1007
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            910,
+            905,
+            1084,
+            995
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Roy Group",
+        "Coordinate": [
+            1024,
+            1005,
+            1829,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mani Group",
+        "Coordinate": [
+            1009,
+            1135,
+            1885,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98, Chhabra Circle, Jalna 445092",
+        "Coordinate": [
+            898,
+            1279,
+            2173,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 21, Gade Nagar, Kolhapur-066489",
+        "Coordinate": [
+            886,
+            1501,
+            2338,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8724814694",
+        "Coordinate": [
+            1802,
+            1811,
+            2205,
+            1905
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9231753948",
+        "Coordinate": [
+            891,
+            1799,
+            1288,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Tamil, Bengali",
+        "Coordinate": [
+            922,
+            1905,
+            2075,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Andrew Gola - 9847092297",
+        "Coordinate": [
+            969,
+            2031,
+            2006,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayyan Parmer - 8990233320",
+        "Coordinate": [
+            995,
+            2157,
+            2094,
+            2284
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "235000000000.0",
+        "Coordinate": [
+            589,
+            2330,
+            1150,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            633,
+            2429,
+            1341,
+            2531
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-04-2025",
+        "Coordinate": [
+            632,
+            2522,
+            1094,
+            2626
+        ]
+    }
+]

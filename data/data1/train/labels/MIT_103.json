@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekaja Jhaveri",
+        "Coordinate": [
+            873,
+            430,
+            1496,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekapad Jhaveri",
+        "Coordinate": [
+            860,
+            530,
+            1614,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-11-1998",
+        "Coordinate": [
+            888,
+            630,
+            1305,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            882,
+            727,
+            1226,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            833,
+            1271,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            828,
+            2168,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            939,
+            2212,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            924,
+            937,
+            1071,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Jain  Devi and More",
+        "Coordinate": [
+            983,
+            1040,
+            2453,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Viswanathan  Deshmukh and Sani",
+        "Coordinate": [
+            952,
+            1145,
+            2434,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 18, Dani Circle, Ratlam-056647",
+        "Coordinate": [
+            883,
+            1272,
+            2343,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "122, Loke Nagar, Kavali 305172",
+        "Coordinate": [
+            894,
+            1520,
+            2344,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8808594592",
+        "Coordinate": [
+            1842,
+            1799,
+            2344,
+            1910
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9962933368",
+        "Coordinate": [
+            869,
+            1796,
+            1355,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English",
+        "Coordinate": [
+            881,
+            1933,
+            1543,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kashvi Gour - 8069287822",
+        "Coordinate": [
+            957,
+            2034,
+            2189,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vyanjana Som - 7719328773",
+        "Coordinate": [
+            936,
+            2176,
+            2258,
+            2296
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JETFC8153V",
+        "Coordinate": [
+            1611,
+            2384,
+            2178,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            573,
+            2470,
+            965,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-03-2024",
+        "Coordinate": [
+            591,
+            2566,
+            1021,
+            2670
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vivaan Sarin",
+        "Coordinate": [
+            898,
+            421,
+            1501,
+            519
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dalbir Sarin",
+        "Coordinate": [
+            891,
+            521,
+            1541,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-01-1993",
+        "Coordinate": [
+            915,
+            625,
+            1352,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            921,
+            721,
+            1763,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            822,
+            1215,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1808,
+            827,
+            2073,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            932,
+            2171,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            927,
+            933,
+            1101,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sathe LLC",
+        "Coordinate": [
+            1003,
+            1033,
+            2100,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sundaram  Shankar and Tailor",
+        "Coordinate": [
+            988,
+            1141,
+            2344,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 513, Gole Road, Danapur 993908",
+        "Coordinate": [
+            898,
+            1279,
+            2242,
+            1505
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 371, Bal Path, Bhilai-591520",
+        "Coordinate": [
+            889,
+            1532,
+            2137,
+            1782
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9881927956",
+        "Coordinate": [
+            1875,
+            1802,
+            2341,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9283976127",
+        "Coordinate": [
+            899,
+            1798,
+            1340,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Kannada",
+        "Coordinate": [
+            895,
+            1932,
+            2111,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Triveni Srinivasan - 8658182539",
+        "Coordinate": [
+            950,
+            2038,
+            2325,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amruta Ahluwalia - 8883712650",
+        "Coordinate": [
+            921,
+            2174,
+            2355,
+            2307
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JOIQG6906Y",
+        "Coordinate": [
+            1674,
+            2385,
+            2311,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            640,
+            2460,
+            1209,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/19/2024",
+        "Coordinate": [
+            675,
+            2557,
+            1232,
+            2660
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avi Modi",
+        "Coordinate": [
+            917,
+            464,
+            1384,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Modi",
+        "Coordinate": [
+            917,
+            565,
+            1586,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/14/1992",
+        "Coordinate": [
+            932,
+            647,
+            1442,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            941,
+            744,
+            1318,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            840,
+            1336,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1737,
+            834,
+            2048,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1769,
+            957,
+            2179,
+            1068
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            951,
+            938,
+            1245,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Baral LLC",
+        "Coordinate": [
+            941,
+            1051,
+            2091,
+            1173
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Hayre  Amble and Sekhon",
+        "Coordinate": [
+            940,
+            1148,
+            2292,
+            1291
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32, Oza Path, Bongaigaon-743832",
+        "Coordinate": [
+            892,
+            1310,
+            2175,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "506, Modi Ganj, Sirsa-230146",
+        "Coordinate": [
+            900,
+            1544,
+            2128,
+            1698
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8669777005",
+        "Coordinate": [
+            884,
+            1779,
+            1341,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7747340023",
+        "Coordinate": [
+            1540,
+            1814,
+            2053,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Bengali, Kannada",
+        "Coordinate": [
+            903,
+            1908,
+            2255,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Panini Subramanian - 7397395649",
+        "Coordinate": [
+            931,
+            2005,
+            2258,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ayushman Kothari - 7184480940",
+        "Coordinate": [
+            900,
+            2136,
+            2232,
+            2267
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            658,
+            2414,
+            871,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/27/2023",
+        "Coordinate": [
+            635,
+            2500,
+            1015,
+            2606
+        ]
+    }
+]

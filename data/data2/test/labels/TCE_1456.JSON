@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Teerth Dube",
+        "Coordinate": [
+            907,
+            495,
+            1381,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rayaan Dube",
+        "Coordinate": [
+            894,
+            594,
+            1473,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/3/1996",
+        "Coordinate": [
+            902,
+            676,
+            1321,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            904,
+            771,
+            1445,
+            859
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            872,
+            1184,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            907,
+            947,
+            1084,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Deshmukh-Chaudhari",
+        "Coordinate": [
+            961,
+            1047,
+            2127,
+            1174
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1789,
+            847,
+            1998,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            947,
+            2047,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Basak  Baral and Shankar",
+        "Coordinate": [
+            957,
+            1171,
+            2259,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01/32, Shenoy Path, Avadi-148224",
+        "Coordinate": [
+            881,
+            1340,
+            2103,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "595, Vig Circle, Anantapur-393974",
+        "Coordinate": [
+            905,
+            1556,
+            2123,
+            1716
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9097356603",
+        "Coordinate": [
+            884,
+            1773,
+            1329,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7732212294",
+        "Coordinate": [
+            1824,
+            1763,
+            2343,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Tamil, Malayalam",
+        "Coordinate": [
+            885,
+            1905,
+            1950,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mohini Amble - 8696812407",
+        "Coordinate": [
+            948,
+            2034,
+            1918,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isha Basu - 7327126460",
+        "Coordinate": [
+            912,
+            2166,
+            1851,
+            2266
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            606,
+            2386,
+            1316,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/1/2023",
+        "Coordinate": [
+            616,
+            2505,
+            1028,
+            2609
+        ]
+    }
+]

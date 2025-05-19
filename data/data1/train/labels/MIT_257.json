@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nihal Apte",
+        "Coordinate": [
+            892,
+            392,
+            1260,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Apte",
+        "Coordinate": [
+            900,
+            488,
+            1279,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-02-1994",
+        "Coordinate": [
+            902,
+            592,
+            1172,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            692,
+            1056,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            787,
+            1207,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1765,
+            784,
+            1945,
+            855
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            896,
+            2082,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            917,
+            895,
+            1025,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Viswanathan-Chauhan",
+        "Coordinate": [
+            953,
+            981,
+            2134,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sinha  Kata and Sarma",
+        "Coordinate": [
+            946,
+            1099,
+            2197,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/21, Magar Path, Eluru 176927",
+        "Coordinate": [
+            900,
+            1235,
+            1944,
+            1355
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "11/99, Khurana Path, Bhiwani 014448",
+        "Coordinate": [
+            885,
+            1476,
+            2045,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9940313337",
+        "Coordinate": [
+            1850,
+            1751,
+            2244,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9939412265",
+        "Coordinate": [
+            886,
+            1756,
+            1270,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            884,
+            1891,
+            1382,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oni Krishnamurthy - 8749030974",
+        "Coordinate": [
+            948,
+            1996,
+            2002,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fiyaz Arya - 8544362406",
+        "Coordinate": [
+            949,
+            2126,
+            1867,
+            2228
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "962000000000.0",
+        "Coordinate": [
+            591,
+            2331,
+            1050,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            585,
+            2419,
+            1285,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2023",
+        "Coordinate": [
+            600,
+            2510,
+            917,
+            2594
+        ]
+    }
+]

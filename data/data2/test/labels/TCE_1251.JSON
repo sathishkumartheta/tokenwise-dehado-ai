@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warinder Dhar",
+        "Coordinate": [
+            917,
+            476,
+            1396,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Dhar",
+        "Coordinate": [
+            921,
+            565,
+            1377,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/1/1994",
+        "Coordinate": [
+            957,
+            670,
+            1322,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            957,
+            759,
+            1128,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            938,
+            856,
+            1246,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1753,
+            829,
+            1926,
+            921
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1002,
+            957,
+            1118,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            947,
+            2073,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Deol  Varty and Kuruvilla",
+        "Coordinate": [
+            991,
+            1042,
+            2295,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Lala  Garde and Sathe",
+        "Coordinate": [
+            995,
+            1132,
+            2179,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 55, Chand, Hosur 121744",
+        "Coordinate": [
+            934,
+            1272,
+            2040,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36, Dash Path, Nandyal-470237",
+        "Coordinate": [
+            947,
+            1516,
+            2156,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7268211919",
+        "Coordinate": [
+            921,
+            1778,
+            1356,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8389584391",
+        "Coordinate": [
+            1837,
+            1763,
+            2289,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Bengali",
+        "Coordinate": [
+            932,
+            1900,
+            1803,
+            1981
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nicholas Patil - 7139120339",
+        "Coordinate": [
+            976,
+            2000,
+            2038,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krisha Upadhyay - 7946419569",
+        "Coordinate": [
+            995,
+            2126,
+            2149,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            664,
+            2409,
+            968,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/20/2025",
+        "Coordinate": [
+            692,
+            2500,
+            1139,
+            2580
+        ]
+    }
+]

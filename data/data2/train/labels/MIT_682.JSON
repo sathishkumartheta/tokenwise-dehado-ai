@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jyoti Majumdar",
+        "Coordinate": [
+            900,
+            447,
+            1409,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Majumdar",
+        "Coordinate": [
+            903,
+            539,
+            1536,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1985",
+        "Coordinate": [
+            906,
+            649,
+            1224,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            903,
+            747,
+            1166,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            846,
+            1169,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1836,
+            857,
+            2047,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            944,
+            2099,
+            1027
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            952,
+            955,
+            1051,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Oak LLC",
+        "Coordinate": [
+            967,
+            1056,
+            1663,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Bawa-Bedi",
+        "Coordinate": [
+            1010,
+            1178,
+            1761,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "981, Sathe Nagar, Moradabad-352141",
+        "Coordinate": [
+            892,
+            1333,
+            2073,
+            1481
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "241, Nigam Chowk, Jabalpur-809564",
+        "Coordinate": [
+            918,
+            1596,
+            2148,
+            1749
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8454238335",
+        "Coordinate": [
+            895,
+            1833,
+            1307,
+            1908
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9205223272",
+        "Coordinate": [
+            1885,
+            1824,
+            2272,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Gujarati",
+        "Coordinate": [
+            889,
+            1960,
+            1608,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gautami Madan - 7620250966",
+        "Coordinate": [
+            961,
+            2076,
+            1879,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rehaan Kamdar - 8659577724",
+        "Coordinate": [
+            973,
+            2200,
+            1943,
+            2324
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "400774000000",
+        "Coordinate": [
+            609,
+            2402,
+            1074,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            615,
+            2497,
+            880,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/21/2025",
+        "Coordinate": [
+            591,
+            2592,
+            961,
+            2673
+        ]
+    }
+]

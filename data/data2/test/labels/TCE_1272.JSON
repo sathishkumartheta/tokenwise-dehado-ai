@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ojasvi Sarraf",
+        "Coordinate": [
+            905,
+            472,
+            1421,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Sarraf",
+        "Coordinate": [
+            913,
+            573,
+            1403,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/6/1989",
+        "Coordinate": [
+            924,
+            654,
+            1263,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            924,
+            763,
+            1255,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            869,
+            1261,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            835,
+            2118,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            949,
+            957,
+            1073,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            943,
+            2103,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Virk-De",
+        "Coordinate": [
+            1021,
+            1044,
+            1704,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Kala-Saraf",
+        "Coordinate": [
+            1010,
+            1145,
+            1875,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/30, Samra Ganj, Tadepalligudem 774674",
+        "Coordinate": [
+            928,
+            1274,
+            1770,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 09, Bera Chowk, Sonipat-013334",
+        "Coordinate": [
+            928,
+            1516,
+            1740,
+            1721
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9490862812",
+        "Coordinate": [
+            909,
+            1774,
+            1346,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9255050034",
+        "Coordinate": [
+            1601,
+            1820,
+            2054,
+            1888
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Kannada, Marathi",
+        "Coordinate": [
+            936,
+            1911,
+            2065,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurav Singhal - 9803221919",
+        "Coordinate": [
+            1042,
+            2004,
+            2097,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vidhi Mani - 7931801899",
+        "Coordinate": [
+            1029,
+            2118,
+            2012,
+            2246
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "513006000000",
+        "Coordinate": [
+            643,
+            2329,
+            1194,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            664,
+            2426,
+            890,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/6/2024",
+        "Coordinate": [
+            662,
+            2508,
+            1044,
+            2584
+        ]
+    }
+]

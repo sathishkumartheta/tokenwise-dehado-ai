@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kala Shah",
+        "Coordinate": [
+            883,
+            394,
+            1199,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Shah",
+        "Coordinate": [
+            888,
+            493,
+            1296,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-06-1967",
+        "Coordinate": [
+            893,
+            591,
+            1218,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            894,
+            685,
+            1063,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            791,
+            1163,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1859,
+            792,
+            2082,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1883,
+            899,
+            2095,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            962,
+            896,
+            1088,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Khosla  Saxena and Rout",
+        "Coordinate": [
+            979,
+            981,
+            2203,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Buch-Pandey",
+        "Coordinate": [
+            986,
+            1101,
+            1951,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "79/376, Dass Ganj, Vellore 944551",
+        "Coordinate": [
+            885,
+            1225,
+            2248,
+            1373
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "82, Talwar, Bokaro 021648",
+        "Coordinate": [
+            887,
+            1480,
+            1959,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7784357753",
+        "Coordinate": [
+            1877,
+            1747,
+            2287,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7766389530",
+        "Coordinate": [
+            867,
+            1751,
+            1266,
+            1846
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            870,
+            1893,
+            1515,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Date - 9087753384",
+        "Coordinate": [
+            971,
+            2005,
+            1865,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raagini Bajwa - 7519528605",
+        "Coordinate": [
+            973,
+            2131,
+            1891,
+            2238
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IFXKF0353V",
+        "Coordinate": [
+            1660,
+            2330,
+            2157,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            610,
+            2420,
+            877,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/18/2024",
+        "Coordinate": [
+            614,
+            2513,
+            981,
+            2596
+        ]
+    }
+]

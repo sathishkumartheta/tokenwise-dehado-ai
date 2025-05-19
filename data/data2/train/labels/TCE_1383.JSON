@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Singh",
+        "Coordinate": [
+            905,
+            481,
+            1384,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Singh",
+        "Coordinate": [
+            905,
+            566,
+            1388,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/11/1994",
+        "Coordinate": [
+            920,
+            651,
+            1264,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            905,
+            746,
+            1432,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            880,
+            1200,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            950,
+            941,
+            1084,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            841,
+            1936,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            940,
+            2068,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Hari LLC",
+        "Coordinate": [
+            995,
+            1061,
+            1760,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Hayer  Cheema and Sarin",
+        "Coordinate": [
+            974,
+            1181,
+            2268,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "48/355, Muni Chowk, Hosur-747177",
+        "Coordinate": [
+            900,
+            1321,
+            2280,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 64, Puri Circle, Noida 246963",
+        "Coordinate": [
+            900,
+            1516,
+            2232,
+            1621
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7857162852",
+        "Coordinate": [
+            900,
+            1761,
+            1352,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7416682796",
+        "Coordinate": [
+            1865,
+            1761,
+            2204,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Tamil, Bengali",
+        "Coordinate": [
+            900,
+            1921,
+            2216,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Nanda - 9293375831",
+        "Coordinate": [
+            940,
+            2012,
+            2024,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarav Hegde - 8220501213",
+        "Coordinate": [
+            960,
+            2125,
+            1892,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            630,
+            2416,
+            952,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/24/2023",
+        "Coordinate": [
+            660,
+            2510,
+            1044,
+            2585
+        ]
+    }
+]

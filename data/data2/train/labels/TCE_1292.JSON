@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manya Pandit",
+        "Coordinate": [
+            923,
+            470,
+            1655,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tristan Pandit",
+        "Coordinate": [
+            925,
+            553,
+            1650,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/18/2002",
+        "Coordinate": [
+            939,
+            660,
+            1397,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            925,
+            737,
+            1305,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            939,
+            849,
+            1255,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            849,
+            2075,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            957,
+            948,
+            1105,
+            1026
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1792,
+            952,
+            2180,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Garde  Merchant and Pillai",
+        "Coordinate": [
+            964,
+            1040,
+            2288,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ratti  Samra and Kari",
+        "Coordinate": [
+            966,
+            1152,
+            2232,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 512, Chacko Circle, Thiruvananthapuram-996317",
+        "Coordinate": [
+            916,
+            1273,
+            2182,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "856, Krish Circle, Aurangabad-700150",
+        "Coordinate": [
+            930,
+            1514,
+            1935,
+            1729
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7157712307",
+        "Coordinate": [
+            907,
+            1790,
+            1356,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7399040403",
+        "Coordinate": [
+            1830,
+            1763,
+            2293,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada",
+        "Coordinate": [
+            899,
+            1909,
+            1718,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anamika Jayaraman - 9932946953",
+        "Coordinate": [
+            950,
+            2012,
+            2283,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Priya Dube - 7917410825",
+        "Coordinate": [
+            970,
+            2137,
+            2131,
+            2236
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            623,
+            2414,
+            1137,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2023",
+        "Coordinate": [
+            620,
+            2497,
+            1109,
+            2586
+        ]
+    }
+]

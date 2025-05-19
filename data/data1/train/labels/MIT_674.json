@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avi Agate",
+        "Coordinate": [
+            870,
+            436,
+            1191,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Agate",
+        "Coordinate": [
+            870,
+            531,
+            1279,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/16/1967",
+        "Coordinate": [
+            876,
+            636,
+            1207,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            877,
+            731,
+            1246,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            837,
+            1172,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            831,
+            1992,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            940,
+            2099,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Lall-Kaul",
+        "Coordinate": [
+            966,
+            1040,
+            1818,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sen-Bali",
+        "Coordinate": [
+            969,
+            1145,
+            1771,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04, Bhat Chowk, Udaipur-928339",
+        "Coordinate": [
+            882,
+            1271,
+            2293,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "85, Wadhwa Marg, Malda-975059",
+        "Coordinate": [
+            886,
+            1519,
+            2311,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8970610627",
+        "Coordinate": [
+            1891,
+            1806,
+            2359,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9660389524",
+        "Coordinate": [
+            881,
+            1806,
+            1364,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Tamil",
+        "Coordinate": [
+            885,
+            1944,
+            1721,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wakeeta Khalsa - 8387452680",
+        "Coordinate": [
+            950,
+            2044,
+            2163,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azaan Biswas - 7269950805",
+        "Coordinate": [
+            965,
+            2175,
+            2132,
+            2275
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "403000000000.0",
+        "Coordinate": [
+            577,
+            2388,
+            1151,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            581,
+            2479,
+            1016,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2023",
+        "Coordinate": [
+            608,
+            2574,
+            1028,
+            2661
+        ]
+    }
+]

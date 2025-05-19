@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Raksha Maharaj",
+        "Coordinate": [
+            910,
+            389,
+            1505,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Maharaj",
+        "Coordinate": [
+            908,
+            486,
+            1469,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/1985",
+        "Coordinate": [
+            917,
+            589,
+            1299,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            923,
+            682,
+            1251,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            785,
+            1217,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1792,
+            784,
+            2031,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            891,
+            2101,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            933,
+            891,
+            1103,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chhabra  Shetty and Saha",
+        "Coordinate": [
+            989,
+            977,
+            2327,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Divan-Bala",
+        "Coordinate": [
+            990,
+            1097,
+            1891,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 960, Mitter, Udupi 052774",
+        "Coordinate": [
+            897,
+            1244,
+            2093,
+            1379
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 88, Palla Ganj, Anand 225957",
+        "Coordinate": [
+            883,
+            1470,
+            2256,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9574006181",
+        "Coordinate": [
+            1874,
+            1748,
+            2300,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9470198549",
+        "Coordinate": [
+            900,
+            1759,
+            1361,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            906,
+            1891,
+            1597,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arya Mitter - 7860816661",
+        "Coordinate": [
+            998,
+            2003,
+            1905,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekansh Sule - 8113597420",
+        "Coordinate": [
+            987,
+            2123,
+            2010,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "611000000000.0",
+        "Coordinate": [
+            585,
+            2328,
+            1019,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            615,
+            2421,
+            931,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-10-2022",
+        "Coordinate": [
+            599,
+            2515,
+            981,
+            2599
+        ]
+    }
+]

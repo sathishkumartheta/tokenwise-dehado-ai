@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chasmum Arya",
+        "Coordinate": [
+            883,
+            389,
+            1484,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv Arya",
+        "Coordinate": [
+            891,
+            491,
+            1357,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-02-1993",
+        "Coordinate": [
+            893,
+            592,
+            1208,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            688,
+            1219,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            785,
+            1177,
+            873
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1765,
+            783,
+            2024,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            895,
+            2069,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            901,
+            891,
+            1009,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Tandon-Hegde",
+        "Coordinate": [
+            960,
+            984,
+            1874,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Gara  Borah and Taneja",
+        "Coordinate": [
+            967,
+            1102,
+            2274,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "619, Bath Street, Thoothukudi 938733",
+        "Coordinate": [
+            878,
+            1252,
+            2157,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "424, Maharaj Road, Baranagar-476078",
+        "Coordinate": [
+            881,
+            1496,
+            2111,
+            1651
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7850279698",
+        "Coordinate": [
+            1851,
+            1742,
+            2301,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8343945180",
+        "Coordinate": [
+            880,
+            1752,
+            1328,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada",
+        "Coordinate": [
+            868,
+            1891,
+            1402,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kabir Kar - 9664925680",
+        "Coordinate": [
+            946,
+            2005,
+            1847,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dominic Ahluwalia - 7486589085",
+        "Coordinate": [
+            946,
+            2125,
+            2011,
+            2239
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "AXSQJ9026B",
+        "Coordinate": [
+            1613,
+            2330,
+            2136,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            576,
+            2419,
+            855,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/18/2025",
+        "Coordinate": [
+            577,
+            2515,
+            940,
+            2603
+        ]
+    }
+]

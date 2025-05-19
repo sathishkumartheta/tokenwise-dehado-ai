@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishani Kalla",
+        "Coordinate": [
+            890,
+            475,
+            1338,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Devansh Kalla",
+        "Coordinate": [
+            895,
+            561,
+            1434,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/4/1965",
+        "Coordinate": [
+            905,
+            635,
+            1242,
+            770
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            890,
+            745,
+            1238,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            826,
+            1230,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            935,
+            936,
+            1102,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            851,
+            2070,
+            958
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            945,
+            2146,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Karpe Inc",
+        "Coordinate": [
+            994,
+            1036,
+            1829,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bedi LLC",
+        "Coordinate": [
+            1015,
+            1130,
+            1818,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03, Dayal Nagar, Mumbai-872020",
+        "Coordinate": [
+            905,
+            1256,
+            2122,
+            1346
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "002, Parikh Path, Hindupur-186062",
+        "Coordinate": [
+            875,
+            1476,
+            2162,
+            1594
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9229687305",
+        "Coordinate": [
+            910,
+            1756,
+            1350,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8487641755",
+        "Coordinate": [
+            1835,
+            1755,
+            2258,
+            1850
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Telugu, Kannada",
+        "Coordinate": [
+            890,
+            1886,
+            1886,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jackson Lata - 7823500924",
+        "Coordinate": [
+            960,
+            1996,
+            1950,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Varsha Manda - 8459399087",
+        "Coordinate": [
+            955,
+            2140,
+            2014,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            625,
+            2421,
+            886,
+            2482
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/19/2023",
+        "Coordinate": [
+            610,
+            2495,
+            1094,
+            2590
+        ]
+    }
+]

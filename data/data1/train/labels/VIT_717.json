@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Odika Subramaniam",
+        "Coordinate": [
+            898,
+            416,
+            1524,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatresh Subramaniam",
+        "Coordinate": [
+            894,
+            524,
+            1570,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/28/1963",
+        "Coordinate": [
+            923,
+            622,
+            1343,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            918,
+            712,
+            1426,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            816,
+            1218,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1762,
+            816,
+            2062,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            927,
+            2139,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            919,
+            922,
+            1051,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Kamdar  Guha and Zachariah",
+        "Coordinate": [
+            954,
+            1026,
+            2416,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kamdar-Baral",
+        "Coordinate": [
+            960,
+            1144,
+            1969,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/63, Oommen Street, Fatehpur 546586",
+        "Coordinate": [
+            888,
+            1273,
+            2326,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "847, Khurana Nagar, Panipat 332465",
+        "Coordinate": [
+            883,
+            1521,
+            2289,
+            1700
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9855629453",
+        "Coordinate": [
+            1840,
+            1802,
+            2307,
+            1929
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7964563664",
+        "Coordinate": [
+            875,
+            1799,
+            1275,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            890,
+            1930,
+            1553,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Bhattacharyya - 8728830474",
+        "Coordinate": [
+            923,
+            2038,
+            2244,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Roy - 9566479508",
+        "Coordinate": [
+            933,
+            2179,
+            2021,
+            2310
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QYUAP8411O",
+        "Coordinate": [
+            1621,
+            2370,
+            2155,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            565,
+            2454,
+            1037,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-10-2025",
+        "Coordinate": [
+            604,
+            2552,
+            1302,
+            2662
+        ]
+    }
+]

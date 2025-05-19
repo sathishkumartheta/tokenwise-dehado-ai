@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fiyaz Dua",
+        "Coordinate": [
+            917,
+            478,
+            1359,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Dua",
+        "Coordinate": [
+            937,
+            575,
+            1499,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/14/1996",
+        "Coordinate": [
+            935,
+            675,
+            1354,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            765,
+            1270,
+            859
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            935,
+            870,
+            1206,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            937,
+            963,
+            1105,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            863,
+            2021,
+            953
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            963,
+            2131,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhatnagar-Bala",
+        "Coordinate": [
+            985,
+            1055,
+            2100,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chaudhry and Sons",
+        "Coordinate": [
+            975,
+            1168,
+            2098,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 963, Lad, Jamalpur 488146",
+        "Coordinate": [
+            915,
+            1315,
+            2222,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 74, Sidhu Nagar, Dhule 441756",
+        "Coordinate": [
+            909,
+            1550,
+            2304,
+            1650
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7301621723",
+        "Coordinate": [
+            900,
+            1778,
+            1339,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8035528880",
+        "Coordinate": [
+            1847,
+            1768,
+            2301,
+            1851
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Hindi",
+        "Coordinate": [
+            955,
+            1905,
+            1895,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lekha Chakraborty - 9628569696",
+        "Coordinate": [
+            957,
+            2015,
+            2227,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Quincy Chahal - 8549740359",
+        "Coordinate": [
+            967,
+            2133,
+            2077,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            632,
+            2423,
+            973,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/8/2023",
+        "Coordinate": [
+            652,
+            2520,
+            1083,
+            2608
+        ]
+    }
+]

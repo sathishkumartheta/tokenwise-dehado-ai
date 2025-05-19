@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nimrat Dhaliwal",
+        "Coordinate": [
+            920,
+            464,
+            1544,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Dhaliwal",
+        "Coordinate": [
+            926,
+            547,
+            1503,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/15/1992",
+        "Coordinate": [
+            923,
+            664,
+            1348,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            952,
+            750,
+            1439,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            849,
+            1208,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            971,
+            954,
+            1239,
+            1032
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1674,
+            840,
+            1896,
+            954
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1758,
+            955,
+            2010,
+            1062
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Om-Bajaj",
+        "Coordinate": [
+            969,
+            1051,
+            1728,
+            1174
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Kade and Sons",
+        "Coordinate": [
+            980,
+            1174,
+            1956,
+            1298
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "67/494, Grover Street, Mysore 609523",
+        "Coordinate": [
+            912,
+            1333,
+            2161,
+            1476
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/14, Bains Street, Ratlam 779312",
+        "Coordinate": [
+            898,
+            1589,
+            2142,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9273200959",
+        "Coordinate": [
+            914,
+            1791,
+            1347,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7265998613",
+        "Coordinate": [
+            1592,
+            1829,
+            2054,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Tamil, Kannada",
+        "Coordinate": [
+            906,
+            1910,
+            2000,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandresh Mann - 8735550202",
+        "Coordinate": [
+            954,
+            2027,
+            2054,
+            2141
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zansi Rajagopal - 8384518492",
+        "Coordinate": [
+            946,
+            2158,
+            2045,
+            2270
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            616,
+            2411,
+            949,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/12/2024",
+        "Coordinate": [
+            678,
+            2506,
+            1076,
+            2616
+        ]
+    }
+]

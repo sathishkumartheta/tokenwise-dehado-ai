@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Baljiwan Rattan",
+        "Coordinate": [
+            861,
+            428,
+            1468,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fariq Rattan",
+        "Coordinate": [
+            868,
+            530,
+            1307,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-01-1983",
+        "Coordinate": [
+            871,
+            635,
+            1197,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            862,
+            732,
+            1134,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            835,
+            1138,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            832,
+            1901,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1777,
+            942,
+            2033,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            859,
+            941,
+            982,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Narayan LLC",
+        "Coordinate": [
+            943,
+            1045,
+            1833,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dugar Group",
+        "Coordinate": [
+            957,
+            1157,
+            1867,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 48, Shukla Ganj, Tenali-793889",
+        "Coordinate": [
+            871,
+            1294,
+            2220,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "867, Toor Street, Nangloi Jat 786910",
+        "Coordinate": [
+            882,
+            1527,
+            2240,
+            1695
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8851653784",
+        "Coordinate": [
+            1841,
+            1801,
+            2319,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7509816267",
+        "Coordinate": [
+            872,
+            1802,
+            1327,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada",
+        "Coordinate": [
+            871,
+            1947,
+            1563,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Andrew Savant - 7746771983",
+        "Coordinate": [
+            923,
+            2064,
+            2073,
+            2186
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Noah Purohit - 7823465679",
+        "Coordinate": [
+            920,
+            2194,
+            2059,
+            2327
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "228000000000.0",
+        "Coordinate": [
+            579,
+            2391,
+            1088,
+            2481
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QAPCG4813Z",
+        "Coordinate": [
+            1611,
+            2394,
+            2126,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            569,
+            2481,
+            1034,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-01-2023",
+        "Coordinate": [
+            564,
+            2577,
+            1017,
+            2670
+        ]
+    }
+]

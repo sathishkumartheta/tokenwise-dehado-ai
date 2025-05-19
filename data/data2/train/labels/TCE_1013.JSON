@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harshil Sha",
+        "Coordinate": [
+            916,
+            492,
+            1362,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Sha",
+        "Coordinate": [
+            924,
+            576,
+            1406,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/2004",
+        "Coordinate": [
+            928,
+            700,
+            1316,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            912,
+            778,
+            1188,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            880,
+            1126,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1746,
+            874,
+            1936,
+            961
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            978,
+            2084,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            934,
+            970,
+            1032,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Kamdar  Cherian and Gill",
+        "Coordinate": [
+            990,
+            1062,
+            2208,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Dugar-Mukhopadhyay",
+        "Coordinate": [
+            986,
+            1184,
+            2170,
+            1307
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 131, Bhatnagar Zila, Etawah 733583",
+        "Coordinate": [
+            910,
+            1340,
+            2108,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 92, Nayar Zila, Sonipat-944387",
+        "Coordinate": [
+            918,
+            1538,
+            2158,
+            1703
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7640655448",
+        "Coordinate": [
+            926,
+            1824,
+            1312,
+            1921
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9396020126",
+        "Coordinate": [
+            1678,
+            1848,
+            2086,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Bengali, Hindi",
+        "Coordinate": [
+            920,
+            1948,
+            1910,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekaraj Shankar - 7363284417",
+        "Coordinate": [
+            960,
+            2070,
+            2082,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vihaan Naik - 7481695337",
+        "Coordinate": [
+            970,
+            2188,
+            1928,
+            2273
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            630,
+            2434,
+            1028,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/16/2022",
+        "Coordinate": [
+            636,
+            2538,
+            992,
+            2623
+        ]
+    }
+]

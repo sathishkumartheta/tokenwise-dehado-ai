@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eiravati Saini",
+        "Coordinate": [
+            885,
+            433,
+            1425,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gabriel Saini",
+        "Coordinate": [
+            884,
+            528,
+            1425,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/29/1972",
+        "Coordinate": [
+            881,
+            634,
+            1204,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            886,
+            728,
+            1375,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            879,
+            833,
+            1091,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1710,
+            829,
+            1967,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            940,
+            2068,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            890,
+            941,
+            1016,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bali  Ray and Zacharia",
+        "Coordinate": [
+            939,
+            1039,
+            2306,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Ganesh  Mani and Jaggi",
+        "Coordinate": [
+            955,
+            1150,
+            2278,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "302, Karpe Ganj, Parbhani-060694",
+        "Coordinate": [
+            887,
+            1282,
+            2251,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95, Halder Street, Bahraich-529412",
+        "Coordinate": [
+            884,
+            1525,
+            2278,
+            1664
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9445733441",
+        "Coordinate": [
+            1849,
+            1803,
+            2302,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7962368233",
+        "Coordinate": [
+            884,
+            1802,
+            1354,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Malayalam",
+        "Coordinate": [
+            873,
+            1943,
+            1787,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xavier Subramaniam - 9388469414",
+        "Coordinate": [
+            950,
+            2051,
+            2275,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bachittar Raja - 9951408055",
+        "Coordinate": [
+            940,
+            2185,
+            2088,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "709000000000.0",
+        "Coordinate": [
+            573,
+            2391,
+            1149,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            566,
+            2480,
+            810,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/20/2024",
+        "Coordinate": [
+            583,
+            2570,
+            1010,
+            2660
+        ]
+    }
+]

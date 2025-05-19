@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Leena Narang",
+        "Coordinate": [
+            874,
+            398,
+            1292,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Quincy Narang",
+        "Coordinate": [
+            873,
+            494,
+            1323,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/13/2000",
+        "Coordinate": [
+            876,
+            594,
+            1183,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            874,
+            685,
+            1168,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            869,
+            786,
+            1123,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1722,
+            783,
+            1942,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1791,
+            888,
+            2011,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            896,
+            889,
+            999,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Raghavan Group",
+        "Coordinate": [
+            934,
+            984,
+            1782,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bawa Inc",
+        "Coordinate": [
+            933,
+            1099,
+            1626,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 89, Gola Road, Durg 648966",
+        "Coordinate": [
+            864,
+            1261,
+            1874,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 564, Atwal Street, Satna-577580",
+        "Coordinate": [
+            864,
+            1499,
+            2030,
+            1638
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7487457868",
+        "Coordinate": [
+            1841,
+            1746,
+            2175,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9923998784",
+        "Coordinate": [
+            876,
+            1749,
+            1246,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Kannada",
+        "Coordinate": [
+            865,
+            1884,
+            1534,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darika Nagar - 8522541932",
+        "Coordinate": [
+            932,
+            1997,
+            1751,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rehaan Toor - 7785297616",
+        "Coordinate": [
+            935,
+            2124,
+            1692,
+            2225
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZIUAH2959E",
+        "Coordinate": [
+            1603,
+            2333,
+            2003,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            560,
+            2421,
+            750,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/17/2022",
+        "Coordinate": [
+            565,
+            2516,
+            877,
+            2596
+        ]
+    }
+]

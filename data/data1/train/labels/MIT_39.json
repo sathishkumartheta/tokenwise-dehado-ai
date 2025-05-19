@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanas Brar",
+        "Coordinate": [
+            904,
+            409,
+            1423,
+            503
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Brar",
+        "Coordinate": [
+            895,
+            511,
+            1344,
+            603
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-05-1989",
+        "Coordinate": [
+            907,
+            614,
+            1214,
+            705
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            907,
+            714,
+            1224,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            813,
+            1219,
+            905
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1852,
+            792,
+            2042,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            900,
+            2116,
+            987
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            939,
+            916,
+            1068,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kunda  Srinivas and Kala",
+        "Coordinate": [
+            979,
+            995,
+            2232,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Yohannan LLC",
+        "Coordinate": [
+            994,
+            1115,
+            1983,
+            1224
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 993, Bedi Ganj, Muzaffarpur 165712",
+        "Coordinate": [
+            892,
+            1254,
+            2123,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77, Mani Ganj, Baranagar 193802",
+        "Coordinate": [
+            941,
+            1487,
+            2317,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8853702092",
+        "Coordinate": [
+            1871,
+            1758,
+            2301,
+            1869
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8463263655",
+        "Coordinate": [
+            927,
+            1779,
+            1358,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Kannada, Telugu",
+        "Coordinate": [
+            912,
+            1911,
+            2124,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Patrick Bansal - 9490861776",
+        "Coordinate": [
+            977,
+            2014,
+            1938,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warhi Grewal - 7259137970",
+        "Coordinate": [
+            979,
+            2134,
+            1975,
+            2235
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "551000000000.0",
+        "Coordinate": [
+            615,
+            2356,
+            1177,
+            2441
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            636,
+            2449,
+            976,
+            2534
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/21/2023",
+        "Coordinate": [
+            641,
+            2540,
+            1038,
+            2632
+        ]
+    }
+]

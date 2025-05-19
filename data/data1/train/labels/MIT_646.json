@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishaan Chanda",
+        "Coordinate": [
+            885,
+            433,
+            1342,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ikbal Chanda",
+        "Coordinate": [
+            900,
+            533,
+            1312,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/22/1992",
+        "Coordinate": [
+            894,
+            636,
+            1243,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            886,
+            730,
+            1131,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            836,
+            1105,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1768,
+            828,
+            1931,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            938,
+            2057,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            895,
+            945,
+            1018,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Varughese  Buch and Thakkar",
+        "Coordinate": [
+            973,
+            1038,
+            2092,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Aurora Inc",
+        "Coordinate": [
+            956,
+            1151,
+            1661,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 26, Sheth Path, Bellary-587745",
+        "Coordinate": [
+            892,
+            1276,
+            1973,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "488, Dhawan Circle, Kumbakonam-544225",
+        "Coordinate": [
+            893,
+            1530,
+            2092,
+            1666
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9187339517",
+        "Coordinate": [
+            1869,
+            1802,
+            2215,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7986967183",
+        "Coordinate": [
+            886,
+            1807,
+            1272,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi, Gujarati",
+        "Coordinate": [
+            891,
+            1949,
+            1554,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eta Dada - 7743117515",
+        "Coordinate": [
+            964,
+            2056,
+            1650,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unnati Vyas - 8113731977",
+        "Coordinate": [
+            954,
+            2181,
+            1676,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "687000000000.0",
+        "Coordinate": [
+            592,
+            2391,
+            989,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            580,
+            2485,
+            788,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/22/2024",
+        "Coordinate": [
+            599,
+            2578,
+            944,
+            2667
+        ]
+    }
+]

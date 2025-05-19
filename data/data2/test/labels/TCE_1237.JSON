@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zehaan Varty",
+        "Coordinate": [
+            916,
+            487,
+            1373,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harsh Varty",
+        "Coordinate": [
+            920,
+            597,
+            1360,
+            681
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/6/1959",
+        "Coordinate": [
+            933,
+            687,
+            1226,
+            769
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            943,
+            784,
+            1234,
+            865
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            986,
+            883,
+            1186,
+            968
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1013,
+            980,
+            1109,
+            1054
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1853,
+            877,
+            2018,
+            961
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            977,
+            2093,
+            1057
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Rattan  Dewan and Lad",
+        "Coordinate": [
+            1003,
+            1064,
+            2245,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Das  Sathe and Behl",
+        "Coordinate": [
+            1000,
+            1167,
+            2171,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29, Deshmukh Road, Udupi 916379",
+        "Coordinate": [
+            946,
+            1294,
+            2205,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 72, Ganesan Nagar, Kakinada 970877",
+        "Coordinate": [
+            930,
+            1527,
+            2325,
+            1641
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9223994247",
+        "Coordinate": [
+            920,
+            1807,
+            1333,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7675941254",
+        "Coordinate": [
+            1860,
+            1770,
+            2280,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Kannada",
+        "Coordinate": [
+            903,
+            1927,
+            1826,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekapad Mutti - 7679158156",
+        "Coordinate": [
+            1026,
+            2040,
+            2013,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charita Ghose - 8378571107",
+        "Coordinate": [
+            1040,
+            2157,
+            2019,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            630,
+            2441,
+            963,
+            2540
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/29/2025",
+        "Coordinate": [
+            623,
+            2540,
+            986,
+            2625
+        ]
+    }
+]

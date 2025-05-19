@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oliver Sagar",
+        "Coordinate": [
+            873,
+            451,
+            1549,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girindra Sagar",
+        "Coordinate": [
+            898,
+            557,
+            1732,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/27/1972",
+        "Coordinate": [
+            900,
+            649,
+            1416,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            910,
+            735,
+            1433,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            863,
+            1273,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            945,
+            950,
+            1113,
+            1021
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1858,
+            851,
+            2070,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            962,
+            2162,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Lal LLC",
+        "Coordinate": [
+            1004,
+            1056,
+            2009,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Vaidya and Sons",
+        "Coordinate": [
+            1036,
+            1155,
+            2379,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61/92, Dhillon Zila, Tezpur 486978",
+        "Coordinate": [
+            898,
+            1288,
+            2307,
+            1500
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89/63, Sandal Zila, Howrah 270436",
+        "Coordinate": [
+            898,
+            1545,
+            2320,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8226296442",
+        "Coordinate": [
+            871,
+            1828,
+            1367,
+            1942
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7586772634",
+        "Coordinate": [
+            1856,
+            1821,
+            2352,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            935,
+            1952,
+            2157,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Palan - 7339385215",
+        "Coordinate": [
+            977,
+            2068,
+            2354,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pahal Krishna - 7092398467",
+        "Coordinate": [
+            984,
+            2208,
+            2366,
+            2322
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KQTDP1992T",
+        "Coordinate": [
+            1698,
+            2416,
+            2366,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            587,
+            2492,
+            1707,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/7/2022",
+        "Coordinate": [
+            619,
+            2586,
+            1206,
+            2670
+        ]
+    }
+]

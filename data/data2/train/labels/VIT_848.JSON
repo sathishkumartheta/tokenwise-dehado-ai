@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Atharv Brahmbhatt",
+        "Coordinate": [
+            875,
+            434,
+            1694,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Falan Brahmbhatt",
+        "Coordinate": [
+            882,
+            538,
+            1663,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/11/1988",
+        "Coordinate": [
+            887,
+            640,
+            1241,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            882,
+            740,
+            1409,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            835,
+            1151,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1744,
+            840,
+            1922,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            897,
+            949,
+            1018,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            942,
+            2088,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Mangal-Ramakrishnan",
+        "Coordinate": [
+            970,
+            1048,
+            2252,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bansal  Saraf and Borra",
+        "Coordinate": [
+            963,
+            1162,
+            2347,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/09, Sani Zila, Raurkela Industrial Township 454300",
+        "Coordinate": [
+            894,
+            1293,
+            2330,
+            1497
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46/27, Dugar Road, Satna 258987",
+        "Coordinate": [
+            894,
+            1533,
+            2245,
+            1715
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7240585413",
+        "Coordinate": [
+            906,
+            1808,
+            1328,
+            1929
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7805638407",
+        "Coordinate": [
+            1872,
+            1806,
+            2323,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Hindi, English",
+        "Coordinate": [
+            885,
+            1957,
+            1936,
+            2083
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksh Tata - 7936221183",
+        "Coordinate": [
+            932,
+            2088,
+            1929,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nakul Chopra - 7178633906",
+        "Coordinate": [
+            939,
+            2228,
+            2038,
+            2330
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "571876000000",
+        "Coordinate": [
+            581,
+            2404,
+            1162,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            588,
+            2491,
+            889,
+            2584
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/24/2022",
+        "Coordinate": [
+            579,
+            2589,
+            994,
+            2676
+        ]
+    }
+]

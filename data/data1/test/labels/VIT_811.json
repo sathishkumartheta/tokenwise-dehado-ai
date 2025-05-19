@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bachittar Tandon",
+        "Coordinate": [
+            875,
+            415,
+            1435,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Tandon",
+        "Coordinate": [
+            894,
+            519,
+            1335,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/22/1988",
+        "Coordinate": [
+            900,
+            620,
+            1248,
+            715
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            893,
+            713,
+            1215,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            822,
+            1142,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            832,
+            1965,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            933,
+            2077,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            889,
+            924,
+            1007,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Nair-Guha",
+        "Coordinate": [
+            978,
+            1029,
+            1743,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chaudhari Group",
+        "Coordinate": [
+            1005,
+            1140,
+            2052,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 605, Chauhan Road, Kakinada 134631",
+        "Coordinate": [
+            891,
+            1256,
+            2292,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "90/78, Nagi Marg, Gandhinagar 188304",
+        "Coordinate": [
+            886,
+            1509,
+            2268,
+            1677
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7240725145",
+        "Coordinate": [
+            1866,
+            1784,
+            2343,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8729866150",
+        "Coordinate": [
+            886,
+            1788,
+            1358,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Gujarati, Telugu",
+        "Coordinate": [
+            871,
+            1932,
+            1959,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekantika Mall - 8846021301",
+        "Coordinate": [
+            940,
+            2034,
+            1922,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrinda Mohan - 7514961104",
+        "Coordinate": [
+            955,
+            2156,
+            1968,
+            2278
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PCIFC1119Y",
+        "Coordinate": [
+            1619,
+            2372,
+            2063,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            581,
+            2460,
+            870,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/20/2023",
+        "Coordinate": [
+            598,
+            2559,
+            1127,
+            2660
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qabil Saha",
+        "Coordinate": [
+            930,
+            474,
+            1276,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Saha",
+        "Coordinate": [
+            918,
+            590,
+            1382,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/10/1986",
+        "Coordinate": [
+            922,
+            676,
+            1236,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            954,
+            756,
+            1106,
+            873
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            934,
+            878,
+            1146,
+            969
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1806,
+            858,
+            1958,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            933,
+            966,
+            1092,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            952,
+            2034,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Ramaswamy  Sachdev and Wali",
+        "Coordinate": [
+            978,
+            1068,
+            2192,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Nath PLC",
+        "Coordinate": [
+            968,
+            1178,
+            1592,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 589, Kale Path, Khammam 501543",
+        "Coordinate": [
+            900,
+            1312,
+            2182,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "18/07, Mahal Chowk, Ichalkaranji 514466",
+        "Coordinate": [
+            910,
+            1536,
+            2186,
+            1651
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9986005801",
+        "Coordinate": [
+            926,
+            1784,
+            1246,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9794080693",
+        "Coordinate": [
+            1744,
+            1830,
+            2166,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Gujarati, English",
+        "Coordinate": [
+            904,
+            1939,
+            1982,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harita Krishnan - 9365237468",
+        "Coordinate": [
+            980,
+            2056,
+            1872,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Suhani Chander - 8734540779",
+        "Coordinate": [
+            964,
+            2170,
+            1868,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            618,
+            2416,
+            838,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/23/2022",
+        "Coordinate": [
+            632,
+            2510,
+            1032,
+            2591
+        ]
+    }
+]

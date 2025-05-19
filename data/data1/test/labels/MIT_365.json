@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dev Balay",
+        "Coordinate": [
+            872,
+            387,
+            1216,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Balay",
+        "Coordinate": [
+            877,
+            485,
+            1444,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/23/1988",
+        "Coordinate": [
+            884,
+            586,
+            1205,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            683,
+            1169,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            789,
+            1155,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1879,
+            778,
+            2076,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1887,
+            891,
+            2133,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            897,
+            894,
+            1051,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Toor PLC",
+        "Coordinate": [
+            969,
+            979,
+            1682,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Mane  Bhatt and Bora",
+        "Coordinate": [
+            959,
+            1082,
+            2134,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "599, Parmer Street, Latur 952056",
+        "Coordinate": [
+            882,
+            1257,
+            2084,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 679, Arya, Sikar 801867",
+        "Coordinate": [
+            865,
+            1485,
+            1897,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9479528120",
+        "Coordinate": [
+            1891,
+            1752,
+            2312,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7524716997",
+        "Coordinate": [
+            882,
+            1755,
+            1312,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            869,
+            1887,
+            1444,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Basu - 9936652592",
+        "Coordinate": [
+            961,
+            2000,
+            1848,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Varenya Tella - 8240062152",
+        "Coordinate": [
+            953,
+            2126,
+            1885,
+            2237
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "992000000000.0",
+        "Coordinate": [
+            585,
+            2327,
+            1118,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            592,
+            2416,
+            840,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/22/2025",
+        "Coordinate": [
+            595,
+            2513,
+            1020,
+            2602
+        ]
+    }
+]

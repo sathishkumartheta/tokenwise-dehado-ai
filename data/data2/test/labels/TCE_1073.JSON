@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gopal Dhaliwal",
+        "Coordinate": [
+            894,
+            486,
+            1490,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishaan Dhaliwal",
+        "Coordinate": [
+            898,
+            570,
+            1476,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/4/2003",
+        "Coordinate": [
+            920,
+            654,
+            1290,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            768,
+            1420,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            922,
+            854,
+            1110,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            841,
+            1952,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            948,
+            2048,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            914,
+            964,
+            1038,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Subramaniam-Pau",
+        "Coordinate": [
+            986,
+            1050,
+            2002,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Swamy-Soni",
+        "Coordinate": [
+            1008,
+            1156,
+            1818,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85, Grewal Ganj, Bhiwandi 842689",
+        "Coordinate": [
+            900,
+            1258,
+            2212,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "57, Sarkar Road, Bettiah 785645",
+        "Coordinate": [
+            917,
+            1558,
+            2114,
+            1707
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8607766636",
+        "Coordinate": [
+            918,
+            1796,
+            1322,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7751779481",
+        "Coordinate": [
+            1834,
+            1776,
+            2228,
+            1853
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Gujarati, Telugu",
+        "Coordinate": [
+            920,
+            1919,
+            2056,
+            2018
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Praneel Malhotra - 8609362234",
+        "Coordinate": [
+            976,
+            2042,
+            2076,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saumya Khurana - 8992662893",
+        "Coordinate": [
+            956,
+            2146,
+            2200,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            632,
+            2428,
+            854,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/23/2024",
+        "Coordinate": [
+            628,
+            2496,
+            1078,
+            2611
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samaksh Gour",
+        "Coordinate": [
+            938,
+            470,
+            1386,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "David Gour",
+        "Coordinate": [
+            933,
+            566,
+            1280,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/24/1975",
+        "Coordinate": [
+            942,
+            660,
+            1247,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            949,
+            751,
+            1111,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            938,
+            840,
+            1180,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            838,
+            1917,
+            922
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            940,
+            950,
+            1117,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1782,
+            952,
+            1940,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Hayer-Khatri",
+        "Coordinate": [
+            1005,
+            1034,
+            1953,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sekhon-Chakrabarti",
+        "Coordinate": [
+            983,
+            1154,
+            1853,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 74, Dave, Muzaffarnagar-068289",
+        "Coordinate": [
+            918,
+            1274,
+            2132,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/024, Ratti Path, Khammam-107690",
+        "Coordinate": [
+            929,
+            1535,
+            1990,
+            1649
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7414486377",
+        "Coordinate": [
+            913,
+            1778,
+            1317,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8176032120",
+        "Coordinate": [
+            1839,
+            1770,
+            2223,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Hindi",
+        "Coordinate": [
+            912,
+            1910,
+            1628,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Aurora - 9961480651",
+        "Coordinate": [
+            976,
+            2006,
+            1922,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Banjeet Sarin - 8902075871",
+        "Coordinate": [
+            993,
+            2124,
+            1816,
+            2222
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            701,
+            2417,
+            947,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/1/2023",
+        "Coordinate": [
+            703,
+            2497,
+            1070,
+            2580
+        ]
+    }
+]

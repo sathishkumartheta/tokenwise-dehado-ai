@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "William Andra",
+        "Coordinate": [
+            874,
+            439,
+            1536,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aryan Andra",
+        "Coordinate": [
+            892,
+            542,
+            1452,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-09-2004",
+        "Coordinate": [
+            891,
+            644,
+            1221,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            894,
+            743,
+            1277,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            889,
+            845,
+            1205,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            842,
+            1956,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            945,
+            2182,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            918,
+            949,
+            1096,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kota and Sons",
+        "Coordinate": [
+            954,
+            1047,
+            1960,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Cheema  Kala and Dave",
+        "Coordinate": [
+            935,
+            1141,
+            2311,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46, Dugar Nagar, Kulti-884157",
+        "Coordinate": [
+            892,
+            1288,
+            2293,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "29/184, Prasad Street, Gudivada-617655",
+        "Coordinate": [
+            885,
+            1546,
+            2259,
+            1741
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9176437487",
+        "Coordinate": [
+            1844,
+            1810,
+            2303,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9369601509",
+        "Coordinate": [
+            878,
+            1812,
+            1281,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi",
+        "Coordinate": [
+            891,
+            1956,
+            1631,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mohammed Kannan - 9915448934",
+        "Coordinate": [
+            932,
+            2062,
+            2369,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Dayal - 9425335444",
+        "Coordinate": [
+            955,
+            2193,
+            2210,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "586000000000.0",
+        "Coordinate": [
+            589,
+            2398,
+            1194,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            585,
+            2491,
+            870,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-10-2023",
+        "Coordinate": [
+            587,
+            2582,
+            1030,
+            2672
+        ]
+    }
+]

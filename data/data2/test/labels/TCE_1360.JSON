@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nimrat Ganesan",
+        "Coordinate": [
+            905,
+            471,
+            1297,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lakshit Ganesan",
+        "Coordinate": [
+            905,
+            566,
+            1361,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/11/1963",
+        "Coordinate": [
+            900,
+            671,
+            1189,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            895,
+            770,
+            1305,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            856,
+            1173,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1775,
+            855,
+            2009,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            941,
+            2057,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            880,
+            955,
+            1057,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Hayre-Rattan",
+        "Coordinate": [
+            985,
+            1031,
+            1781,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mannan-Naik",
+        "Coordinate": [
+            965,
+            1155,
+            1785,
+            1236
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "60/022, Sane Street, Bhusawal 992662",
+        "Coordinate": [
+            884,
+            1316,
+            2061,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 17, Bhattacharyya Circle, Nagaon 896586",
+        "Coordinate": [
+            905,
+            1536,
+            2269,
+            1672
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8843269274",
+        "Coordinate": [
+            905,
+            1766,
+            1349,
+            1856
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9385953997",
+        "Coordinate": [
+            1825,
+            1755,
+            2217,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Bengali, Gujarati",
+        "Coordinate": [
+            905,
+            1916,
+            1949,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chanchal Reddy - 9393177620",
+        "Coordinate": [
+            970,
+            2000,
+            1933,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jackson Bose - 9522910726",
+        "Coordinate": [
+            965,
+            2121,
+            1985,
+            2220
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            625,
+            2416,
+            901,
+            2488
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/27/2024",
+        "Coordinate": [
+            610,
+            2510,
+            985,
+            2572
+        ]
+    }
+]

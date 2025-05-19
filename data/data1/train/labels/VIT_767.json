@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Priya Natt",
+        "Coordinate": [
+            873,
+            437,
+            1250,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qarin Natt",
+        "Coordinate": [
+            864,
+            544,
+            1229,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/23/1972",
+        "Coordinate": [
+            873,
+            643,
+            1208,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            873,
+            744,
+            1172,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            847,
+            1159,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1819,
+            830,
+            2067,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1877,
+            937,
+            2130,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            870,
+            949,
+            952,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Karan-Bhatia",
+        "Coordinate": [
+            950,
+            1034,
+            1724,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mall  Kala and Shah",
+        "Coordinate": [
+            940,
+            1140,
+            1943,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 855, Raval, Lucknow-169448",
+        "Coordinate": [
+            874,
+            1265,
+            2085,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40/004, Saxena Nagar, Bulandshahr 231064",
+        "Coordinate": [
+            878,
+            1523,
+            2304,
+            1652
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8962839570",
+        "Coordinate": [
+            1840,
+            1803,
+            2273,
+            1896
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9869015787",
+        "Coordinate": [
+            875,
+            1802,
+            1261,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Kannada, Marathi",
+        "Coordinate": [
+            868,
+            1945,
+            1953,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sai Sunder - 8832101433",
+        "Coordinate": [
+            924,
+            2052,
+            1770,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nirja Viswanathan - 7839656487",
+        "Coordinate": [
+            919,
+            2177,
+            2027,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "795000000000.0",
+        "Coordinate": [
+            569,
+            2388,
+            1058,
+            2474
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PILTJ5588Q",
+        "Coordinate": [
+            1606,
+            2388,
+            2101,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            569,
+            2478,
+            802,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-10-2024",
+        "Coordinate": [
+            572,
+            2570,
+            918,
+            2663
+        ]
+    }
+]

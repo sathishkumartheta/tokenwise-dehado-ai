@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aadi Devan",
+        "Coordinate": [
+            892,
+            399,
+            1260,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Devan",
+        "Coordinate": [
+            892,
+            502,
+            1311,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/31/1976",
+        "Coordinate": [
+            903,
+            600,
+            1219,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            700,
+            1203,
+            787
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            803,
+            1121,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1802,
+            788,
+            1977,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            900,
+            2067,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            952,
+            900,
+            1069,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saran and Sons",
+        "Coordinate": [
+            977,
+            986,
+            2000,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Aurora  Bobal and Taneja",
+        "Coordinate": [
+            966,
+            1107,
+            2306,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "12/413, Kohli, Udupi 789760",
+        "Coordinate": [
+            938,
+            1261,
+            1952,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 267, Kashyap Chowk, Madanapalle-276075",
+        "Coordinate": [
+            939,
+            1483,
+            2331,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7097765255",
+        "Coordinate": [
+            1873,
+            1755,
+            2268,
+            1850
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7005693828",
+        "Coordinate": [
+            920,
+            1770,
+            1287,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Kannada",
+        "Coordinate": [
+            958,
+            1896,
+            1747,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Osha Pandey - 7031615325",
+        "Coordinate": [
+            1005,
+            2006,
+            1930,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sarthak More - 8341797838",
+        "Coordinate": [
+            1007,
+            2132,
+            1974,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "253000000000.0",
+        "Coordinate": [
+            649,
+            2339,
+            1138,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            638,
+            2430,
+            1350,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/18/2024",
+        "Coordinate": [
+            651,
+            2519,
+            1053,
+            2608
+        ]
+    }
+]

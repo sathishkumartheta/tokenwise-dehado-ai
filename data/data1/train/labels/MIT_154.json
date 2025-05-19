@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanvi Bhatti",
+        "Coordinate": [
+            896,
+            401,
+            1265,
+            492
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Bhatti",
+        "Coordinate": [
+            890,
+            500,
+            1327,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/1961",
+        "Coordinate": [
+            899,
+            595,
+            1207,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            889,
+            689,
+            1156,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            792,
+            1179,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1728,
+            794,
+            1975,
+            886
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1809,
+            898,
+            2024,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            910,
+            899,
+            1074,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kaur-Bahl",
+        "Coordinate": [
+            967,
+            984,
+            1737,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Chaudhuri-Koshy",
+        "Coordinate": [
+            970,
+            1099,
+            2025,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "67/18, Dhar Ganj, Panvel-386870",
+        "Coordinate": [
+            878,
+            1242,
+            2019,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/00, Mahajan Chowk, Nadiad 398402",
+        "Coordinate": [
+            871,
+            1470,
+            2236,
+            1597
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9183422545",
+        "Coordinate": [
+            1866,
+            1752,
+            2274,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9197062444",
+        "Coordinate": [
+            892,
+            1748,
+            1343,
+            1834
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Bengali, Hindi",
+        "Coordinate": [
+            869,
+            1888,
+            1992,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charita Chakraborty - 7546686946",
+        "Coordinate": [
+            922,
+            1999,
+            2181,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jason Dey - 9910362743",
+        "Coordinate": [
+            943,
+            2123,
+            1947,
+            2223
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "402000000000.0",
+        "Coordinate": [
+            603,
+            2336,
+            1128,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            602,
+            2431,
+            824,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/25/2023",
+        "Coordinate": [
+            611,
+            2525,
+            1021,
+            2613
+        ]
+    }
+]

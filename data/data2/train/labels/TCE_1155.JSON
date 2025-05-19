@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yochana Kunda",
+        "Coordinate": [
+            909,
+            457,
+            1421,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fiyaz Kunda",
+        "Coordinate": [
+            902,
+            560,
+            1341,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/23/1981",
+        "Coordinate": [
+            911,
+            654,
+            1287,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            757,
+            1272,
+            856
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            859,
+            1275,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            921,
+            942,
+            1114,
+            1035
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1736,
+            838,
+            1984,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            950,
+            2053,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Pal-Madan",
+        "Coordinate": [
+            972,
+            1026,
+            1922,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Karnik Group",
+        "Coordinate": [
+            997,
+            1156,
+            1943,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "497, Mukhopadhyay Street, Saharsa-225350",
+        "Coordinate": [
+            889,
+            1292,
+            2025,
+            1490
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74, Amble Marg, Berhampur-713705",
+        "Coordinate": [
+            914,
+            1553,
+            2246,
+            1719
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9128129963",
+        "Coordinate": [
+            896,
+            1782,
+            1363,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9690749082",
+        "Coordinate": [
+            1807,
+            1761,
+            2294,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            901,
+            1921,
+            1504,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vritti Nayak - 8535314581",
+        "Coordinate": [
+            960,
+            2001,
+            2030,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nicholas Gopal - 8934078345",
+        "Coordinate": [
+            980,
+            2117,
+            2141,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            615,
+            2400,
+            942,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/14/2024",
+        "Coordinate": [
+            618,
+            2509,
+            1089,
+            2650
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mohammed Sundaram",
+        "Coordinate": [
+            932,
+            507,
+            1675,
+            625
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Sundaram",
+        "Coordinate": [
+            940,
+            635,
+            1537,
+            732
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/2/1968",
+        "Coordinate": [
+            960,
+            680,
+            1260,
+            810
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            927,
+            822,
+            1222,
+            910
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            910,
+            1225,
+            1027
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            899,
+            2045,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            957,
+            1027,
+            1052,
+            1102
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1882,
+            1025,
+            2127,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bedi  Kunda and Grewal",
+        "Coordinate": [
+            1025,
+            1107,
+            2182,
+            1237
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Vohra  Ram and Gour",
+        "Coordinate": [
+            1007,
+            1225,
+            2182,
+            1350
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "92/06, Rao Marg, Malda-235699",
+        "Coordinate": [
+            922,
+            1410,
+            2100,
+            1550
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "587, Varma Marg, Shimla-925604",
+        "Coordinate": [
+            930,
+            1610,
+            2065,
+            1757
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9341083032",
+        "Coordinate": [
+            927,
+            1867,
+            1370,
+            2020
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7470569748",
+        "Coordinate": [
+            1855,
+            1885,
+            2357,
+            2010
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Kannada",
+        "Coordinate": [
+            905,
+            2015,
+            1725,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yatin Kumar - 8780567852",
+        "Coordinate": [
+            987,
+            2130,
+            1942,
+            2252
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chandran Virk - 9259810411",
+        "Coordinate": [
+            992,
+            2260,
+            1985,
+            2400
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "880783000000",
+        "Coordinate": [
+            620,
+            2450,
+            1160,
+            2540
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            632,
+            2537,
+            917,
+            2627
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2023",
+        "Coordinate": [
+            632,
+            2642,
+            957,
+            2725
+        ]
+    }
+]

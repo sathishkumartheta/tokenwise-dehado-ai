@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedika Bahl",
+        "Coordinate": [
+            913,
+            495,
+            1341,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rehaan Bahl",
+        "Coordinate": [
+            917,
+            580,
+            1305,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/1/1978",
+        "Coordinate": [
+            925,
+            671,
+            1197,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            905,
+            774,
+            1159,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            873,
+            1170,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            859,
+            2069,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1861,
+            979,
+            2058,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            936,
+            974,
+            1112,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Brar  Jha and Khatri",
+        "Coordinate": [
+            976,
+            1066,
+            1965,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Tata-Virk",
+        "Coordinate": [
+            976,
+            1184,
+            1752,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 42, Nair Ganj, Machilipatnam-393939",
+        "Coordinate": [
+            945,
+            1292,
+            2268,
+            1390
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26, Divan Ganj, Udupi-929478",
+        "Coordinate": [
+            917,
+            1535,
+            1911,
+            1604
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9007143182",
+        "Coordinate": [
+            913,
+            1802,
+            1356,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8854157816",
+        "Coordinate": [
+            1843,
+            1784,
+            2231,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Telugu, Tamil",
+        "Coordinate": [
+            912,
+            1925,
+            1912,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arya Pant - 8165192926",
+        "Coordinate": [
+            942,
+            2053,
+            1749,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagvi Saini - 9897164554",
+        "Coordinate": [
+            936,
+            2190,
+            1822,
+            2265
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            630,
+            2425,
+            840,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/1/2025",
+        "Coordinate": [
+            633,
+            2528,
+            901,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasudha Nair",
+        "Coordinate": [
+            897,
+            428,
+            1658,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Nair",
+        "Coordinate": [
+            930,
+            528,
+            1777,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-08-1977",
+        "Coordinate": [
+            924,
+            631,
+            1391,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            923,
+            726,
+            1595,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            831,
+            1201,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1733,
+            809,
+            2093,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            930,
+            2195,
+            1019
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            934,
+            939,
+            1085,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Wagle-Mohan",
+        "Coordinate": [
+            996,
+            1030,
+            2188,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ahluwalia PLC",
+        "Coordinate": [
+            987,
+            1140,
+            2368,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 84, Keer Marg, Ramagundam 807376",
+        "Coordinate": [
+            897,
+            1261,
+            2405,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 97, Sethi Ganj, Pondicherry-425191",
+        "Coordinate": [
+            898,
+            1526,
+            2270,
+            1732
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9238689101",
+        "Coordinate": [
+            1847,
+            1800,
+            2329,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8515277900",
+        "Coordinate": [
+            908,
+            1799,
+            1376,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Kannada, Hindi",
+        "Coordinate": [
+            927,
+            1942,
+            2359,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jason Sampath - 9685085795",
+        "Coordinate": [
+            972,
+            2047,
+            2324,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanya Mohan - 8796052206",
+        "Coordinate": [
+            984,
+            2175,
+            2337,
+            2297
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "233000000000.0",
+        "Coordinate": [
+            591,
+            2383,
+            1211,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            612,
+            2473,
+            884,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/28/2025",
+        "Coordinate": [
+            616,
+            2570,
+            1061,
+            2663
+        ]
+    }
+]

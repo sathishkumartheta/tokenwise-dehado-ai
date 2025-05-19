@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemangini Prakash",
+        "Coordinate": [
+            916,
+            477,
+            1604,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abdul Prakash",
+        "Coordinate": [
+            906,
+            584,
+            1479,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/12/1967",
+        "Coordinate": [
+            927,
+            667,
+            1298,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            943,
+            771,
+            1271,
+            858
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            947,
+            866,
+            1226,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1783,
+            854,
+            2026,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            970,
+            957,
+            1117,
+            1031
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1873,
+            960,
+            2100,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Subramanian  Rajagopalan and Butala",
+        "Coordinate": [
+            996,
+            1040,
+            2260,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Hari and Sons",
+        "Coordinate": [
+            1030,
+            1154,
+            2018,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 80, Sharaf Circle, Burhanpur 051193",
+        "Coordinate": [
+            926,
+            1257,
+            2324,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "04/58, Rana Zila, Gaya-930420",
+        "Coordinate": [
+            916,
+            1507,
+            2111,
+            1615
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8327165762",
+        "Coordinate": [
+            913,
+            1774,
+            1348,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9989408089",
+        "Coordinate": [
+            1836,
+            1750,
+            2263,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Bengali, Hindi",
+        "Coordinate": [
+            923,
+            1894,
+            2087,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jasmit Bhat - 7534168510",
+        "Coordinate": [
+            1010,
+            2007,
+            2037,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathaniel Sridhar - 9434928969",
+        "Coordinate": [
+            1010,
+            2124,
+            2149,
+            2223
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            626,
+            2414,
+            900,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/1/2025",
+        "Coordinate": [
+            660,
+            2497,
+            1042,
+            2601
+        ]
+    }
+]

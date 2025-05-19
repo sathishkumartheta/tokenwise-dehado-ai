@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daniel Pingle",
+        "Coordinate": [
+            870,
+            440,
+            1392,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Pingle",
+        "Coordinate": [
+            885,
+            542,
+            1320,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/2/1996",
+        "Coordinate": [
+            877,
+            650,
+            1237,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            877,
+            750,
+            1335,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            847,
+            1162,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1810,
+            839,
+            2022,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            937,
+            2047,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            885,
+            952,
+            1035,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dave-Khatri",
+        "Coordinate": [
+            965,
+            1035,
+            1782,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Bhasin  Hegde and Talwar",
+        "Coordinate": [
+            955,
+            1145,
+            2025,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58/602, Mitra Marg, Bhagalpur 245884",
+        "Coordinate": [
+            885,
+            1285,
+            2040,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14, Taneja Chowk, Indore-571178",
+        "Coordinate": [
+            869,
+            1535,
+            2220,
+            1655
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8397872474",
+        "Coordinate": [
+            875,
+            1797,
+            1357,
+            1935
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7163770658",
+        "Coordinate": [
+            1860,
+            1812,
+            2320,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Telugu, Tamil",
+        "Coordinate": [
+            890,
+            1955,
+            2055,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damyanti Mallick - 7029183763",
+        "Coordinate": [
+            940,
+            2062,
+            2160,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darpan Dugal - 8860477043",
+        "Coordinate": [
+            980,
+            2195,
+            2115,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "935256000000",
+        "Coordinate": [
+            580,
+            2390,
+            1147,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            582,
+            2482,
+            945,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/11/2022",
+        "Coordinate": [
+            597,
+            2572,
+            1085,
+            2685
+        ]
+    }
+]

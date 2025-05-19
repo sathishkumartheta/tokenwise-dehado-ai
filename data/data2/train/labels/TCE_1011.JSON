@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jatin Buch",
+        "Coordinate": [
+            888,
+            472,
+            1354,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azaan Buch",
+        "Coordinate": [
+            898,
+            590,
+            1426,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/18/1990",
+        "Coordinate": [
+            906,
+            686,
+            1290,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            912,
+            762,
+            1180,
+            859
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            932,
+            878,
+            1108,
+            989
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            850,
+            1896,
+            949
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1786,
+            960,
+            2012,
+            1051
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            918,
+            980,
+            1064,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Karnik-Thakur",
+        "Coordinate": [
+            977,
+            1068,
+            1973,
+            1195
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Brar-Majumdar",
+        "Coordinate": [
+            976,
+            1204,
+            2016,
+            1301
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "642, Kant, Gandhinagar 614383",
+        "Coordinate": [
+            916,
+            1334,
+            2108,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42, Munshi Circle, Faridabad 847438",
+        "Coordinate": [
+            918,
+            1572,
+            2276,
+            1693
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7487739818",
+        "Coordinate": [
+            924,
+            1818,
+            1348,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8942842186",
+        "Coordinate": [
+            1834,
+            1798,
+            2266,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Malayalam",
+        "Coordinate": [
+            924,
+            1930,
+            1932,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vrinda Nayar - 8041711248",
+        "Coordinate": [
+            978,
+            2058,
+            2056,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashoda Sule - 9569081740",
+        "Coordinate": [
+            984,
+            2176,
+            2112,
+            2277
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            625,
+            2448,
+            827,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/20/2024",
+        "Coordinate": [
+            627,
+            2554,
+            1032,
+            2619
+        ]
+    }
+]

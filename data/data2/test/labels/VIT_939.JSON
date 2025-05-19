@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashasvi Dutta",
+        "Coordinate": [
+            892,
+            437,
+            1462,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mohammed Dutta",
+        "Coordinate": [
+            897,
+            550,
+            1482,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/18/1968",
+        "Coordinate": [
+            910,
+            655,
+            1245,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            897,
+            742,
+            1212,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            845,
+            1227,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1825,
+            837,
+            2032,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            950,
+            2130,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            982,
+            942,
+            1090,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pingle  Sama and Patel",
+        "Coordinate": [
+            992,
+            1035,
+            2072,
+            1117
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at De  Kamdar and Narayan",
+        "Coordinate": [
+            995,
+            1167,
+            2082,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44/503, Rastogi, Hajipur 466908",
+        "Coordinate": [
+            955,
+            1307,
+            2040,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 98, Bassi Marg, Mahbubnagar 532831",
+        "Coordinate": [
+            877,
+            1570,
+            2345,
+            1685
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7158637864",
+        "Coordinate": [
+            897,
+            1815,
+            1270,
+            1892
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9292956097",
+        "Coordinate": [
+            1852,
+            1807,
+            2242,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Telugu",
+        "Coordinate": [
+            890,
+            1949,
+            1722,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saksham Bains - 7046332692",
+        "Coordinate": [
+            970,
+            2050,
+            1837,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anay Shukla - 7933418317",
+        "Coordinate": [
+            942,
+            2175,
+            1805,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "325529000000",
+        "Coordinate": [
+            580,
+            2397,
+            1067,
+            2465
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            580,
+            2490,
+            807,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/2/2025",
+        "Coordinate": [
+            590,
+            2560,
+            1007,
+            2650
+        ]
+    }
+]

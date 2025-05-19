@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chatresh Amble",
+        "Coordinate": [
+            910,
+            463,
+            1654,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Indrajit Amble",
+        "Coordinate": [
+            913,
+            559,
+            1623,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/23/2000",
+        "Coordinate": [
+            906,
+            658,
+            1383,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            911,
+            750,
+            1401,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            927,
+            842,
+            1224,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1726,
+            853,
+            1984,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            961,
+            939,
+            1243,
+            1034
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            945,
+            2110,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Boase Inc",
+        "Coordinate": [
+            1018,
+            1034,
+            2016,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mistry  Arora and Swamy",
+        "Coordinate": [
+            1002,
+            1148,
+            2195,
+            1280
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/62, Saha Zila, Nizamabad 430534",
+        "Coordinate": [
+            915,
+            1272,
+            1989,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 50, Divan Circle, Begusarai 888161",
+        "Coordinate": [
+            926,
+            1506,
+            2131,
+            1749
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8006511583",
+        "Coordinate": [
+            913,
+            1789,
+            1370,
+            1892
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9203243985",
+        "Coordinate": [
+            1847,
+            1772,
+            2298,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Gujarati",
+        "Coordinate": [
+            921,
+            1913,
+            2066,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanvi Chada - 7798690142",
+        "Coordinate": [
+            960,
+            2004,
+            2213,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yutika Wason - 8921151814",
+        "Coordinate": [
+            1014,
+            2129,
+            2255,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            631,
+            2418,
+            1022,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/15/2023",
+        "Coordinate": [
+            637,
+            2506,
+            1100,
+            2603
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatin Venkataraman",
+        "Coordinate": [
+            901,
+            399,
+            1464,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tarak Venkataraman",
+        "Coordinate": [
+            914,
+            499,
+            1495,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-02-1966",
+        "Coordinate": [
+            903,
+            597,
+            1205,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            917,
+            699,
+            1216,
+            787
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            803,
+            1186,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1796,
+            794,
+            1975,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1888,
+            897,
+            2084,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            930,
+            901,
+            1034,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bedi  Kothari and Choudhry",
+        "Coordinate": [
+            970,
+            988,
+            2162,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Contractor Inc",
+        "Coordinate": [
+            993,
+            1110,
+            1836,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "181, Kara Road, Katni 134732",
+        "Coordinate": [
+            917,
+            1285,
+            1854,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49/401, Thakur Street, Farrukhabad-251225",
+        "Coordinate": [
+            896,
+            1490,
+            2250,
+            1630
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7650423119",
+        "Coordinate": [
+            1848,
+            1749,
+            2205,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9922233836",
+        "Coordinate": [
+            881,
+            1749,
+            1270,
+            1828
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, English, Hindi",
+        "Coordinate": [
+            878,
+            1893,
+            1736,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lucky Arya - 7910033927",
+        "Coordinate": [
+            940,
+            2001,
+            1692,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Priya Natt - 8400773844",
+        "Coordinate": [
+            953,
+            2127,
+            1717,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "800000000000.0",
+        "Coordinate": [
+            583,
+            2333,
+            996,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            583,
+            2429,
+            839,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-07-2023",
+        "Coordinate": [
+            587,
+            2518,
+            960,
+            2603
+        ]
+    }
+]

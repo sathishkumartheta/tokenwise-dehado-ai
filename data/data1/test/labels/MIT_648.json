@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Karan Kannan",
+        "Coordinate": [
+            894,
+            438,
+            1461,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarav Kannan",
+        "Coordinate": [
+            908,
+            540,
+            1484,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/29/2002",
+        "Coordinate": [
+            945,
+            642,
+            1371,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            949,
+            738,
+            1368,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            956,
+            840,
+            1214,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1790,
+            832,
+            1969,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            943,
+            2113,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1008,
+            950,
+            1145,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Aurora Group",
+        "Coordinate": [
+            966,
+            1048,
+            1953,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mall LLC",
+        "Coordinate": [
+            983,
+            1162,
+            1779,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "96/45, Muni Chowk, Kurnool 199711",
+        "Coordinate": [
+            893,
+            1289,
+            2269,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "349, Gala Chowk, Tadepalligudem 010034",
+        "Coordinate": [
+            913,
+            1536,
+            2234,
+            1727
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8844521148",
+        "Coordinate": [
+            1897,
+            1804,
+            2277,
+            1927
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9966580503",
+        "Coordinate": [
+            892,
+            1804,
+            1330,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            934,
+            1949,
+            1663,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaitaly Mitra - 8035529905",
+        "Coordinate": [
+            969,
+            2056,
+            2142,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janya Parekh - 9776400884",
+        "Coordinate": [
+            967,
+            2187,
+            2057,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "878000000000.0",
+        "Coordinate": [
+            613,
+            2401,
+            1252,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            634,
+            2486,
+            1089,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/24/2022",
+        "Coordinate": [
+            633,
+            2582,
+            1071,
+            2678
+        ]
+    }
+]

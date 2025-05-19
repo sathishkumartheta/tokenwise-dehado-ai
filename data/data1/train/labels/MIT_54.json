@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upadhriti Gandhi",
+        "Coordinate": [
+            915,
+            401,
+            1488,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Gandhi",
+        "Coordinate": [
+            922,
+            506,
+            1398,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/20/1973",
+        "Coordinate": [
+            940,
+            603,
+            1270,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            942,
+            698,
+            1360,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            803,
+            1179,
+            891
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1869,
+            795,
+            2082,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1921,
+            902,
+            2139,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            956,
+            911,
+            1055,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhargava PLC",
+        "Coordinate": [
+            997,
+            993,
+            1874,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Walia-Mand",
+        "Coordinate": [
+            980,
+            1110,
+            1820,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44/948, Deshmukh Zila, Allahabad-223253",
+        "Coordinate": [
+            925,
+            1229,
+            2302,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "946, Seth Marg, Tiruchirappalli-845775",
+        "Coordinate": [
+            906,
+            1489,
+            2132,
+            1639
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9431863366",
+        "Coordinate": [
+            1928,
+            1759,
+            2291,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8018643744",
+        "Coordinate": [
+            921,
+            1763,
+            1299,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Malayalam, Bengali",
+        "Coordinate": [
+            928,
+            1898,
+            2168,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girik Shanker - 8135937638",
+        "Coordinate": [
+            969,
+            2007,
+            2081,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dev Warrior - 8142761070",
+        "Coordinate": [
+            994,
+            2134,
+            2036,
+            2245
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "292000000000.0",
+        "Coordinate": [
+            636,
+            2338,
+            1066,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            628,
+            2430,
+            1247,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/25/2024",
+        "Coordinate": [
+            639,
+            2522,
+            1030,
+            2608
+        ]
+    }
+]

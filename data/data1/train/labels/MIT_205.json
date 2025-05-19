@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sanya Sethi",
+        "Coordinate": [
+            916,
+            395,
+            1385,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harrison Sethi",
+        "Coordinate": [
+            907,
+            493,
+            1507,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/23/1986",
+        "Coordinate": [
+            919,
+            596,
+            1355,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            923,
+            694,
+            1300,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            914,
+            794,
+            1155,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1809,
+            790,
+            2064,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            899,
+            2107,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            924,
+            897,
+            1042,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Biswas LLC",
+        "Coordinate": [
+            977,
+            988,
+            1893,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Gala-Mohanty",
+        "Coordinate": [
+            967,
+            1107,
+            2061,
+            1223
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11, Babu Ganj, Gaya 078754",
+        "Coordinate": [
+            902,
+            1257,
+            2159,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 63, Ranganathan Street, Danapur 074510",
+        "Coordinate": [
+            901,
+            1501,
+            2194,
+            1722
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9796007203",
+        "Coordinate": [
+            1707,
+            1784,
+            2205,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7416738091",
+        "Coordinate": [
+            898,
+            1760,
+            1352,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu",
+        "Coordinate": [
+            913,
+            1891,
+            1618,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pahal Hari - 8884487847",
+        "Coordinate": [
+            976,
+            2005,
+            2029,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ranbir Rau - 7378800559",
+        "Coordinate": [
+            980,
+            2135,
+            2074,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "749000000000.0",
+        "Coordinate": [
+            609,
+            2329,
+            1138,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            615,
+            2420,
+            919,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-05-2024",
+        "Coordinate": [
+            608,
+            2514,
+            1026,
+            2602
+        ]
+    }
+]

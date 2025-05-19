@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Chauhan",
+        "Coordinate": [
+            920,
+            455,
+            1781,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Chauhan",
+        "Coordinate": [
+            917,
+            554,
+            1512,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/29/1999",
+        "Coordinate": [
+            940,
+            660,
+            1259,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            890,
+            754,
+            1219,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            927,
+            847,
+            1120,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            840,
+            2029,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            947,
+            2061,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            960,
+            947,
+            1123,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mallick  Arora and Kala",
+        "Coordinate": [
+            1000,
+            1044,
+            2192,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Mitra and Sons",
+        "Coordinate": [
+            1013,
+            1147,
+            2069,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45, Deshpande Ganj, Baranagar-146100",
+        "Coordinate": [
+            909,
+            1304,
+            2296,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 90, Natt Nagar, Tadipatri 651469",
+        "Coordinate": [
+            916,
+            1514,
+            2290,
+            1636
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9984323072",
+        "Coordinate": [
+            893,
+            1767,
+            1306,
+            1841
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8123484114",
+        "Coordinate": [
+            1826,
+            1764,
+            2229,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Kannada, Bengali",
+        "Coordinate": [
+            920,
+            1907,
+            2104,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekantika Chada - 7611700591",
+        "Coordinate": [
+            983,
+            2007,
+            1962,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vasana Sachar - 7296921901",
+        "Coordinate": [
+            986,
+            2127,
+            1927,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            630,
+            2414,
+            883,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2022",
+        "Coordinate": [
+            643,
+            2510,
+            1032,
+            2595
+        ]
+    }
+]

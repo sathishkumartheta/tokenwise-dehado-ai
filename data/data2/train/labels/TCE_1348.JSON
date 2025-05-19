@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kala Savant",
+        "Coordinate": [
+            906,
+            484,
+            1320,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tejas Savant",
+        "Coordinate": [
+            920,
+            572,
+            1352,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/28/1986",
+        "Coordinate": [
+            916,
+            668,
+            1236,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            910,
+            752,
+            1240,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            870,
+            1190,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            934,
+            954,
+            1022,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Parmer-Solanki",
+        "Coordinate": [
+            1004,
+            1034,
+            1878,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Nayar LLC",
+        "Coordinate": [
+            1018,
+            1154,
+            1744,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03/41, Sahota Ganj, Madurai-673727",
+        "Coordinate": [
+            917,
+            1288,
+            2114,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06/35, Kanda, Sangli-Miraj & Kupwad-510099",
+        "Coordinate": [
+            912,
+            1514,
+            2266,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8795798168",
+        "Coordinate": [
+            884,
+            1766,
+            1298,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8446306189",
+        "Coordinate": [
+            1848,
+            1770,
+            2226,
+            1843
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Hindi, Malayalam",
+        "Coordinate": [
+            928,
+            1914,
+            1958,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Owen Vyas - 9669891721",
+        "Coordinate": [
+            974,
+            2010,
+            1722,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anjali Virk - 8385490760",
+        "Coordinate": [
+            980,
+            2134,
+            1786,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            638,
+            2424,
+            956,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/26/2024",
+        "Coordinate": [
+            654,
+            2510,
+            1006,
+            2583
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanish Saran",
+        "Coordinate": [
+            882,
+            432,
+            1341,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Saran",
+        "Coordinate": [
+            895,
+            533,
+            1404,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-04-1967",
+        "Coordinate": [
+            903,
+            634,
+            1262,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            904,
+            729,
+            1191,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            835,
+            1174,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1852,
+            830,
+            2034,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            937,
+            2116,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            915,
+            937,
+            1033,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Borde LLC",
+        "Coordinate": [
+            966,
+            1040,
+            1801,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Kant Inc",
+        "Coordinate": [
+            963,
+            1142,
+            1783,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 980, Tata Path, Guwahati-559062",
+        "Coordinate": [
+            890,
+            1271,
+            2310,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "02/59, Doshi Zila, Shimoga-372162",
+        "Coordinate": [
+            888,
+            1510,
+            2265,
+            1642
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7949957978",
+        "Coordinate": [
+            1879,
+            1799,
+            2369,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9958936166",
+        "Coordinate": [
+            899,
+            1797,
+            1371,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            887,
+            1943,
+            1394,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Megha Bajaj - 9967679772",
+        "Coordinate": [
+            949,
+            2040,
+            1994,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhav Gupta - 9441773936",
+        "Coordinate": [
+            961,
+            2178,
+            2082,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "981000000000.0",
+        "Coordinate": [
+            584,
+            2382,
+            1182,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            599,
+            2477,
+            830,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2024",
+        "Coordinate": [
+            592,
+            2569,
+            1055,
+            2657
+        ]
+    }
+]

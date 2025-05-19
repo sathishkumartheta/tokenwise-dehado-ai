@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vivaan Ramaswamy",
+        "Coordinate": [
+            955,
+            412,
+            1630,
+            510
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhiram Ramaswamy",
+        "Coordinate": [
+            953,
+            514,
+            1659,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/28/1992",
+        "Coordinate": [
+            1006,
+            617,
+            1414,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1023,
+            709,
+            1341,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            984,
+            815,
+            1224,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1854,
+            811,
+            2026,
+            904
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1888,
+            917,
+            2131,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            956,
+            922,
+            1114,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bumb-Garg",
+        "Coordinate": [
+            1027,
+            1009,
+            1815,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bhandari Inc",
+        "Coordinate": [
+            1018,
+            1129,
+            1919,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "22, Mukhopadhyay Marg, Vasai-Virar 245940",
+        "Coordinate": [
+            922,
+            1252,
+            2284,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 65, Nayar Ganj, Bally 779507",
+        "Coordinate": [
+            922,
+            1496,
+            2228,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9385898909",
+        "Coordinate": [
+            1865,
+            1782,
+            2271,
+            1876
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7037998883",
+        "Coordinate": [
+            903,
+            1782,
+            1314,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Kannada",
+        "Coordinate": [
+            903,
+            1929,
+            1785,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janani Naidu - 8044564321",
+        "Coordinate": [
+            1005,
+            2026,
+            1958,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udant Sunder - 7685131296",
+        "Coordinate": [
+            1015,
+            2150,
+            2005,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "215000000000.0",
+        "Coordinate": [
+            612,
+            2371,
+            1105,
+            2460
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            636,
+            2463,
+            963,
+            2546
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-11-2022",
+        "Coordinate": [
+            635,
+            2550,
+            1075,
+            2643
+        ]
+    }
+]

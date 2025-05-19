@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avni Mohanty",
+        "Coordinate": [
+            943,
+            438,
+            1364,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Mohanty",
+        "Coordinate": [
+            944,
+            537,
+            1444,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/27/1985",
+        "Coordinate": [
+            947,
+            638,
+            1269,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            946,
+            737,
+            1236,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            956,
+            839,
+            1206,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1797,
+            823,
+            2029,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            927,
+            2091,
+            1009
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            959,
+            943,
+            1094,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Dua  Choudhry and Dora",
+        "Coordinate": [
+            1018,
+            1027,
+            1908,
+            1111
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Nayar Ltd",
+        "Coordinate": [
+            1011,
+            1139,
+            1748,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52/54, Gera, Silchar-411197",
+        "Coordinate": [
+            946,
+            1259,
+            1865,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "27/30, Kaur Marg, Kamarhati-948821",
+        "Coordinate": [
+            946,
+            1505,
+            2119,
+            1613
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8853194599",
+        "Coordinate": [
+            1909,
+            1779,
+            2268,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7189754613",
+        "Coordinate": [
+            953,
+            1793,
+            1302,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            956,
+            1933,
+            1558,
+            2022
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oni Yadav - 7762556370",
+        "Coordinate": [
+            1010,
+            2035,
+            1718,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nidhi Ravel - 8212063487",
+        "Coordinate": [
+            1017,
+            2159,
+            1784,
+            2247
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "270000000000.0",
+        "Coordinate": [
+            664,
+            2377,
+            1130,
+            2453
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            664,
+            2478,
+            888,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-09-2023",
+        "Coordinate": [
+            665,
+            2565,
+            979,
+            2649
+        ]
+    }
+]

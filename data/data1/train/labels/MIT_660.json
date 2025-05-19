@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Irya Grewal",
+        "Coordinate": [
+            885,
+            439,
+            1352,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Grewal",
+        "Coordinate": [
+            906,
+            537,
+            1379,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/15/1990",
+        "Coordinate": [
+            909,
+            640,
+            1260,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            896,
+            738,
+            1254,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            840,
+            1163,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1801,
+            829,
+            2049,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            943,
+            2102,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            911,
+            956,
+            1081,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Prabhu  Sarin and Ahluwalia",
+        "Coordinate": [
+            985,
+            1044,
+            2391,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Oommen  Dubey and Sampath",
+        "Coordinate": [
+            963,
+            1151,
+            2378,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52/302, Ratti, Thiruvananthapuram 092356",
+        "Coordinate": [
+            905,
+            1288,
+            2237,
+            1521
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 307, Dalal, Panipat 273201",
+        "Coordinate": [
+            892,
+            1533,
+            2148,
+            1676
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8680312869",
+        "Coordinate": [
+            1868,
+            1805,
+            2279,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8995624235",
+        "Coordinate": [
+            904,
+            1809,
+            1366,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Telugu, English",
+        "Coordinate": [
+            882,
+            1946,
+            2077,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishanvi Kale - 8107465019",
+        "Coordinate": [
+            991,
+            2048,
+            1979,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Eta Agrawal - 7688845069",
+        "Coordinate": [
+            1011,
+            2188,
+            2056,
+            2311
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GDGLJ4876V",
+        "Coordinate": [
+            1642,
+            2392,
+            2177,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            606,
+            2486,
+            817,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/14/2025",
+        "Coordinate": [
+            611,
+            2583,
+            1009,
+            2670
+        ]
+    }
+]

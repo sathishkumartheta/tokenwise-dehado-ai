@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Laban Vasa",
+        "Coordinate": [
+            910,
+            474,
+            1373,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manan Vasa",
+        "Coordinate": [
+            913,
+            584,
+            1370,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1970",
+        "Coordinate": [
+            913,
+            670,
+            1327,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            920,
+            764,
+            1069,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            871,
+            1199,
+            941
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            956,
+            967,
+            1100,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1810,
+            854,
+            1989,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1863,
+            960,
+            2106,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Edwin-Luthra",
+        "Coordinate": [
+            1060,
+            1061,
+            2082,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Shetty-Dar",
+        "Coordinate": [
+            1056,
+            1154,
+            2052,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47, Bakshi Ganj, Nagercoil-589832",
+        "Coordinate": [
+            930,
+            1304,
+            2202,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 95, Keer Zila, Kamarhati 695432",
+        "Coordinate": [
+            930,
+            1530,
+            2311,
+            1631
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9884769361",
+        "Coordinate": [
+            917,
+            1787,
+            1338,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9232305035",
+        "Coordinate": [
+            1847,
+            1757,
+            2274,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Gujarati, Hindi",
+        "Coordinate": [
+            930,
+            1904,
+            2005,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qadim Majumdar - 9669249977",
+        "Coordinate": [
+            1016,
+            2004,
+            2127,
+            2092
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Theodore Panchal - 9460176930",
+        "Coordinate": [
+            983,
+            2134,
+            2116,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            643,
+            2417,
+            962,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/24/2024",
+        "Coordinate": [
+            633,
+            2511,
+            1047,
+            2604
+        ]
+    }
+]

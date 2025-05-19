@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hiral Warrior",
+        "Coordinate": [
+            926,
+            472,
+            1422,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chaitanya Warrior",
+        "Coordinate": [
+            920,
+            564,
+            1594,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/1963",
+        "Coordinate": [
+            948,
+            678,
+            1280,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            930,
+            756,
+            1464,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            860,
+            1256,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1832,
+            836,
+            2092,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1894,
+            944,
+            2162,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            976,
+            955,
+            1106,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Raval-Sarraf",
+        "Coordinate": [
+            1026,
+            1050,
+            2330,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sawhney-Yohannan",
+        "Coordinate": [
+            1054,
+            1142,
+            1972,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39/718, Bath Zila, Gangtok-468993",
+        "Coordinate": [
+            922,
+            1264,
+            2316,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 37, Basak Road, Sangli-Miraj & Kupwad-261033",
+        "Coordinate": [
+            937,
+            1500,
+            2152,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7162618548",
+        "Coordinate": [
+            938,
+            1790,
+            1308,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9613673331",
+        "Coordinate": [
+            1892,
+            1770,
+            2270,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Malayalam",
+        "Coordinate": [
+            934,
+            1900,
+            2008,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ati Sodhi - 9345968213",
+        "Coordinate": [
+            1018,
+            2010,
+            2058,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raghav Ramachandran - 7700065793",
+        "Coordinate": [
+            1012,
+            2144,
+            2304,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            686,
+            2428,
+            1008,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/21/2023",
+        "Coordinate": [
+            672,
+            2512,
+            1054,
+            2589
+        ]
+    }
+]

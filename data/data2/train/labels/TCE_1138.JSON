@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Raghav Sathe",
+        "Coordinate": [
+            891,
+            471,
+            1404,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Xavier Sathe",
+        "Coordinate": [
+            905,
+            572,
+            1390,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/20/1994",
+        "Coordinate": [
+            899,
+            642,
+            1341,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            918,
+            764,
+            1305,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            917,
+            848,
+            1204,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            931,
+            958,
+            1093,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1736,
+            849,
+            1922,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1766,
+            949,
+            2002,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Apte Group",
+        "Coordinate": [
+            992,
+            1046,
+            1846,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Buch-Ray",
+        "Coordinate": [
+            990,
+            1149,
+            1830,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62, Subramanian Marg, Ahmedabad-737229",
+        "Coordinate": [
+            912,
+            1261,
+            2281,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48, Kalla Nagar, Coimbatore 544029",
+        "Coordinate": [
+            894,
+            1511,
+            2183,
+            1652
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7205684376",
+        "Coordinate": [
+            913,
+            1776,
+            1353,
+            1896
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8084589195",
+        "Coordinate": [
+            1797,
+            1782,
+            2222,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Marathi",
+        "Coordinate": [
+            893,
+            1920,
+            1989,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janaki Raja - 9724224414",
+        "Coordinate": [
+            950,
+            2021,
+            2012,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anirudh Nair - 9145598549",
+        "Coordinate": [
+            963,
+            2133,
+            2010,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            607,
+            2411,
+            899,
+            2496
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/16/2022",
+        "Coordinate": [
+            620,
+            2509,
+            1096,
+            2587
+        ]
+    }
+]

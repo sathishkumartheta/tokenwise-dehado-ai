@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Cheema",
+        "Coordinate": [
+            887,
+            458,
+            1353,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manbir Cheema",
+        "Coordinate": [
+            902,
+            570,
+            1431,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/19/1987",
+        "Coordinate": [
+            915,
+            648,
+            1283,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            920,
+            762,
+            1245,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            847,
+            1193,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            855,
+            2033,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            953,
+            2063,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            925,
+            965,
+            1027,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at D\u2019Alia Ltd",
+        "Coordinate": [
+            967,
+            1057,
+            1789,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Pall LLC",
+        "Coordinate": [
+            967,
+            1162,
+            1667,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "875, Chatterjee Chowk, Bidhannagar 140105",
+        "Coordinate": [
+            907,
+            1330,
+            2219,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "38/282, Sandhu Path, Ahmednagar 226609",
+        "Coordinate": [
+            877,
+            1545,
+            2067,
+            1650
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9769629869",
+        "Coordinate": [
+            917,
+            1813,
+            1283,
+            1920
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7846459060",
+        "Coordinate": [
+            1840,
+            1817,
+            2249,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati",
+        "Coordinate": [
+            907,
+            1952,
+            1449,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Shivani Sanghvi - 8792389785",
+        "Coordinate": [
+            935,
+            2053,
+            1861,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aayush Kala - 7909218986",
+        "Coordinate": [
+            977,
+            2183,
+            1833,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "223807000000",
+        "Coordinate": [
+            587,
+            2390,
+            1027,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            602,
+            2488,
+            911,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/15/2023",
+        "Coordinate": [
+            627,
+            2588,
+            959,
+            2676
+        ]
+    }
+]

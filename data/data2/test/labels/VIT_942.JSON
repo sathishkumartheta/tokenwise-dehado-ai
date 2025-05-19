@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshmi Chadha",
+        "Coordinate": [
+            880,
+            444,
+            1498,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Chadha",
+        "Coordinate": [
+            874,
+            552,
+            1534,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/8/1980",
+        "Coordinate": [
+            880,
+            650,
+            1218,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            864,
+            732,
+            1172,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            880,
+            845,
+            1194,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            880,
+            952,
+            1000,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bhasin Inc",
+        "Coordinate": [
+            956,
+            1032,
+            1848,
+            1118
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1782,
+            816,
+            2088,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            936,
+            2118,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dubey  Narang and Sachar",
+        "Coordinate": [
+            962,
+            1142,
+            2340,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/78, Som Ganj, Nangloi Jat-540234",
+        "Coordinate": [
+            880,
+            1282,
+            2242,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 51, Seth Ganj, Chennai-826565",
+        "Coordinate": [
+            880,
+            1552,
+            2164,
+            1684
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7033267207",
+        "Coordinate": [
+            1838,
+            1804,
+            2274,
+            1884
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8963589339",
+        "Coordinate": [
+            878,
+            1818,
+            1294,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Tamil",
+        "Coordinate": [
+            884,
+            1945,
+            1590,
+            2035
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Udant Puri - 9195641245",
+        "Coordinate": [
+            966,
+            2046,
+            1688,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Rama - 8924581856",
+        "Coordinate": [
+            950,
+            2188,
+            1914,
+            2276
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            572,
+            2482,
+            832,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/30/2024",
+        "Coordinate": [
+            572,
+            2578,
+            932,
+            2674
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TZRNP6236R",
+        "Coordinate": [
+            1630,
+            2382,
+            2130,
+            2482
+        ]
+    }
+]

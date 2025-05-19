@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anamika Arora",
+        "Coordinate": [
+            922,
+            472,
+            1440,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jackson Arora",
+        "Coordinate": [
+            910,
+            563,
+            1442,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/25/1992",
+        "Coordinate": [
+            910,
+            665,
+            1252,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            905,
+            767,
+            1138,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            867,
+            1169,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1717,
+            850,
+            1968,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            900,
+            952,
+            1119,
+            1050
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            952,
+            2083,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chawla  Swaminathan and Cherian",
+        "Coordinate": [
+            1000,
+            1045,
+            2293,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bawa-Raghavan",
+        "Coordinate": [
+            1002,
+            1158,
+            1931,
+            1295
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 60, Uppal Circle, Ramgarh 085151",
+        "Coordinate": [
+            907,
+            1282,
+            2287,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "86/600, Shan, Gangtok-117159",
+        "Coordinate": [
+            897,
+            1526,
+            2059,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7976595833",
+        "Coordinate": [
+            910,
+            1795,
+            1308,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9129929425",
+        "Coordinate": [
+            1823,
+            1791,
+            2252,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English",
+        "Coordinate": [
+            912,
+            1904,
+            1576,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Ravi - 7661953670",
+        "Coordinate": [
+            968,
+            2013,
+            1906,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Xiti Suresh - 8128907236",
+        "Coordinate": [
+            959,
+            2133,
+            1908,
+            2252
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            600,
+            2415,
+            957,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/4/2022",
+        "Coordinate": [
+            626,
+            2515,
+            1062,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charles Bedi",
+        "Coordinate": [
+            882,
+            422,
+            1327,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Bedi",
+        "Coordinate": [
+            883,
+            525,
+            1320,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-07-1990",
+        "Coordinate": [
+            906,
+            630,
+            1239,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            906,
+            731,
+            1167,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            838,
+            1220,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1728,
+            846,
+            1907,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            935,
+            2060,
+            1019
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            939,
+            936,
+            1050,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Cherian PLC",
+        "Coordinate": [
+            969,
+            1025,
+            1849,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chaudry  Barman and Tripathi",
+        "Coordinate": [
+            967,
+            1137,
+            2247,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "13/524, Toor Chowk, Navi Mumbai 552137",
+        "Coordinate": [
+            923,
+            1252,
+            2302,
+            1383
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "754, Garg Circle, Shimoga-653286",
+        "Coordinate": [
+            874,
+            1508,
+            1991,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8887703271",
+        "Coordinate": [
+            1856,
+            1796,
+            2318,
+            1897
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8519070916",
+        "Coordinate": [
+            889,
+            1791,
+            1298,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Bengali, Telugu",
+        "Coordinate": [
+            875,
+            1928,
+            2328,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshit Sanghvi - 9275269818",
+        "Coordinate": [
+            927,
+            2037,
+            1832,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nimrat Shanker - 8716620501",
+        "Coordinate": [
+            960,
+            2171,
+            1820,
+            2280
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PQIVB6348G",
+        "Coordinate": [
+            1629,
+            2374,
+            2023,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            573,
+            2466,
+            912,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-12-2024",
+        "Coordinate": [
+            595,
+            2564,
+            943,
+            2672
+        ]
+    }
+]

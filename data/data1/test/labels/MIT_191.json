@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ucchal Kibe",
+        "Coordinate": [
+            880,
+            398,
+            1290,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Henry Kibe",
+        "Coordinate": [
+            897,
+            503,
+            1299,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-10-1974",
+        "Coordinate": [
+            910,
+            598,
+            1260,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            911,
+            699,
+            1242,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            806,
+            1205,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1918,
+            792,
+            2153,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1933,
+            898,
+            2185,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            953,
+            901,
+            1080,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Devi Inc",
+        "Coordinate": [
+            963,
+            984,
+            1685,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dhar  Purohit and Bal",
+        "Coordinate": [
+            940,
+            1102,
+            2185,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 191, Dugar Chowk, Siliguri-213109",
+        "Coordinate": [
+            893,
+            1220,
+            2295,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "728, Singhal Road, Naihati-041200",
+        "Coordinate": [
+            892,
+            1466,
+            2206,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7207964800",
+        "Coordinate": [
+            1862,
+            1749,
+            2293,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7750433367",
+        "Coordinate": [
+            899,
+            1763,
+            1358,
+            1881
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Bengali, Kannada",
+        "Coordinate": [
+            851,
+            1892,
+            2121,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yahvi Dyal - 8211320840",
+        "Coordinate": [
+            950,
+            2006,
+            1885,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Sampath - 8273322118",
+        "Coordinate": [
+            945,
+            2134,
+            2086,
+            2255
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "946000000000.0",
+        "Coordinate": [
+            584,
+            2337,
+            1110,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            618,
+            2426,
+            879,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/30/2023",
+        "Coordinate": [
+            609,
+            2523,
+            1024,
+            2616
+        ]
+    }
+]

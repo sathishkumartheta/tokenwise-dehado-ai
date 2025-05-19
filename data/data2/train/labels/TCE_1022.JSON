@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "3/5/2023",
+        "Coordinate": [
+            722,
+            2510,
+            1078,
+            2583
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            664,
+            2432,
+            916,
+            2495
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Aashi Sarkar",
+        "Coordinate": [
+            934,
+            468,
+            1336,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rushil Sarkar",
+        "Coordinate": [
+            954,
+            574,
+            1366,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/1986",
+        "Coordinate": [
+            968,
+            674,
+            1268,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            944,
+            774,
+            1186,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            860,
+            1202,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1743,
+            852,
+            1969,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            945,
+            2036,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            982,
+            948,
+            1126,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Sarin-Parsa",
+        "Coordinate": [
+            1008,
+            1048,
+            1826,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Thaker LLC",
+        "Coordinate": [
+            1034,
+            1152,
+            1776,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/888, Palla Road, Udupi-797114",
+        "Coordinate": [
+            936,
+            1272,
+            2189,
+            1459
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46/19, Prashad Nagar, Kamarhati 108327",
+        "Coordinate": [
+            917,
+            1516,
+            2286,
+            1591
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8699892027",
+        "Coordinate": [
+            936,
+            1788,
+            1380,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7106791241",
+        "Coordinate": [
+            1842,
+            1780,
+            2252,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil",
+        "Coordinate": [
+            908,
+            1914,
+            1470,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manya Venkatesh - 8058403947",
+        "Coordinate": [
+            1008,
+            1996,
+            1966,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charvi Dhingra - 9400960128",
+        "Coordinate": [
+            1004,
+            2152,
+            1912,
+            2227
+        ]
+    }
+]

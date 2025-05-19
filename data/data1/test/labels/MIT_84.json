@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Neel Chauhan",
+        "Coordinate": [
+            875,
+            412,
+            1404,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laksh Chauhan",
+        "Coordinate": [
+            883,
+            512,
+            1483,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/29/1977",
+        "Coordinate": [
+            898,
+            612,
+            1282,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            905,
+            712,
+            1276,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            814,
+            1150,
+            914
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1822,
+            801,
+            2034,
+            890
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1892,
+            911,
+            2161,
+            1001
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            946,
+            914,
+            1068,
+            996
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ghosh  Puri and Radhakrishnan",
+        "Coordinate": [
+            968,
+            1004,
+            2382,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Brahmbhatt-Varughese",
+        "Coordinate": [
+            982,
+            1116,
+            2253,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "865, Sur Path, Mahbubnagar 827231",
+        "Coordinate": [
+            930,
+            1240,
+            2261,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "225, Dani, Vijayanagaram 177739",
+        "Coordinate": [
+            899,
+            1495,
+            2146,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7978788763",
+        "Coordinate": [
+            1886,
+            1768,
+            2346,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9557351851",
+        "Coordinate": [
+            919,
+            1769,
+            1384,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Kannada",
+        "Coordinate": [
+            895,
+            1914,
+            1927,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nirja Bains - 7845350752",
+        "Coordinate": [
+            983,
+            2013,
+            2001,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Caleb Datta - 8324564456",
+        "Coordinate": [
+            979,
+            2143,
+            1975,
+            2256
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "731000000000.0",
+        "Coordinate": [
+            608,
+            2357,
+            1189,
+            2439
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            625,
+            2444,
+            872,
+            2542
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/27/2023",
+        "Coordinate": [
+            664,
+            2541,
+            1080,
+            2641
+        ]
+    }
+]

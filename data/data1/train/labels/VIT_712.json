@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavna Shetty",
+        "Coordinate": [
+            884,
+            405,
+            1595,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekavir Shetty",
+        "Coordinate": [
+            887,
+            513,
+            1581,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/1981",
+        "Coordinate": [
+            892,
+            610,
+            1427,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            882,
+            706,
+            1294,
+            810
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            810,
+            1294,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1832,
+            814,
+            2170,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            924,
+            2223,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            890,
+            915,
+            1067,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ram  Batra and Das",
+        "Coordinate": [
+            928,
+            1020,
+            2371,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Choudhry  Sankaran and Dayal",
+        "Coordinate": [
+            949,
+            1127,
+            2378,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47/62, Hayre, Jorhat 268517",
+        "Coordinate": [
+            894,
+            1278,
+            2269,
+            1476
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "79, Bava, Kolkata-719095",
+        "Coordinate": [
+            859,
+            1504,
+            2275,
+            1683
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7123199604",
+        "Coordinate": [
+            1861,
+            1786,
+            2343,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9355540151",
+        "Coordinate": [
+            872,
+            1782,
+            1369,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Hindi, Marathi",
+        "Coordinate": [
+            866,
+            1923,
+            2312,
+            2035
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aditya Guha - 7428736103",
+        "Coordinate": [
+            895,
+            2028,
+            2252,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan Chaudhuri - 9071251849",
+        "Coordinate": [
+            927,
+            2164,
+            2311,
+            2273
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "793000000000.0",
+        "Coordinate": [
+            565,
+            2359,
+            1223,
+            2461
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            589,
+            2456,
+            960,
+            2548
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/21/2024",
+        "Coordinate": [
+            574,
+            2543,
+            1219,
+            2652
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yachana Krishnan",
+        "Coordinate": [
+            908,
+            476,
+            1628,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaac Krishnan",
+        "Coordinate": [
+            912,
+            572,
+            1556,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/30/1969",
+        "Coordinate": [
+            890,
+            664,
+            1282,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            894,
+            764,
+            1250,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            894,
+            862,
+            1176,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1734,
+            862,
+            2044,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            956,
+            2096,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            898,
+            962,
+            1048,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Gala-Yadav",
+        "Coordinate": [
+            1006,
+            1066,
+            2044,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Krishnan  Kala and Ganesh",
+        "Coordinate": [
+            972,
+            1176,
+            2328,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03, Purohit Path, Durgapur-424722",
+        "Coordinate": [
+            904,
+            1280,
+            2224,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 72, Kota Circle, Muzaffarnagar-326032",
+        "Coordinate": [
+            902,
+            1502,
+            1836,
+            1697
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8886326957",
+        "Coordinate": [
+            902,
+            1778,
+            1328,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7166511500",
+        "Coordinate": [
+            1818,
+            1781,
+            2240,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English",
+        "Coordinate": [
+            892,
+            1920,
+            1480,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mason Sehgal - 7347945305",
+        "Coordinate": [
+            984,
+            2024,
+            2028,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Keya Chaudhry - 7080163019",
+        "Coordinate": [
+            958,
+            2132,
+            2060,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            616,
+            2416,
+            872,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/17/2024",
+        "Coordinate": [
+            630,
+            2502,
+            1056,
+            2585
+        ]
+    }
+]

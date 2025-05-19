@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oeshi Batra",
+        "Coordinate": [
+            881,
+            389,
+            1337,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Batra",
+        "Coordinate": [
+            897,
+            485,
+            1342,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/15/1971",
+        "Coordinate": [
+            906,
+            589,
+            1232,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            924,
+            685,
+            1263,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            782,
+            1221,
+            867
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1828,
+            782,
+            2108,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            890,
+            2140,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            913,
+            888,
+            1091,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Konda-Wagle",
+        "Coordinate": [
+            974,
+            982,
+            1963,
+            1081
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Agarwal LLC",
+        "Coordinate": [
+            961,
+            1090,
+            1947,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29/90, Seshadri Nagar, Deoghar-276332",
+        "Coordinate": [
+            903,
+            1270,
+            2285,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33/761, Nayar Circle, Hosur-267136",
+        "Coordinate": [
+            897,
+            1483,
+            2161,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7891967014",
+        "Coordinate": [
+            1849,
+            1749,
+            2230,
+            1836
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8948571253",
+        "Coordinate": [
+            879,
+            1751,
+            1307,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Tamil",
+        "Coordinate": [
+            886,
+            1887,
+            1747,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ikbal Acharya - 7461868262",
+        "Coordinate": [
+            943,
+            1997,
+            1938,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ranveer Dubey - 8715844370",
+        "Coordinate": [
+            947,
+            2123,
+            1961,
+            2224
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WNVIF9132M",
+        "Coordinate": [
+            1621,
+            2333,
+            2116,
+            2420
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            584,
+            2419,
+            865,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-05-2024",
+        "Coordinate": [
+            590,
+            2515,
+            1008,
+            2599
+        ]
+    }
+]

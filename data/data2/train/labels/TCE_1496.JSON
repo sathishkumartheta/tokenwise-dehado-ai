@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dakshesh Iyer",
+        "Coordinate": [
+            934,
+            450,
+            1577,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zaid Iyer",
+        "Coordinate": [
+            950,
+            545,
+            1422,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/22/1991",
+        "Coordinate": [
+            930,
+            651,
+            1374,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            950,
+            746,
+            1530,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            845,
+            1278,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            965,
+            945,
+            1130,
+            1018
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            845,
+            1998,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            935,
+            2194,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Kalita-Venkatesh",
+        "Coordinate": [
+            1030,
+            1026,
+            2194,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mishra-Bains",
+        "Coordinate": [
+            1020,
+            1141,
+            2030,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 420, Sampath Circle, Bihar Sharif 863594",
+        "Coordinate": [
+            915,
+            1286,
+            2186,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/269, Dalal Road, Latur-431870",
+        "Coordinate": [
+            950,
+            1501,
+            2130,
+            1682
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9076433972",
+        "Coordinate": [
+            935,
+            1760,
+            1374,
+            1846
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8122661616",
+        "Coordinate": [
+            1855,
+            1766,
+            2294,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Hindi, Gujarati",
+        "Coordinate": [
+            930,
+            1880,
+            2234,
+            1978
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Banjeet Gaba - 7749068629",
+        "Coordinate": [
+            1025,
+            1996,
+            2186,
+            2086
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhruv Ray - 8077634830",
+        "Coordinate": [
+            990,
+            2116,
+            2090,
+            2222
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            670,
+            2411,
+            1398,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/8/2022",
+        "Coordinate": [
+            664,
+            2511,
+            1186,
+            2594
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Neha Grewal",
+        "Coordinate": [
+            930,
+            478,
+            1470,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Grewal",
+        "Coordinate": [
+            924,
+            566,
+            1656,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/23/1971",
+        "Coordinate": [
+            924,
+            666,
+            1276,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            938,
+            768,
+            1106,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            871,
+            1274,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1772,
+            848,
+            2058,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            940,
+            2106,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Ramaswamy  Gupta and Nazareth",
+        "Coordinate": [
+            994,
+            1040,
+            2284,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Luthra-Sachdeva",
+        "Coordinate": [
+            1030,
+            1170,
+            2168,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "693, Banerjee Zila, Raiganj 973238",
+        "Coordinate": [
+            922,
+            1320,
+            2132,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 55, Setty Street, Junagadh 602356",
+        "Coordinate": [
+            912,
+            1558,
+            2240,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7397844530",
+        "Coordinate": [
+            898,
+            1808,
+            1310,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9713853465",
+        "Coordinate": [
+            1584,
+            1820,
+            2120,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Kannada, Telugu",
+        "Coordinate": [
+            944,
+            1918,
+            2276,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anthony Kaul - 7590509097",
+        "Coordinate": [
+            998,
+            2026,
+            2212,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachita Upadhyay - 9908823990",
+        "Coordinate": [
+            982,
+            2160,
+            2288,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            657,
+            2416,
+            1070,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/9/2022",
+        "Coordinate": [
+            651,
+            2504,
+            1098,
+            2591
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            923,
+            949,
+            1059,
+            1032
+        ]
+    }
+]

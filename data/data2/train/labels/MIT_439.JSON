@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tejas Dayal",
+        "Coordinate": [
+            889,
+            398,
+            1308,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Dayal",
+        "Coordinate": [
+            898,
+            498,
+            1339,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/21/1978",
+        "Coordinate": [
+            906,
+            590,
+            1222,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            895,
+            685,
+            1236,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            789,
+            1166,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1777,
+            774,
+            1955,
+            854
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            882,
+            2124,
+            965
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            908,
+            898,
+            1037,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Vora Ltd",
+        "Coordinate": [
+            969,
+            984,
+            1659,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Anne-Aurora",
+        "Coordinate": [
+            975,
+            1097,
+            1804,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23, Sampath Road, Raiganj 231336",
+        "Coordinate": [
+            888,
+            1250,
+            2030,
+            1389
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "94/416, Devan Road, Navi Mumbai 544137",
+        "Coordinate": [
+            903,
+            1477,
+            2289,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7037939624",
+        "Coordinate": [
+            1874,
+            1735,
+            2261,
+            1813
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9977956217",
+        "Coordinate": [
+            897,
+            1751,
+            1242,
+            1834
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati",
+        "Coordinate": [
+            912,
+            1894,
+            1476,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ucchal Singhal - 9370435035",
+        "Coordinate": [
+            943,
+            1992,
+            1911,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Sood - 8501101314",
+        "Coordinate": [
+            934,
+            2120,
+            1819,
+            2209
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "590412000000",
+        "Coordinate": [
+            629,
+            2335,
+            1069,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            616,
+            2426,
+            844,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/16/2023",
+        "Coordinate": [
+            619,
+            2516,
+            971,
+            2600
+        ]
+    }
+]

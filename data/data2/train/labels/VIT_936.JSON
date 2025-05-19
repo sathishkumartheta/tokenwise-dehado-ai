@@ -1,0 +1,162 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yuvraj Agarwal",
+        "Coordinate": [
+            888,
+            459,
+            1554,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charles Agarwal",
+        "Coordinate": [
+            906,
+            550,
+            1576,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/11/1970",
+        "Coordinate": [
+            896,
+            660,
+            1264,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            922,
+            754,
+            1500,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            956,
+            856,
+            1288,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            994,
+            956,
+            1192,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Shanker PLC",
+        "Coordinate": [
+            986,
+            1054,
+            1944,
+            1144
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            947,
+            2168,
+            1032
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            842,
+            2036,
+            930
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bal and Sons",
+        "Coordinate": [
+            999,
+            1158,
+            2090,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 103, Ahluwalia Street, Mathura-160990",
+        "Coordinate": [
+            952,
+            1278,
+            2048,
+            1500
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88, Comar Path, Silchar-907644",
+        "Coordinate": [
+            940,
+            1542,
+            2302,
+            1650
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8711492829",
+        "Coordinate": [
+            898,
+            1824,
+            1332,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Gujarati",
+        "Coordinate": [
+            924,
+            1958,
+            2084,
+            2068
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chanakya Mand - 7270653499",
+        "Coordinate": [
+            948,
+            2070,
+            2146,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavya Rastogi - 9587131413",
+        "Coordinate": [
+            964,
+            2198,
+            2202,
+            2310
+        ]
+    }
+]

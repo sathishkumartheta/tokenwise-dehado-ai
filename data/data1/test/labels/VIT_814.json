@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Mallick",
+        "Coordinate": [
+            874,
+            416,
+            1352,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Mallick",
+        "Coordinate": [
+            879,
+            521,
+            1346,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/17/1993",
+        "Coordinate": [
+            880,
+            625,
+            1224,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            862,
+            722,
+            1042,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            865,
+            816,
+            1083,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1761,
+            815,
+            2030,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            925,
+            2069,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            875,
+            928,
+            999,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Talwar  Gulati and Dhawan",
+        "Coordinate": [
+            975,
+            1019,
+            2341,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mutti Ltd",
+        "Coordinate": [
+            987,
+            1132,
+            1700,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "74/214, Arora Street, Udaipur-793741",
+        "Coordinate": [
+            892,
+            1253,
+            2242,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 994, Oommen Street, Ozhukarai 530955",
+        "Coordinate": [
+            891,
+            1501,
+            2359,
+            1748
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8373123399",
+        "Coordinate": [
+            1854,
+            1796,
+            2299,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7932216642",
+        "Coordinate": [
+            884,
+            1792,
+            1354,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            876,
+            1931,
+            1722,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warda Kapur - 9503902912",
+        "Coordinate": [
+            953,
+            2032,
+            2013,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chakrika Gopal - 9269086599",
+        "Coordinate": [
+            968,
+            2169,
+            2148,
+            2297
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "692000000000.0",
+        "Coordinate": [
+            587,
+            2372,
+            1270,
+            2463
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SYEUF7002I",
+        "Coordinate": [
+            1625,
+            2369,
+            2213,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            584,
+            2463,
+            1070,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/26/2024",
+        "Coordinate": [
+            579,
+            2557,
+            1066,
+            2657
+        ]
+    }
+]

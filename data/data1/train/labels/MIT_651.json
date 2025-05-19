@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isha Krishnan",
+        "Coordinate": [
+            881,
+            442,
+            1367,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kevin Krishnan",
+        "Coordinate": [
+            898,
+            541,
+            1389,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/24/1973",
+        "Coordinate": [
+            914,
+            638,
+            1256,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            910,
+            739,
+            1178,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            843,
+            1143,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1847,
+            835,
+            2071,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1883,
+            944,
+            2102,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            944,
+            948,
+            1061,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Verma-Malhotra",
+        "Coordinate": [
+            987,
+            1049,
+            1899,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Chand  Chowdhury and Verma",
+        "Coordinate": [
+            957,
+            1145,
+            2357,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 12, Golla Road, Bhopal 378170",
+        "Coordinate": [
+            901,
+            1286,
+            2195,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48, Chacko Zila, Sonipat 585942",
+        "Coordinate": [
+            905,
+            1548,
+            2071,
+            1693
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7517647022",
+        "Coordinate": [
+            1867,
+            1810,
+            2282,
+            1931
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7009275121",
+        "Coordinate": [
+            921,
+            1824,
+            1276,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu",
+        "Coordinate": [
+            929,
+            1961,
+            1399,
+            2059
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yatin Tata - 8767446728",
+        "Coordinate": [
+            977,
+            2063,
+            1803,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemang Joshi - 9158591956",
+        "Coordinate": [
+            970,
+            2193,
+            1914,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "696000000000.0",
+        "Coordinate": [
+            574,
+            2397,
+            1028,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            581,
+            2493,
+            835,
+            2580
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranav Amble",
+        "Coordinate": [
+            868,
+            446,
+            1364,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Matthew Amble",
+        "Coordinate": [
+            880,
+            546,
+            1424,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/30/1998",
+        "Coordinate": [
+            877,
+            658,
+            1217,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            883,
+            743,
+            1183,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            865,
+            1143,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1805,
+            865,
+            2051,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            908,
+            968,
+            1061,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            974,
+            2058,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Balan PLC",
+        "Coordinate": [
+            955,
+            1077,
+            1702,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Behl-Memon",
+        "Coordinate": [
+            949,
+            1186,
+            1745,
+            1289
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15, Sinha Path, Kozhikode-979336",
+        "Coordinate": [
+            871,
+            1333,
+            2011,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "31/60, Vasa Circle, Nagpur-055839",
+        "Coordinate": [
+            905,
+            1592,
+            2142,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7462136518",
+        "Coordinate": [
+            896,
+            1823,
+            1333,
+            1936
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8442607889",
+        "Coordinate": [
+            1864,
+            1808,
+            2339,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            899,
+            1961,
+            1346,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girik Chokshi - 8376515105",
+        "Coordinate": [
+            930,
+            2064,
+            1898,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samarth Ghose - 9703073484",
+        "Coordinate": [
+            965,
+            2195,
+            1905,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "334232000000",
+        "Coordinate": [
+            590,
+            2404,
+            1180,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            602,
+            2507,
+            933,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/26/2022",
+        "Coordinate": [
+            593,
+            2598,
+            961,
+            2670
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitali Dave",
+        "Coordinate": [
+            936,
+            412,
+            1407,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Dave",
+        "Coordinate": [
+            974,
+            517,
+            1462,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-02-1971",
+        "Coordinate": [
+            1011,
+            618,
+            1355,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            991,
+            714,
+            1353,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            981,
+            815,
+            1286,
+            910
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1893,
+            802,
+            2168,
+            899
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1923,
+            908,
+            2204,
+            1000
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            987,
+            915,
+            1105,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Uppal Ltd",
+        "Coordinate": [
+            1044,
+            1008,
+            1889,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kapoor  Bajaj and Rajan",
+        "Coordinate": [
+            1050,
+            1122,
+            2378,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "80, Shetty Ganj, Ulhasnagar-397436",
+        "Coordinate": [
+            956,
+            1282,
+            2235,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Tailor Path, Guntakal 084290",
+        "Coordinate": [
+            943,
+            1486,
+            2377,
+            1620
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7374215180",
+        "Coordinate": [
+            1913,
+            1757,
+            2351,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9085816313",
+        "Coordinate": [
+            948,
+            1776,
+            1375,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            950,
+            1910,
+            1514,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qushi Bawa - 8518962956",
+        "Coordinate": [
+            1046,
+            2014,
+            1994,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagrati Dua - 9456986155",
+        "Coordinate": [
+            1049,
+            2151,
+            2060,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "547000000000.0",
+        "Coordinate": [
+            641,
+            2353,
+            1239,
+            2446
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            682,
+            2451,
+            953,
+            2546
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/16/2025",
+        "Coordinate": [
+            692,
+            2542,
+            1126,
+            2644
+        ]
+    }
+]

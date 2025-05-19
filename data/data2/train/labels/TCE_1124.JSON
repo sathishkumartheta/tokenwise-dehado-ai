@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faraj Lala",
+        "Coordinate": [
+            921,
+            474,
+            1257,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "William Lala",
+        "Coordinate": [
+            927,
+            587,
+            1333,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/2/1959",
+        "Coordinate": [
+            948,
+            677,
+            1220,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            921,
+            764,
+            1184,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            944,
+            863,
+            1137,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            971,
+            954,
+            1114,
+            1035
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1710,
+            863,
+            1887,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            951,
+            1997,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bakshi  Tara and Bassi",
+        "Coordinate": [
+            1000,
+            1066,
+            2006,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Gole  Shenoy and Varughese",
+        "Coordinate": [
+            1043,
+            1178,
+            2208,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 36, Gade Road, Panipat 470269",
+        "Coordinate": [
+            931,
+            1284,
+            2054,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46/669, Agarwal Street, Akola 223187",
+        "Coordinate": [
+            929,
+            1510,
+            2054,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8874181007",
+        "Coordinate": [
+            902,
+            1781,
+            1214,
+            1858
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9060808276",
+        "Coordinate": [
+            1814,
+            1781,
+            2154,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, English",
+        "Coordinate": [
+            911,
+            1913,
+            1565,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashoda Roy - 7755251830",
+        "Coordinate": [
+            981,
+            2030,
+            1854,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sathvik Mittal - 9085362168",
+        "Coordinate": [
+            960,
+            2158,
+            1768,
+            2278
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            625,
+            2440,
+            852,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/2/2024",
+        "Coordinate": [
+            648,
+            2516,
+            1012,
+            2599
+        ]
+    }
+]

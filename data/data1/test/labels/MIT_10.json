@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hema Vasa",
+        "Coordinate": [
+            911,
+            454,
+            1353,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Vasa",
+        "Coordinate": [
+            914,
+            552,
+            1466,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/28/1962",
+        "Coordinate": [
+            914,
+            652,
+            1376,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            912,
+            749,
+            1338,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            854,
+            1239,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1824,
+            855,
+            2101,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            955,
+            2153,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            910,
+            955,
+            1021,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Krish  Dara and Shan",
+        "Coordinate": [
+            967,
+            1046,
+            2370,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Shetty Ltd",
+        "Coordinate": [
+            956,
+            1156,
+            1947,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/87, Soman Street, Rampur 487347",
+        "Coordinate": [
+            909,
+            1287,
+            1737,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "455, Buch Circle, Saharanpur 623166",
+        "Coordinate": [
+            900,
+            1541,
+            2116,
+            1776
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7507588375",
+        "Coordinate": [
+            1874,
+            1811,
+            2339,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8852560607",
+        "Coordinate": [
+            898,
+            1813,
+            1367,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Bengali",
+        "Coordinate": [
+            896,
+            1953,
+            1692,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unnati Sagar - 8317816923",
+        "Coordinate": [
+            945,
+            2061,
+            1992,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samuel Salvi - 7559415844",
+        "Coordinate": [
+            966,
+            2189,
+            2132,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "676000000000.0",
+        "Coordinate": [
+            593,
+            2394,
+            1181,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            602,
+            2487,
+            912,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/30/2022",
+        "Coordinate": [
+            605,
+            2575,
+            1109,
+            2673
+        ]
+    }
+]

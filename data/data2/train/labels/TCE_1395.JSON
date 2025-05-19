@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manthan Malhotra",
+        "Coordinate": [
+            915,
+            480,
+            1579,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Raghav Malhotra",
+        "Coordinate": [
+            930,
+            571,
+            1623,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/4/1980",
+        "Coordinate": [
+            920,
+            666,
+            1291,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            761,
+            1307,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            841,
+            1175,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1760,
+            846,
+            1947,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            955,
+            950,
+            1091,
+            1026
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            956,
+            2099,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Chaudhary Inc",
+        "Coordinate": [
+            1035,
+            1056,
+            2127,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at D\u2019Alia Ltd",
+        "Coordinate": [
+            1035,
+            1165,
+            2095,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76/58, Parmer Ganj, Raipur-862089",
+        "Coordinate": [
+            925,
+            1321,
+            2263,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/93, Kala Road, Jehanabad-807426",
+        "Coordinate": [
+            920,
+            1565,
+            2179,
+            1718
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8124881580",
+        "Coordinate": [
+            930,
+            1786,
+            1363,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7000650916",
+        "Coordinate": [
+            1845,
+            1786,
+            2287,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Marathi",
+        "Coordinate": [
+            940,
+            1915,
+            1859,
+            1970
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagdish Sem - 7324806723",
+        "Coordinate": [
+            1055,
+            2006,
+            2143,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darsh Chandran - 7488607917",
+        "Coordinate": [
+            1030,
+            2166,
+            2243,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "228303000000",
+        "Coordinate": [
+            660,
+            2341,
+            1227,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            665,
+            2426,
+            1051,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/4/2022",
+        "Coordinate": [
+            645,
+            2512,
+            1135,
+            2594
+        ]
+    }
+]

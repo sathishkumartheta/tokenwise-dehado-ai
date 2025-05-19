@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avni Subramaniam",
+        "Coordinate": [
+            913,
+            464,
+            1543,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Subramaniam",
+        "Coordinate": [
+            910,
+            577,
+            1570,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/29/1964",
+        "Coordinate": [
+            903,
+            677,
+            1239,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            923,
+            770,
+            1199,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            870,
+            1175,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            916,
+            974,
+            1023,
+            1044
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1823,
+            864,
+            2039,
+            957
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            964,
+            2066,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shere and Sons",
+        "Coordinate": [
+            1016,
+            1050,
+            2063,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Zachariah  Venkataraman and Sodhi",
+        "Coordinate": [
+            1023,
+            1144,
+            2311,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "13, Mittal Nagar, Ahmednagar-680900",
+        "Coordinate": [
+            913,
+            1270,
+            2271,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64/27, Banerjee Chowk, Bettiah-253991",
+        "Coordinate": [
+            913,
+            1507,
+            2290,
+            1612
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9420746903",
+        "Coordinate": [
+            903,
+            1773,
+            1322,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7088970742",
+        "Coordinate": [
+            1850,
+            1757,
+            2282,
+            1849
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi, Malayalam",
+        "Coordinate": [
+            913,
+            1907,
+            1828,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekantika Morar - 9916308193",
+        "Coordinate": [
+            1013,
+            2020,
+            2111,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Upkaar Das - 7129506702",
+        "Coordinate": [
+            1020,
+            2130,
+            1962,
+            2233
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            663,
+            2427,
+            906,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/24/2022",
+        "Coordinate": [
+            619,
+            2510,
+            1039,
+            2596
+        ]
+    }
+]

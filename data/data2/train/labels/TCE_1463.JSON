@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Watika Pant",
+        "Coordinate": [
+            895,
+            460,
+            1310,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Max Pant",
+        "Coordinate": [
+            915,
+            576,
+            1238,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/1967",
+        "Coordinate": [
+            930,
+            656,
+            1218,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            935,
+            746,
+            1210,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            846,
+            1234,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            940,
+            945,
+            1078,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1705,
+            846,
+            1934,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            931,
+            2022,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Aurora  Krishna and Naidu",
+        "Coordinate": [
+            970,
+            1021,
+            2094,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bawa-Saran",
+        "Coordinate": [
+            1005,
+            1126,
+            1878,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/292, Bhalla Road, Purnia 118700",
+        "Coordinate": [
+            910,
+            1291,
+            2090,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89/00, Chand Marg, Jamnagar-315567",
+        "Coordinate": [
+            920,
+            1541,
+            2154,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9610889965",
+        "Coordinate": [
+            900,
+            1761,
+            1274,
+            1858
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8650080307",
+        "Coordinate": [
+            1820,
+            1776,
+            2166,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Marathi",
+        "Coordinate": [
+            895,
+            1906,
+            1654,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Edhitha Grewal - 7638237377",
+        "Coordinate": [
+            940,
+            2006,
+            1886,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nirja Hayre - 8594365568",
+        "Coordinate": [
+            950,
+            2121,
+            1802,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            615,
+            2381,
+            874,
+            2478
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/15/2023",
+        "Coordinate": [
+            590,
+            2485,
+            946,
+            2574
+        ]
+    }
+]

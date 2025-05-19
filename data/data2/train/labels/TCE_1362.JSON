@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanas Dar",
+        "Coordinate": [
+            905,
+            460,
+            1309,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Dar",
+        "Coordinate": [
+            930,
+            571,
+            1253,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/6/1988",
+        "Coordinate": [
+            925,
+            671,
+            1273,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            930,
+            775,
+            1233,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            851,
+            1205,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            925,
+            931,
+            1089,
+            1020
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            836,
+            1953,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            960,
+            2049,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Rau-Gokhale",
+        "Coordinate": [
+            960,
+            1041,
+            2009,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bath  Sandal and Narain",
+        "Coordinate": [
+            990,
+            1156,
+            2297,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 902, Narula Circle, Coimbatore-112015",
+        "Coordinate": [
+            870,
+            1265,
+            2237,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "15, Kumar Path, Madhyamgram 141045",
+        "Coordinate": [
+            880,
+            1530,
+            2237,
+            1640
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9330327285",
+        "Coordinate": [
+            885,
+            1766,
+            1337,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8415466387",
+        "Coordinate": [
+            1845,
+            1761,
+            2281,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Malayalam, English",
+        "Coordinate": [
+            915,
+            1896,
+            2237,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urmi Ray - 7980080098",
+        "Coordinate": [
+            1029,
+            2006,
+            1944,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachana Tripathi - 7164625043",
+        "Coordinate": [
+            1045,
+            2115,
+            2165,
+            2236
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            625,
+            2395,
+            893,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2023",
+        "Coordinate": [
+            619,
+            2481,
+            1012,
+            2600
+        ]
+    }
+]

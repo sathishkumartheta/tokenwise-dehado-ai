@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kavya Bhavsar",
+        "Coordinate": [
+            916,
+            467,
+            1321,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yash Bhavsar",
+        "Coordinate": [
+            933,
+            560,
+            1308,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/4/1979",
+        "Coordinate": [
+            930,
+            667,
+            1178,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            920,
+            747,
+            1354,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            864,
+            1178,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            837,
+            1946,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            943,
+            2020,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            923,
+            950,
+            1114,
+            1002
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chandran  Kapoor and Dave",
+        "Coordinate": [
+            990,
+            1047,
+            2122,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Seshadri  Kibe and Kapur",
+        "Coordinate": [
+            996,
+            1140,
+            1988,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58/63, Mannan Path, Bhimavaram 326624",
+        "Coordinate": [
+            913,
+            1263,
+            2188,
+            1336
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39, Sen Nagar, Mira-Bhayandar-633891",
+        "Coordinate": [
+            933,
+            1510,
+            2175,
+            1592
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7500457930",
+        "Coordinate": [
+            933,
+            1784,
+            1300,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9213431720",
+        "Coordinate": [
+            1856,
+            1770,
+            2263,
+            1827
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada",
+        "Coordinate": [
+            920,
+            1917,
+            1415,
+            1978
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manbir Wable - 7966712167",
+        "Coordinate": [
+            996,
+            2010,
+            1879,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aditya Goyal - 7176422578",
+        "Coordinate": [
+            1003,
+            2140,
+            1850,
+            2208
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            663,
+            2427,
+            935,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/12/2023",
+        "Coordinate": [
+            663,
+            2517,
+            964,
+            2592
+        ]
+    }
+]

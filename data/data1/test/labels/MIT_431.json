@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varenya Shetty",
+        "Coordinate": [
+            898,
+            392,
+            1525,
+            494
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Shetty",
+        "Coordinate": [
+            911,
+            494,
+            1465,
+            593
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-09-1974",
+        "Coordinate": [
+            911,
+            592,
+            1270,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            691,
+            1062,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            792,
+            1233,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1753,
+            787,
+            2054,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            894,
+            2140,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            912,
+            894,
+            1064,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Ratta and Sons",
+        "Coordinate": [
+            963,
+            987,
+            2078,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Baral-Oommen",
+        "Coordinate": [
+            978,
+            1103,
+            2071,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 93, Goyal Ganj, Berhampore 446931",
+        "Coordinate": [
+            899,
+            1243,
+            2279,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "47/63, Ahluwalia Circle, Phusro-654025",
+        "Coordinate": [
+            881,
+            1478,
+            2309,
+            1621
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9416989864",
+        "Coordinate": [
+            1856,
+            1747,
+            2272,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7723496565",
+        "Coordinate": [
+            886,
+            1746,
+            1328,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Bengali",
+        "Coordinate": [
+            877,
+            1887,
+            1682,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ikbal Kanda - 7424289316",
+        "Coordinate": [
+            933,
+            1997,
+            1933,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Joshua Shere - 7325654025",
+        "Coordinate": [
+            951,
+            2122,
+            1995,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "771000000000.0",
+        "Coordinate": [
+            588,
+            2329,
+            1102,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            595,
+            2426,
+            903,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2024",
+        "Coordinate": [
+            601,
+            2516,
+            966,
+            2604
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Indali Gill",
+        "Coordinate": [
+            880,
+            394,
+            1303,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girish Gill",
+        "Coordinate": [
+            882,
+            496,
+            1296,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-12-1966",
+        "Coordinate": [
+            888,
+            592,
+            1245,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            884,
+            689,
+            1381,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            793,
+            1149,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1761,
+            782,
+            2008,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            889,
+            2078,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            892,
+            894,
+            1001,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kapoor LLC",
+        "Coordinate": [
+            944,
+            984,
+            1723,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sani Group",
+        "Coordinate": [
+            944,
+            1097,
+            1728,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08/72, Dalal Marg, Erode 723483",
+        "Coordinate": [
+            884,
+            1222,
+            2025,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95/382, Badal Circle, Delhi-612996",
+        "Coordinate": [
+            884,
+            1467,
+            2162,
+            1600
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9879842728",
+        "Coordinate": [
+            1844,
+            1747,
+            2256,
+            1846
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7381201889",
+        "Coordinate": [
+            881,
+            1746,
+            1237,
+            1839
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, English",
+        "Coordinate": [
+            885,
+            1884,
+            1738,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Din - 8546817527",
+        "Coordinate": [
+            944,
+            2001,
+            1850,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagrati Din - 9864638183",
+        "Coordinate": [
+            960,
+            2126,
+            1803,
+            2228
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QPEMG7755O",
+        "Coordinate": [
+            1620,
+            2330,
+            2123,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            584,
+            2421,
+            953,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-10-2023",
+        "Coordinate": [
+            594,
+            2515,
+            935,
+            2600
+        ]
+    }
+]

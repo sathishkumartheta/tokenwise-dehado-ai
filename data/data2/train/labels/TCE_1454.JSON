@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Suhani Shroff",
+        "Coordinate": [
+            877,
+            485,
+            1334,
+            587
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Shroff",
+        "Coordinate": [
+            887,
+            580,
+            1326,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/8/1988",
+        "Coordinate": [
+            892,
+            660,
+            1221,
+            775
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            892,
+            760,
+            1113,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            865,
+            1181,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            892,
+            965,
+            1109,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            858,
+            2095,
+            975
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            970,
+            2107,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhatti  Talwar and Parmar",
+        "Coordinate": [
+            927,
+            1038,
+            2146,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Agate and Sons",
+        "Coordinate": [
+            932,
+            1155,
+            1867,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04/388, Chakrabarti Nagar, Kurnool 500583",
+        "Coordinate": [
+            897,
+            1280,
+            2231,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Memon Circle, Bathinda 614178",
+        "Coordinate": [
+            877,
+            1510,
+            2172,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7185384210",
+        "Coordinate": [
+            872,
+            1770,
+            1349,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8579369834",
+        "Coordinate": [
+            1596,
+            1810,
+            2084,
+            1935
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Tamil",
+        "Coordinate": [
+            887,
+            1911,
+            1654,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tejas Seth - 9707916443",
+        "Coordinate": [
+            972,
+            2022,
+            1776,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ayaan Chaudhari - 7292560652",
+        "Coordinate": [
+            932,
+            2150,
+            2123,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            561,
+            2418,
+            924,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/11/2022",
+        "Coordinate": [
+            591,
+            2511,
+            1009,
+            2607
+        ]
+    }
+]

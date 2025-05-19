@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Christopher Arora",
+        "Coordinate": [
+            878,
+            437,
+            1362,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Arora",
+        "Coordinate": [
+            878,
+            537,
+            1362,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/17/1995",
+        "Coordinate": [
+            875,
+            639,
+            1152,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            882,
+            733,
+            1031,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            836,
+            1109,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1790,
+            832,
+            1955,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            942,
+            2068,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            881,
+            943,
+            970,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chopra Inc",
+        "Coordinate": [
+            944,
+            1041,
+            1588,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Salvi  Sur and Swamy",
+        "Coordinate": [
+            943,
+            1154,
+            1917,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61, Kala, Katihar 636465",
+        "Coordinate": [
+            886,
+            1314,
+            1563,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "477, Rege Road, Davanagere-922628",
+        "Coordinate": [
+            884,
+            1551,
+            1880,
+            1680
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9013964399",
+        "Coordinate": [
+            1860,
+            1810,
+            2160,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7828156017",
+        "Coordinate": [
+            884,
+            1815,
+            1210,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Malayalam, Kannada",
+        "Coordinate": [
+            884,
+            1953,
+            1822,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Pai - 7590483451",
+        "Coordinate": [
+            942,
+            2055,
+            1546,
+            2158
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pratyush Kamdar - 9653731401",
+        "Coordinate": [
+            948,
+            2184,
+            1786,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "217000000000.0",
+        "Coordinate": [
+            589,
+            2392,
+            1027,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            591,
+            2485,
+            751,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2025",
+        "Coordinate": [
+            589,
+            2575,
+            857,
+            2663
+        ]
+    }
+]

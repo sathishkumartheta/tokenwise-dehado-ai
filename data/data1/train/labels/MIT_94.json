@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samesh Sarkar",
+        "Coordinate": [
+            882,
+            388,
+            1413,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rudra Sarkar",
+        "Coordinate": [
+            896,
+            484,
+            1409,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/30/1976",
+        "Coordinate": [
+            900,
+            591,
+            1255,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            687,
+            1216,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            785,
+            1218,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1733,
+            783,
+            1923,
+            856
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            893,
+            2081,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            919,
+            891,
+            1057,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Ramakrishnan Group",
+        "Coordinate": [
+            953,
+            982,
+            2107,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Lall Inc",
+        "Coordinate": [
+            957,
+            1102,
+            1678,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/48, Sachar Road, Coimbatore-241797",
+        "Coordinate": [
+            889,
+            1223,
+            2287,
+            1367
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "502, Warrior Nagar, Gaya 442703",
+        "Coordinate": [
+            887,
+            1476,
+            2122,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7289497456",
+        "Coordinate": [
+            1868,
+            1747,
+            2330,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7723172941",
+        "Coordinate": [
+            890,
+            1745,
+            1312,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Telugu",
+        "Coordinate": [
+            904,
+            1891,
+            1864,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Matthew Aurora - 8324268336",
+        "Coordinate": [
+            946,
+            2003,
+            2138,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Teerth Oommen - 9053242641",
+        "Coordinate": [
+            950,
+            2127,
+            2064,
+            2237
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "861000000000.0",
+        "Coordinate": [
+            610,
+            2328,
+            1152,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            617,
+            2426,
+            1337,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/20/2022",
+        "Coordinate": [
+            614,
+            2515,
+            999,
+            2601
+        ]
+    }
+]

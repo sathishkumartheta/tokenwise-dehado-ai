@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tripti Thaman",
+        "Coordinate": [
+            887,
+            472,
+            1489,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Thaman",
+        "Coordinate": [
+            892,
+            572,
+            1607,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/11/1983",
+        "Coordinate": [
+            889,
+            658,
+            1267,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            909,
+            768,
+            1376,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            859,
+            1117,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            836,
+            2100,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            932,
+            956,
+            1052,
+            1044
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            960,
+            2153,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Goswami  Soman and Mukhopadhyay",
+        "Coordinate": [
+            962,
+            1040,
+            2321,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Comar  Goda and Sachar",
+        "Coordinate": [
+            964,
+            1157,
+            2145,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 82, Tandon Chowk, Buxar 911994",
+        "Coordinate": [
+            890,
+            1316,
+            2241,
+            1453
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44, Sinha Chowk, Adoni 188440",
+        "Coordinate": [
+            894,
+            1536,
+            2160,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8635529113",
+        "Coordinate": [
+            885,
+            1791,
+            1356,
+            1888
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7368158063",
+        "Coordinate": [
+            1731,
+            1826,
+            2218,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            904,
+            1911,
+            1491,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aadhya Sekhon - 7663843724",
+        "Coordinate": [
+            952,
+            2014,
+            2250,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Peter Issac - 9724869592",
+        "Coordinate": [
+            956,
+            2153,
+            2046,
+            2263
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            628,
+            2411,
+            992,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/20/2023",
+        "Coordinate": [
+            622,
+            2505,
+            977,
+            2603
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagrati Varma",
+        "Coordinate": [
+            913,
+            455,
+            1447,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harrison Varma",
+        "Coordinate": [
+            906,
+            562,
+            1507,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/17/1974",
+        "Coordinate": [
+            899,
+            659,
+            1293,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            912,
+            749,
+            1527,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            849,
+            1204,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            919,
+            942,
+            1061,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            846,
+            2018,
+            949
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            946,
+            2076,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Chakraborty LLC",
+        "Coordinate": [
+            1018,
+            1036,
+            2035,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kothari  Dubey and Parmar",
+        "Coordinate": [
+            1008,
+            1147,
+            2309,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "28/20, Sanghvi Marg, Pondicherry 479710",
+        "Coordinate": [
+            893,
+            1271,
+            2223,
+            1519
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "810, Bahri Nagar, Rourkela 661780",
+        "Coordinate": [
+            882,
+            1530,
+            2290,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9685478890",
+        "Coordinate": [
+            857,
+            1770,
+            1290,
+            1901
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8522113120",
+        "Coordinate": [
+            1829,
+            1775,
+            2285,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Gujarati",
+        "Coordinate": [
+            935,
+            1901,
+            2083,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aahana Morar - 7661946657",
+        "Coordinate": [
+            977,
+            2007,
+            2083,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mahika Dhawan - 8800214755",
+        "Coordinate": [
+            1007,
+            2121,
+            2101,
+            2268
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            667,
+            2407,
+            907,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/10/2024",
+        "Coordinate": [
+            582,
+            2495,
+            1045,
+            2602
+        ]
+    }
+]

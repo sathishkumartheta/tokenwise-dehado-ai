@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Edhitha Ganguly",
+        "Coordinate": [
+            880,
+            447,
+            1377,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Viraj Ganguly",
+        "Coordinate": [
+            910,
+            560,
+            1352,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/7/2006",
+        "Coordinate": [
+            887,
+            647,
+            1192,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            887,
+            750,
+            1170,
+            842
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1725,
+            827,
+            1962,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            927,
+            2082,
+            1017
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            907,
+            850,
+            1152,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            910,
+            927,
+            1025,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Deo-Sankar",
+        "Coordinate": [
+            950,
+            1027,
+            1787,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bahl LLC",
+        "Coordinate": [
+            947,
+            1145,
+            1630,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "602, Mittal Circle, Raurkela Industrial Township 921895",
+        "Coordinate": [
+            895,
+            1267,
+            2230,
+            1497
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 99, Handa Ganj, Panipat-391802",
+        "Coordinate": [
+            902,
+            1535,
+            2232,
+            1687
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8820509312",
+        "Coordinate": [
+            1855,
+            1799,
+            2262,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, English",
+        "Coordinate": [
+            875,
+            1937,
+            1752,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaitaly Sastry - 9107691110",
+        "Coordinate": [
+            960,
+            2070,
+            1880,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Frado Modi - 8197601302",
+        "Coordinate": [
+            940,
+            2167,
+            1807,
+            2287
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "767871000000",
+        "Coordinate": [
+            585,
+            2400,
+            1132,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            567,
+            2497,
+            872,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/2/2024",
+        "Coordinate": [
+            592,
+            2577,
+            1027,
+            2695
+        ]
+    }
+]

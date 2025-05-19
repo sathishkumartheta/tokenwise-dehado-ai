@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lila Agate",
+        "Coordinate": [
+            917,
+            370,
+            1388,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Agate",
+        "Coordinate": [
+            922,
+            489,
+            1474,
+            573
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/22/1979",
+        "Coordinate": [
+            915,
+            587,
+            1379,
+            665
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            906,
+            680,
+            1300,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            775,
+            1364,
+            889
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1783,
+            756,
+            2118,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1916,
+            894,
+            2230,
+            963
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            960,
+            877,
+            1108,
+            963
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Suri  Dixit and Sekhon",
+        "Coordinate": [
+            970,
+            991,
+            2335,
+            1074
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sule  Pai and Natarajan",
+        "Coordinate": [
+            965,
+            1110,
+            2344,
+            1222
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 33, Rajagopal, Bulandshahr-576627",
+        "Coordinate": [
+            877,
+            1260,
+            2330,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95/17, Vora Zila, Kanpur 621745",
+        "Coordinate": [
+            915,
+            1488,
+            2335,
+            1626
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7552602974",
+        "Coordinate": [
+            877,
+            1747,
+            1376,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8421270767",
+        "Coordinate": [
+            1507,
+            1795,
+            2061,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Malayalam",
+        "Coordinate": [
+            865,
+            1890,
+            2259,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faris Narasimhan - 9507512412",
+        "Coordinate": [
+            965,
+            2002,
+            2377,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Edhitha Sura - 9073582800",
+        "Coordinate": [
+            958,
+            2114,
+            2159,
+            2240
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KDRGP3095O",
+        "Coordinate": [
+            1650,
+            2299,
+            2266,
+            2432
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            582,
+            2427,
+            1134,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/19/2024",
+        "Coordinate": [
+            594,
+            2523,
+            1055,
+            2611
+        ]
+    }
+]

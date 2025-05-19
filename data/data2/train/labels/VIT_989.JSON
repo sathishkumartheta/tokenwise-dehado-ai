@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            918,
+            944,
+            1130,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Rout  Deep and Deshpande",
+        "Coordinate": [
+            974,
+            1038,
+            2266,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Choudhry-Prasad",
+        "Coordinate": [
+            982,
+            1144,
+            2028,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06/08, Tank Street, Amravati-023512",
+        "Coordinate": [
+            906,
+            1300,
+            2036,
+            1400
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 96, Choudhary, Nandyal 494385",
+        "Coordinate": [
+            900,
+            1532,
+            2148,
+            1644
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9388215025",
+        "Coordinate": [
+            1838,
+            1802,
+            2264,
+            1892
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8519940150",
+        "Coordinate": [
+            894,
+            1816,
+            1298,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, English",
+        "Coordinate": [
+            918,
+            1950,
+            1634,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sai Jayaraman - 7139222861",
+        "Coordinate": [
+            952,
+            2064,
+            1980,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagrati Vala - 8409873095",
+        "Coordinate": [
+            966,
+            2202,
+            1942,
+            2314
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "715100000000",
+        "Coordinate": [
+            582,
+            2402,
+            1100,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            602,
+            2500,
+            860,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2023",
+        "Coordinate": [
+            616,
+            2580,
+            1006,
+            2668
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Fariq Sundaram",
+        "Coordinate": [
+            890,
+            443,
+            1444,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Sundaram",
+        "Coordinate": [
+            888,
+            540,
+            1542,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/7/1963",
+        "Coordinate": [
+            890,
+            646,
+            1192,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            938,
+            728,
+            1122,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            831,
+            1200,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1762,
+            836,
+            1972,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            940,
+            2110,
+            1016
+        ]
+    }
+]

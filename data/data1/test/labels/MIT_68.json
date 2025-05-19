@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tripti Lalla",
+        "Coordinate": [
+            918,
+            393,
+            1372,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rehaan Lalla",
+        "Coordinate": [
+            922,
+            495,
+            1469,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/18/2003",
+        "Coordinate": [
+            958,
+            595,
+            1331,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            931,
+            688,
+            1558,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            896,
+            792,
+            1170,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1943,
+            793,
+            2201,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1948,
+            897,
+            2216,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            939,
+            894,
+            1074,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Solanki-Barad",
+        "Coordinate": [
+            1014,
+            980,
+            2161,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Majumdar Group",
+        "Coordinate": [
+            1010,
+            1101,
+            2257,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 653, Soman Nagar, Serampore-544471",
+        "Coordinate": [
+            877,
+            1280,
+            2264,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 75, Saha Road, Maheshtala-367850",
+        "Coordinate": [
+            868,
+            1488,
+            2239,
+            1700
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9934938381",
+        "Coordinate": [
+            1873,
+            1744,
+            2329,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9498768656",
+        "Coordinate": [
+            886,
+            1758,
+            1346,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English",
+        "Coordinate": [
+            894,
+            1894,
+            1613,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dominic Mukhopadhyay - 9988810914",
+        "Coordinate": [
+            919,
+            1996,
+            2324,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krishna Viswanathan - 9622206666",
+        "Coordinate": [
+            885,
+            2134,
+            2296,
+            2253
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "238000000000.0",
+        "Coordinate": [
+            581,
+            2330,
+            1092,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            613,
+            2422,
+            909,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-07-2024",
+        "Coordinate": [
+            641,
+            2514,
+            1069,
+            2601
+        ]
+    }
+]

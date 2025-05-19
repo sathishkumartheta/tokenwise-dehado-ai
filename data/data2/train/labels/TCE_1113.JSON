@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sanya Mukhopadhyay",
+        "Coordinate": [
+            904,
+            471,
+            1662,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishaan Mukhopadhyay",
+        "Coordinate": [
+            867,
+            563,
+            1674,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/7/1974",
+        "Coordinate": [
+            949,
+            666,
+            1325,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            948,
+            763,
+            1311,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            953,
+            841,
+            1221,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1843,
+            833,
+            2117,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            977,
+            945,
+            1207,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            963,
+            2140,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Hans  Parekh and Chad",
+        "Coordinate": [
+            997,
+            1049,
+            2214,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Seth  Dutta and Bhatti",
+        "Coordinate": [
+            1011,
+            1162,
+            2188,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Sathe Street, Tadepalligudem 067642",
+        "Coordinate": [
+            933,
+            1297,
+            2288,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/310, Baria Zila, Ludhiana 600520",
+        "Coordinate": [
+            923,
+            1517,
+            2199,
+            1691
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9644176897",
+        "Coordinate": [
+            919,
+            1766,
+            1366,
+            1914
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8178640707",
+        "Coordinate": [
+            1603,
+            1813,
+            2139,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            933,
+            1913,
+            1500,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harini Ram - 7526108546",
+        "Coordinate": [
+            1015,
+            2010,
+            1994,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nandini Pal - 7563298121",
+        "Coordinate": [
+            1063,
+            2144,
+            2135,
+            2266
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            620,
+            2429,
+            977,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/15/2023",
+        "Coordinate": [
+            655,
+            2509,
+            1074,
+            2599
+        ]
+    }
+]

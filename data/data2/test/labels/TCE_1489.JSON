@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Mohanty",
+        "Coordinate": [
+            899,
+            476,
+            1545,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mitesh Mohanty",
+        "Coordinate": [
+            899,
+            588,
+            1509,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/3/1990",
+        "Coordinate": [
+            910,
+            657,
+            1242,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            900,
+            762,
+            1238,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            847,
+            1210,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1753,
+            852,
+            2005,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            891,
+            930,
+            1053,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            957,
+            2069,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhatt-Gola",
+        "Coordinate": [
+            975,
+            1027,
+            1822,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Prabhu-Swaminathan",
+        "Coordinate": [
+            970,
+            1152,
+            2169,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98/480, Din Nagar, Rajahmundry-870789",
+        "Coordinate": [
+            894,
+            1273,
+            2294,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83, Deol Street, Howrah-557322",
+        "Coordinate": [
+            880,
+            1522,
+            2146,
+            1629
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Malayalam, Tamil",
+        "Coordinate": [
+            889,
+            1889,
+            2105,
+            2026
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8059939970",
+        "Coordinate": [
+            895,
+            1764,
+            1342,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9017520862",
+        "Coordinate": [
+            1789,
+            1815,
+            2249,
+            1905
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qarin Kibe - 9286938752",
+        "Coordinate": [
+            922,
+            2013,
+            1985,
+            2138
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            615,
+            2410,
+            913,
+            2494
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Neelima Bansal - 8153267017",
+        "Coordinate": [
+            949,
+            2144,
+            2006,
+            2270
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/29/2024",
+        "Coordinate": [
+            585,
+            2490,
+            1050,
+            2587
+        ]
+    }
+]

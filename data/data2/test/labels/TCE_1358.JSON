@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jyoti Buch",
+        "Coordinate": [
+            905,
+            471,
+            1401,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Buch",
+        "Coordinate": [
+            910,
+            571,
+            1489,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/7/1986",
+        "Coordinate": [
+            945,
+            650,
+            1401,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            930,
+            771,
+            1337,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            850,
+            1317,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1755,
+            860,
+            2085,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1005,
+            960,
+            1193,
+            1023
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            966,
+            2149,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Ramaswamy-Basu",
+        "Coordinate": [
+            975,
+            1051,
+            2205,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dube  Tandon and Dhar",
+        "Coordinate": [
+            974,
+            1131,
+            2325,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 356, Ben Nagar, Bhilwara 681065",
+        "Coordinate": [
+            875,
+            1276,
+            2125,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "632, Garg Marg, Fatehpur 054322",
+        "Coordinate": [
+            879,
+            1501,
+            2201,
+            1707
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7945323620",
+        "Coordinate": [
+            885,
+            1770,
+            1389,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8216763355",
+        "Coordinate": [
+            1805,
+            1751,
+            2309,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Kannada",
+        "Coordinate": [
+            910,
+            1911,
+            1997,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advaith Dutt - 9653884655",
+        "Coordinate": [
+            925,
+            2000,
+            2105,
+            2087
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anusha Ramachandran - 9150490945",
+        "Coordinate": [
+            940,
+            2135,
+            2269,
+            2231
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            615,
+            2390,
+            1093,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/19/2023",
+        "Coordinate": [
+            670,
+            2491,
+            1141,
+            2607
+        ]
+    }
+]

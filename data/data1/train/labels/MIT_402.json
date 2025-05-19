@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amruta Kapadia",
+        "Coordinate": [
+            877,
+            394,
+            1399,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gunbir Kapadia",
+        "Coordinate": [
+            880,
+            493,
+            1357,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/26/1967",
+        "Coordinate": [
+            884,
+            596,
+            1199,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            876,
+            693,
+            1113,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            798,
+            1147,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1832,
+            783,
+            2042,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            893,
+            2069,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            889,
+            892,
+            993,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kalla  Sama and Chacko",
+        "Coordinate": [
+            970,
+            979,
+            2091,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Iyer and Sons",
+        "Coordinate": [
+            965,
+            1100,
+            1811,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 878, Gill Circle, Nagercoil-787304",
+        "Coordinate": [
+            869,
+            1247,
+            2191,
+            1389
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 15, Das Street, Farrukhabad-535378",
+        "Coordinate": [
+            880,
+            1480,
+            2224,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8748739851",
+        "Coordinate": [
+            1868,
+            1754,
+            2268,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8929861960",
+        "Coordinate": [
+            883,
+            1761,
+            1256,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil",
+        "Coordinate": [
+            877,
+            1897,
+            1245,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Vala - 8590069114",
+        "Coordinate": [
+            960,
+            2003,
+            1816,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishani Sandal - 8261030668",
+        "Coordinate": [
+            960,
+            2126,
+            1870,
+            2226
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NLRHF4317K",
+        "Coordinate": [
+            1625,
+            2338,
+            2016,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            588,
+            2426,
+            852,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/29/2024",
+        "Coordinate": [
+            589,
+            2519,
+            916,
+            2602
+        ]
+    }
+]

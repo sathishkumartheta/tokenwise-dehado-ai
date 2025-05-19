@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Xalak Wable",
+        "Coordinate": [
+            868,
+            436,
+            1433,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Wable",
+        "Coordinate": [
+            885,
+            536,
+            1461,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/13/2002",
+        "Coordinate": [
+            956,
+            640,
+            1333,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            911,
+            733,
+            1331,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            939,
+            833,
+            1207,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            837,
+            2017,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            956,
+            939,
+            1120,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            939,
+            2143,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dixit-Jain",
+        "Coordinate": [
+            965,
+            1039,
+            1950,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Purohit Inc",
+        "Coordinate": [
+            994,
+            1153,
+            1998,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10, Rao Marg, Sikar 367059",
+        "Coordinate": [
+            939,
+            1274,
+            2116,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 179, Savant Chowk, Panihati 994670",
+        "Coordinate": [
+            880,
+            1544,
+            2264,
+            1753
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9995397962",
+        "Coordinate": [
+            880,
+            1813,
+            1359,
+            1934
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8907090646",
+        "Coordinate": [
+            1858,
+            1813,
+            2306,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Bengali",
+        "Coordinate": [
+            901,
+            1943,
+            1967,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chanakya Shenoy - 9672477777",
+        "Coordinate": [
+            1013,
+            2062,
+            2302,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Osha Biswas - 7319461812",
+        "Coordinate": [
+            1020,
+            2173,
+            2036,
+            2294
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "823022000000",
+        "Coordinate": [
+            569,
+            2392,
+            1129,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            583,
+            2491,
+            1419,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2022",
+        "Coordinate": [
+            617,
+            2572,
+            1063,
+            2679
+        ]
+    }
+]

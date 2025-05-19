@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Garima Kade",
+        "Coordinate": [
+            862,
+            435,
+            1385,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Kade",
+        "Coordinate": [
+            873,
+            540,
+            1227,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/7/1974",
+        "Coordinate": [
+            883,
+            648,
+            1257,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            903,
+            739,
+            1216,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            851,
+            1129,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            835,
+            1996,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            887,
+            958,
+            976,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            953,
+            2067,
+            1054
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Vasa  Vohra and Khatri",
+        "Coordinate": [
+            999,
+            1040,
+            2240,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Raju Inc",
+        "Coordinate": [
+            978,
+            1168,
+            1779,
+            1284
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 927, Kuruvilla Nagar, Nagpur-386668",
+        "Coordinate": [
+            899,
+            1302,
+            2375,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 726, Dyal Nagar, Satna 896636",
+        "Coordinate": [
+            892,
+            1538,
+            2261,
+            1668
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8856528233",
+        "Coordinate": [
+            903,
+            1800,
+            1369,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8950573858",
+        "Coordinate": [
+            1866,
+            1807,
+            2348,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Hindi",
+        "Coordinate": [
+            894,
+            1955,
+            1636,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishanvi Jha - 7185838350",
+        "Coordinate": [
+            944,
+            2083,
+            2087,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rishi Wagle - 7117135099",
+        "Coordinate": [
+            960,
+            2238,
+            2010,
+            2327
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "702047000000",
+        "Coordinate": [
+            584,
+            2402,
+            1200,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            581,
+            2501,
+            908,
+            2585
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/1/2023",
+        "Coordinate": [
+            591,
+            2589,
+            1056,
+            2681
+        ]
+    }
+]

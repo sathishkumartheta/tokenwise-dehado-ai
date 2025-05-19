@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rehaan Srivastava",
+        "Coordinate": [
+            906,
+            407,
+            1762,
+            507
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaiah Srivastava",
+        "Coordinate": [
+            930,
+            528,
+            1524,
+            610
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/22/1974",
+        "Coordinate": [
+            974,
+            622,
+            1340,
+            702
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            958,
+            710,
+            1438,
+            798
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            818,
+            1192,
+            904
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            922,
+            914,
+            1050,
+            1006
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Venkatesh and Sons",
+        "Coordinate": [
+            972,
+            1008,
+            1882,
+            1120
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            912,
+            2068,
+            996
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            804,
+            2000,
+            898
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Rajagopalan-Nagarajan",
+        "Coordinate": [
+            982,
+            1146,
+            2110,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02/49, Raman Marg, Noida-855201",
+        "Coordinate": [
+            912,
+            1262,
+            2008,
+            1370
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "54/448, Swamy Road, Kolkata 405187",
+        "Coordinate": [
+            907,
+            1502,
+            2162,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8438260538",
+        "Coordinate": [
+            1856,
+            1776,
+            2224,
+            1868
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9413033039",
+        "Coordinate": [
+            898,
+            1800,
+            1270,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, English, Bengali",
+        "Coordinate": [
+            894,
+            1924,
+            1946,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranbir Desai - 7099874669",
+        "Coordinate": [
+            1002,
+            2044,
+            1930,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harshil Seth - 7531216984",
+        "Coordinate": [
+            966,
+            2188,
+            1846,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "703451000000",
+        "Coordinate": [
+            636,
+            2386,
+            1150,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            638,
+            2482,
+            890,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/10/2025",
+        "Coordinate": [
+            671,
+            2566,
+            1028,
+            2644
+        ]
+    }
+]

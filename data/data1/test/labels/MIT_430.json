@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Damyanti Borde",
+        "Coordinate": [
+            953,
+            417,
+            1538,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Borde",
+        "Coordinate": [
+            963,
+            518,
+            1521,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/27/1984",
+        "Coordinate": [
+            1003,
+            624,
+            1387,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            1025,
+            719,
+            1386,
+            810
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            963,
+            821,
+            1283,
+            912
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1921,
+            802,
+            2191,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1958,
+            910,
+            2219,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1024,
+            921,
+            1161,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Suri  Sandhu and Dara",
+        "Coordinate": [
+            1054,
+            1009,
+            2384,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Chhabra-Sampath",
+        "Coordinate": [
+            1064,
+            1128,
+            2142,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Prabhu Circle, Tumkur-869830",
+        "Coordinate": [
+            948,
+            1293,
+            2311,
+            1438
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 690, Gola Ganj, Ludhiana 698014",
+        "Coordinate": [
+            948,
+            1514,
+            2385,
+            1648
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7995783919",
+        "Coordinate": [
+            1931,
+            1762,
+            2372,
+            1881
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8631125634",
+        "Coordinate": [
+            964,
+            1776,
+            1403,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Hindi",
+        "Coordinate": [
+            959,
+            1920,
+            1709,
+            2021
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mitali Luthra - 7865226618",
+        "Coordinate": [
+            1050,
+            2022,
+            2072,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faras Bhat - 9660154936",
+        "Coordinate": [
+            1057,
+            2156,
+            2086,
+            2270
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LVCHH8379W",
+        "Coordinate": [
+            1715,
+            2338,
+            2266,
+            2436
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            692,
+            2449,
+            1015,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-10-2022",
+        "Coordinate": [
+            696,
+            2546,
+            1103,
+            2646
+        ]
+    }
+]

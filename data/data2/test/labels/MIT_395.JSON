@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jeevika Dua",
+        "Coordinate": [
+            914,
+            397,
+            1426,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandran Dua",
+        "Coordinate": [
+            905,
+            513,
+            1492,
+            599
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/14/2005",
+        "Coordinate": [
+            896,
+            606,
+            1314,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            923,
+            704,
+            1220,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            919,
+            818,
+            1149,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1735,
+            782,
+            2019,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            887,
+            2100,
+            954
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            915,
+            894,
+            1097,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Trivedi  Kapur and Palla",
+        "Coordinate": [
+            953,
+            983,
+            2200,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Shenoy Ltd",
+        "Coordinate": [
+            947,
+            1103,
+            1863,
+            1202
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 06, Tailor Chowk, Bareilly 659208",
+        "Coordinate": [
+            913,
+            1221,
+            2291,
+            1337
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "192, Saxena Chowk, Bhiwandi 815969",
+        "Coordinate": [
+            870,
+            1465,
+            2240,
+            1588
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7404766748",
+        "Coordinate": [
+            1495,
+            1811,
+            2058,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8820280561",
+        "Coordinate": [
+            870,
+            1756,
+            1324,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Marathi",
+        "Coordinate": [
+            896,
+            1886,
+            1820,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandani Palla - 7035952692",
+        "Coordinate": [
+            922,
+            1992,
+            2054,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranav Badal - 7451753993",
+        "Coordinate": [
+            954,
+            2121,
+            2024,
+            2215
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "278376000000",
+        "Coordinate": [
+            576,
+            2332,
+            1162,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            611,
+            2426,
+            886,
+            2523
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/20/2022",
+        "Coordinate": [
+            613,
+            2529,
+            1050,
+            2608
+        ]
+    }
+]

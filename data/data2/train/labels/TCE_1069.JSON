@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekalinga Rege",
+        "Coordinate": [
+            936,
+            512,
+            1462,
+            591
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Rege",
+        "Coordinate": [
+            918,
+            578,
+            1492,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/25/1964",
+        "Coordinate": [
+            938,
+            680,
+            1310,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            948,
+            772,
+            1272,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            857,
+            1226,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            936,
+            967,
+            1046,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            858,
+            1960,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            958,
+            2122,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Hari-Ramachandran",
+        "Coordinate": [
+            986,
+            1040,
+            2168,
+            1121
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Soman-Bhavsar",
+        "Coordinate": [
+            994,
+            1152,
+            2096,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Mistry Marg, Yamunanagar-548978",
+        "Coordinate": [
+            906,
+            1280,
+            1888,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 245, Saxena Street, Vadodara 087550",
+        "Coordinate": [
+            926,
+            1526,
+            2114,
+            1765
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9474532446",
+        "Coordinate": [
+            896,
+            1795,
+            1350,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7260054671",
+        "Coordinate": [
+            1834,
+            1774,
+            2292,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Bengali",
+        "Coordinate": [
+            914,
+            1940,
+            2038,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qushi Gaba - 7700968602",
+        "Coordinate": [
+            982,
+            2024,
+            2012,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chakrika Warrior - 8243167074",
+        "Coordinate": [
+            988,
+            2144,
+            2208,
+            2249
+        ]
+    }
+]

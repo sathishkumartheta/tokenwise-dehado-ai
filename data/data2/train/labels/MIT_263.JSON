@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abeer Agrawal",
+        "Coordinate": [
+            889,
+            396,
+            1541,
+            498
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Agrawal",
+        "Coordinate": [
+            893,
+            500,
+            1543,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/4/1985",
+        "Coordinate": [
+            933,
+            600,
+            1378,
+            693
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            936,
+            698,
+            1123,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            805,
+            1268,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            798,
+            2015,
+            901
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            905,
+            2102,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            916,
+            901,
+            1051,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bala-Prasad",
+        "Coordinate": [
+            993,
+            1004,
+            2023,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Gera and Sons",
+        "Coordinate": [
+            985,
+            1121,
+            2103,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/12, Prasad, Gandhidham-827090",
+        "Coordinate": [
+            944,
+            1240,
+            2308,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 15, Vasa Street, Salem 392957",
+        "Coordinate": [
+            893,
+            1465,
+            2297,
+            1585
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7990232656",
+        "Coordinate": [
+            1843,
+            1739,
+            2286,
+            1827
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8434135776",
+        "Coordinate": [
+            879,
+            1745,
+            1353,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Gujarati, Kannada",
+        "Coordinate": [
+            875,
+            1874,
+            2117,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sara Dada - 9422132529",
+        "Coordinate": [
+            947,
+            1994,
+            1948,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hamsini Koshy - 9110129075",
+        "Coordinate": [
+            955,
+            2120,
+            2025,
+            2236
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "235590000000",
+        "Coordinate": [
+            583,
+            2331,
+            1116,
+            2416
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZEAMG2141P",
+        "Coordinate": [
+            1609,
+            2329,
+            2174,
+            2432
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            591,
+            2421,
+            886,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2025",
+        "Coordinate": [
+            596,
+            2523,
+            1051,
+            2617
+        ]
+    }
+]

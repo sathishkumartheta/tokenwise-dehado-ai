@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Baghyawati Bajwa",
+        "Coordinate": [
+            886,
+            328,
+            1550,
+            430
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv Bajwa",
+        "Coordinate": [
+            934,
+            437,
+            1469,
+            518
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/27/2003",
+        "Coordinate": [
+            941,
+            532,
+            1319,
+            620
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            925,
+            651,
+            1276,
+            725
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            953,
+            727,
+            1246,
+            813
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            891,
+            837,
+            1067,
+            910
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            715,
+            2085,
+            825
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            829,
+            2171,
+            920
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kar  Srinivas and Basak",
+        "Coordinate": [
+            953,
+            932,
+            2163,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kanda and Sons",
+        "Coordinate": [
+            982,
+            1046,
+            1954,
+            1143
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "55/66, Uppal Nagar, Kumbakonam-681039",
+        "Coordinate": [
+            889,
+            1158,
+            2251,
+            1274
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "970, Buch Path, Danapur 632809",
+        "Coordinate": [
+            875,
+            1417,
+            1992,
+            1545
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7457110530",
+        "Coordinate": [
+            860,
+            1700,
+            1253,
+            1788
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8287737885",
+        "Coordinate": [
+            1812,
+            1690,
+            2385,
+            1788
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Bengali, Tamil",
+        "Coordinate": [
+            863,
+            1826,
+            2125,
+            1938
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amaira Prasad - 7282253116",
+        "Coordinate": [
+            967,
+            1945,
+            2092,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathaniel Jaggi - 7855936208",
+        "Coordinate": [
+            946,
+            2090,
+            2095,
+            2183
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "957728000000",
+        "Coordinate": [
+            587,
+            2256,
+            1122,
+            2349
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            587,
+            2373,
+            1001,
+            2444
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/8/2022",
+        "Coordinate": [
+            604,
+            2454,
+            1046,
+            2587
+        ]
+    }
+]

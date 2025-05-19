@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vamakshi Deshpande",
+        "Coordinate": [
+            891,
+            435,
+            1535,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarav Deshpande",
+        "Coordinate": [
+            884,
+            537,
+            1471,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-03-1986",
+        "Coordinate": [
+            910,
+            646,
+            1231,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            903,
+            742,
+            1272,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            911,
+            849,
+            1099,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1827,
+            831,
+            2075,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1896,
+            942,
+            2130,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            909,
+            953,
+            1024,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Mody LLC",
+        "Coordinate": [
+            996,
+            1047,
+            1831,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Butala  Choudhry and Dugar",
+        "Coordinate": [
+            933,
+            1146,
+            2344,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65/77, Lad Street, Guntakal-431652",
+        "Coordinate": [
+            896,
+            1279,
+            2317,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/08, Karnik, Surendranagar Dudhrej-420696",
+        "Coordinate": [
+            928,
+            1550,
+            1958,
+            1766
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8501119305",
+        "Coordinate": [
+            1875,
+            1804,
+            2279,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9937608283",
+        "Coordinate": [
+            898,
+            1818,
+            1309,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati",
+        "Coordinate": [
+            902,
+            1950,
+            1483,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manthan Chakraborty - 8477636133",
+        "Coordinate": [
+            934,
+            2057,
+            2177,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Onkar Dalal - 8290108729",
+        "Coordinate": [
+            954,
+            2192,
+            1931,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "843000000000.0",
+        "Coordinate": [
+            600,
+            2387,
+            1065,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            630,
+            2488,
+            869,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-04-2024",
+        "Coordinate": [
+            615,
+            2578,
+            977,
+            2671
+        ]
+    }
+]

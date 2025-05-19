@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oliver Dugal",
+        "Coordinate": [
+            887,
+            422,
+            1372,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Dugal",
+        "Coordinate": [
+            887,
+            545,
+            1360,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/5/2001",
+        "Coordinate": [
+            875,
+            645,
+            1162,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            895,
+            742,
+            1185,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            840,
+            1092,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            840,
+            1987,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            942,
+            2087,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            890,
+            954,
+            1052,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Pillai-Mani",
+        "Coordinate": [
+            955,
+            1040,
+            1845,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Gill-Bumb",
+        "Coordinate": [
+            960,
+            1157,
+            1837,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00, Gala Marg, Kottayam 124076",
+        "Coordinate": [
+            902,
+            1285,
+            2162,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "53/629, Dada Street, Thoothukudi-113449",
+        "Coordinate": [
+            910,
+            1542,
+            2167,
+            1757
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9629956123",
+        "Coordinate": [
+            910,
+            1837,
+            1355,
+            1907
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8501177617",
+        "Coordinate": [
+            1872,
+            1807,
+            2282,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            882,
+            1947,
+            1512,
+            2060
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eta Bala - 9303222756",
+        "Coordinate": [
+            962,
+            2052,
+            1862,
+            2160
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fitan Vyas - 7377772556",
+        "Coordinate": [
+            945,
+            2192,
+            2020,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "898296000000",
+        "Coordinate": [
+            582,
+            2392,
+            1062,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            600,
+            2480,
+            892,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/1/2024",
+        "Coordinate": [
+            625,
+            2582,
+            895,
+            2665
+        ]
+    }
+]

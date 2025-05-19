@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omkaar Bose",
+        "Coordinate": [
+            885,
+            416,
+            1293,
+            501
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayyan Bose",
+        "Coordinate": [
+            880,
+            519,
+            1294,
+            604
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/25/1988",
+        "Coordinate": [
+            893,
+            612,
+            1219,
+            696
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            914,
+            707,
+            1206,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            810,
+            1178,
+            901
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1767,
+            804,
+            1967,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            909,
+            2094,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            933,
+            914,
+            1086,
+            999
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Char Group",
+        "Coordinate": [
+            1000,
+            1000,
+            1803,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Master-Lal",
+        "Coordinate": [
+            1019,
+            1113,
+            1903,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 35, Saran, Surat-505669",
+        "Coordinate": [
+            908,
+            1236,
+            2123,
+            1355
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 40, Lalla Street, Kishanganj-178925",
+        "Coordinate": [
+            902,
+            1482,
+            2317,
+            1602
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8842222992",
+        "Coordinate": [
+            1900,
+            1762,
+            2341,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7738493794",
+        "Coordinate": [
+            892,
+            1765,
+            1357,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Marathi",
+        "Coordinate": [
+            897,
+            1908,
+            1739,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jeet Mital - 7952663820",
+        "Coordinate": [
+            970,
+            2009,
+            1865,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kalpit Narayanan - 8293371681",
+        "Coordinate": [
+            976,
+            2134,
+            2126,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "434000000000.0",
+        "Coordinate": [
+            595,
+            2350,
+            1079,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            603,
+            2445,
+            966,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/29/2023",
+        "Coordinate": [
+            606,
+            2539,
+            1018,
+            2624
+        ]
+    }
+]

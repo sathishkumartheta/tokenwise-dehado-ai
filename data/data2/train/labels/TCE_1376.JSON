@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarnav Vora",
+        "Coordinate": [
+            905,
+            460,
+            1286,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azaan Vora",
+        "Coordinate": [
+            905,
+            571,
+            1282,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1999",
+        "Coordinate": [
+            900,
+            671,
+            1258,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            915,
+            761,
+            1222,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            846,
+            1130,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            900,
+            955,
+            1082,
+            1033
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            846,
+            2006,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            946,
+            2094,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Ganesan Inc",
+        "Coordinate": [
+            1000,
+            1040,
+            1894,
+            1173
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ramakrishnan-Mane",
+        "Coordinate": [
+            980,
+            1161,
+            2082,
+            1285
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "55, Nayak Street, Ghaziabad 255250",
+        "Coordinate": [
+            935,
+            1331,
+            2166,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 897, Soni Ganj, Dhanbad 787033",
+        "Coordinate": [
+            899,
+            1495,
+            2306,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7011404981",
+        "Coordinate": [
+            930,
+            1766,
+            1338,
+            1861
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8735145654",
+        "Coordinate": [
+            1705,
+            1796,
+            2118,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Bengali, Telugu",
+        "Coordinate": [
+            909,
+            1901,
+            2126,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishaan Nigam - 8449257027",
+        "Coordinate": [
+            970,
+            2026,
+            2006,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Netra Joshi - 8543677905",
+        "Coordinate": [
+            990,
+            2146,
+            1930,
+            2221
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            650,
+            2376,
+            1018,
+            2481
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2023",
+        "Coordinate": [
+            650,
+            2475,
+            1062,
+            2581
+        ]
+    }
+]

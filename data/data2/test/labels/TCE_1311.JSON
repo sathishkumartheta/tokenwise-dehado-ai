@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Agrawal",
+        "Coordinate": [
+            888,
+            466,
+            1774,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurang Agrawal",
+        "Coordinate": [
+            898,
+            576,
+            1678,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/18/1988",
+        "Coordinate": [
+            894,
+            662,
+            1350,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            922,
+            752,
+            1112,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            838,
+            1214,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            851,
+            2042,
+            954
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            939,
+            2078,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            944,
+            948,
+            1090,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Dube-Bhagat",
+        "Coordinate": [
+            994,
+            1052,
+            2008,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Borde LLC",
+        "Coordinate": [
+            1014,
+            1156,
+            1906,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "658, Sathe Zila, Akola 578363",
+        "Coordinate": [
+            885,
+            1274,
+            2208,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "305, Dixit Ganj, Durgapur-001181",
+        "Coordinate": [
+            884,
+            1542,
+            2260,
+            1699
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7851143795",
+        "Coordinate": [
+            888,
+            1778,
+            1314,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8231180628",
+        "Coordinate": [
+            1810,
+            1782,
+            2250,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Telugu",
+        "Coordinate": [
+            892,
+            1918,
+            2010,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yash Babu - 7061313605",
+        "Coordinate": [
+            943,
+            2022,
+            1873,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Simon Vohra - 8770860941",
+        "Coordinate": [
+            946,
+            2136,
+            1974,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            600,
+            2408,
+            1090,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/30/2022",
+        "Coordinate": [
+            632,
+            2502,
+            1072,
+            2589
+        ]
+    }
+]

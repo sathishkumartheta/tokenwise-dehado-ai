@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yagnesh Shan",
+        "Coordinate": [
+            881,
+            392,
+            1277,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanav Shan",
+        "Coordinate": [
+            900,
+            485,
+            1313,
+            571
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/18/1965",
+        "Coordinate": [
+            915,
+            587,
+            1208,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            901,
+            683,
+            1203,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            783,
+            1170,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1764,
+            780,
+            1930,
+            855
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            889,
+            2053,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            926,
+            891,
+            1027,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Devi  Sura and Minhas",
+        "Coordinate": [
+            979,
+            977,
+            2051,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Goyal-Borde",
+        "Coordinate": [
+            973,
+            1096,
+            1812,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 19, Rau, Junagadh 222975",
+        "Coordinate": [
+            900,
+            1236,
+            2019,
+            1379
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 454, Cheema Street, Durg 705682",
+        "Coordinate": [
+            890,
+            1476,
+            2258,
+            1620
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9094701694",
+        "Coordinate": [
+            1867,
+            1745,
+            2296,
+            1848
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7114333400",
+        "Coordinate": [
+            879,
+            1753,
+            1346,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Malayalam, Telugu",
+        "Coordinate": [
+            871,
+            1879,
+            2000,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lohit Date - 9485636955",
+        "Coordinate": [
+            937,
+            1994,
+            1813,
+            2084
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Watika Acharya - 9796423114",
+        "Coordinate": [
+            935,
+            2115,
+            1974,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "301000000000.0",
+        "Coordinate": [
+            581,
+            2326,
+            1089,
+            2398
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DGNQH3826I",
+        "Coordinate": [
+            1620,
+            2327,
+            2100,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            578,
+            2419,
+            775,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/27/2024",
+        "Coordinate": [
+            580,
+            2512,
+            912,
+            2595
+        ]
+    }
+]

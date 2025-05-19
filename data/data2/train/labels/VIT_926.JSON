@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Orinder Bhargava",
+        "Coordinate": [
+            900,
+            427,
+            1710,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "George Bhargava",
+        "Coordinate": [
+            907,
+            535,
+            1737,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/29/1982",
+        "Coordinate": [
+            960,
+            617,
+            1442,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            982,
+            725,
+            1385,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            832,
+            1342,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1757,
+            832,
+            2067,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            935,
+            2200,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            970,
+            937,
+            1110,
+            1012
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dayal-Kar",
+        "Coordinate": [
+            1025,
+            1032,
+            2247,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Halder Inc",
+        "Coordinate": [
+            1045,
+            1152,
+            2232,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 861, Sarin Circle, Ambala 674752",
+        "Coordinate": [
+            942,
+            1302,
+            2272,
+            1492
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35/65, Raj Nagar, Kolhapur 025254",
+        "Coordinate": [
+            907,
+            1545,
+            2295,
+            1777
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9567481597",
+        "Coordinate": [
+            905,
+            1797,
+            1387,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8794709654",
+        "Coordinate": [
+            1865,
+            1805,
+            2420,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, English, Marathi",
+        "Coordinate": [
+            912,
+            1950,
+            2452,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indrajit Bhatia - 8129676919",
+        "Coordinate": [
+            959,
+            2050,
+            2322,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isha Roy - 8970828153",
+        "Coordinate": [
+            1000,
+            2195,
+            2220,
+            2320
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "694321000000",
+        "Coordinate": [
+            590,
+            2397,
+            1202,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            635,
+            2487,
+            1012,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/14/2025",
+        "Coordinate": [
+            625,
+            2575,
+            1037,
+            2677
+        ]
+    }
+]

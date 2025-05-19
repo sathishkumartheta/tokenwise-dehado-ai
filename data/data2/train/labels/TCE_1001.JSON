@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kamya Prabhakar",
+        "Coordinate": [
+            904,
+            496,
+            1822,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "George Prabhakar",
+        "Coordinate": [
+            916,
+            598,
+            1842,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/1965",
+        "Coordinate": [
+            994,
+            702,
+            1550,
+            773
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1034,
+            774,
+            1250,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            884,
+            1374,
+            973
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1806,
+            864,
+            2270,
+            967
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            972,
+            2240,
+            1061
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1014,
+            972,
+            1192,
+            1069
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Nadkarni LLC",
+        "Coordinate": [
+            990,
+            1088,
+            2294,
+            1177
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kumer Inc",
+        "Coordinate": [
+            988,
+            1180,
+            2244,
+            1287
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 437, Bhat, Motihari 883585",
+        "Coordinate": [
+            910,
+            1294,
+            2224,
+            1499
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "45, Sen Road, Pudukkottai 997425",
+        "Coordinate": [
+            907,
+            1546,
+            2266,
+            1787
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9998903671",
+        "Coordinate": [
+            892,
+            1804,
+            1358,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7598036223",
+        "Coordinate": [
+            1740,
+            1842,
+            2276,
+            1945
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil",
+        "Coordinate": [
+            940,
+            1939,
+            1754,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Neel Bhardwaj - 9406188023",
+        "Coordinate": [
+            990,
+            2048,
+            2302,
+            2143
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanay Rajagopalan - 8876657527",
+        "Coordinate": [
+            954,
+            2174,
+            2288,
+            2299
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            650,
+            2442,
+            1620,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2023",
+        "Coordinate": [
+            692,
+            2550,
+            1400,
+            2629
+        ]
+    }
+]

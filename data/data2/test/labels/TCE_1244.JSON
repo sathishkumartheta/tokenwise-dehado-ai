@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amol Bansal",
+        "Coordinate": [
+            913,
+            470,
+            1285,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naveen Bansal",
+        "Coordinate": [
+            910,
+            567,
+            1341,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/1990",
+        "Coordinate": [
+            920,
+            647,
+            1171,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            926,
+            760,
+            1194,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            851,
+            1165,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            916,
+            954,
+            1005,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1720,
+            837,
+            1893,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1793,
+            937,
+            2026,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kalita  Kumer and Chand",
+        "Coordinate": [
+            986,
+            1040,
+            2218,
+            1118
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Bawa Group",
+        "Coordinate": [
+            970,
+            1144,
+            1891,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50/35, Pradhan Road, Bhagalpur 402942",
+        "Coordinate": [
+            912,
+            1274,
+            2240,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "85/950, Chaudhry Ganj, Jalandhar-595995",
+        "Coordinate": [
+            913,
+            1530,
+            2272,
+            1654
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9295245011",
+        "Coordinate": [
+            927,
+            1774,
+            1352,
+            1868
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7905359469",
+        "Coordinate": [
+            1826,
+            1767,
+            2242,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Tamil",
+        "Coordinate": [
+            920,
+            1910,
+            1720,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amrita Boase - 8856027631",
+        "Coordinate": [
+            976,
+            2007,
+            1893,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Indrajit Sant - 9052863770",
+        "Coordinate": [
+            993,
+            2137,
+            1981,
+            2224
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            643,
+            2420,
+            1010,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/27/2023",
+        "Coordinate": [
+            650,
+            2507,
+            992,
+            2601
+        ]
+    }
+]

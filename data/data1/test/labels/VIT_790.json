@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhanumati Naik",
+        "Coordinate": [
+            886,
+            439,
+            1478,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abeer Naik",
+        "Coordinate": [
+            891,
+            543,
+            1303,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/28/1981",
+        "Coordinate": [
+            899,
+            640,
+            1189,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            903,
+            740,
+            1154,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            847,
+            1167,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1739,
+            839,
+            1973,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            945,
+            2061,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            925,
+            948,
+            1018,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Panchal-Comar",
+        "Coordinate": [
+            966,
+            1049,
+            1838,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Karpe-Raghavan",
+        "Coordinate": [
+            974,
+            1160,
+            1923,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 05, Bhavsar, Bally 246271",
+        "Coordinate": [
+            901,
+            1279,
+            1935,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33/06, Khalsa Path, Serampore-597598",
+        "Coordinate": [
+            898,
+            1534,
+            2260,
+            1658
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7850733391",
+        "Coordinate": [
+            1863,
+            1808,
+            2291,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9774813501",
+        "Coordinate": [
+            896,
+            1814,
+            1294,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Hindi",
+        "Coordinate": [
+            896,
+            1954,
+            1699,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Dugar - 8029123872",
+        "Coordinate": [
+            961,
+            2061,
+            1972,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagdish Raval - 8736642799",
+        "Coordinate": [
+            960,
+            2194,
+            1943,
+            2306
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GVSDJ8330U",
+        "Coordinate": [
+            1631,
+            2397,
+            2055,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            598,
+            2491,
+            828,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2024",
+        "Coordinate": [
+            605,
+            2583,
+            934,
+            2665
+        ]
+    }
+]

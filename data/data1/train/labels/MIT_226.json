@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krish Sunder",
+        "Coordinate": [
+            898,
+            393,
+            1334,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Imaran Sunder",
+        "Coordinate": [
+            915,
+            487,
+            1458,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/13/1982",
+        "Coordinate": [
+            900,
+            590,
+            1203,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            687,
+            1208,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            789,
+            1171,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1828,
+            788,
+            2012,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            889,
+            2086,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            948,
+            895,
+            1072,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bath  Morar and Sem",
+        "Coordinate": [
+            966,
+            980,
+            2183,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kant-Ganesan",
+        "Coordinate": [
+            997,
+            1099,
+            1978,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/29, Bahri Circle, Nadiad-558108",
+        "Coordinate": [
+            883,
+            1243,
+            1989,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "32/86, Mannan Ganj, Dindigul-638300",
+        "Coordinate": [
+            885,
+            1504,
+            2087,
+            1706
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9137725452",
+        "Coordinate": [
+            1851,
+            1753,
+            2287,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8146301169",
+        "Coordinate": [
+            899,
+            1755,
+            1286,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Marathi, Tamil",
+        "Coordinate": [
+            861,
+            1888,
+            2065,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harsh Thaker - 8939866546",
+        "Coordinate": [
+            989,
+            2003,
+            2003,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedhika Basak - 7722650085",
+        "Coordinate": [
+            1009,
+            2129,
+            2067,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "766000000000.0",
+        "Coordinate": [
+            624,
+            2329,
+            1156,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            635,
+            2424,
+            909,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-07-2023",
+        "Coordinate": [
+            623,
+            2516,
+            996,
+            2598
+        ]
+    }
+]

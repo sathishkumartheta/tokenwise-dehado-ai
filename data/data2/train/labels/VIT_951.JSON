@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samuel Bandi",
+        "Coordinate": [
+            906,
+            413,
+            1425,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dalbir Bandi",
+        "Coordinate": [
+            898,
+            506,
+            1416,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/11/1984",
+        "Coordinate": [
+            922,
+            612,
+            1240,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            711,
+            1109,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            813,
+            1167,
+            903
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1833,
+            812,
+            2059,
+            897
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            910,
+            2155,
+            1001
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            922,
+            919,
+            1084,
+            1005
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Natt and Sons",
+        "Coordinate": [
+            975,
+            1009,
+            1852,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Balakrishnan  Parmer and Kannan",
+        "Coordinate": [
+            967,
+            1115,
+            2323,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24, Zacharia Circle, Dewas-046485",
+        "Coordinate": [
+            920,
+            1252,
+            2126,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 693, Mandal Street, Thoothukudi 411935",
+        "Coordinate": [
+            877,
+            1508,
+            2126,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8790370681",
+        "Coordinate": [
+            1867,
+            1779,
+            2260,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8885491661",
+        "Coordinate": [
+            892,
+            1782,
+            1279,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Tamil, Telugu",
+        "Coordinate": [
+            888,
+            1921,
+            1977,
+            2020
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Guneet Agarwal - 8019863056",
+        "Coordinate": [
+            968,
+            2026,
+            1991,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yochana Borah - 8222637732",
+        "Coordinate": [
+            983,
+            2152,
+            1953,
+            2256
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "552485000000",
+        "Coordinate": [
+            597,
+            2364,
+            1045,
+            2449
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PYDIT7659X",
+        "Coordinate": [
+            1648,
+            2364,
+            2069,
+            2455
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            624,
+            2459,
+            877,
+            2539
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/29/2024",
+        "Coordinate": [
+            625,
+            2554,
+            1001,
+            2642
+        ]
+    }
+]

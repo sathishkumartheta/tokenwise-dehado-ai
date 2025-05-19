@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Max Bhat",
+        "Coordinate": [
+            882,
+            392,
+            1182,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hemang Bhat",
+        "Coordinate": [
+            887,
+            491,
+            1314,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/23/1974",
+        "Coordinate": [
+            891,
+            589,
+            1226,
+            669
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            888,
+            683,
+            1019,
+            769
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            785,
+            1142,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1811,
+            781,
+            1990,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            886,
+            2070,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sood Group",
+        "Coordinate": [
+            957,
+            978,
+            1756,
+            1078
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Yadav Inc",
+        "Coordinate": [
+            950,
+            1090,
+            1720,
+            1195
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "717, Soni Zila, Salem 974909",
+        "Coordinate": [
+            881,
+            1223,
+            1944,
+            1349
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73/997, Krishnamurthy Nagar, Ghaziabad-725878",
+        "Coordinate": [
+            863,
+            1469,
+            2289,
+            1617
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7766151709",
+        "Coordinate": [
+            1853,
+            1743,
+            2247,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7611840391",
+        "Coordinate": [
+            880,
+            1756,
+            1241,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            883,
+            1892,
+            1407,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandani Lalla - 9329609659",
+        "Coordinate": [
+            958,
+            1994,
+            1941,
+            2088
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harita Maharaj - 9267460800",
+        "Coordinate": [
+            941,
+            2113,
+            1964,
+            2212
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "788000000000.0",
+        "Coordinate": [
+            583,
+            2328,
+            1042,
+            2403
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            591,
+            2422,
+            847,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/18/2022",
+        "Coordinate": [
+            584,
+            2511,
+            943,
+            2594
+        ]
+    }
+]

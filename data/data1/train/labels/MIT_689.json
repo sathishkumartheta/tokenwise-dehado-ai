@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zansi Karpe",
+        "Coordinate": [
+            878,
+            435,
+            1258,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Karpe",
+        "Coordinate": [
+            881,
+            537,
+            1318,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/24/1980",
+        "Coordinate": [
+            887,
+            637,
+            1183,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            886,
+            740,
+            1132,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            840,
+            1158,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1819,
+            834,
+            2051,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            946,
+            2107,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            893,
+            942,
+            1006,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Savant  Nagarajan and Dewan",
+        "Coordinate": [
+            938,
+            1042,
+            2169,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bobal and Sons",
+        "Coordinate": [
+            941,
+            1158,
+            1911,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "63/73, Chahal Zila, Medininagar-310886",
+        "Coordinate": [
+            880,
+            1286,
+            2009,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 659, Bal Road, Noida-803648",
+        "Coordinate": [
+            882,
+            1533,
+            2058,
+            1684
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8622928146",
+        "Coordinate": [
+            1870,
+            1812,
+            2236,
+            1932
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8155309589",
+        "Coordinate": [
+            899,
+            1809,
+            1304,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            999,
+            1946,
+            1580,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "George Barad - 9843961123",
+        "Coordinate": [
+            986,
+            2057,
+            1863,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kai Bir - 7096839421",
+        "Coordinate": [
+            1001,
+            2189,
+            1751,
+            2307
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NJMDJ8759W",
+        "Coordinate": [
+            1626,
+            2394,
+            2087,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            626,
+            2481,
+            892,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-11-2024",
+        "Coordinate": [
+            628,
+            2572,
+            1005,
+            2662
+        ]
+    }
+]

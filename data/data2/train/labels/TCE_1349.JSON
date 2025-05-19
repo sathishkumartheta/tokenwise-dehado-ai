@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Benjamin Chatterjee",
+        "Coordinate": [
+            900,
+            472,
+            1522,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aadi Chatterjee",
+        "Coordinate": [
+            908,
+            572,
+            1422,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/3/1972",
+        "Coordinate": [
+            892,
+            672,
+            1242,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            918,
+            744,
+            1170,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            848,
+            1174,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            858,
+            1942,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            953,
+            2046,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            912,
+            954,
+            1066,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Venkatesh-Bal",
+        "Coordinate": [
+            995,
+            1048,
+            1823,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Shroff-Chada",
+        "Coordinate": [
+            1012,
+            1152,
+            1816,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "045, Karpe, Narasaraopet 963845",
+        "Coordinate": [
+            910,
+            1258,
+            2022,
+            1385
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46/819, Rajagopalan Marg, Nellore-037363",
+        "Coordinate": [
+            921,
+            1502,
+            2226,
+            1611
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7945299161",
+        "Coordinate": [
+            884,
+            1776,
+            1304,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9650013441",
+        "Coordinate": [
+            1538,
+            1824,
+            1980,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Kannada, English",
+        "Coordinate": [
+            894,
+            1898,
+            1884,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Sridhar - 7579885466",
+        "Coordinate": [
+            966,
+            2004,
+            2034,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zarna Boase - 7159017353",
+        "Coordinate": [
+            954,
+            2128,
+            1846,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            594,
+            2408,
+            894,
+            2475
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/20/2022",
+        "Coordinate": [
+            610,
+            2488,
+            990,
+            2575
+        ]
+    }
+]

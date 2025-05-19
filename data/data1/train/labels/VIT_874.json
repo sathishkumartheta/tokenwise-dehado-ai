@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wahab Hayre",
+        "Coordinate": [
+            882,
+            440,
+            1446,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Hayre",
+        "Coordinate": [
+            892,
+            536,
+            1482,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/23/1988",
+        "Coordinate": [
+            912,
+            641,
+            1297,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            899,
+            738,
+            1517,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            840,
+            1237,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1741,
+            833,
+            1939,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            947,
+            2029,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            909,
+            947,
+            1026,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Deshmukh-Sen",
+        "Coordinate": [
+            971,
+            1044,
+            2053,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dewan  Kumar and Jani",
+        "Coordinate": [
+            956,
+            1148,
+            2350,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 909, Dutta Circle, North Dumdum-814647",
+        "Coordinate": [
+            913,
+            1283,
+            2341,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "607, Chowdhury Road, Allahabad 022525",
+        "Coordinate": [
+            901,
+            1540,
+            2322,
+            1763
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7740981618",
+        "Coordinate": [
+            1870,
+            1812,
+            2293,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8322659770",
+        "Coordinate": [
+            900,
+            1815,
+            1355,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Gujarati",
+        "Coordinate": [
+            893,
+            1948,
+            2020,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samaksh Buch - 9822590021",
+        "Coordinate": [
+            965,
+            2056,
+            2139,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aachal Chander - 7779787235",
+        "Coordinate": [
+            981,
+            2186,
+            2200,
+            2304
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CMMVP5904J",
+        "Coordinate": [
+            1644,
+            2395,
+            2135,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            604,
+            2488,
+            811,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-07-2024",
+        "Coordinate": [
+            619,
+            2578,
+            1000,
+            2672
+        ]
+    }
+]

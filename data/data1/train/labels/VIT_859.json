@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Kanda",
+        "Coordinate": [
+            873,
+            434,
+            1546,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Kanda",
+        "Coordinate": [
+            907,
+            535,
+            1455,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/29/1994",
+        "Coordinate": [
+            907,
+            637,
+            1298,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            892,
+            733,
+            1056,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            836,
+            1185,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1811,
+            835,
+            2089,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            942,
+            2107,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            897,
+            941,
+            1033,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Suri  Varughese and Mukhopadhyay",
+        "Coordinate": [
+            974,
+            1038,
+            2415,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Singh  Sethi and Zacharia",
+        "Coordinate": [
+            985,
+            1148,
+            2225,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "759, Wali Marg, Siwan-274823",
+        "Coordinate": [
+            901,
+            1272,
+            2244,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/54, Natarajan Chowk, Pune 336721",
+        "Coordinate": [
+            895,
+            1532,
+            2242,
+            1749
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7915168849",
+        "Coordinate": [
+            1872,
+            1805,
+            2316,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8196427234",
+        "Coordinate": [
+            894,
+            1810,
+            1353,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Gujarati",
+        "Coordinate": [
+            888,
+            1948,
+            1748,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falak Raja - 8199621428",
+        "Coordinate": [
+            987,
+            2061,
+            1980,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dominic Malhotra - 8248916619",
+        "Coordinate": [
+            985,
+            2185,
+            2243,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "860000000000.0",
+        "Coordinate": [
+            592,
+            2396,
+            1116,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            613,
+            2481,
+            1043,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-10-2022",
+        "Coordinate": [
+            616,
+            2578,
+            1028,
+            2674
+        ]
+    }
+]

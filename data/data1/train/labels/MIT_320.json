@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chanakya Dada",
+        "Coordinate": [
+            871,
+            389,
+            1370,
+            473
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Devansh Dada",
+        "Coordinate": [
+            868,
+            485,
+            1345,
+            570
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-07-1988",
+        "Coordinate": [
+            874,
+            586,
+            1159,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            871,
+            684,
+            1019,
+            766
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            880,
+            784,
+            1170,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            781,
+            1898,
+            856
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            885,
+            2072,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            879,
+            892,
+            985,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Basak and Sons",
+        "Coordinate": [
+            937,
+            985,
+            1886,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Venkatesh and Sons",
+        "Coordinate": [
+            952,
+            1101,
+            2025,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "91, Raju Nagar, Sirsa 531234",
+        "Coordinate": [
+            881,
+            1225,
+            1946,
+            1345
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 688, Sarin Street, Shivpuri 682938",
+        "Coordinate": [
+            877,
+            1478,
+            2237,
+            1610
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9476424294",
+        "Coordinate": [
+            1858,
+            1743,
+            2317,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8287646898",
+        "Coordinate": [
+            877,
+            1749,
+            1322,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Tamil, Hindi",
+        "Coordinate": [
+            870,
+            1892,
+            1881,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bina Baria - 8755651027",
+        "Coordinate": [
+            956,
+            2005,
+            1806,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wyatt Modi - 7147812807",
+        "Coordinate": [
+            949,
+            2128,
+            1847,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "482000000000.0",
+        "Coordinate": [
+            571,
+            2331,
+            1062,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            590,
+            2424,
+            869,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-09-2023",
+        "Coordinate": [
+            575,
+            2517,
+            983,
+            2600
+        ]
+    }
+]

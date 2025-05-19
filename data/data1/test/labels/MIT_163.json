@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagrati Som",
+        "Coordinate": [
+            864,
+            396,
+            1228,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jackson Som",
+        "Coordinate": [
+            868,
+            502,
+            1259,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-04-1994",
+        "Coordinate": [
+            883,
+            606,
+            1138,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            873,
+            708,
+            1149,
+            801
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            810,
+            1149,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            784,
+            2026,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            893,
+            2022,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            920,
+            904,
+            1047,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sidhu  Shenoy and Oak",
+        "Coordinate": [
+            957,
+            994,
+            1913,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Munshi and Sons",
+        "Coordinate": [
+            962,
+            1121,
+            1772,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "778, Prasad Nagar, Gangtok-407553",
+        "Coordinate": [
+            871,
+            1314,
+            1964,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "68/459, Balay Nagar, Jamnagar-999966",
+        "Coordinate": [
+            883,
+            1487,
+            2062,
+            1635
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7634075489",
+        "Coordinate": [
+            1847,
+            1742,
+            2266,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8545909566",
+        "Coordinate": [
+            898,
+            1761,
+            1326,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            898,
+            1894,
+            1415,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mahika Bhatt - 9303955906",
+        "Coordinate": [
+            949,
+            2021,
+            1866,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raghav Soman - 9423131880",
+        "Coordinate": [
+            953,
+            2153,
+            1815,
+            2262
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "924000000000.0",
+        "Coordinate": [
+            591,
+            2332,
+            1134,
+            2429
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CBRUC1009V",
+        "Coordinate": [
+            1648,
+            2333,
+            2093,
+            2439
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            608,
+            2429,
+            870,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2022",
+        "Coordinate": [
+            610,
+            2527,
+            987,
+            2619
+        ]
+    }
+]

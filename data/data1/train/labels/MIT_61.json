@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachita Johal",
+        "Coordinate": [
+            910,
+            395,
+            1392,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Upkaar Johal",
+        "Coordinate": [
+            919,
+            496,
+            1359,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/21/1980",
+        "Coordinate": [
+            928,
+            596,
+            1271,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            932,
+            690,
+            1079,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            788,
+            1193,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1824,
+            794,
+            2085,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            900,
+            2131,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            945,
+            890,
+            1074,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Lanka-Dar",
+        "Coordinate": [
+            1022,
+            993,
+            1836,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dugar Ltd",
+        "Coordinate": [
+            1041,
+            1108,
+            1882,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "521, Parekh Ganj, Anand 442067",
+        "Coordinate": [
+            909,
+            1234,
+            2159,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12, Arora Zila, Korba-365199",
+        "Coordinate": [
+            923,
+            1488,
+            2022,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8744773055",
+        "Coordinate": [
+            1871,
+            1756,
+            2331,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7692606461",
+        "Coordinate": [
+            899,
+            1760,
+            1319,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Gujarati, Malayalam",
+        "Coordinate": [
+            924,
+            1892,
+            2293,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Bains - 9058704523",
+        "Coordinate": [
+            963,
+            2005,
+            1990,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rudra Sawhney - 8947876386",
+        "Coordinate": [
+            972,
+            2133,
+            2135,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "601000000000.0",
+        "Coordinate": [
+            619,
+            2336,
+            1140,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            606,
+            2424,
+            968,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-06-2022",
+        "Coordinate": [
+            626,
+            2516,
+            1054,
+            2601
+        ]
+    }
+]

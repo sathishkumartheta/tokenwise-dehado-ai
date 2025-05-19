@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Laksh Palla",
+        "Coordinate": [
+            915,
+            471,
+            1315,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Palla",
+        "Coordinate": [
+            890,
+            576,
+            1331,
+            669
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/20/1973",
+        "Coordinate": [
+            910,
+            661,
+            1259,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            751,
+            1387,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            855,
+            1191,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            831,
+            1963,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            956,
+            2051,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            915,
+            945,
+            1055,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Cheema  Dasgupta and Boase",
+        "Coordinate": [
+            975,
+            1041,
+            2331,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bhagat PLC",
+        "Coordinate": [
+            995,
+            1145,
+            1855,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "12/161, Saini Chowk, Raurkela Industrial Township-973102",
+        "Coordinate": [
+            915,
+            1311,
+            2119,
+            1513
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 265, Tella Street, Mumbai-749888",
+        "Coordinate": [
+            895,
+            1520,
+            2287,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8014184072",
+        "Coordinate": [
+            895,
+            1781,
+            1331,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8933850200",
+        "Coordinate": [
+            1800,
+            1776,
+            2291,
+            1881
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Malayalam, Gujarati",
+        "Coordinate": [
+            880,
+            1895,
+            2179,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faqid Andra - 9700570879",
+        "Coordinate": [
+            950,
+            1996,
+            2023,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aadhya Virk - 7817712912",
+        "Coordinate": [
+            955,
+            2111,
+            2035,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            645,
+            2401,
+            899,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/12/2022",
+        "Coordinate": [
+            650,
+            2496,
+            1091,
+            2593
+        ]
+    }
+]

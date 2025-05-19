@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dhruv Atwal",
+        "Coordinate": [
+            910,
+            480,
+            1452,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jacob Atwal",
+        "Coordinate": [
+            947,
+            580,
+            1543,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/12/1966",
+        "Coordinate": [
+            950,
+            682,
+            1314,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            946,
+            770,
+            1346,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            875,
+            1374,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1718,
+            855,
+            2028,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            960,
+            2104,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            944,
+            960,
+            1112,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sagar  Sengupta and Sandal",
+        "Coordinate": [
+            1066,
+            1046,
+            2286,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Shere  Mammen and Mohanty",
+        "Coordinate": [
+            1008,
+            1170,
+            2252,
+            1293
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/07, Bhatia Ganj, Dewas-309666",
+        "Coordinate": [
+            919,
+            1282,
+            2308,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "960, Saraf Street, Phagwara-047164",
+        "Coordinate": [
+            912,
+            1532,
+            2278,
+            1635
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8828037869",
+        "Coordinate": [
+            910,
+            1782,
+            1344,
+            1857
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9140832705",
+        "Coordinate": [
+            1840,
+            1768,
+            2258,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu",
+        "Coordinate": [
+            916,
+            1934,
+            1746,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarini Nagi - 8699417424",
+        "Coordinate": [
+            972,
+            2024,
+            1990,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksha Ray - 7592397846",
+        "Coordinate": [
+            963,
+            2168,
+            2078,
+            2269
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            634,
+            2434,
+            906,
+            2525
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/5/2025",
+        "Coordinate": [
+            656,
+            2532,
+            1066,
+            2617
+        ]
+    }
+]

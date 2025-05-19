@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tara Sagar",
+        "Coordinate": [
+            873,
+            444,
+            1203,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udarsh Sagar",
+        "Coordinate": [
+            870,
+            543,
+            1290,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-08-1971",
+        "Coordinate": [
+            878,
+            646,
+            1141,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            877,
+            741,
+            1326,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            881,
+            848,
+            1075,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1743,
+            835,
+            1958,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            942,
+            2027,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            880,
+            952,
+            973,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Dave PLC",
+        "Coordinate": [
+            945,
+            1044,
+            1644,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Nadkarni Group",
+        "Coordinate": [
+            943,
+            1159,
+            1821,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 278, Kapur Path, Jehanabad-149241",
+        "Coordinate": [
+            869,
+            1302,
+            2226,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 730, Handa Marg, Dehri-830684",
+        "Coordinate": [
+            871,
+            1559,
+            2116,
+            1696
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9691197753",
+        "Coordinate": [
+            1855,
+            1810,
+            2186,
+            1898
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9967363316",
+        "Coordinate": [
+            868,
+            1822,
+            1222,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam",
+        "Coordinate": [
+            873,
+            1960,
+            1472,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pavani Varty - 9797951609",
+        "Coordinate": [
+            940,
+            2066,
+            1742,
+            2174
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pallavi Savant - 9052026651",
+        "Coordinate": [
+            938,
+            2194,
+            1836,
+            2306
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WFROL9070C",
+        "Coordinate": [
+            1611,
+            2395,
+            2012,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            576,
+            2491,
+            801,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-08-2023",
+        "Coordinate": [
+            576,
+            2583,
+            901,
+            2668
+        ]
+    }
+]

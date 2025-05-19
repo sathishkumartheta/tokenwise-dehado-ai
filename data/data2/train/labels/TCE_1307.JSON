@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishani Raja",
+        "Coordinate": [
+            906,
+            470,
+            1298,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abdul Raja",
+        "Coordinate": [
+            898,
+            568,
+            1320,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/12/1959",
+        "Coordinate": [
+            916,
+            672,
+            1324,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            750,
+            1256,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            851,
+            1244,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1877,
+            851,
+            2099,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            948,
+            2124,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Munshi-Modi",
+        "Coordinate": [
+            1008,
+            1038,
+            1988,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Tara-Manda",
+        "Coordinate": [
+            996,
+            1164,
+            2070,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 37, Sha Ganj, Rourkela-953724",
+        "Coordinate": [
+            954,
+            1268,
+            2250,
+            1383
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/22, Murty Marg, Ramagundam 692009",
+        "Coordinate": [
+            898,
+            1502,
+            2284,
+            1605
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8594278098",
+        "Coordinate": [
+            880,
+            1774,
+            1310,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8149192237",
+        "Coordinate": [
+            1822,
+            1778,
+            2252,
+            1881
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Bengali, Hindi",
+        "Coordinate": [
+            906,
+            1896,
+            2026,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Maanas Pal - 7800599801",
+        "Coordinate": [
+            966,
+            1998,
+            2012,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warinder Muni - 7310717594",
+        "Coordinate": [
+            978,
+            2136,
+            2006,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            616,
+            2410,
+            868,
+            2479
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/4/2025",
+        "Coordinate": [
+            606,
+            2492,
+            1028,
+            2573
+        ]
+    }
+]

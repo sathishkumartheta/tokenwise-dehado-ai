@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandran Chacko",
+        "Coordinate": [
+            923,
+            470,
+            1447,
+            564
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhimanyu Chacko",
+        "Coordinate": [
+            920,
+            574,
+            1511,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/10/1964",
+        "Coordinate": [
+            957,
+            680,
+            1314,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            943,
+            754,
+            1282,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            867,
+            1210,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            940,
+            957,
+            1047,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1743,
+            840,
+            1924,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            954,
+            2055,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Datta-Gandhi",
+        "Coordinate": [
+            1003,
+            1044,
+            2015,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Borah  Wali and Chander",
+        "Coordinate": [
+            993,
+            1164,
+            2204,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81/23, Vyas Marg, Yamunanagar 882323",
+        "Coordinate": [
+            917,
+            1294,
+            2314,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 395, Gera Street, Bilaspur 570317",
+        "Coordinate": [
+            909,
+            1534,
+            2225,
+            1636
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7830986259",
+        "Coordinate": [
+            927,
+            1780,
+            1346,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7646111695",
+        "Coordinate": [
+            1857,
+            1767,
+            2282,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Tamil",
+        "Coordinate": [
+            930,
+            1907,
+            1797,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harshil Bhalla - 7772485085",
+        "Coordinate": [
+            960,
+            2014,
+            1997,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanish Dutt - 8567614459",
+        "Coordinate": [
+            1003,
+            2140,
+            2050,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            663,
+            2424,
+            962,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/9/2024",
+        "Coordinate": [
+            653,
+            2520,
+            1092,
+            2606
+        ]
+    }
+]

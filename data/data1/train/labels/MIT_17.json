@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Neel D\u2019Alia",
+        "Coordinate": [
+            887,
+            386,
+            1392,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham D\u2019Alia",
+        "Coordinate": [
+            926,
+            492,
+            1620,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-05-1994",
+        "Coordinate": [
+            993,
+            593,
+            1402,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            968,
+            690,
+            1543,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            972,
+            796,
+            1276,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1841,
+            780,
+            2060,
+            893
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            897,
+            2107,
+            994
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1044,
+            899,
+            1246,
+            991
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Shere Group",
+        "Coordinate": [
+            1039,
+            998,
+            1977,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Guha PLC",
+        "Coordinate": [
+            1055,
+            1114,
+            1881,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70/348, Mani Street, Shivpuri 093248",
+        "Coordinate": [
+            910,
+            1240,
+            2340,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 317, Dube Zila, Jalna 677378",
+        "Coordinate": [
+            892,
+            1472,
+            2311,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7330675335",
+        "Coordinate": [
+            1692,
+            1803,
+            2239,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7691110573",
+        "Coordinate": [
+            878,
+            1754,
+            1319,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Malayalam",
+        "Coordinate": [
+            937,
+            1895,
+            2026,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Leela Halder - 9818402023",
+        "Coordinate": [
+            982,
+            2014,
+            2140,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaraj Majumdar - 9852615971",
+        "Coordinate": [
+            995,
+            2150,
+            2162,
+            2270
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WWSYF9966T",
+        "Coordinate": [
+            1648,
+            2326,
+            2197,
+            2438
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            629,
+            2413,
+            1048,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/25/2024",
+        "Coordinate": [
+            577,
+            2517,
+            1102,
+            2621
+        ]
+    }
+]

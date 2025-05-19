@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Andrew Borah",
+        "Coordinate": [
+            898,
+            396,
+            1394,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advaith Borah",
+        "Coordinate": [
+            895,
+            498,
+            1416,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/2003",
+        "Coordinate": [
+            895,
+            594,
+            1247,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            893,
+            692,
+            1197,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            901,
+            792,
+            1130,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1786,
+            785,
+            1976,
+            859
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            888,
+            2088,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            901,
+            895,
+            1008,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Raju-Mandal",
+        "Coordinate": [
+            955,
+            984,
+            1813,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ram  Sengupta and Khanna",
+        "Coordinate": [
+            939,
+            1107,
+            2312,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 77, Sha Street, Rajahmundry-426425",
+        "Coordinate": [
+            891,
+            1258,
+            2333,
+            1389
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 20, Roy Chowk, Rewa 536667",
+        "Coordinate": [
+            881,
+            1486,
+            2153,
+            1630
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7638323528",
+        "Coordinate": [
+            1867,
+            1752,
+            2287,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8528753187",
+        "Coordinate": [
+            883,
+            1757,
+            1333,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            884,
+            1894,
+            1368,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sachi Rama - 8264058642",
+        "Coordinate": [
+            948,
+            2004,
+            1836,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Januja Nazareth - 9555495545",
+        "Coordinate": [
+            953,
+            2126,
+            2042,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "952000000000.0",
+        "Coordinate": [
+            596,
+            2339,
+            1201,
+            2430
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            610,
+            2429,
+            900,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/25/2024",
+        "Coordinate": [
+            580,
+            2519,
+            967,
+            2601
+        ]
+    }
+]

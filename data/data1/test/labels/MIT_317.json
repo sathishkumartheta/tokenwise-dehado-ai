@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaman Singhal",
+        "Coordinate": [
+            890,
+            387,
+            1514,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranbir Singhal",
+        "Coordinate": [
+            903,
+            482,
+            1585,
+            576
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-06-1980",
+        "Coordinate": [
+            884,
+            591,
+            1211,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            898,
+            685,
+            1292,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            890,
+            788,
+            1164,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1739,
+            782,
+            2058,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            894,
+            2138,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            903,
+            891,
+            1099,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Mammen-Mannan",
+        "Coordinate": [
+            972,
+            974,
+            2249,
+            1080
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Wali  Tiwari and Bajaj",
+        "Coordinate": [
+            969,
+            1083,
+            2270,
+            1202
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 38, Venkataraman Circle, Bally-279050",
+        "Coordinate": [
+            880,
+            1212,
+            2283,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 33, Joshi Ganj, Jammu 951632",
+        "Coordinate": [
+            881,
+            1483,
+            1970,
+            1667
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7201748047",
+        "Coordinate": [
+            1863,
+            1747,
+            2322,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8163039072",
+        "Coordinate": [
+            876,
+            1761,
+            1340,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Tamil",
+        "Coordinate": [
+            872,
+            1886,
+            2046,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gautam Chandra - 8047999959",
+        "Coordinate": [
+            931,
+            1996,
+            2313,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unnati Dasgupta - 7089946146",
+        "Coordinate": [
+            943,
+            2120,
+            2300,
+            2225
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "842000000000.0",
+        "Coordinate": [
+            613,
+            2332,
+            1230,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            610,
+            2416,
+            887,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/26/2024",
+        "Coordinate": [
+            648,
+            2512,
+            1153,
+            2601
+        ]
+    }
+]

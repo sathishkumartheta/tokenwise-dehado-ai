@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshmi Garde",
+        "Coordinate": [
+            875,
+            432,
+            1520,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lakshit Garde",
+        "Coordinate": [
+            882,
+            547,
+            1502,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/15/1980",
+        "Coordinate": [
+            892,
+            657,
+            1350,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            942,
+            757,
+            1097,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            870,
+            860,
+            1102,
+            957
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1845,
+            815,
+            2205,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            897,
+            970,
+            1014,
+            1040
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            962,
+            2167,
+            1062
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sathe PLC",
+        "Coordinate": [
+            1107,
+            1050,
+            1955,
+            1172
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ravi Group",
+        "Coordinate": [
+            1087,
+            1180,
+            2147,
+            1292
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 48, Shanker Marg, Jamshedpur-618277",
+        "Coordinate": [
+            895,
+            1312,
+            1935,
+            1532
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74, Sahni, Kadapa-527331",
+        "Coordinate": [
+            877,
+            1552,
+            2105,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7642996220",
+        "Coordinate": [
+            870,
+            1819,
+            1355,
+            1934
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7844862055",
+        "Coordinate": [
+            1895,
+            1815,
+            2340,
+            1942
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Malayalam, Gujarati",
+        "Coordinate": [
+            882,
+            1945,
+            2310,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eesha Sagar - 8266453513",
+        "Coordinate": [
+            992,
+            2052,
+            2035,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Eta Mane - 8297662806",
+        "Coordinate": [
+            1022,
+            2197,
+            2095,
+            2322
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZPSPF5948G",
+        "Coordinate": [
+            1637,
+            2392,
+            2225,
+            2495
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "319409000000",
+        "Coordinate": [
+            577,
+            2387,
+            1247,
+            2497
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            605,
+            2485,
+            1200,
+            2585
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/18/2025",
+        "Coordinate": [
+            599,
+            2592,
+            1022,
+            2687
+        ]
+    }
+]

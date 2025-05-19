@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kashvi Suresh",
+        "Coordinate": [
+            899,
+            428,
+            1415,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Robert Suresh",
+        "Coordinate": [
+            900,
+            536,
+            1458,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-11-1963",
+        "Coordinate": [
+            909,
+            638,
+            1308,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            911,
+            736,
+            1453,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            842,
+            1178,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1865,
+            836,
+            2117,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1897,
+            943,
+            2185,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            942,
+            945,
+            1067,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Morar  Tata and Walla",
+        "Coordinate": [
+            983,
+            1041,
+            2241,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Babu-Bansal",
+        "Coordinate": [
+            1007,
+            1148,
+            1980,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 06, Kakar Zila, Jorhat 931027",
+        "Coordinate": [
+            896,
+            1287,
+            2333,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/20, Bedi Street, Jalandhar 929111",
+        "Coordinate": [
+            895,
+            1527,
+            2316,
+            1682
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8613608564",
+        "Coordinate": [
+            1871,
+            1803,
+            2333,
+            1937
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7066917786",
+        "Coordinate": [
+            871,
+            1813,
+            1332,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi",
+        "Coordinate": [
+            892,
+            1948,
+            1615,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Thomas Bhatnagar - 7356842626",
+        "Coordinate": [
+            980,
+            2068,
+            2129,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pooja Nazareth - 9970879515",
+        "Coordinate": [
+            975,
+            2189,
+            2290,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "918000000000.0",
+        "Coordinate": [
+            584,
+            2384,
+            1141,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            617,
+            2480,
+            1047,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/25/2024",
+        "Coordinate": [
+            642,
+            2577,
+            1078,
+            2680
+        ]
+    }
+]

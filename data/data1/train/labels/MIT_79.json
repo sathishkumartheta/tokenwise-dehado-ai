@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darpan Purohit",
+        "Coordinate": [
+            876,
+            410,
+            1379,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anmol Purohit",
+        "Coordinate": [
+            880,
+            514,
+            1350,
+            608
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/25/1988",
+        "Coordinate": [
+            881,
+            612,
+            1185,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            879,
+            706,
+            1153,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            811,
+            1165,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            792,
+            1958,
+            886
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            898,
+            2072,
+            1007
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            883,
+            909,
+            982,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Lalla-De",
+        "Coordinate": [
+            950,
+            985,
+            1577,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kumer Inc",
+        "Coordinate": [
+            961,
+            1109,
+            1627,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "20/259, Mitra Nagar, Chapra 158328",
+        "Coordinate": [
+            888,
+            1290,
+            2049,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88, Chanda Marg, Korba 555439",
+        "Coordinate": [
+            885,
+            1486,
+            1960,
+            1640
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7755883093",
+        "Coordinate": [
+            1854,
+            1746,
+            2253,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8731213524",
+        "Coordinate": [
+            904,
+            1759,
+            1281,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Marathi",
+        "Coordinate": [
+            901,
+            1900,
+            1732,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aditya Contractor - 7424401012",
+        "Coordinate": [
+            948,
+            2004,
+            1839,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanaya Khosla - 8683135780",
+        "Coordinate": [
+            963,
+            2128,
+            1811,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "841000000000.0",
+        "Coordinate": [
+            597,
+            2339,
+            1013,
+            2423
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LWZBP4690J",
+        "Coordinate": [
+            1634,
+            2335,
+            2094,
+            2433
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            602,
+            2434,
+            876,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-02-2025",
+        "Coordinate": [
+            596,
+            2527,
+            947,
+            2616
+        ]
+    }
+]

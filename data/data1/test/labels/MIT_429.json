@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jacob Lad",
+        "Coordinate": [
+            927,
+            447,
+            1299,
+            543
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Lad",
+        "Coordinate": [
+            928,
+            549,
+            1319,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-05-1982",
+        "Coordinate": [
+            929,
+            649,
+            1255,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            944,
+            744,
+            1282,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            850,
+            1214,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1792,
+            830,
+            1982,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            940,
+            2104,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            939,
+            952,
+            1039,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Vohra PLC",
+        "Coordinate": [
+            1012,
+            1045,
+            1966,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Som and Sons",
+        "Coordinate": [
+            1033,
+            1149,
+            2074,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 97, Kurian Marg, Satara-567078",
+        "Coordinate": [
+            941,
+            1297,
+            2318,
+            1448
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "55/426, Bala Zila, Hajipur-227362",
+        "Coordinate": [
+            924,
+            1551,
+            2232,
+            1689
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9365413257",
+        "Coordinate": [
+            1938,
+            1793,
+            2392,
+            1887
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7346252052",
+        "Coordinate": [
+            940,
+            1810,
+            1402,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Bengali, Gujarati",
+        "Coordinate": [
+            910,
+            1938,
+            2198,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samuel Gole - 7214908490",
+        "Coordinate": [
+            1017,
+            2053,
+            2034,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Patrick Gill - 8813412883",
+        "Coordinate": [
+            1026,
+            2185,
+            2029,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "256000000000.0",
+        "Coordinate": [
+            647,
+            2392,
+            1259,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            671,
+            2487,
+            912,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/20/2022",
+        "Coordinate": [
+            668,
+            2580,
+            1043,
+            2669
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manthan Chhabra",
+        "Coordinate": [
+            885,
+            391,
+            1385,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Chhabra",
+        "Coordinate": [
+            923,
+            489,
+            1416,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-08-1978",
+        "Coordinate": [
+            934,
+            590,
+            1232,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            994,
+            685,
+            1278,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            989,
+            783,
+            1201,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1902,
+            785,
+            2085,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1897,
+            896,
+            2104,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1011,
+            893,
+            1154,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Viswanathan-Tak",
+        "Coordinate": [
+            1044,
+            987,
+            1999,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Thaman Group",
+        "Coordinate": [
+            1050,
+            1101,
+            1847,
+            1202
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 527, Grewal Road, Naihati 932966",
+        "Coordinate": [
+            949,
+            1227,
+            2191,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12, Sood Street, Kulti 463745",
+        "Coordinate": [
+            939,
+            1494,
+            1891,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9008397508",
+        "Coordinate": [
+            1859,
+            1747,
+            2248,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9422849895",
+        "Coordinate": [
+            927,
+            1754,
+            1317,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Tamil",
+        "Coordinate": [
+            923,
+            1895,
+            1707,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advay Lal - 8405272621",
+        "Coordinate": [
+            973,
+            2001,
+            1810,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warinder Bhatia - 8749356939",
+        "Coordinate": [
+            979,
+            2123,
+            2098,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "468000000000.0",
+        "Coordinate": [
+            615,
+            2335,
+            1103,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            632,
+            2423,
+            863,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/17/2025",
+        "Coordinate": [
+            618,
+            2517,
+            972,
+            2606
+        ]
+    }
+]

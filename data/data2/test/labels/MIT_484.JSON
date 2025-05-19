@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ethan Minhas",
+        "Coordinate": [
+            932,
+            557,
+            1520,
+            642
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wahab Minhas",
+        "Coordinate": [
+            970,
+            635,
+            1567,
+            735
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/28/1999",
+        "Coordinate": [
+            965,
+            740,
+            1362,
+            840
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            900,
+            852,
+            1280,
+            940
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            932,
+            942,
+            1205,
+            1035
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1757,
+            940,
+            1942,
+            1022
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            1035,
+            2147,
+            1140
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            922,
+            1040,
+            1077,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Khalsa  Brahmbhatt and Sagar",
+        "Coordinate": [
+            989,
+            1147,
+            2342,
+            1292
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Pandya and Sons",
+        "Coordinate": [
+            977,
+            1250,
+            2282,
+            1360
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83, Chakrabarti Chowk, Sambalpur 737260",
+        "Coordinate": [
+            890,
+            1380,
+            2352,
+            1590
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 148, Sampath, Begusarai-826493",
+        "Coordinate": [
+            919,
+            1645,
+            2260,
+            1850
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9798573192",
+        "Coordinate": [
+            915,
+            1925,
+            1380,
+            2022
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7238680789",
+        "Coordinate": [
+            1920,
+            1885,
+            2380,
+            2010
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil",
+        "Coordinate": [
+            917,
+            2042,
+            1625,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Karan Das - 8514938414",
+        "Coordinate": [
+            1002,
+            2140,
+            2065,
+            2252
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mitali Hegde - 7789546909",
+        "Coordinate": [
+            967,
+            2287,
+            2135,
+            2412
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "751687000000",
+        "Coordinate": [
+            615,
+            2485,
+            1225,
+            2572
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XJXSG0726G",
+        "Coordinate": [
+            1632,
+            2485,
+            2192,
+            2577
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            612,
+            2577,
+            1020,
+            2660
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/14/2022",
+        "Coordinate": [
+            685,
+            2662,
+            1102,
+            2760
+        ]
+    }
+]

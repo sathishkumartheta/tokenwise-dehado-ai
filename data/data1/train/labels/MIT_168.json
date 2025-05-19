@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Matthew Tata",
+        "Coordinate": [
+            885,
+            392,
+            1301,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charan Tata",
+        "Coordinate": [
+            895,
+            491,
+            1285,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/23/1995",
+        "Coordinate": [
+            907,
+            589,
+            1207,
+            670
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            899,
+            683,
+            1325,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            788,
+            1156,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            788,
+            1931,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            888,
+            2053,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            887,
+            890,
+            976,
+            964
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Garg  Krishnamurthy and Chandran",
+        "Coordinate": [
+            948,
+            979,
+            2213,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Nair  Rama and Deol",
+        "Coordinate": [
+            953,
+            1100,
+            1967,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "57/150, Sen, Sasaram 890309",
+        "Coordinate": [
+            880,
+            1237,
+            1754,
+            1345
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "639, Bhasin Zila, Dindigul 432630",
+        "Coordinate": [
+            883,
+            1465,
+            1945,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7326005971",
+        "Coordinate": [
+            1855,
+            1746,
+            2221,
+            1830
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8734149090",
+        "Coordinate": [
+            880,
+            1747,
+            1251,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Malayalam, Marathi",
+        "Coordinate": [
+            891,
+            1881,
+            1822,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sachi Narasimhan - 9716420748",
+        "Coordinate": [
+            940,
+            1995,
+            1878,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arunima Nadkarni - 9981743425",
+        "Coordinate": [
+            937,
+            2121,
+            1895,
+            2217
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "266000000000.0",
+        "Coordinate": [
+            588,
+            2327,
+            988,
+            2403
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            597,
+            2417,
+            824,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/18/2025",
+        "Coordinate": [
+            599,
+            2509,
+            960,
+            2593
+        ]
+    }
+]

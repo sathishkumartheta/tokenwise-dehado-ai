@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faras Trivedi",
+        "Coordinate": [
+            891,
+            389,
+            1301,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wriddhish Trivedi",
+        "Coordinate": [
+            893,
+            487,
+            1491,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/20/1971",
+        "Coordinate": [
+            893,
+            589,
+            1163,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            877,
+            682,
+            1185,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            880,
+            781,
+            1064,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1859,
+            788,
+            2039,
+            879
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1871,
+            887,
+            2088,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            914,
+            884,
+            1072,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Majumdar  Narula and Mukhopadhyay",
+        "Coordinate": [
+            948,
+            976,
+            2297,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Char PLC",
+        "Coordinate": [
+            987,
+            1099,
+            1790,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "72/002, Kala Circle, Jorhat-322041",
+        "Coordinate": [
+            871,
+            1247,
+            2155,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43, Vohra Street, Amritsar 599302",
+        "Coordinate": [
+            906,
+            1512,
+            2199,
+            1657
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9948368785",
+        "Coordinate": [
+            1883,
+            1751,
+            2304,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8634996486",
+        "Coordinate": [
+            897,
+            1756,
+            1296,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Kannada",
+        "Coordinate": [
+            898,
+            1884,
+            1981,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Joshua Banik - 9220126458",
+        "Coordinate": [
+            947,
+            2006,
+            1975,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chandresh Malhotra - 8608018230",
+        "Coordinate": [
+            948,
+            2123,
+            2158,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UPXNC1512V",
+        "Coordinate": [
+            1697,
+            2332,
+            2165,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            585,
+            2412,
+            848,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2023",
+        "Coordinate": [
+            622,
+            2511,
+            1018,
+            2597
+        ]
+    }
+]

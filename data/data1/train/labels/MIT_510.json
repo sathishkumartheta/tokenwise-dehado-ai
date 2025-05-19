@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Unnati Chakrabarti",
+        "Coordinate": [
+            869,
+            398,
+            1510,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jairaj Chakrabarti",
+        "Coordinate": [
+            885,
+            498,
+            1511,
+            594
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/25/1987",
+        "Coordinate": [
+            935,
+            598,
+            1321,
+            691
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            941,
+            695,
+            1091,
+            786
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            803,
+            1208,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1870,
+            796,
+            2121,
+            891
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1921,
+            903,
+            2184,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            976,
+            905,
+            1106,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Garde-Walla",
+        "Coordinate": [
+            1003,
+            991,
+            1859,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bakshi  Vala and Butala",
+        "Coordinate": [
+            999,
+            1104,
+            2184,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "68/159, Shanker Road, Berhampore-531105",
+        "Coordinate": [
+            884,
+            1244,
+            1848,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 967, Sem Ganj, Kolhapur-891426",
+        "Coordinate": [
+            893,
+            1481,
+            1894,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9385210610",
+        "Coordinate": [
+            1855,
+            1760,
+            2304,
+            1869
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9469050180",
+        "Coordinate": [
+            895,
+            1757,
+            1340,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam",
+        "Coordinate": [
+            947,
+            1901,
+            1753,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urvi Reddy - 9697753213",
+        "Coordinate": [
+            971,
+            2009,
+            1944,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ayush Chawla - 8015271237",
+        "Coordinate": [
+            1002,
+            2138,
+            1956,
+            2248
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "500000000000.0",
+        "Coordinate": [
+            568,
+            2343,
+            1134,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            611,
+            2435,
+            933,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-06-2022",
+        "Coordinate": [
+            643,
+            2527,
+            1068,
+            2617
+        ]
+    }
+]

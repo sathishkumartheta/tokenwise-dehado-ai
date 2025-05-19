@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faqid Issac",
+        "Coordinate": [
+            915,
+            392,
+            1327,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Xavier Issac",
+        "Coordinate": [
+            918,
+            489,
+            1349,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/13/1967",
+        "Coordinate": [
+            930,
+            593,
+            1275,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            955,
+            688,
+            1113,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            944,
+            788,
+            1224,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1864,
+            789,
+            2042,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            894,
+            2103,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            942,
+            893,
+            1080,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Parekh  Dugal and Bora",
+        "Coordinate": [
+            983,
+            985,
+            2187,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Radhakrishnan Ltd",
+        "Coordinate": [
+            994,
+            1102,
+            2053,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "37, Chacko Zila, Saharanpur 300037",
+        "Coordinate": [
+            915,
+            1257,
+            2249,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89/23, Johal Zila, Rampur 598669",
+        "Coordinate": [
+            923,
+            1490,
+            2254,
+            1639
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7752278581",
+        "Coordinate": [
+            1899,
+            1751,
+            2319,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9088625766",
+        "Coordinate": [
+            930,
+            1752,
+            1367,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            921,
+            1891,
+            1543,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jonathan Srinivas - 8234229138",
+        "Coordinate": [
+            979,
+            2003,
+            2073,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harshil Swaminathan - 9474610666",
+        "Coordinate": [
+            970,
+            2123,
+            2209,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "888000000000.0",
+        "Coordinate": [
+            611,
+            2336,
+            1133,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            650,
+            2422,
+            916,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-10-2025",
+        "Coordinate": [
+            621,
+            2514,
+            1000,
+            2596
+        ]
+    }
+]

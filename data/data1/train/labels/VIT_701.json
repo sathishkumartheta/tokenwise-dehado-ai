@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekansh Sathe",
+        "Coordinate": [
+            888,
+            404,
+            1411,
+            503
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Sathe",
+        "Coordinate": [
+            894,
+            504,
+            1460,
+            603
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-10-1992",
+        "Coordinate": [
+            903,
+            602,
+            1275,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            908,
+            702,
+            1470,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            811,
+            1214,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1809,
+            810,
+            2019,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            914,
+            2110,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            940,
+            911,
+            1083,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Mahajan-Gopal",
+        "Coordinate": [
+            997,
+            1014,
+            2082,
+            1131
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kade LLC",
+        "Coordinate": [
+            1001,
+            1133,
+            1913,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "732, Venkatesh Chowk, Narasaraopet 921510",
+        "Coordinate": [
+            917,
+            1255,
+            2211,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07, Gandhi Chowk, Bardhaman 486965",
+        "Coordinate": [
+            900,
+            1513,
+            2332,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7400765026",
+        "Coordinate": [
+            1872,
+            1795,
+            2325,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7432551115",
+        "Coordinate": [
+            876,
+            1786,
+            1316,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Tamil",
+        "Coordinate": [
+            883,
+            1920,
+            1850,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Watika Bir - 8098424139",
+        "Coordinate": [
+            939,
+            2030,
+            1985,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishanvi Soni - 9752885469",
+        "Coordinate": [
+            949,
+            2171,
+            2180,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MLAJL7094I",
+        "Coordinate": [
+            1628,
+            2370,
+            2103,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            586,
+            2447,
+            893,
+            2539
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2023",
+        "Coordinate": [
+            578,
+            2541,
+            998,
+            2643
+        ]
+    }
+]

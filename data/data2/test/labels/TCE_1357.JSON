@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekanta Wable",
+        "Coordinate": [
+            900,
+            471,
+            1441,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Wable",
+        "Coordinate": [
+            920,
+            576,
+            1413,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/7/1991",
+        "Coordinate": [
+            910,
+            665,
+            1357,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            945,
+            756,
+            1153,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            850,
+            1237,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1735,
+            850,
+            1997,
+            951
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            925,
+            931,
+            1109,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1764,
+            956,
+            2044,
+            1059
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Murty-Purohit",
+        "Coordinate": [
+            1005,
+            1041,
+            2057,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Panchal  Halder and Kala",
+        "Coordinate": [
+            1000,
+            1151,
+            2217,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "73/264, Sarin Street, Hospet-301423",
+        "Coordinate": [
+            905,
+            1310,
+            2249,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "94, Mandal Ganj, Berhampore 627664",
+        "Coordinate": [
+            930,
+            1536,
+            1993,
+            1735
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7975257167",
+        "Coordinate": [
+            880,
+            1771,
+            1337,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9400882973",
+        "Coordinate": [
+            1820,
+            1751,
+            2261,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali",
+        "Coordinate": [
+            910,
+            1911,
+            1533,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damyanti Vig - 7585041915",
+        "Coordinate": [
+            965,
+            2010,
+            2017,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ayaan Murty - 8561849869",
+        "Coordinate": [
+            949,
+            2131,
+            1952,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            620,
+            2386,
+            1005,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/7/2023",
+        "Coordinate": [
+            625,
+            2466,
+            1045,
+            2583
+        ]
+    }
+]

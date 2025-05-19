@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Garima Mammen",
+        "Coordinate": [
+            910,
+            483,
+            1619,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Mammen",
+        "Coordinate": [
+            900,
+            575,
+            1606,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/31/1998",
+        "Coordinate": [
+            908,
+            688,
+            1416,
+            767
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            878,
+            765,
+            1152,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            856,
+            1248,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            920,
+            972,
+            1108,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Pandit  Dutt and Dutta",
+        "Coordinate": [
+            982,
+            1041,
+            2275,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Deol-Sha",
+        "Coordinate": [
+            977,
+            1150,
+            1915,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 737, Bhagat Street, Fatehpur 117555",
+        "Coordinate": [
+            910,
+            1278,
+            2265,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "47, Pillay Ganj, Varanasi-744499",
+        "Coordinate": [
+            900,
+            1530,
+            2258,
+            1732
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8336405327",
+        "Coordinate": [
+            903,
+            1791,
+            1355,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8873241459",
+        "Coordinate": [
+            1848,
+            1786,
+            2300,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Kannada",
+        "Coordinate": [
+            910,
+            1920,
+            1991,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vritti Dash - 9646674220",
+        "Coordinate": [
+            974,
+            2028,
+            2011,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vinaya Swamy - 8101922301",
+        "Coordinate": [
+            979,
+            2142,
+            2068,
+            2265
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            609,
+            2423,
+            910,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/1/2022",
+        "Coordinate": [
+            614,
+            2517,
+            1002,
+            2611
+        ]
+    }
+]

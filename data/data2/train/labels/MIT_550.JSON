@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekansh Bava",
+        "Coordinate": [
+            897,
+            492,
+            1400,
+            580
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ojas Bava",
+        "Coordinate": [
+            920,
+            595,
+            1370,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/10/1973",
+        "Coordinate": [
+            927,
+            687,
+            1345,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            942,
+            800,
+            1505,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            955,
+            885,
+            1307,
+            972
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            862,
+            2052,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1007,
+            975,
+            1235,
+            1065
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            962,
+            2142,
+            1060
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mistry-Bhatnagar",
+        "Coordinate": [
+            1027,
+            1067,
+            2242,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Dua Ltd",
+        "Coordinate": [
+            1025,
+            1182,
+            1910,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "28, Basak Path, Guwahati 538307",
+        "Coordinate": [
+            929,
+            1300,
+            2295,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 82, Dutt Zila, South Dumdum-439567",
+        "Coordinate": [
+            935,
+            1567,
+            2272,
+            1752
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7716432270",
+        "Coordinate": [
+            952,
+            1795,
+            1397,
+            1900
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7546366672",
+        "Coordinate": [
+            1835,
+            1777,
+            2310,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            947,
+            1917,
+            1602,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavya Rana - 9604724818",
+        "Coordinate": [
+            1022,
+            2022,
+            1977,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanaya Bains - 9968410938",
+        "Coordinate": [
+            992,
+            2135,
+            2142,
+            2267
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "338095000000",
+        "Coordinate": [
+            637,
+            2337,
+            1292,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            655,
+            2427,
+            1010,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/3/2023",
+        "Coordinate": [
+            672,
+            2515,
+            1212,
+            2615
+        ]
+    }
+]

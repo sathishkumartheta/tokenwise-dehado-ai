@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Bhavsar",
+        "Coordinate": [
+            894,
+            391,
+            1513,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeremiah Bhavsar",
+        "Coordinate": [
+            919,
+            499,
+            1524,
+            602
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-02-1966",
+        "Coordinate": [
+            950,
+            600,
+            1256,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            944,
+            694,
+            1102,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            796,
+            1226,
+            897
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            798,
+            1941,
+            898
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            903,
+            2113,
+            1011
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1010,
+            900,
+            1141,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sur LLC",
+        "Coordinate": [
+            1054,
+            1003,
+            1736,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Dave-Keer",
+        "Coordinate": [
+            1043,
+            1127,
+            1941,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "13/57, Narasimhan Chowk, Bhimavaram 995562",
+        "Coordinate": [
+            921,
+            1255,
+            2372,
+            1471
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "364, Desai Path, Nangloi Jat 754781",
+        "Coordinate": [
+            901,
+            1471,
+            2251,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8893647203",
+        "Coordinate": [
+            1857,
+            1742,
+            2272,
+            1841
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7647101703",
+        "Coordinate": [
+            887,
+            1739,
+            1305,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, English",
+        "Coordinate": [
+            915,
+            1895,
+            1712,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Finn Mand - 8824972941",
+        "Coordinate": [
+            957,
+            2020,
+            1836,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ronith Lall - 8791850885",
+        "Coordinate": [
+            970,
+            2162,
+            1878,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "644000000000.0",
+        "Coordinate": [
+            648,
+            2335,
+            1207,
+            2436
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            713,
+            2434,
+            965,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/21/2023",
+        "Coordinate": [
+            792,
+            2521,
+            1162,
+            2631
+        ]
+    }
+]

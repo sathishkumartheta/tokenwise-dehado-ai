@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ronith Gara",
+        "Coordinate": [
+            900,
+            407,
+            1392,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Gara",
+        "Coordinate": [
+            877,
+            542,
+            1355,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/16/1993",
+        "Coordinate": [
+            905,
+            627,
+            1292,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            905,
+            735,
+            1205,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            837,
+            1190,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1810,
+            830,
+            2032,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            930,
+            2067,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            939,
+            927,
+            1070,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sur LLC",
+        "Coordinate": [
+            995,
+            1032,
+            1780,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhalla  Murthy and Iyengar",
+        "Coordinate": [
+            962,
+            1140,
+            2310,
+            1305
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/094, Vohra Street, Junagadh 625772",
+        "Coordinate": [
+            907,
+            1282,
+            2340,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/274, Bedi Zila, Ballia 579815",
+        "Coordinate": [
+            887,
+            1502,
+            2120,
+            1642
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8555324815",
+        "Coordinate": [
+            880,
+            1790,
+            1305,
+            1905
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8826030863",
+        "Coordinate": [
+            1830,
+            1777,
+            2217,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu",
+        "Coordinate": [
+            927,
+            1917,
+            1475,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gayathri Chand - 7374076948",
+        "Coordinate": [
+            942,
+            2040,
+            1914,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishanvi Pillai - 8289787566",
+        "Coordinate": [
+            945,
+            2180,
+            1947,
+            2280
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EDBYA8135C",
+        "Coordinate": [
+            1620,
+            2365,
+            2085,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            592,
+            2455,
+            935,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/7/2025",
+        "Coordinate": [
+            607,
+            2552,
+            1007,
+            2647
+        ]
+    }
+]

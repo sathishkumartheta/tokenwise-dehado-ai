@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Teerth D\u2019Alia",
+        "Coordinate": [
+            958,
+            405,
+            1485,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Utkarsh D\u2019Alia",
+        "Coordinate": [
+            959,
+            508,
+            1547,
+            612
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/2000",
+        "Coordinate": [
+            966,
+            614,
+            1320,
+            698
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            964,
+            710,
+            1316,
+            808
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            964,
+            815,
+            1131,
+            914
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1918,
+            812,
+            2099,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1906,
+            921,
+            2133,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            965,
+            913,
+            1081,
+            996
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhakta  More and Gill",
+        "Coordinate": [
+            1011,
+            997,
+            2193,
+            1118
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Arora Ltd",
+        "Coordinate": [
+            1025,
+            1118,
+            1863,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "758, Lad Circle, Serampore-410564",
+        "Coordinate": [
+            953,
+            1268,
+            2087,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/778, Bhakta Path, Tezpur 524191",
+        "Coordinate": [
+            943,
+            1483,
+            2082,
+            1621
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9696117187",
+        "Coordinate": [
+            1919,
+            1775,
+            2333,
+            1883
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9208949347",
+        "Coordinate": [
+            940,
+            1759,
+            1377,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Hindi",
+        "Coordinate": [
+            936,
+            1902,
+            1643,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashodhara Agate - 7681008656",
+        "Coordinate": [
+            1008,
+            2011,
+            1946,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Advik Konda - 7018730494",
+        "Coordinate": [
+            987,
+            2141,
+            1894,
+            2256
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DSDSB8997G",
+        "Coordinate": [
+            1664,
+            2357,
+            2095,
+            2454
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            622,
+            2427,
+            849,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/29/2023",
+        "Coordinate": [
+            623,
+            2527,
+            995,
+            2618
+        ]
+    }
+]

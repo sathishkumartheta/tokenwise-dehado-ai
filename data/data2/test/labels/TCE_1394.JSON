@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanmayi Pingle",
+        "Coordinate": [
+            905,
+            481,
+            1446,
+            546
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagat Pingle",
+        "Coordinate": [
+            940,
+            566,
+            1418,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/26/1959",
+        "Coordinate": [
+            925,
+            661,
+            1370,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            925,
+            745,
+            1090,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            856,
+            1210,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            920,
+            951,
+            1082,
+            1022
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            846,
+            2010,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            946,
+            2110,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ahuja Inc",
+        "Coordinate": [
+            1030,
+            1041,
+            1958,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Yogi-Ravel",
+        "Coordinate": [
+            1025,
+            1151,
+            1966,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "204, Bains Street, Kozhikode 470428",
+        "Coordinate": [
+            915,
+            1335,
+            2198,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 136, Devi Chowk, Naihati 893200",
+        "Coordinate": [
+            915,
+            1546,
+            2242,
+            1742
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8344600646",
+        "Coordinate": [
+            1835,
+            1751,
+            2246,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8391569942",
+        "Coordinate": [
+            905,
+            1781,
+            1366,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Telugu",
+        "Coordinate": [
+            920,
+            1891,
+            1846,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saanvi Naidu - 7163007263",
+        "Coordinate": [
+            1005,
+            2011,
+            2058,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhruv Kara - 7279819602",
+        "Coordinate": [
+            1020,
+            2126,
+            2162,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "689097000000",
+        "Coordinate": [
+            630,
+            2331,
+            1278,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            634,
+            2426,
+            881,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/1/2022",
+        "Coordinate": [
+            630,
+            2506,
+            1078,
+            2614
+        ]
+    }
+]

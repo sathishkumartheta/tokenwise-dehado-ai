@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatan Bawa",
+        "Coordinate": [
+            876,
+            420,
+            1452,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Bawa",
+        "Coordinate": [
+            877,
+            524,
+            1515,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/16/1997",
+        "Coordinate": [
+            887,
+            626,
+            1318,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            895,
+            723,
+            1359,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            829,
+            1276,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1779,
+            825,
+            2014,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            932,
+            2189,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            904,
+            936,
+            1113,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Karan  Bajwa and Sengupta",
+        "Coordinate": [
+            960,
+            1037,
+            2374,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mahajan-Menon",
+        "Coordinate": [
+            947,
+            1141,
+            2236,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/50, Tank Zila, Mango 797328",
+        "Coordinate": [
+            906,
+            1277,
+            2426,
+            1436
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 832, Patel Nagar, Mysore-134063",
+        "Coordinate": [
+            888,
+            1526,
+            2015,
+            1780
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7367815208",
+        "Coordinate": [
+            1650,
+            1853,
+            2232,
+            1938
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7126864660",
+        "Coordinate": [
+            874,
+            1802,
+            1361,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, English, Tamil",
+        "Coordinate": [
+            1126,
+            1938,
+            2369,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Azaan Bora - 8048459377",
+        "Coordinate": [
+            944,
+            2048,
+            2287,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Januja Balan - 9755908285",
+        "Coordinate": [
+            936,
+            2176,
+            2363,
+            2303
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "454000000000.0",
+        "Coordinate": [
+            569,
+            2378,
+            1162,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            589,
+            2475,
+            1010,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/30/2025",
+        "Coordinate": [
+            594,
+            2563,
+            1156,
+            2662
+        ]
+    }
+]

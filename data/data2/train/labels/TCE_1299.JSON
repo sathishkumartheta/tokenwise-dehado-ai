@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Neha Lanka",
+        "Coordinate": [
+            910,
+            468,
+            1368,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandresh Lanka",
+        "Coordinate": [
+            913,
+            558,
+            1907,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/25/1996",
+        "Coordinate": [
+            908,
+            646,
+            1443,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            928,
+            746,
+            1328,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            852,
+            1302,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1792,
+            847,
+            2164,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            938,
+            958,
+            1082,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pall  Bhatti and Roy",
+        "Coordinate": [
+            1035,
+            1040,
+            2302,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Jani  Dutt and Srivastava",
+        "Coordinate": [
+            1028,
+            1145,
+            2451,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/82, Sundaram Ganj, Bhopal-960233",
+        "Coordinate": [
+            930,
+            1268,
+            2135,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "32, Goswami Chowk, Darbhanga 758116",
+        "Coordinate": [
+            908,
+            1522,
+            2005,
+            1765
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8666548239",
+        "Coordinate": [
+            912,
+            1790,
+            1372,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8586591226",
+        "Coordinate": [
+            1547,
+            1827,
+            2000,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Bengali, Marathi",
+        "Coordinate": [
+            897,
+            1905,
+            2254,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Ramakrishnan - 9017117074",
+        "Coordinate": [
+            982,
+            2005,
+            2205,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhruv Thakur - 9294838237",
+        "Coordinate": [
+            985,
+            2122,
+            2069,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            628,
+            2412,
+            1005,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/11/2024",
+        "Coordinate": [
+            673,
+            2506,
+            1087,
+            2591
+        ]
+    }
+]

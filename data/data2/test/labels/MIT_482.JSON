@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vaishnavi Sangha",
+        "Coordinate": [
+            932,
+            463,
+            1464,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarnav Sangha",
+        "Coordinate": [
+            920,
+            570,
+            1456,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/11/1971",
+        "Coordinate": [
+            936,
+            672,
+            1230,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            938,
+            782,
+            1220,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            855,
+            1180,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1805,
+            828,
+            2060,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            919,
+            963,
+            1056,
+            1050
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1867,
+            955,
+            2118,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Vala-Sani",
+        "Coordinate": [
+            1030,
+            1065,
+            1814,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Hans-Loyal",
+        "Coordinate": [
+            1020,
+            1160,
+            1898,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/367, Kibe Chowk, Chapra-297356",
+        "Coordinate": [
+            940,
+            1310,
+            2252,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26/655, Bhatti, Morbi 253809",
+        "Coordinate": [
+            930,
+            1547,
+            2046,
+            1672
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9121552952",
+        "Coordinate": [
+            937,
+            1805,
+            1318,
+            1934
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7938364959",
+        "Coordinate": [
+            1907,
+            1790,
+            2322,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil",
+        "Coordinate": [
+            930,
+            1955,
+            1440,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omaja Mital - 7022088228",
+        "Coordinate": [
+            1040,
+            2048,
+            1884,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amaira Solanki - 9089929940",
+        "Coordinate": [
+            1042,
+            2185,
+            2010,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "852079000000",
+        "Coordinate": [
+            634,
+            2397,
+            1104,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            640,
+            2488,
+            1024,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/29/2025",
+        "Coordinate": [
+            660,
+            2576,
+            1020,
+            2683
+        ]
+    }
+]

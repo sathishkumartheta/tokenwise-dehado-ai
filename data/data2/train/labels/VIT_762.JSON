@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Kar",
+        "Coordinate": [
+            883,
+            434,
+            1348,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Agastya Kar",
+        "Coordinate": [
+            900,
+            535,
+            1388,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/23/1994",
+        "Coordinate": [
+            881,
+            643,
+            1352,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            890,
+            746,
+            1244,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            833,
+            1276,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            843,
+            2014,
+            919
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            902,
+            940,
+            1109,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            945,
+            2090,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kumar-Char",
+        "Coordinate": [
+            955,
+            1044,
+            2021,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sabharwal-Korpal",
+        "Coordinate": [
+            955,
+            1158,
+            2143,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50/50, Vaidya Road, Aligarh-905182",
+        "Coordinate": [
+            896,
+            1284,
+            2244,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "21, Ben Nagar, Nizamabad-479391",
+        "Coordinate": [
+            881,
+            1527,
+            2324,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7678451617",
+        "Coordinate": [
+            888,
+            1803,
+            1339,
+            1909
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9026996845",
+        "Coordinate": [
+            1597,
+            1867,
+            2145,
+            1943
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Bengali",
+        "Coordinate": [
+            894,
+            1953,
+            2002,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urishilla Dash - 7079794170",
+        "Coordinate": [
+            945,
+            2065,
+            2122,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayan Anne - 8222391284",
+        "Coordinate": [
+            953,
+            2194,
+            2183,
+            2314
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "439808000000",
+        "Coordinate": [
+            592,
+            2386,
+            1274,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            599,
+            2485,
+            1010,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/2/2022",
+        "Coordinate": [
+            601,
+            2569,
+            1061,
+            2651
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darpan Buch",
+        "Coordinate": [
+            888,
+            387,
+            1347,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qarin Buch",
+        "Coordinate": [
+            902,
+            485,
+            1309,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-06-1996",
+        "Coordinate": [
+            912,
+            584,
+            1240,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            909,
+            677,
+            1255,
+            769
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            782,
+            1113,
+            873
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1826,
+            781,
+            1995,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1893,
+            885,
+            2139,
+            965
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            915,
+            882,
+            1099,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Chanda-Mand",
+        "Coordinate": [
+            960,
+            977,
+            2076,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dugar-Kadakia",
+        "Coordinate": [
+            902,
+            1086,
+            2125,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26/874, Tara Road, Gorakhpur 320865",
+        "Coordinate": [
+            872,
+            1209,
+            2300,
+            1344
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77, Sani Street, North Dumdum-337014",
+        "Coordinate": [
+            883,
+            1471,
+            2304,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7954249716",
+        "Coordinate": [
+            1879,
+            1744,
+            2354,
+            1852
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8098281794",
+        "Coordinate": [
+            883,
+            1747,
+            1349,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Malayalam",
+        "Coordinate": [
+            914,
+            1880,
+            1863,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chakradhar Parikh - 8305305130",
+        "Coordinate": [
+            961,
+            1995,
+            2335,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Reva Yadav - 8513226774",
+        "Coordinate": [
+            976,
+            2120,
+            2210,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "669000000000.0",
+        "Coordinate": [
+            583,
+            2318,
+            1176,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            597,
+            2410,
+            1033,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-06-2022",
+        "Coordinate": [
+            617,
+            2507,
+            1123,
+            2594
+        ]
+    }
+]

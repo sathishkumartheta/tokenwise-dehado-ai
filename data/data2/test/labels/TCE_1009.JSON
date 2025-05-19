@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Janani Palla",
+        "Coordinate": [
+            900,
+            492,
+            1488,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Palla",
+        "Coordinate": [
+            896,
+            582,
+            1378,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/1987",
+        "Coordinate": [
+            924,
+            694,
+            1346,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            940,
+            776,
+            1342,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            928,
+            873,
+            1238,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            851,
+            2002,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            955,
+            2096,
+            1049
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            938,
+            972,
+            1074,
+            1057
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Edwin  Deo and Viswanathan",
+        "Coordinate": [
+            984,
+            1080,
+            2310,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sagar  Patla and Sule",
+        "Coordinate": [
+            970,
+            1194,
+            2296,
+            1283
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "20/39, Acharya Circle, Panihati 761915",
+        "Coordinate": [
+            930,
+            1306,
+            2306,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 141, Brar Zila, Dehri-623153",
+        "Coordinate": [
+            928,
+            1564,
+            2266,
+            1701
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8269614378",
+        "Coordinate": [
+            902,
+            1808,
+            1368,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7378063058",
+        "Coordinate": [
+            1658,
+            1837,
+            2130,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, English, Bengali",
+        "Coordinate": [
+            926,
+            1942,
+            1994,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Naveen Borah - 7541276288",
+        "Coordinate": [
+            978,
+            2032,
+            2028,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Shere - 7296619010",
+        "Coordinate": [
+            996,
+            2172,
+            2028,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            674,
+            2442,
+            896,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/4/2025",
+        "Coordinate": [
+            666,
+            2532,
+            1098,
+            2605
+        ]
+    }
+]

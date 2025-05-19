@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nachiket Sane",
+        "Coordinate": [
+            881,
+            417,
+            1481,
+            513
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Sane",
+        "Coordinate": [
+            914,
+            516,
+            1365,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-08-1972",
+        "Coordinate": [
+            911,
+            620,
+            1336,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            896,
+            718,
+            1287,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            928,
+            818,
+            1194,
+            923
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            816,
+            2010,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            926,
+            2120,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            940,
+            923,
+            1134,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Shukla  Manne and Grewal",
+        "Coordinate": [
+            948,
+            1019,
+            2343,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Gera-Nadkarni",
+        "Coordinate": [
+            943,
+            1136,
+            1952,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "89, Swamy, Korba-166032",
+        "Coordinate": [
+            899,
+            1267,
+            1912,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "01/409, Bhatia Path, Solapur-199632",
+        "Coordinate": [
+            903,
+            1512,
+            2302,
+            1666
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8187258406",
+        "Coordinate": [
+            1861,
+            1791,
+            2300,
+            1881
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7168665624",
+        "Coordinate": [
+            883,
+            1791,
+            1317,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Gujarati",
+        "Coordinate": [
+            877,
+            1930,
+            1845,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dalbir Mohanty - 8282482932",
+        "Coordinate": [
+            930,
+            2032,
+            2115,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vyanjana Dora - 8124046066",
+        "Coordinate": [
+            953,
+            2177,
+            2066,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "800000000000.0",
+        "Coordinate": [
+            579,
+            2372,
+            1195,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            600,
+            2466,
+            1031,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/14/2024",
+        "Coordinate": [
+            597,
+            2560,
+            1063,
+            2654
+        ]
+    }
+]

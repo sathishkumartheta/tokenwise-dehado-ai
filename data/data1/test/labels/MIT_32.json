@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Arjun Narula",
+        "Coordinate": [
+            914,
+            424,
+            1356,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laban Narula",
+        "Coordinate": [
+            916,
+            524,
+            1383,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/1967",
+        "Coordinate": [
+            934,
+            624,
+            1335,
+            715
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            942,
+            724,
+            1261,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            983,
+            829,
+            1185,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1860,
+            804,
+            2047,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            913,
+            2119,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1047,
+            927,
+            1192,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sarkar-Ratta",
+        "Coordinate": [
+            1063,
+            1017,
+            1896,
+            1124
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sarraf  Raju and Nori",
+        "Coordinate": [
+            1060,
+            1135,
+            2198,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75/841, Brar Marg, Madanapalle-845115",
+        "Coordinate": [
+            945,
+            1279,
+            2305,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "96, Sawhney Street, Amroha 596401",
+        "Coordinate": [
+            933,
+            1513,
+            2254,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8993539676",
+        "Coordinate": [
+            1913,
+            1767,
+            2368,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7990521810",
+        "Coordinate": [
+            932,
+            1787,
+            1386,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, English",
+        "Coordinate": [
+            947,
+            1924,
+            1885,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Januja Varghese - 9483426187",
+        "Coordinate": [
+            1040,
+            2027,
+            2103,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azaan Dhar - 9166558306",
+        "Coordinate": [
+            1059,
+            2165,
+            2068,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "280000000000.0",
+        "Coordinate": [
+            662,
+            2367,
+            1238,
+            2463
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            740,
+            2465,
+            1061,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-10-2024",
+        "Coordinate": [
+            733,
+            2555,
+            1102,
+            2654
+        ]
+    }
+]

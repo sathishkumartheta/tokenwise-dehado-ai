@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omaja Dayal",
+        "Coordinate": [
+            879,
+            425,
+            1443,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hitesh Dayal",
+        "Coordinate": [
+            880,
+            524,
+            1451,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/21/1962",
+        "Coordinate": [
+            890,
+            629,
+            1236,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            902,
+            725,
+            1269,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            830,
+            1272,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            821,
+            2036,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            934,
+            2098,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            892,
+            932,
+            1045,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mandal  Naidu and Bhakta",
+        "Coordinate": [
+            945,
+            1032,
+            2383,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bobal  Raj and Chanda",
+        "Coordinate": [
+            960,
+            1140,
+            2364,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "361, Joshi Nagar, Munger-421476",
+        "Coordinate": [
+            899,
+            1263,
+            2311,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 15, Iyengar Circle, Amroha 749961",
+        "Coordinate": [
+            871,
+            1520,
+            2299,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7543696942",
+        "Coordinate": [
+            1854,
+            1798,
+            2341,
+            1928
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9550791741",
+        "Coordinate": [
+            871,
+            1803,
+            1321,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Malayalam",
+        "Coordinate": [
+            885,
+            1936,
+            1914,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jyoti Grewal - 8415010599",
+        "Coordinate": [
+            961,
+            2047,
+            2113,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pooja Chander - 8572211726",
+        "Coordinate": [
+            994,
+            2185,
+            2219,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "486000000000.0",
+        "Coordinate": [
+            586,
+            2378,
+            1231,
+            2472
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NSCOC4473L",
+        "Coordinate": [
+            1619,
+            2382,
+            2143,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            586,
+            2471,
+            1063,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2023",
+        "Coordinate": [
+            576,
+            2565,
+            1068,
+            2659
+        ]
+    }
+]

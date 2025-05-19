@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falak Dhar",
+        "Coordinate": [
+            885,
+            393,
+            1260,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Christopher Dhar",
+        "Coordinate": [
+            881,
+            492,
+            1898,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/20/1995",
+        "Coordinate": [
+            887,
+            606,
+            1205,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            901,
+            704,
+            1405,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            806,
+            1189,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            788,
+            2042,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            898,
+            2086,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            924,
+            907,
+            1041,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bora-Prakash",
+        "Coordinate": [
+            1022,
+            991,
+            1850,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Randhawa  Chaudhuri and Nayar",
+        "Coordinate": [
+            1014,
+            1109,
+            2303,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "267, Ghosh Path, Rajahmundry 644220",
+        "Coordinate": [
+            887,
+            1259,
+            2130,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "959, Chawla Ganj, Ajmer-135521",
+        "Coordinate": [
+            872,
+            1470,
+            1965,
+            1594
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8864894108",
+        "Coordinate": [
+            1875,
+            1744,
+            2237,
+            1829
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9020890648",
+        "Coordinate": [
+            878,
+            1750,
+            1260,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Hindi",
+        "Coordinate": [
+            932,
+            1885,
+            1693,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanya Apte - 7842914292",
+        "Coordinate": [
+            986,
+            1992,
+            1811,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shaurya Krish - 9712250680",
+        "Coordinate": [
+            996,
+            2125,
+            1953,
+            2235
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IPNDH0700N",
+        "Coordinate": [
+            1670,
+            2335,
+            2079,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            578,
+            2421,
+            806,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/16/2024",
+        "Coordinate": [
+            593,
+            2516,
+            945,
+            2599
+        ]
+    }
+]

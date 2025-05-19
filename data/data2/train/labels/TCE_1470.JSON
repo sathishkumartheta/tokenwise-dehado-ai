@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lajita Ramakrishnan",
+        "Coordinate": [
+            880,
+            474,
+            1482,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathan Ramakrishnan",
+        "Coordinate": [
+            910,
+            574,
+            1562,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/12/1967",
+        "Coordinate": [
+            925,
+            674,
+            1418,
+            753
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            843,
+            1226,
+            956
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            910,
+            953,
+            1134,
+            1048
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            848,
+            2083,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            963,
+            2090,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dua  Rau and Bhatti",
+        "Coordinate": [
+            962,
+            1038,
+            1958,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Pandey-Zacharia",
+        "Coordinate": [
+            970,
+            1153,
+            1902,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "42, Bedi, Rajahmundry-610281",
+        "Coordinate": [
+            910,
+            1272,
+            1894,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 704, Mann Nagar, Tinsukia 374805",
+        "Coordinate": [
+            890,
+            1537,
+            2142,
+            1642
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8427514396",
+        "Coordinate": [
+            890,
+            1792,
+            1346,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7805662695",
+        "Coordinate": [
+            1850,
+            1753,
+            2238,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil",
+        "Coordinate": [
+            905,
+            1916,
+            1374,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jacob Sheth - 8807843756",
+        "Coordinate": [
+            970,
+            2020,
+            1838,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kabir Batra - 8718593258",
+        "Coordinate": [
+            970,
+            2145,
+            1850,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            585,
+            2419,
+            961,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/28/2022",
+        "Coordinate": [
+            645,
+            2519,
+            1082,
+            2589
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            925,
+            759,
+            1406,
+            849
+        ]
+    }
+]

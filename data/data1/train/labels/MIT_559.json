@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai Bansal",
+        "Coordinate": [
+            940,
+            400,
+            1266,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Neel Bansal",
+        "Coordinate": [
+            933,
+            502,
+            1342,
+            594
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/30/2005",
+        "Coordinate": [
+            940,
+            599,
+            1259,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            931,
+            696,
+            1072,
+            788
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            794,
+            1188,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1809,
+            786,
+            1988,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            898,
+            2120,
+            993
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            942,
+            901,
+            1043,
+            988
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bahri Group",
+        "Coordinate": [
+            1007,
+            992,
+            1800,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bali-Sur",
+        "Coordinate": [
+            1016,
+            1107,
+            1728,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 25, Seshadri Zila, Amravati 589136",
+        "Coordinate": [
+            938,
+            1238,
+            1819,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07, Gill Road, Thoothukudi-193625",
+        "Coordinate": [
+            941,
+            1484,
+            2127,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9238295850",
+        "Coordinate": [
+            1901,
+            1754,
+            2324,
+            1869
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7214773222",
+        "Coordinate": [
+            926,
+            1760,
+            1328,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Tamil, Malayalam",
+        "Coordinate": [
+            921,
+            1898,
+            2043,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Neelima Aggarwal - 8304720236",
+        "Coordinate": [
+            989,
+            2015,
+            1970,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Owen Chowdhury - 8589240174",
+        "Coordinate": [
+            979,
+            2134,
+            1936,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "327000000000.0",
+        "Coordinate": [
+            639,
+            2338,
+            1145,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            622,
+            2435,
+            862,
+            2523
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/19/2025",
+        "Coordinate": [
+            628,
+            2524,
+            1017,
+            2618
+        ]
+    }
+]

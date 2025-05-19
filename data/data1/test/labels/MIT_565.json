@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Mani",
+        "Coordinate": [
+            871,
+            434,
+            1208,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wriddhish Mani",
+        "Coordinate": [
+            878,
+            530,
+            1424,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-03-1982",
+        "Coordinate": [
+            875,
+            637,
+            1175,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            886,
+            733,
+            1208,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            835,
+            1134,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            824,
+            2003,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            931,
+            2075,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            948,
+            936,
+            1118,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chhabra Inc",
+        "Coordinate": [
+            967,
+            1041,
+            1905,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Venkatesh  Anne and Kunda",
+        "Coordinate": [
+            973,
+            1142,
+            2377,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 42, Ahuja Circle, Shahjahanpur-642550",
+        "Coordinate": [
+            895,
+            1281,
+            2338,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/86, Gole Nagar, Berhampur-213170",
+        "Coordinate": [
+            880,
+            1520,
+            2331,
+            1651
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9996282276",
+        "Coordinate": [
+            1842,
+            1798,
+            2317,
+            1892
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7713428750",
+        "Coordinate": [
+            872,
+            1797,
+            1338,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            883,
+            1936,
+            1459,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eshana Rattan - 7228373364",
+        "Coordinate": [
+            951,
+            2050,
+            1859,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sathvik Deep - 9578535219",
+        "Coordinate": [
+            944,
+            2180,
+            1896,
+            2288
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "813000000000.0",
+        "Coordinate": [
+            592,
+            2390,
+            1156,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            574,
+            2480,
+            1301,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-04-2023",
+        "Coordinate": [
+            574,
+            2575,
+            1003,
+            2663
+        ]
+    }
+]

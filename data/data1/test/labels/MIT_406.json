@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ayushman Wali",
+        "Coordinate": [
+            881,
+            392,
+            1385,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Wali",
+        "Coordinate": [
+            890,
+            491,
+            1239,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/24/1995",
+        "Coordinate": [
+            900,
+            593,
+            1230,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            894,
+            686,
+            1175,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            788,
+            1156,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1811,
+            783,
+            1993,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            894,
+            2053,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            891,
+            893,
+            1007,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Thakkar Ltd",
+        "Coordinate": [
+            968,
+            984,
+            1799,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Basak LLC",
+        "Coordinate": [
+            970,
+            1100,
+            1723,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "437, Rattan Ganj, Tiruvottiyur 366271",
+        "Coordinate": [
+            893,
+            1264,
+            2119,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "96/93, Pandit Ganj, Tadipatri-058561",
+        "Coordinate": [
+            894,
+            1495,
+            2197,
+            1664
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7719890955",
+        "Coordinate": [
+            1859,
+            1754,
+            2265,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7531865592",
+        "Coordinate": [
+            887,
+            1755,
+            1281,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Malayalam, Bengali",
+        "Coordinate": [
+            861,
+            1887,
+            2068,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bishakha Seshadri - 7498532632",
+        "Coordinate": [
+            942,
+            2002,
+            2106,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gabriel Natt - 7409661828",
+        "Coordinate": [
+            969,
+            2129,
+            1938,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "966000000000.0",
+        "Coordinate": [
+            581,
+            2332,
+            1007,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            587,
+            2421,
+            932,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/29/2023",
+        "Coordinate": [
+            586,
+            2518,
+            960,
+            2600
+        ]
+    }
+]

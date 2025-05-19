@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ryan Dutta",
+        "Coordinate": [
+            892,
+            440,
+            1241,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Dutta",
+        "Coordinate": [
+            877,
+            545,
+            1259,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/28/1990",
+        "Coordinate": [
+            894,
+            640,
+            1206,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            905,
+            733,
+            1214,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            843,
+            1165,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1823,
+            825,
+            1996,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            942,
+            2054,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            908,
+            947,
+            1018,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Kanda Group",
+        "Coordinate": [
+            966,
+            1039,
+            1667,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Goda  Grewal and Nazareth",
+        "Coordinate": [
+            983,
+            1146,
+            2106,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 337, Amble Nagar, Ajmer-403704",
+        "Coordinate": [
+            887,
+            1292,
+            2097,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "318, Kade Circle, Ambarnath-125780",
+        "Coordinate": [
+            883,
+            1527,
+            2024,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8557135979",
+        "Coordinate": [
+            1874,
+            1806,
+            2250,
+            1910
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8030826419",
+        "Coordinate": [
+            884,
+            1810,
+            1246,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Bengali",
+        "Coordinate": [
+            887,
+            1949,
+            1578,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ucchal Kanda - 8098948858",
+        "Coordinate": [
+            985,
+            2055,
+            1803,
+            2161
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harrison Viswanathan - 9803168617",
+        "Coordinate": [
+            964,
+            2183,
+            1973,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "880000000000.0",
+        "Coordinate": [
+            609,
+            2395,
+            1015,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            612,
+            2482,
+            852,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/24/2025",
+        "Coordinate": [
+            599,
+            2575,
+            902,
+            2660
+        ]
+    }
+]

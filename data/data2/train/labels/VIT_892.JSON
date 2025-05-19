@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "William Modi",
+        "Coordinate": [
+            881,
+            437,
+            1481,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Modi",
+        "Coordinate": [
+            918,
+            547,
+            1485,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/26/1975",
+        "Coordinate": [
+            885,
+            646,
+            1333,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            894,
+            740,
+            1274,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            874,
+            863,
+            1217,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1786,
+            846,
+            2008,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            947,
+            2136,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            925,
+            964,
+            1076,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Srinivas Group",
+        "Coordinate": [
+            975,
+            1041,
+            2006,
+            1184
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Venkataraman Group",
+        "Coordinate": [
+            962,
+            1184,
+            2270,
+            1305
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78, Boase Marg, Muzaffarpur-863813",
+        "Coordinate": [
+            890,
+            1371,
+            2309,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "624, Varty, Avadi 946654",
+        "Coordinate": [
+            894,
+            1615,
+            1887,
+            1747
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8096143119",
+        "Coordinate": [
+            881,
+            1857,
+            1274,
+            1942
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9292817216",
+        "Coordinate": [
+            1599,
+            1863,
+            2116,
+            1955
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Gujarati, English",
+        "Coordinate": [
+            883,
+            1960,
+            2153,
+            2063
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sneha Balasubramanian - 8974975825",
+        "Coordinate": [
+            947,
+            2081,
+            2261,
+            2182
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Umang Ramesh - 8842082380",
+        "Coordinate": [
+            953,
+            2208,
+            2103,
+            2327
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "585961000000",
+        "Coordinate": [
+            588,
+            2413,
+            1074,
+            2492
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            584,
+            2503,
+            905,
+            2586
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/12/2023",
+        "Coordinate": [
+            584,
+            2599,
+            1068,
+            2681
+        ]
+    }
+]

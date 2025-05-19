@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvi Venkataraman",
+        "Coordinate": [
+            916,
+            485,
+            1515,
+            587
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagat Venkataraman",
+        "Coordinate": [
+            940,
+            586,
+            1571,
+            681
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/5/1961",
+        "Coordinate": [
+            937,
+            683,
+            1275,
+            766
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            927,
+            782,
+            1258,
+            860
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            873,
+            1198,
+            958
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1820,
+            852,
+            2106,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            956,
+            2175,
+            1054
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            940,
+            972,
+            1071,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at More LLC",
+        "Coordinate": [
+            1008,
+            1055,
+            1856,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ahuja PLC",
+        "Coordinate": [
+            1021,
+            1172,
+            1952,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 42, Kothari Path, Jalna-494178",
+        "Coordinate": [
+            940,
+            1290,
+            2290,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70, Kale Street, Guna 109157",
+        "Coordinate": [
+            927,
+            1527,
+            2017,
+            1669
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9231544058",
+        "Coordinate": [
+            922,
+            1795,
+            1352,
+            1915
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7256181332",
+        "Coordinate": [
+            1846,
+            1777,
+            2286,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            922,
+            1936,
+            1577,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girik Anne - 9589139182",
+        "Coordinate": [
+            1000,
+            2022,
+            1886,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wriddhish Saxena - 7216656772",
+        "Coordinate": [
+            1060,
+            2154,
+            2200,
+            2265
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            647,
+            2439,
+            1038,
+            2538
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/27/2023",
+        "Coordinate": [
+            686,
+            2536,
+            1049,
+            2621
+        ]
+    }
+]

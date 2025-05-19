@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Indali Oommen",
+        "Coordinate": [
+            875,
+            394,
+            1359,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manthan Oommen",
+        "Coordinate": [
+            886,
+            489,
+            1380,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/25/1975",
+        "Coordinate": [
+            939,
+            592,
+            1299,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            916,
+            685,
+            1108,
+            787
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            799,
+            1150,
+            897
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1834,
+            783,
+            2104,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            893,
+            2174,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            937,
+            911,
+            1060,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Wadhwa-Deshpande",
+        "Coordinate": [
+            1017,
+            982,
+            2107,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Batra-Kala",
+        "Coordinate": [
+            979,
+            1097,
+            1656,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/15, Badami Chowk, Guna-991449",
+        "Coordinate": [
+            901,
+            1233,
+            2162,
+            1382
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/926, Salvi, Sagar-184285",
+        "Coordinate": [
+            916,
+            1486,
+            1985,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9475480979",
+        "Coordinate": [
+            1850,
+            1751,
+            2314,
+            1868
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8459749676",
+        "Coordinate": [
+            878,
+            1755,
+            1328,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Hindi, Bengali",
+        "Coordinate": [
+            881,
+            1892,
+            1917,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yuvraj Din - 9794728401",
+        "Coordinate": [
+            999,
+            2007,
+            1939,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harshil Menon - 9056816106",
+        "Coordinate": [
+            982,
+            2135,
+            2001,
+            2258
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RDFSG8271E",
+        "Coordinate": [
+            1619,
+            2341,
+            2134,
+            2446
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            600,
+            2414,
+            861,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/24/2025",
+        "Coordinate": [
+            615,
+            2518,
+            931,
+            2621
+        ]
+    }
+]

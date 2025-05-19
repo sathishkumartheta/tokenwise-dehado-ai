@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sneha Iyer",
+        "Coordinate": [
+            906,
+            484,
+            1384,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Iyer",
+        "Coordinate": [
+            904,
+            592,
+            1366,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/29/1979",
+        "Coordinate": [
+            908,
+            686,
+            1398,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            932,
+            780,
+            1318,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            932,
+            878,
+            1180,
+            971
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            854,
+            2072,
+            949
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            966,
+            2104,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            968,
+            965,
+            1068,
+            1057
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Shetty and Sons",
+        "Coordinate": [
+            990,
+            1066,
+            1998,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Borah  Grover and Ravi",
+        "Coordinate": [
+            980,
+            1180,
+            2078,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 36, Sahota Chowk, Phagwara 746726",
+        "Coordinate": [
+            906,
+            1292,
+            2174,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 133, Deo Ganj, Srikakulam-170267",
+        "Coordinate": [
+            910,
+            1550,
+            2074,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7791314138",
+        "Coordinate": [
+            892,
+            1778,
+            1348,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8226554183",
+        "Coordinate": [
+            1798,
+            1788,
+            2222,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Bengali, Tamil",
+        "Coordinate": [
+            928,
+            1914,
+            2134,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lekha Bobal - 7484707192",
+        "Coordinate": [
+            980,
+            2020,
+            2126,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Barkha Chandra - 8997845772",
+        "Coordinate": [
+            960,
+            2140,
+            2194,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            669,
+            2422,
+            1011,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/13/2023",
+        "Coordinate": [
+            662,
+            2502,
+            1090,
+            2617
+        ]
+    }
+]

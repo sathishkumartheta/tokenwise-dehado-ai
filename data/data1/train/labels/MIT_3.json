@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Christopher Dua",
+        "Coordinate": [
+            964,
+            455,
+            1504,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fariq Dua",
+        "Coordinate": [
+            971,
+            553,
+            1304,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/18/2005",
+        "Coordinate": [
+            975,
+            653,
+            1276,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            986,
+            749,
+            1275,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1005,
+            852,
+            1238,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1891,
+            849,
+            2068,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1910,
+            954,
+            2169,
+            1046
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1044,
+            953,
+            1160,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Bhatt-Rajan",
+        "Coordinate": [
+            1073,
+            1053,
+            1871,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sidhu-Wadhwa",
+        "Coordinate": [
+            1082,
+            1167,
+            1966,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18/451, Saran Road, Malda 482814",
+        "Coordinate": [
+            986,
+            1304,
+            2207,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 28, Acharya Circle, Unnao-154303",
+        "Coordinate": [
+            1004,
+            1561,
+            2421,
+            1705
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7271443547",
+        "Coordinate": [
+            1933,
+            1813,
+            2298,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8709026033",
+        "Coordinate": [
+            978,
+            1823,
+            1409,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Tamil, Malayalam",
+        "Coordinate": [
+            1020,
+            1957,
+            2224,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frederick Sunder - 8052952378",
+        "Coordinate": [
+            1040,
+            2068,
+            2200,
+            2183
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeremiah Dave - 7452583234",
+        "Coordinate": [
+            1093,
+            2195,
+            2195,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "928000000000.0",
+        "Coordinate": [
+            676,
+            2397,
+            1151,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            715,
+            2486,
+            1111,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/19/2022",
+        "Coordinate": [
+            735,
+            2577,
+            1114,
+            2672
+        ]
+    }
+]

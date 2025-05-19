@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Logan Parmer",
+        "Coordinate": [
+            898,
+            480,
+            1464,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Parmer",
+        "Coordinate": [
+            930,
+            590,
+            1432,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/17/1995",
+        "Coordinate": [
+            920,
+            674,
+            1376,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            940,
+            782,
+            1340,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            877,
+            1256,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            938,
+            970,
+            1078,
+            1051
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1831,
+            863,
+            2054,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            966,
+            2146,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sur and Sons",
+        "Coordinate": [
+            1002,
+            1040,
+            2022,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bansal-Sibal",
+        "Coordinate": [
+            1036,
+            1148,
+            2022,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18, Warrior Nagar, New Delhi-684827",
+        "Coordinate": [
+            913,
+            1274,
+            2288,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/907, Muni Nagar, Bally-503006",
+        "Coordinate": [
+            906,
+            1542,
+            2158,
+            1683
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8923082753",
+        "Coordinate": [
+            906,
+            1774,
+            1358,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7545063448",
+        "Coordinate": [
+            1828,
+            1786,
+            2270,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Kannada, English",
+        "Coordinate": [
+            926,
+            1902,
+            2166,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advika Parmar - 7710588143",
+        "Coordinate": [
+            1000,
+            2006,
+            2150,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Champak Vaidya - 8032974602",
+        "Coordinate": [
+            992,
+            2122,
+            2176,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            638,
+            2426,
+            904,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/21/2022",
+        "Coordinate": [
+            610,
+            2504,
+            1058,
+            2593
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anvi Soman",
+        "Coordinate": [
+            899,
+            397,
+            1285,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faras Soman",
+        "Coordinate": [
+            903,
+            499,
+            1309,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-06-1984",
+        "Coordinate": [
+            926,
+            595,
+            1235,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            939,
+            690,
+            1225,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            934,
+            791,
+            1142,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1867,
+            785,
+            2102,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1915,
+            892,
+            2161,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            975,
+            897,
+            1097,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kothari and Sons",
+        "Coordinate": [
+            1012,
+            983,
+            2092,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chand-Nigam",
+        "Coordinate": [
+            1051,
+            1107,
+            2042,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 28, Dass Zila, Muzaffarpur 857306",
+        "Coordinate": [
+            944,
+            1254,
+            2189,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 07, Menon Chowk, Jhansi 855749",
+        "Coordinate": [
+            949,
+            1489,
+            2072,
+            1703
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8384873618",
+        "Coordinate": [
+            1884,
+            1750,
+            2309,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8317045215",
+        "Coordinate": [
+            910,
+            1763,
+            1341,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Bengali, Telugu",
+        "Coordinate": [
+            920,
+            1888,
+            2083,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekapad Wali - 7012892044",
+        "Coordinate": [
+            1005,
+            1997,
+            2064,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shivani Merchant - 7967131449",
+        "Coordinate": [
+            1014,
+            2123,
+            2133,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "720000000000.0",
+        "Coordinate": [
+            658,
+            2326,
+            1170,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            640,
+            2418,
+            820,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-02-2022",
+        "Coordinate": [
+            648,
+            2516,
+            1007,
+            2600
+        ]
+    }
+]

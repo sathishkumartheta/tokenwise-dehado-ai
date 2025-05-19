@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Mane",
+        "Coordinate": [
+            872,
+            389,
+            1372,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Mane",
+        "Coordinate": [
+            885,
+            486,
+            1260,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/27/1997",
+        "Coordinate": [
+            873,
+            589,
+            1169,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            883,
+            685,
+            1143,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            886,
+            785,
+            1089,
+            887
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            891,
+            891,
+            1000,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Rana  Vohra and Dey",
+        "Coordinate": [
+            948,
+            983,
+            1945,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Anand-Narain",
+        "Coordinate": [
+            951,
+            1094,
+            1765,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46/20, Hari, Etawah-103995",
+        "Coordinate": [
+            900,
+            1227,
+            1831,
+            1351
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 137, Dhar Zila, Jhansi-585856",
+        "Coordinate": [
+            893,
+            1470,
+            2101,
+            1594
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7482970733",
+        "Coordinate": [
+            1847,
+            1743,
+            2299,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9535809183",
+        "Coordinate": [
+            875,
+            1740,
+            1309,
+            1831
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil",
+        "Coordinate": [
+            881,
+            1882,
+            1376,
+            1976
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kalpit Kala - 9967515718",
+        "Coordinate": [
+            939,
+            1988,
+            1732,
+            2083
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aashi Borde - 7883539358",
+        "Coordinate": [
+            944,
+            2112,
+            1774,
+            2209
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "324000000000.0",
+        "Coordinate": [
+            582,
+            2327,
+            1056,
+            2403
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            591,
+            2417,
+            849,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/28/2025",
+        "Coordinate": [
+            583,
+            2508,
+            933,
+            2596
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pratyush Bansal",
+        "Coordinate": [
+            874,
+            398,
+            1488,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Bansal",
+        "Coordinate": [
+            883,
+            508,
+            1394,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-10-1992",
+        "Coordinate": [
+            887,
+            601,
+            1206,
+            682
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            893,
+            693,
+            1229,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            800,
+            1200,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1832,
+            790,
+            2012,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            894,
+            2107,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            911,
+            898,
+            1021,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kadakia  Amble and Hayre",
+        "Coordinate": [
+            967,
+            986,
+            2201,
+            1104
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Randhawa  Choudhry and Mall",
+        "Coordinate": [
+            952,
+            1107,
+            2297,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39/99, Bhattacharyya Street, Amritsar-493843",
+        "Coordinate": [
+            887,
+            1220,
+            2236,
+            1342
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/060, Sankaran Path, Panipat 877580",
+        "Coordinate": [
+            884,
+            1466,
+            2250,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7210748278",
+        "Coordinate": [
+            1848,
+            1747,
+            2240,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7634483226",
+        "Coordinate": [
+            885,
+            1755,
+            1297,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Kannada, Telugu",
+        "Coordinate": [
+            914,
+            1887,
+            2149,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Champak Mall - 9963641041",
+        "Coordinate": [
+            934,
+            1999,
+            1819,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saumya Mutti - 8862844810",
+        "Coordinate": [
+            939,
+            2117,
+            1884,
+            2206
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OFHYP8962A",
+        "Coordinate": [
+            1625,
+            2340,
+            2059,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            581,
+            2420,
+            943,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-05-2024",
+        "Coordinate": [
+            603,
+            2514,
+            1015,
+            2600
+        ]
+    }
+]

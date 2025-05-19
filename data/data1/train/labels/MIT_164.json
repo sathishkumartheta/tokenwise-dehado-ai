@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upkaar Modi",
+        "Coordinate": [
+            889,
+            391,
+            1312,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Modi",
+        "Coordinate": [
+            897,
+            485,
+            1515,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/1970",
+        "Coordinate": [
+            913,
+            592,
+            1263,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            924,
+            685,
+            1240,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            789,
+            1217,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1792,
+            783,
+            1971,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            887,
+            2120,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            944,
+            894,
+            1049,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Goel Inc",
+        "Coordinate": [
+            985,
+            985,
+            1700,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Suresh  Bala and Grover",
+        "Coordinate": [
+            975,
+            1098,
+            2249,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43, Manne Ganj, Malda-580256",
+        "Coordinate": [
+            896,
+            1279,
+            2019,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 286, Biswas Chowk, Tiruppur-346729",
+        "Coordinate": [
+            900,
+            1476,
+            2240,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8168848086",
+        "Coordinate": [
+            1865,
+            1744,
+            2279,
+            1836
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9950329976",
+        "Coordinate": [
+            914,
+            1751,
+            1329,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Bengali",
+        "Coordinate": [
+            910,
+            1890,
+            1836,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samaksh Thakkar - 8229015325",
+        "Coordinate": [
+            948,
+            2003,
+            2111,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anya Jaggi - 7626381742",
+        "Coordinate": [
+            972,
+            2127,
+            1901,
+            2246
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "687000000000.0",
+        "Coordinate": [
+            606,
+            2328,
+            1071,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            586,
+            2425,
+            837,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-03-2025",
+        "Coordinate": [
+            591,
+            2515,
+            989,
+            2603
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aradhana Bandi",
+        "Coordinate": [
+            900,
+            462,
+            1618,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Bandi",
+        "Coordinate": [
+            909,
+            556,
+            1476,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/26/1960",
+        "Coordinate": [
+            912,
+            648,
+            1307,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            919,
+            741,
+            1298,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            917,
+            847,
+            1161,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            908,
+            937,
+            1087,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1729,
+            840,
+            2014,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            935,
+            2147,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Doctor  Kala and Mand",
+        "Coordinate": [
+            997,
+            1028,
+            2250,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Batta and Sons",
+        "Coordinate": [
+            964,
+            1149,
+            2061,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "38/453, Bali Path, Cuttack-563836",
+        "Coordinate": [
+            917,
+            1269,
+            2265,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/65, Prashad Circle, Tadepalligudem-997851",
+        "Coordinate": [
+            909,
+            1526,
+            2033,
+            1753
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9564428683",
+        "Coordinate": [
+            928,
+            1785,
+            1350,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7474513792",
+        "Coordinate": [
+            1822,
+            1786,
+            2260,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Marathi, Gujarati",
+        "Coordinate": [
+            914,
+            1895,
+            2228,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dayita Memon - 9343000708",
+        "Coordinate": [
+            949,
+            2013,
+            2098,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekani Kota - 7022905526",
+        "Coordinate": [
+            947,
+            2131,
+            2055,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            613,
+            2403,
+            1021,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/25/2023",
+        "Coordinate": [
+            606,
+            2501,
+            1102,
+            2643
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girik Kade",
+        "Coordinate": [
+            915,
+            466,
+            1291,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dhruv Kade",
+        "Coordinate": [
+            915,
+            561,
+            1371,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/12/1962",
+        "Coordinate": [
+            910,
+            666,
+            1255,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            740,
+            1255,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            845,
+            1167,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            816,
+            1947,
+            917
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            950,
+            941,
+            1127,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            941,
+            2063,
+            1005
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ravel  Sahni and Dhingra",
+        "Coordinate": [
+            995,
+            1031,
+            2275,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Deol-Oak",
+        "Coordinate": [
+            1005,
+            1140,
+            1795,
+            1233
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 120, Mane Nagar, Fatehpur 882227",
+        "Coordinate": [
+            910,
+            1245,
+            2303,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59/93, Talwar Zila, Dibrugarh-873405",
+        "Coordinate": [
+            915,
+            1496,
+            2307,
+            1597
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9919842960",
+        "Coordinate": [
+            890,
+            1761,
+            1375,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7424221871",
+        "Coordinate": [
+            1815,
+            1745,
+            2315,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Marathi, Tamil",
+        "Coordinate": [
+            929,
+            1885,
+            2075,
+            1973
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Srinivas - 9791786407",
+        "Coordinate": [
+            955,
+            1996,
+            2107,
+            2077
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Reva Shah - 9547110545",
+        "Coordinate": [
+            975,
+            2111,
+            1895,
+            2221
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            625,
+            2406,
+            935,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/4/2022",
+        "Coordinate": [
+            635,
+            2485,
+            999,
+            2569
+        ]
+    }
+]

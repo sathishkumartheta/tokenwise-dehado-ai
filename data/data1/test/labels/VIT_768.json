@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Noah Mody",
+        "Coordinate": [
+            870,
+            432,
+            1344,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Mody",
+        "Coordinate": [
+            877,
+            536,
+            1388,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-07-1990",
+        "Coordinate": [
+            874,
+            637,
+            1273,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            871,
+            732,
+            1099,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            840,
+            1240,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1771,
+            816,
+            1988,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            924,
+            2085,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            887,
+            947,
+            996,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Loke LLC",
+        "Coordinate": [
+            947,
+            1016,
+            1788,
+            1117
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sunder  Dixit and Prasad",
+        "Coordinate": [
+            941,
+            1132,
+            2331,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "36/654, Peri Chowk, Karaikudi 710539",
+        "Coordinate": [
+            881,
+            1270,
+            2292,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "90/677, Naik Zila, Rewa-174304",
+        "Coordinate": [
+            879,
+            1505,
+            2257,
+            1634
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7042502655",
+        "Coordinate": [
+            1853,
+            1786,
+            2308,
+            1877
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7368556820",
+        "Coordinate": [
+            885,
+            1793,
+            1363,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, English, Telugu",
+        "Coordinate": [
+            889,
+            1937,
+            2175,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nakul Palla - 8707701636",
+        "Coordinate": [
+            951,
+            2039,
+            1938,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daniel Batra - 8964908761",
+        "Coordinate": [
+            952,
+            2173,
+            1958,
+            2280
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "882000000000.0",
+        "Coordinate": [
+            606,
+            2398,
+            1201,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            597,
+            2490,
+            1114,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/17/2025",
+        "Coordinate": [
+            613,
+            2582,
+            1129,
+            2672
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Osha Sachar",
+        "Coordinate": [
+            885,
+            460,
+            1345,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sathvik Sachar",
+        "Coordinate": [
+            920,
+            546,
+            1425,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/21/1995",
+        "Coordinate": [
+            910,
+            646,
+            1265,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            920,
+            750,
+            1217,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            846,
+            1197,
+            910
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            980,
+            945,
+            1089,
+            1018
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1765,
+            836,
+            2013,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            945,
+            2113,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Garg-Saxena",
+        "Coordinate": [
+            985,
+            1041,
+            1817,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Patel LLC",
+        "Coordinate": [
+            970,
+            1135,
+            1833,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/40, Guha Street, Saharsa 229439",
+        "Coordinate": [
+            885,
+            1240,
+            2221,
+            1354
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "50/102, Misra Ganj, Tirupati-900940",
+        "Coordinate": [
+            885,
+            1466,
+            2161,
+            1590
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9286722682",
+        "Coordinate": [
+            920,
+            1751,
+            1405,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9236311560",
+        "Coordinate": [
+            1815,
+            1756,
+            2241,
+            1834
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            955,
+            1866,
+            1445,
+            1978
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Riya Subramanian - 7175173570",
+        "Coordinate": [
+            940,
+            1971,
+            2017,
+            2074
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gunbir Gill - 8350309014",
+        "Coordinate": [
+            970,
+            2101,
+            1913,
+            2202
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            610,
+            2386,
+            1253,
+            2462
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/6/2025",
+        "Coordinate": [
+            610,
+            2490,
+            1037,
+            2562
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Babu",
+        "Coordinate": [
+            1003,
+            446,
+            1667,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Babu",
+        "Coordinate": [
+            1023,
+            553,
+            1417,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-07-1973",
+        "Coordinate": [
+            1034,
+            653,
+            1509,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1018,
+            743,
+            1414,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            983,
+            838,
+            1340,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1872,
+            835,
+            2082,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1937,
+            942,
+            2279,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1027,
+            949,
+            1186,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Chaudhuri PLC",
+        "Coordinate": [
+            1095,
+            1042,
+            2404,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sekhon PLC",
+        "Coordinate": [
+            1061,
+            1147,
+            2367,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06/738, Bhalla Ganj, Ambala 395995",
+        "Coordinate": [
+            1038,
+            1268,
+            2150,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "836, Maharaj Road, Proddatur-687056",
+        "Coordinate": [
+            1000,
+            1528,
+            2042,
+            1717
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7481142571",
+        "Coordinate": [
+            1936,
+            1790,
+            2425,
+            1878
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8930973420",
+        "Coordinate": [
+            948,
+            1801,
+            1430,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Tamil, English",
+        "Coordinate": [
+            973,
+            1937,
+            2314,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omaja Rege - 9777222665",
+        "Coordinate": [
+            1025,
+            2043,
+            2323,
+            2147
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charita Puri - 7780716885",
+        "Coordinate": [
+            1025,
+            2168,
+            2360,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "982000000000.0",
+        "Coordinate": [
+            670,
+            2388,
+            1336,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            678,
+            2481,
+            1133,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2025",
+        "Coordinate": [
+            694,
+            2575,
+            1300,
+            2665
+        ]
+    }
+]

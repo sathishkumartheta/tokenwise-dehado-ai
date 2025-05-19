@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daksha Jhaveri",
+        "Coordinate": [
+            872,
+            431,
+            1489,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Indrajit Jhaveri",
+        "Coordinate": [
+            881,
+            529,
+            1600,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/25/2004",
+        "Coordinate": [
+            912,
+            624,
+            1286,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            729,
+            1060,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            825,
+            1201,
+            920
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1775,
+            830,
+            2038,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            940,
+            2121,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            906,
+            933,
+            1030,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Balan PLC",
+        "Coordinate": [
+            991,
+            1043,
+            1873,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Savant-Jain",
+        "Coordinate": [
+            995,
+            1148,
+            1965,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 07, Chander Road, Sonipat 653390",
+        "Coordinate": [
+            911,
+            1281,
+            2305,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "857, Iyer Road, Mahbubnagar-958000",
+        "Coordinate": [
+            928,
+            1548,
+            2188,
+            1771
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8572059544",
+        "Coordinate": [
+            1860,
+            1806,
+            2339,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9596672577",
+        "Coordinate": [
+            877,
+            1806,
+            1325,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi",
+        "Coordinate": [
+            900,
+            1939,
+            1469,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harsh Ramanathan - 8798155232",
+        "Coordinate": [
+            985,
+            2042,
+            2207,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krishna Sura - 7035631329",
+        "Coordinate": [
+            990,
+            2178,
+            2031,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "1000000000000.0",
+        "Coordinate": [
+            595,
+            2386,
+            1153,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            621,
+            2476,
+            881,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-04-2025",
+        "Coordinate": [
+            617,
+            2569,
+            1008,
+            2664
+        ]
+    }
+]

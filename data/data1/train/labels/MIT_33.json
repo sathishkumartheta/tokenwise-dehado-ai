@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavna Keer",
+        "Coordinate": [
+            875,
+            391,
+            1210,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qadim Keer",
+        "Coordinate": [
+            881,
+            489,
+            1221,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/20/1983",
+        "Coordinate": [
+            892,
+            589,
+            1227,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            884,
+            686,
+            1136,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            790,
+            1119,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            781,
+            1989,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            888,
+            2039,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            906,
+            889,
+            1018,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bali-Dube",
+        "Coordinate": [
+            950,
+            990,
+            1614,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sengupta  Prabhakar and Prabhu",
+        "Coordinate": [
+            940,
+            1098,
+            2232,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "28/56, Mallick Path, Raipur-278681",
+        "Coordinate": [
+            881,
+            1221,
+            1971,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73/947, Das Ganj, Srinagar 271551",
+        "Coordinate": [
+            868,
+            1471,
+            2026,
+            1612
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9236400815",
+        "Coordinate": [
+            1839,
+            1751,
+            2267,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7039317665",
+        "Coordinate": [
+            867,
+            1753,
+            1271,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Kannada, Hindi",
+        "Coordinate": [
+            903,
+            1893,
+            1774,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charita Dugar - 7392511510",
+        "Coordinate": [
+            960,
+            2005,
+            1844,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Trivedi - 9482834201",
+        "Coordinate": [
+            970,
+            2138,
+            1930,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "748000000000.0",
+        "Coordinate": [
+            586,
+            2335,
+            1013,
+            2419
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FQESB3269H",
+        "Coordinate": [
+            1634,
+            2331,
+            2092,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            612,
+            2421,
+            792,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-10-2022",
+        "Coordinate": [
+            621,
+            2513,
+            946,
+            2602
+        ]
+    }
+]

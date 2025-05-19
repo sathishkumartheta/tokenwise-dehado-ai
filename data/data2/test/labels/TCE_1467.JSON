@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanmayi Taneja",
+        "Coordinate": [
+            899,
+            476,
+            1470,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Taneja",
+        "Coordinate": [
+            899,
+            571,
+            1432,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/11/2002",
+        "Coordinate": [
+            957,
+            664,
+            1345,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            919,
+            765,
+            1299,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            882,
+            846,
+            1229,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            864,
+            2047,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            984,
+            926,
+            1141,
+            1021
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            953,
+            2073,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sarma  Ranganathan and Sarkar",
+        "Coordinate": [
+            991,
+            1018,
+            2265,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Dubey Inc",
+        "Coordinate": [
+            960,
+            1145,
+            1755,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44/415, Parsa Marg, Baranagar-759824",
+        "Coordinate": [
+            894,
+            1271,
+            2208,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "818, Chandran Nagar, Tadepalligudem 584457",
+        "Coordinate": [
+            899,
+            1500,
+            2295,
+            1632
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, English",
+        "Coordinate": [
+            889,
+            1887,
+            1672,
+            1994
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7349665761",
+        "Coordinate": [
+            886,
+            1754,
+            1333,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9465291405",
+        "Coordinate": [
+            1794,
+            1785,
+            2285,
+            1883
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekta Ganesan - 7086728481",
+        "Coordinate": [
+            921,
+            2011,
+            2016,
+            2119
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            582,
+            2400,
+            911,
+            2497
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adya Banerjee - 8581754001",
+        "Coordinate": [
+            949,
+            2142,
+            1976,
+            2231
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/24/2024",
+        "Coordinate": [
+            608,
+            2490,
+            987,
+            2606
+        ]
+    }
+]

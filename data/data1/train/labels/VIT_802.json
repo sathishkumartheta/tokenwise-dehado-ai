@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Meera Zachariah",
+        "Coordinate": [
+            859,
+            416,
+            1515,
+            510
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abdul Zachariah",
+        "Coordinate": [
+            863,
+            513,
+            1579,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/16/1970",
+        "Coordinate": [
+            877,
+            618,
+            1258,
+            713
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            879,
+            717,
+            1205,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            869,
+            822,
+            1205,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            806,
+            2037,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            920,
+            2079,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            875,
+            921,
+            1065,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Sampath and Sons",
+        "Coordinate": [
+            952,
+            1022,
+            2083,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bhardwaj  Dar and Kapadia",
+        "Coordinate": [
+            962,
+            1139,
+            2286,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 154, Sule Ganj, Karimnagar 341591",
+        "Coordinate": [
+            874,
+            1261,
+            2360,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "08, Goswami Marg, Nadiad 046026",
+        "Coordinate": [
+            859,
+            1504,
+            2221,
+            1653
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8796260121",
+        "Coordinate": [
+            1838,
+            1788,
+            2256,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7272382335",
+        "Coordinate": [
+            859,
+            1788,
+            1357,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Bengali, Tamil",
+        "Coordinate": [
+            858,
+            1923,
+            2217,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Luke Mukhopadhyay - 8885541412",
+        "Coordinate": [
+            933,
+            2034,
+            2143,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Dhillon - 9151453763",
+        "Coordinate": [
+            926,
+            2163,
+            2110,
+            2264
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "590000000000.0",
+        "Coordinate": [
+            565,
+            2368,
+            1188,
+            2456
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            557,
+            2461,
+            856,
+            2554
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2023",
+        "Coordinate": [
+            561,
+            2556,
+            1047,
+            2655
+        ]
+    }
+]

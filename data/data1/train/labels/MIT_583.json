@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Biswas",
+        "Coordinate": [
+            883,
+            421,
+            1356,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Biswas",
+        "Coordinate": [
+            887,
+            519,
+            1360,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/16/1972",
+        "Coordinate": [
+            881,
+            624,
+            1238,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            880,
+            719,
+            1032,
+            807
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            823,
+            1150,
+            912
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1854,
+            822,
+            2098,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            928,
+            2135,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            884,
+            925,
+            998,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Lala LLC",
+        "Coordinate": [
+            941,
+            1021,
+            1654,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Magar-Murty",
+        "Coordinate": [
+            933,
+            1134,
+            1794,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "757, Luthra, Malda-033744",
+        "Coordinate": [
+            880,
+            1256,
+            1844,
+            1400
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33/91, Ramaswamy Ganj, Hubli\u2013Dharwad-641060",
+        "Coordinate": [
+            881,
+            1505,
+            2332,
+            1636
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9250532165",
+        "Coordinate": [
+            1861,
+            1791,
+            2284,
+            1877
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8436733995",
+        "Coordinate": [
+            882,
+            1790,
+            1324,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Malayalam",
+        "Coordinate": [
+            875,
+            1933,
+            1708,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oliver Sandhu - 7761210977",
+        "Coordinate": [
+            940,
+            2037,
+            1839,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Indali Kaur - 8057887530",
+        "Coordinate": [
+            935,
+            2168,
+            1914,
+            2273
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "680000000000.0",
+        "Coordinate": [
+            582,
+            2373,
+            1142,
+            2460
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            582,
+            2469,
+            885,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/26/2025",
+        "Coordinate": [
+            580,
+            2561,
+            956,
+            2648
+        ]
+    }
+]

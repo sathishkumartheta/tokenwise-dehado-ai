@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ati Narain",
+        "Coordinate": [
+            880,
+            397,
+            1318,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "William Narain",
+        "Coordinate": [
+            886,
+            488,
+            1520,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-03-1984",
+        "Coordinate": [
+            908,
+            591,
+            1239,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            689,
+            1482,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            794,
+            1192,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1779,
+            791,
+            2046,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1874,
+            894,
+            2157,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            934,
+            893,
+            1076,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Murty Ltd",
+        "Coordinate": [
+            957,
+            986,
+            1877,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Bal-Saraf",
+        "Coordinate": [
+            931,
+            1105,
+            1908,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "590, Naik Road, Sasaram 271122",
+        "Coordinate": [
+            884,
+            1223,
+            2183,
+            1350
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "31/555, Sachar Zila, Coimbatore 680866",
+        "Coordinate": [
+            874,
+            1465,
+            2234,
+            1598
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7476149247",
+        "Coordinate": [
+            1851,
+            1756,
+            2294,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8226630844",
+        "Coordinate": [
+            896,
+            1765,
+            1336,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Bengali, Gujarati",
+        "Coordinate": [
+            910,
+            1887,
+            2218,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurav Johal - 7170977777",
+        "Coordinate": [
+            931,
+            2001,
+            2094,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan D\u2019Alia - 7739565086",
+        "Coordinate": [
+            943,
+            2126,
+            2089,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "561000000000.0",
+        "Coordinate": [
+            585,
+            2331,
+            1145,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            597,
+            2423,
+            901,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/13/2025",
+        "Coordinate": [
+            601,
+            2512,
+            1052,
+            2596
+        ]
+    }
+]

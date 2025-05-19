@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Inaya Morar",
+        "Coordinate": [
+            898,
+            460,
+            1368,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wazir Morar",
+        "Coordinate": [
+            904,
+            550,
+            1370,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/18/1982",
+        "Coordinate": [
+            894,
+            650,
+            1246,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            900,
+            734,
+            1154,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            862,
+            1188,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            850,
+            2024,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            951,
+            2138,
+            1047
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            934,
+            951,
+            1040,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Boase Group",
+        "Coordinate": [
+            944,
+            1042,
+            1782,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Hans  Parekh and Sama",
+        "Coordinate": [
+            966,
+            1152,
+            2102,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 05, Narayanan Circle, Salem-577170",
+        "Coordinate": [
+            890,
+            1276,
+            2236,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 76, Deep Marg, Madurai-610420",
+        "Coordinate": [
+            876,
+            1506,
+            2110,
+            1599
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7945544595",
+        "Coordinate": [
+            880,
+            1786,
+            1310,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7082559026",
+        "Coordinate": [
+            1524,
+            1834,
+            1892,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            904,
+            1904,
+            1374,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ansh Solanki - 7903301558",
+        "Coordinate": [
+            936,
+            2026,
+            1826,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ikshita Kaur - 8983602485",
+        "Coordinate": [
+            938,
+            2134,
+            1936,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            580,
+            2406,
+            788,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/4/2022",
+        "Coordinate": [
+            577,
+            2496,
+            965,
+            2573
+        ]
+    }
+]

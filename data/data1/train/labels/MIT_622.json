@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amrita Tailor",
+        "Coordinate": [
+            888,
+            441,
+            1447,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatura Tailor",
+        "Coordinate": [
+            897,
+            542,
+            1540,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-05-2005",
+        "Coordinate": [
+            907,
+            641,
+            1321,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            924,
+            741,
+            1306,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            848,
+            1245,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1807,
+            838,
+            2105,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            943,
+            2148,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            937,
+            946,
+            1049,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Virk-Andra",
+        "Coordinate": [
+            1026,
+            1048,
+            1934,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Tandon Inc",
+        "Coordinate": [
+            1039,
+            1160,
+            1962,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "63/32, Misra Ganj, Ludhiana 587448",
+        "Coordinate": [
+            929,
+            1284,
+            1786,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "759, Tailor Nagar, Ajmer-825854",
+        "Coordinate": [
+            897,
+            1548,
+            1683,
+            1773
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7607168851",
+        "Coordinate": [
+            1886,
+            1805,
+            2323,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7767873408",
+        "Coordinate": [
+            911,
+            1821,
+            1364,
+            1936
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Gujarati",
+        "Coordinate": [
+            916,
+            1954,
+            1866,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Diya Chowdhury - 8424500940",
+        "Coordinate": [
+            957,
+            2060,
+            2186,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishwar Salvi - 7579325810",
+        "Coordinate": [
+            992,
+            2189,
+            2048,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "576000000000.0",
+        "Coordinate": [
+            630,
+            2400,
+            1132,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            640,
+            2489,
+            1012,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2025",
+        "Coordinate": [
+            635,
+            2581,
+            1037,
+            2673
+        ]
+    }
+]

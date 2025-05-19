@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charles Subramaniam",
+        "Coordinate": [
+            886,
+            439,
+            1775,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jonathan Subramaniam",
+        "Coordinate": [
+            891,
+            545,
+            1903,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/29/2005",
+        "Coordinate": [
+            894,
+            646,
+            1285,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            896,
+            741,
+            1254,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            843,
+            1124,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1810,
+            840,
+            1985,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            949,
+            2103,
+            1052
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            965,
+            952,
+            1082,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Gole-Buch",
+        "Coordinate": [
+            1003,
+            1057,
+            1852,
+            1165
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sani-Brar",
+        "Coordinate": [
+            1007,
+            1162,
+            1909,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58, Madan Nagar, Asansol-676988",
+        "Coordinate": [
+            897,
+            1300,
+            2322,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "54, Narayan Road, Bidhannagar-134019",
+        "Coordinate": [
+            882,
+            1541,
+            2332,
+            1701
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8019248175",
+        "Coordinate": [
+            1883,
+            1807,
+            2261,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9876176221",
+        "Coordinate": [
+            915,
+            1817,
+            1334,
+            1935
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Bengali, Marathi",
+        "Coordinate": [
+            889,
+            1950,
+            2096,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanay Sagar - 7015693246",
+        "Coordinate": [
+            1004,
+            2074,
+            2075,
+            2196
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Falguni Saran - 7488432193",
+        "Coordinate": [
+            1022,
+            2202,
+            2073,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "766000000000.0",
+        "Coordinate": [
+            590,
+            2398,
+            1150,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            598,
+            2492,
+            862,
+            2590
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2025",
+        "Coordinate": [
+            604,
+            2585,
+            1064,
+            2676
+        ]
+    }
+]

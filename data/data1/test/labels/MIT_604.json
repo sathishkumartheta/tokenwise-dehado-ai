@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Turvi Bahl",
+        "Coordinate": [
+            886,
+            439,
+            1261,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanay Bahl",
+        "Coordinate": [
+            903,
+            538,
+            1315,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/17/1977",
+        "Coordinate": [
+            895,
+            639,
+            1220,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            899,
+            737,
+            1184,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            841,
+            1162,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1836,
+            837,
+            2094,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1893,
+            944,
+            2173,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            902,
+            946,
+            1000,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dugal-Kurian",
+        "Coordinate": [
+            997,
+            1043,
+            2016,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Goel-Pathak",
+        "Coordinate": [
+            1009,
+            1153,
+            1992,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87, Singh Road, Motihari-070946",
+        "Coordinate": [
+            884,
+            1291,
+            2097,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70, Chadha Marg, Srikakulam 284268",
+        "Coordinate": [
+            904,
+            1542,
+            2206,
+            1687
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9760217970",
+        "Coordinate": [
+            1856,
+            1807,
+            2246,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7194819344",
+        "Coordinate": [
+            900,
+            1811,
+            1311,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            896,
+            1949,
+            1491,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Laban Vala - 8053042369",
+        "Coordinate": [
+            985,
+            2055,
+            1940,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nandini Bobal - 7794323971",
+        "Coordinate": [
+            987,
+            2189,
+            2060,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "853000000000.0",
+        "Coordinate": [
+            597,
+            2390,
+            1089,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            583,
+            2485,
+            900,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-02-2022",
+        "Coordinate": [
+            612,
+            2578,
+            925,
+            2673
+        ]
+    }
+]

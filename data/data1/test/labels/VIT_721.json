@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ladli Sani",
+        "Coordinate": [
+            877,
+            423,
+            1292,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sathvik Sani",
+        "Coordinate": [
+            888,
+            523,
+            1411,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/23/1986",
+        "Coordinate": [
+            903,
+            626,
+            1368,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            905,
+            723,
+            1467,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            823,
+            1205,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            821,
+            2132,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            935,
+            2120,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            912,
+            925,
+            1056,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Batra LLC",
+        "Coordinate": [
+            1008,
+            1042,
+            1930,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Misra PLC",
+        "Coordinate": [
+            1030,
+            1144,
+            1998,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06/86, Thakkar Street, Saharsa-924494",
+        "Coordinate": [
+            891,
+            1273,
+            2246,
+            1530
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95/186, Naik, Chandigarh 440883",
+        "Coordinate": [
+            908,
+            1523,
+            2329,
+            1679
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7232139610",
+        "Coordinate": [
+            1925,
+            1799,
+            2355,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8297916585",
+        "Coordinate": [
+            916,
+            1801,
+            1358,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Marathi",
+        "Coordinate": [
+            953,
+            1934,
+            2153,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Kota - 8309780178",
+        "Coordinate": [
+            987,
+            2040,
+            2139,
+            2158
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Rana - 8766054964",
+        "Coordinate": [
+            991,
+            2188,
+            2192,
+            2313
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZBRIL4835D",
+        "Coordinate": [
+            1678,
+            2383,
+            2292,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            625,
+            2468,
+            937,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/23/2024",
+        "Coordinate": [
+            623,
+            2559,
+            1197,
+            2660
+        ]
+    }
+]

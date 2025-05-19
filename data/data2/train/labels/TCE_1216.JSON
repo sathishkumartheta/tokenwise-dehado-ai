@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yadavi Varty",
+        "Coordinate": [
+            913,
+            477,
+            1346,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gunbir Varty",
+        "Coordinate": [
+            916,
+            584,
+            1372,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/11/2004",
+        "Coordinate": [
+            913,
+            664,
+            1242,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            923,
+            784,
+            1226,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            873,
+            1111,
+            964
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            956,
+            967,
+            1047,
+            1044
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1849,
+            870,
+            2077,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            974,
+            2090,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Solanki-Subramaniam",
+        "Coordinate": [
+            1020,
+            1050,
+            2162,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bera LLC",
+        "Coordinate": [
+            1036,
+            1157,
+            1823,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 888, Dhar Road, Bhubaneswar-965645",
+        "Coordinate": [
+            916,
+            1290,
+            2356,
+            1385
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "28/40, Lata Ganj, Bhiwani 454406",
+        "Coordinate": [
+            909,
+            1527,
+            2191,
+            1618
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9596852602",
+        "Coordinate": [
+            917,
+            1800,
+            1378,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9674626977",
+        "Coordinate": [
+            1850,
+            1787,
+            2285,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Malayalam, Gujarati",
+        "Coordinate": [
+            930,
+            1920,
+            2218,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zarna Mital - 7289351947",
+        "Coordinate": [
+            986,
+            2040,
+            2079,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harini Kalita - 8336807086",
+        "Coordinate": [
+            990,
+            2157,
+            2029,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            633,
+            2434,
+            863,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/15/2023",
+        "Coordinate": [
+            626,
+            2517,
+            1039,
+            2599
+        ]
+    }
+]

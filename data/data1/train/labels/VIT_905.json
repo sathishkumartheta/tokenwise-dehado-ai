@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Pathak",
+        "Coordinate": [
+            880,
+            419,
+            1475,
+            515
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Pathak",
+        "Coordinate": [
+            891,
+            516,
+            1451,
+            615
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/2006",
+        "Coordinate": [
+            906,
+            623,
+            1245,
+            711
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            716,
+            1066,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            822,
+            1125,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1760,
+            816,
+            1955,
+            908
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            926,
+            2068,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            901,
+            924,
+            1024,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Karpe  Karpe and Tiwari",
+        "Coordinate": [
+            981,
+            1022,
+            2232,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chand-Ramaswamy",
+        "Coordinate": [
+            976,
+            1134,
+            2185,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "28, Chahal Circle, Alappuzha-030980",
+        "Coordinate": [
+            893,
+            1262,
+            2277,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/434, Jayaraman, Kulti 680877",
+        "Coordinate": [
+            882,
+            1507,
+            2176,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8133292259",
+        "Coordinate": [
+            1865,
+            1789,
+            2300,
+            1878
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8882839036",
+        "Coordinate": [
+            886,
+            1792,
+            1313,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi, Malayalam, Gujarati",
+        "Coordinate": [
+            905,
+            1928,
+            2230,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Sur - 9146201788",
+        "Coordinate": [
+            954,
+            2037,
+            2003,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitaly Lad - 8656611699",
+        "Coordinate": [
+            969,
+            2171,
+            2030,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "201000000000.0",
+        "Coordinate": [
+            598,
+            2370,
+            1150,
+            2454
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MZCXG5910T",
+        "Coordinate": [
+            1628,
+            2373,
+            2184,
+            2468
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            600,
+            2466,
+            870,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/30/2025",
+        "Coordinate": [
+            575,
+            2562,
+            1023,
+            2651
+        ]
+    }
+]

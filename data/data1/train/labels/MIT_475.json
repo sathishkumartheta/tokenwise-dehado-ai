@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Quincy Biswas",
+        "Coordinate": [
+            891,
+            410,
+            1362,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Biswas",
+        "Coordinate": [
+            898,
+            512,
+            1327,
+            599
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/23/2001",
+        "Coordinate": [
+            897,
+            605,
+            1226,
+            692
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            911,
+            703,
+            1181,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            809,
+            1182,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1842,
+            795,
+            2001,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            899,
+            2081,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            920,
+            908,
+            1028,
+            993
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Kumar  Yogi and Kota",
+        "Coordinate": [
+            961,
+            998,
+            2002,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sant  Ramachandran and Bajwa",
+        "Coordinate": [
+            940,
+            1118,
+            2273,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 46, Kumar Chowk, Belgaum-595841",
+        "Coordinate": [
+            892,
+            1263,
+            2147,
+            1382
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/617, Nayar Nagar, Nanded-181698",
+        "Coordinate": [
+            900,
+            1483,
+            2114,
+            1605
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7288415530",
+        "Coordinate": [
+            1875,
+            1754,
+            2264,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7367636250",
+        "Coordinate": [
+            905,
+            1763,
+            1315,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Bengali, Kannada",
+        "Coordinate": [
+            879,
+            1901,
+            2029,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavini Chaudhary - 9765248222",
+        "Coordinate": [
+            953,
+            2005,
+            2023,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charita Mahal - 7996957692",
+        "Coordinate": [
+            956,
+            2139,
+            1883,
+            2240
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "610000000000.0",
+        "Coordinate": [
+            612,
+            2348,
+            1136,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            597,
+            2442,
+            951,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/29/2025",
+        "Coordinate": [
+            614,
+            2530,
+            985,
+            2616
+        ]
+    }
+]

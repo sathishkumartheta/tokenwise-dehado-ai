@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amrita Manne",
+        "Coordinate": [
+            877,
+            437,
+            1555,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ansh Manne",
+        "Coordinate": [
+            890,
+            535,
+            1442,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/7/2006",
+        "Coordinate": [
+            917,
+            635,
+            1410,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            712,
+            1360,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            905,
+            840,
+            1272,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            832,
+            2105,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            927,
+            2142,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            915,
+            957,
+            1040,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mall LLC",
+        "Coordinate": [
+            990,
+            1032,
+            1950,
+            1117
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Garg LLC",
+        "Coordinate": [
+            1010,
+            1127,
+            1940,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "924, Rama Path, Indore 935046",
+        "Coordinate": [
+            935,
+            1270,
+            2325,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "741, Hegde Path, Begusarai-387895",
+        "Coordinate": [
+            932,
+            1532,
+            2282,
+            1672
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9123624765",
+        "Coordinate": [
+            900,
+            1810,
+            1375,
+            1922
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7117525958",
+        "Coordinate": [
+            1857,
+            1792,
+            2337,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, English, Hindi",
+        "Coordinate": [
+            875,
+            1947,
+            2430,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anthony Oak - 8511404518",
+        "Coordinate": [
+            987,
+            2055,
+            2182,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bachittar Loyal - 9136174320",
+        "Coordinate": [
+            939,
+            2177,
+            2282,
+            2270
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "961756000000",
+        "Coordinate": [
+            597,
+            2382,
+            1197,
+            2500
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            635,
+            2490,
+            1007,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/22/2023",
+        "Coordinate": [
+            630,
+            2575,
+            1177,
+            2665
+        ]
+    }
+]

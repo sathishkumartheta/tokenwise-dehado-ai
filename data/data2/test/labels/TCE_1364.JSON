@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Mander",
+        "Coordinate": [
+            905,
+            475,
+            1422,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gopal Mander",
+        "Coordinate": [
+            895,
+            566,
+            1350,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/5/1969",
+        "Coordinate": [
+            920,
+            666,
+            1286,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            761,
+            1278,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            866,
+            1194,
+            958
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1845,
+            841,
+            2050,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            970,
+            961,
+            1250,
+            1026
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            950,
+            2122,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bali  Chakrabarti and Chander",
+        "Coordinate": [
+            1020,
+            1036,
+            2306,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bassi-Roy",
+        "Coordinate": [
+            1030,
+            1146,
+            1738,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "56/13, Chander Marg, Kota-037492",
+        "Coordinate": [
+            935,
+            1265,
+            2118,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 969, Raju Circle, Dhanbad 757155",
+        "Coordinate": [
+            930,
+            1500,
+            2262,
+            1642
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8985556938",
+        "Coordinate": [
+            900,
+            1756,
+            1346,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9021891495",
+        "Coordinate": [
+            1825,
+            1736,
+            2206,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            925,
+            1901,
+            1410,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lekha Devi - 8101106774",
+        "Coordinate": [
+            980,
+            2011,
+            1758,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhanumati Taneja - 9796355773",
+        "Coordinate": [
+            990,
+            2120,
+            1850,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            630,
+            2416,
+            962,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/24/2022",
+        "Coordinate": [
+            655,
+            2516,
+            1006,
+            2598
+        ]
+    }
+]

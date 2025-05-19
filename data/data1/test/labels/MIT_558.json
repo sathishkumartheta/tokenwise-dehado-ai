@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vivaan Subramanian",
+        "Coordinate": [
+            942,
+            413,
+            1674,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Subramanian",
+        "Coordinate": [
+            954,
+            516,
+            1627,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/1998",
+        "Coordinate": [
+            1015,
+            617,
+            1388,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1021,
+            713,
+            1174,
+            805
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1000,
+            811,
+            1309,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1894,
+            791,
+            2095,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1944,
+            897,
+            2201,
+            991
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            1019,
+            915,
+            1149,
+            1003
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sama Ltd",
+        "Coordinate": [
+            1052,
+            1005,
+            1868,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Subramanian  Saran and Chopra",
+        "Coordinate": [
+            1040,
+            1118,
+            2398,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29, Agate Path, Bidar-162172",
+        "Coordinate": [
+            943,
+            1290,
+            2100,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88/68, Mistry Nagar, Orai 930326",
+        "Coordinate": [
+            943,
+            1489,
+            2253,
+            1673
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9067610029",
+        "Coordinate": [
+            1920,
+            1757,
+            2331,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7364696859",
+        "Coordinate": [
+            952,
+            1783,
+            1416,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            960,
+            1911,
+            1640,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falguni Rattan - 9666221866",
+        "Coordinate": [
+            1021,
+            2015,
+            2088,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pushti Sibal - 8110973110",
+        "Coordinate": [
+            1035,
+            2141,
+            2098,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "284000000000.0",
+        "Coordinate": [
+            664,
+            2356,
+            1276,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            671,
+            2452,
+            883,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2025",
+        "Coordinate": [
+            689,
+            2537,
+            1094,
+            2632
+        ]
+    }
+]

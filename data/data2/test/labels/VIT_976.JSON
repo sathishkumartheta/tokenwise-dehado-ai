@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Azaan Pandit",
+        "Coordinate": [
+            887,
+            439,
+            1450,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Pandit",
+        "Coordinate": [
+            867,
+            545,
+            1412,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/14/1972",
+        "Coordinate": [
+            897,
+            612,
+            1315,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            897,
+            727,
+            1205,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            837,
+            1227,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            835,
+            1947,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            942,
+            2070,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            962,
+            940,
+            1095,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhalla-Kamdar",
+        "Coordinate": [
+            1005,
+            1042,
+            1957,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Narayanan  Nagy and Dyal",
+        "Coordinate": [
+            965,
+            1137,
+            2215,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "63, Pathak Circle, Ramgarh 254376",
+        "Coordinate": [
+            917,
+            1315,
+            2195,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 329, Sane, Anand-435859",
+        "Coordinate": [
+            930,
+            1527,
+            2230,
+            1707
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9617019856",
+        "Coordinate": [
+            877,
+            1812,
+            1350,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9976170532",
+        "Coordinate": [
+            1865,
+            1800,
+            2312,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Malayalam",
+        "Coordinate": [
+            917,
+            1937,
+            1850,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oviya Ravel - 7838072234",
+        "Coordinate": [
+            965,
+            2055,
+            2070,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yadavi Tank - 9985627910",
+        "Coordinate": [
+            965,
+            2177,
+            2077,
+            2285
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "827955000000",
+        "Coordinate": [
+            572,
+            2377,
+            1185,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            587,
+            2472,
+            932,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/27/2022",
+        "Coordinate": [
+            580,
+            2547,
+            1072,
+            2667
+        ]
+    }
+]

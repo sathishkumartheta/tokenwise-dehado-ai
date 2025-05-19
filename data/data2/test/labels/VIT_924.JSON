@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kashish Puri",
+        "Coordinate": [
+            892,
+            447,
+            1362,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayaan Puri",
+        "Coordinate": [
+            902,
+            548,
+            1340,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/3/1968",
+        "Coordinate": [
+            888,
+            640,
+            1236,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            908,
+            738,
+            1234,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            838,
+            1178,
+            912
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            944,
+            938,
+            1068,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Guha-Dara",
+        "Coordinate": [
+            982,
+            1032,
+            1860,
+            1100
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            938,
+            2072,
+            1006
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            828,
+            2038,
+            898
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Natt  Sampath and Singhal",
+        "Coordinate": [
+            989,
+            1148,
+            2410,
+            1220
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 736, Dhingra Street, Pondicherry-773824",
+        "Coordinate": [
+            900,
+            1270,
+            2458,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 462, Dutta, Gaya-833813",
+        "Coordinate": [
+            898,
+            1528,
+            2224,
+            1634
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7725370983",
+        "Coordinate": [
+            906,
+            1798,
+            1378,
+            1898
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7402920665",
+        "Coordinate": [
+            1860,
+            1802,
+            2344,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            964,
+            1938,
+            1766,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Patrick Gade - 8296019759",
+        "Coordinate": [
+            970,
+            2056,
+            2134,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Geetika Bala - 7361573552",
+        "Coordinate": [
+            992,
+            2178,
+            2174,
+            2276
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "896136000000",
+        "Coordinate": [
+            590,
+            2386,
+            1226,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            596,
+            2488,
+            1036,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/29/2025",
+        "Coordinate": [
+            608,
+            2576,
+            1126,
+            2664
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vanya Balay",
+        "Coordinate": [
+            888,
+            435,
+            1407,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurang Balay",
+        "Coordinate": [
+            905,
+            536,
+            1521,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-11-1961",
+        "Coordinate": [
+            923,
+            636,
+            1242,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            914,
+            734,
+            1091,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            837,
+            1220,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1721,
+            834,
+            1978,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            941,
+            2086,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            920,
+            943,
+            1053,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chand  Muni and Ahluwalia",
+        "Coordinate": [
+            964,
+            1040,
+            2334,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Malhotra Group",
+        "Coordinate": [
+            982,
+            1152,
+            2091,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "36/077, Swaminathan Street, Vadodara-509806",
+        "Coordinate": [
+            897,
+            1277,
+            2024,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "335, Choudhury Nagar, Gaya-251049",
+        "Coordinate": [
+            903,
+            1547,
+            2321,
+            1710
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7330113280",
+        "Coordinate": [
+            1893,
+            1812,
+            2305,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7868196646",
+        "Coordinate": [
+            880,
+            1813,
+            1302,
+            1928
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Kannada, Malayalam",
+        "Coordinate": [
+            909,
+            1945,
+            2311,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Dar - 8963893890",
+        "Coordinate": [
+            963,
+            2056,
+            2019,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yash Banik - 8592140509",
+        "Coordinate": [
+            989,
+            2184,
+            1955,
+            2296
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GAXZF1554L",
+        "Coordinate": [
+            1664,
+            2392,
+            2184,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            588,
+            2483,
+            1023,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-02-2024",
+        "Coordinate": [
+            619,
+            2581,
+            1048,
+            2674
+        ]
+    }
+]

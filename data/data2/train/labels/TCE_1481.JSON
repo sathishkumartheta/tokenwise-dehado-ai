@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarna Agrawal",
+        "Coordinate": [
+            910,
+            470,
+            1550,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Agrawal",
+        "Coordinate": [
+            930,
+            571,
+            1654,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/5/1959",
+        "Coordinate": [
+            940,
+            665,
+            1378,
+            770
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            776,
+            1390,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            960,
+            866,
+            1306,
+            954
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1695,
+            846,
+            2026,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            950,
+            2118,
+            1046
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1030,
+            955,
+            1186,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Kohli-Sen",
+        "Coordinate": [
+            1030,
+            1070,
+            1938,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chaudhuri  Mane and Boase",
+        "Coordinate": [
+            965,
+            1156,
+            2434,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "73/60, Kata Marg, Thane 130057",
+        "Coordinate": [
+            895,
+            1271,
+            2190,
+            1366
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "53/27, Comar, Ambattur-167162",
+        "Coordinate": [
+            895,
+            1516,
+            2186,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7069582392",
+        "Coordinate": [
+            1510,
+            1826,
+            2150,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9751329841",
+        "Coordinate": [
+            900,
+            1795,
+            1334,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Hindi, Tamil",
+        "Coordinate": [
+            910,
+            1931,
+            2222,
+            2018
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dominic Sidhu - 9277832081",
+        "Coordinate": [
+            960,
+            2046,
+            2246,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darika Chander - 8739946051",
+        "Coordinate": [
+            950,
+            2191,
+            2226,
+            2302
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            595,
+            2425,
+            938,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/3/2022",
+        "Coordinate": [
+            630,
+            2501,
+            1122,
+            2598
+        ]
+    }
+]

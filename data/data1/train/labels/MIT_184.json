@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ijaya Dixit",
+        "Coordinate": [
+            909,
+            392,
+            1339,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishwar Dixit",
+        "Coordinate": [
+            924,
+            491,
+            1422,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-10-1967",
+        "Coordinate": [
+            943,
+            588,
+            1268,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            960,
+            686,
+            1271,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            969,
+            786,
+            1192,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1870,
+            785,
+            2128,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            896,
+            2149,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            991,
+            892,
+            1125,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Rattan Inc",
+        "Coordinate": [
+            1031,
+            984,
+            1785,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Handa-Dhingra",
+        "Coordinate": [
+            1040,
+            1098,
+            1996,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "31/06, Vohra Marg, Ahmednagar-567086",
+        "Coordinate": [
+            946,
+            1219,
+            2266,
+            1354
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 454, Sahota Path, Imphal 200053",
+        "Coordinate": [
+            907,
+            1464,
+            2242,
+            1592
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9739024668",
+        "Coordinate": [
+            1868,
+            1749,
+            2316,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8640728720",
+        "Coordinate": [
+            892,
+            1748,
+            1360,
+            1844
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Telugu, Marathi",
+        "Coordinate": [
+            896,
+            1877,
+            2054,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urmi Mammen - 9035092315",
+        "Coordinate": [
+            956,
+            1996,
+            1981,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raagini Goyal - 9703754865",
+        "Coordinate": [
+            972,
+            2119,
+            2032,
+            2221
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KQKUF6335R",
+        "Coordinate": [
+            1629,
+            2329,
+            2117,
+            2420
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            641,
+            2419,
+            953,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-11-2025",
+        "Coordinate": [
+            658,
+            2511,
+            1026,
+            2595
+        ]
+    }
+]

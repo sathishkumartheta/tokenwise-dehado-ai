@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ojas Pandya",
+        "Coordinate": [
+            878,
+            386,
+            1412,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Pandya",
+        "Coordinate": [
+            874,
+            485,
+            1486,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-04-1989",
+        "Coordinate": [
+            900,
+            590,
+            1267,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            895,
+            682,
+            1444,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            785,
+            1205,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1826,
+            784,
+            2022,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            894,
+            2082,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            954,
+            886,
+            1109,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sandal-Ramaswamy",
+        "Coordinate": [
+            955,
+            981,
+            2123,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Ahluwalia-Raval",
+        "Coordinate": [
+            952,
+            1096,
+            2015,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 27, Bahl Road, Dhule 450566",
+        "Coordinate": [
+            891,
+            1221,
+            2194,
+            1355
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "987, Chhabra Road, Latur 579706",
+        "Coordinate": [
+            893,
+            1475,
+            2122,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7954579275",
+        "Coordinate": [
+            1848,
+            1751,
+            2286,
+            1863
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9008078572",
+        "Coordinate": [
+            878,
+            1755,
+            1318,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            889,
+            1885,
+            1432,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zaid Mammen - 7879496098",
+        "Coordinate": [
+            947,
+            1999,
+            1901,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daniel Chaudhuri - 8204704638",
+        "Coordinate": [
+            953,
+            2120,
+            2110,
+            2232
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YMARB0027X",
+        "Coordinate": [
+            1644,
+            2333,
+            2153,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            596,
+            2417,
+            939,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/15/2022",
+        "Coordinate": [
+            614,
+            2511,
+            953,
+            2597
+        ]
+    }
+]

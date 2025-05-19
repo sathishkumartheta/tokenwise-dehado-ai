@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qabil Narayan",
+        "Coordinate": [
+            912,
+            472,
+            1449,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Narayan",
+        "Coordinate": [
+            928,
+            564,
+            1547,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/26/1997",
+        "Coordinate": [
+            920,
+            662,
+            1264,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            909,
+            742,
+            1420,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            872,
+            1220,
+            957
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1776,
+            862,
+            1975,
+            949
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            976,
+            965,
+            1138,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1769,
+            974,
+            2010,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chand-Lalla",
+        "Coordinate": [
+            1002,
+            1043,
+            1731,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Savant-Kade",
+        "Coordinate": [
+            1014,
+            1157,
+            1794,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83/962, Som Path, Firozabad 616566",
+        "Coordinate": [
+            933,
+            1279,
+            2177,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40, Kala Marg, Yamunanagar 586171",
+        "Coordinate": [
+            936,
+            1521,
+            2180,
+            1753
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8350246578",
+        "Coordinate": [
+            931,
+            1781,
+            1332,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8762878702",
+        "Coordinate": [
+            1846,
+            1787,
+            2257,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil",
+        "Coordinate": [
+            894,
+            1903,
+            1317,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksh Sami - 8346330909",
+        "Coordinate": [
+            953,
+            2015,
+            1838,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tripti Ramakrishnan - 9013150744",
+        "Coordinate": [
+            966,
+            2127,
+            2175,
+            2268
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            609,
+            2419,
+            933,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/28/2025",
+        "Coordinate": [
+            682,
+            2509,
+            1072,
+            2594
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Deepa Bumb",
+        "Coordinate": [
+            879,
+            393,
+            1360,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jason Bumb",
+        "Coordinate": [
+            883,
+            494,
+            1296,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/25/2000",
+        "Coordinate": [
+            900,
+            593,
+            1312,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            902,
+            687,
+            1238,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            888,
+            792,
+            1108,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1779,
+            783,
+            2037,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            891,
+            2100,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            921,
+            900,
+            1043,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Yohannan-Buch",
+        "Coordinate": [
+            966,
+            986,
+            1900,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Nayar-Apte",
+        "Coordinate": [
+            962,
+            1104,
+            1778,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 779, Prabhakar Nagar, Siliguri 693351",
+        "Coordinate": [
+            879,
+            1249,
+            2133,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/532, Bahri Marg, Bhilai 910382",
+        "Coordinate": [
+            872,
+            1484,
+            2089,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7622446513",
+        "Coordinate": [
+            1838,
+            1750,
+            2223,
+            1851
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7072317772",
+        "Coordinate": [
+            888,
+            1755,
+            1290,
+            1853
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Hindi",
+        "Coordinate": [
+            885,
+            1888,
+            1686,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damyanti Desai - 9571116965",
+        "Coordinate": [
+            935,
+            2001,
+            1989,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ikshita Dara - 8804631280",
+        "Coordinate": [
+            944,
+            2127,
+            1911,
+            2231
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GVQQJ5503U",
+        "Coordinate": [
+            1631,
+            2336,
+            2084,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            583,
+            2418,
+            826,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/20/2025",
+        "Coordinate": [
+            583,
+            2515,
+            954,
+            2600
+        ]
+    }
+]

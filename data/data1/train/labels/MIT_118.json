@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falguni Acharya",
+        "Coordinate": [
+            877,
+            434,
+            1695,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Acharya",
+        "Coordinate": [
+            886,
+            540,
+            1701,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/2004",
+        "Coordinate": [
+            909,
+            636,
+            1375,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            922,
+            736,
+            1338,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            887,
+            844,
+            1164,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1821,
+            829,
+            2170,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            937,
+            2214,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            932,
+            944,
+            1097,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Lata-Doshi",
+        "Coordinate": [
+            1013,
+            1052,
+            2106,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Narayan  Raman and Aggarwal",
+        "Coordinate": [
+            972,
+            1170,
+            2410,
+            1296
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61, Kara Circle, Yamunanagar-198554",
+        "Coordinate": [
+            881,
+            1299,
+            2361,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "15/851, Mann Chowk, Belgaum-634615",
+        "Coordinate": [
+            887,
+            1522,
+            1681,
+            1806
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7590388876",
+        "Coordinate": [
+            1580,
+            1870,
+            2191,
+            1950
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7119492630",
+        "Coordinate": [
+            878,
+            1836,
+            1370,
+            1944
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Tamil, English",
+        "Coordinate": [
+            866,
+            1954,
+            2281,
+            2067
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frado Sarma - 7742734096",
+        "Coordinate": [
+            943,
+            2072,
+            2236,
+            2195
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Logan Banik - 8853492504",
+        "Coordinate": [
+            946,
+            2192,
+            2257,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "544000000000.0",
+        "Coordinate": [
+            578,
+            2385,
+            1249,
+            2477
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KCBKF8969F",
+        "Coordinate": [
+            1642,
+            2387,
+            2320,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            606,
+            2483,
+            1032,
+            2580
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-09-2023",
+        "Coordinate": [
+            645,
+            2577,
+            1250,
+            2678
+        ]
+    }
+]

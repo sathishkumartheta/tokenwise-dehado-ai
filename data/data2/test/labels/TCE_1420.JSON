@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daksh Ranganathan",
+        "Coordinate": [
+            900,
+            475,
+            1426,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jonathan Ranganathan",
+        "Coordinate": [
+            900,
+            586,
+            1558,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/27/1985",
+        "Coordinate": [
+            910,
+            654,
+            1242,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            900,
+            759,
+            1238,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            844,
+            1210,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1725,
+            849,
+            1954,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            900,
+            927,
+            1054,
+            1036
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            954,
+            2070,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sarna  Padmanabhan and Sankaran",
+        "Coordinate": [
+            975,
+            1024,
+            2298,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Deshpande  Gopal and Mukherjee",
+        "Coordinate": [
+            970,
+            1149,
+            2118,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "07/25, Savant Chowk, Srinagar-154636",
+        "Coordinate": [
+            895,
+            1268,
+            2206,
+            1400
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "136, Sant Nagar, Tadepalligudem-944727",
+        "Coordinate": [
+            900,
+            1493,
+            2234,
+            1607
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada, Bengali, Telugu",
+        "Coordinate": [
+            890,
+            1882,
+            2030,
+            2003
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8563608498",
+        "Coordinate": [
+            895,
+            1757,
+            1314,
+            1863
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7470365712",
+        "Coordinate": [
+            1526,
+            1817,
+            1986,
+            1907
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Deepa Pant - 7118747565",
+        "Coordinate": [
+            950,
+            2002,
+            1798,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vidhi Ramakrishnan - 9147776078",
+        "Coordinate": [
+            950,
+            2137,
+            2086,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            615,
+            2401,
+            914,
+            2486
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/26/2022",
+        "Coordinate": [
+            610,
+            2481,
+            1050,
+            2586
+        ]
+    }
+]

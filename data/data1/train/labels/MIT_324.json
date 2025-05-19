@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zarna Bhalla",
+        "Coordinate": [
+            896,
+            404,
+            1346,
+            503
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Liam Bhalla",
+        "Coordinate": [
+            900,
+            507,
+            1337,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-10-1964",
+        "Coordinate": [
+            902,
+            604,
+            1250,
+            693
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            908,
+            702,
+            1153,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            805,
+            1178,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            789,
+            2002,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            897,
+            2072,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            927,
+            892,
+            1106,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bora-Nagy",
+        "Coordinate": [
+            978,
+            993,
+            1815,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Setty Group",
+        "Coordinate": [
+            980,
+            1110,
+            1783,
+            1222
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76/20, Kannan Path, Gopalpur-777946",
+        "Coordinate": [
+            903,
+            1227,
+            2252,
+            1375
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/662, Devan, Surat-776029",
+        "Coordinate": [
+            898,
+            1485,
+            2076,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8871076366",
+        "Coordinate": [
+            1870,
+            1750,
+            2277,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9115102751",
+        "Coordinate": [
+            899,
+            1761,
+            1275,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            917,
+            1894,
+            1447,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Bajaj - 9360689678",
+        "Coordinate": [
+            975,
+            2007,
+            1857,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adya Bhavsar - 7628577207",
+        "Coordinate": [
+            989,
+            2130,
+            1901,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "525000000000.0",
+        "Coordinate": [
+            597,
+            2337,
+            1079,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            608,
+            2429,
+            895,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2024",
+        "Coordinate": [
+            608,
+            2518,
+            958,
+            2603
+        ]
+    }
+]

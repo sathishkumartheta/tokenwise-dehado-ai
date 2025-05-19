@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaman Murty",
+        "Coordinate": [
+            935,
+            455,
+            1453,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Murty",
+        "Coordinate": [
+            937,
+            568,
+            1340,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/10/1963",
+        "Coordinate": [
+            928,
+            671,
+            1347,
+            773
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            927,
+            756,
+            1135,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            842,
+            1203,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            958,
+            953,
+            1228,
+            1065
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            858,
+            2010,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1757,
+            953,
+            2030,
+            1053
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Talwar Inc",
+        "Coordinate": [
+            968,
+            1060,
+            1894,
+            1172
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Dara Ltd",
+        "Coordinate": [
+            985,
+            1168,
+            1820,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 33, Patla Nagar, Ballia 993409",
+        "Coordinate": [
+            895,
+            1307,
+            2237,
+            1448
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 876, Manne Circle, Dindigul-842252",
+        "Coordinate": [
+            912,
+            1577,
+            2242,
+            1699
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7523462389",
+        "Coordinate": [
+            902,
+            1775,
+            1335,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7546160934",
+        "Coordinate": [
+            1547,
+            1820,
+            2055,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, Bengali",
+        "Coordinate": [
+            932,
+            1904,
+            1869,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ria Ramakrishnan - 7205887827",
+        "Coordinate": [
+            930,
+            2055,
+            2107,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unni Nayak - 7122676757",
+        "Coordinate": [
+            933,
+            2185,
+            2084,
+            2270
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            635,
+            2411,
+            888,
+            2527
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/12/2024",
+        "Coordinate": [
+            620,
+            2512,
+            1033,
+            2622
+        ]
+    }
+]

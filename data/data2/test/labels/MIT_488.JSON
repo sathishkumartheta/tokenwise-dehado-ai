@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Baljiwan Kala",
+        "Coordinate": [
+            937,
+            464,
+            1450,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tejas Kala",
+        "Coordinate": [
+            965,
+            545,
+            1345,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/29/1991",
+        "Coordinate": [
+            970,
+            632,
+            1317,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            952,
+            740,
+            1160,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            985,
+            829,
+            1292,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1747,
+            832,
+            1967,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            942,
+            2107,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1017,
+            945,
+            1182,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pillay  Swaminathan and Rai",
+        "Coordinate": [
+            1042,
+            1035,
+            2290,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sangha-Guha",
+        "Coordinate": [
+            1064,
+            1155,
+            2007,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/74, Choudhry, Bhilai 232154",
+        "Coordinate": [
+            970,
+            1260,
+            2095,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "31/535, Roy Nagar, Udaipur 168455",
+        "Coordinate": [
+            957,
+            1517,
+            2222,
+            1645
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8450568804",
+        "Coordinate": [
+            942,
+            1757,
+            1382,
+            1860
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9636702842",
+        "Coordinate": [
+            1875,
+            1760,
+            2327,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Bengali",
+        "Coordinate": [
+            952,
+            1894,
+            1807,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekantika Gill - 9518536910",
+        "Coordinate": [
+            1022,
+            1992,
+            2075,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Devika Borde - 7459261684",
+        "Coordinate": [
+            1050,
+            2127,
+            2150,
+            2227
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QUMZH3740N",
+        "Coordinate": [
+            1700,
+            2300,
+            2192,
+            2395
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/5/2024",
+        "Coordinate": [
+            715,
+            2470,
+            1132,
+            2580
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            682,
+            2390,
+            955,
+            2480
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aachal Chatterjee",
+        "Coordinate": [
+            906,
+            398,
+            1466,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Chatterjee",
+        "Coordinate": [
+            903,
+            494,
+            1473,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/16/2006",
+        "Coordinate": [
+            929,
+            594,
+            1247,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            921,
+            693,
+            1229,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            926,
+            790,
+            1120,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1714,
+            790,
+            1943,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            896,
+            2051,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            923,
+            900,
+            1030,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Vohra-Saha",
+        "Coordinate": [
+            974,
+            991,
+            1812,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mani  Sankar and Garde",
+        "Coordinate": [
+            970,
+            1100,
+            2160,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "237, Thakkar Street, Hospet-230234",
+        "Coordinate": [
+            899,
+            1225,
+            2206,
+            1350
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/214, Purohit Zila, Bally-509377",
+        "Coordinate": [
+            897,
+            1466,
+            2204,
+            1605
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8951873162",
+        "Coordinate": [
+            1875,
+            1751,
+            2253,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7015875963",
+        "Coordinate": [
+            887,
+            1750,
+            1302,
+            1832
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Marathi, Malayalam",
+        "Coordinate": [
+            898,
+            1891,
+            2177,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aditya Bhat - 8446057330",
+        "Coordinate": [
+            950,
+            1998,
+            1809,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhimanyu Barman - 8874354613",
+        "Coordinate": [
+            957,
+            2125,
+            2138,
+            2231
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YIISB1384I",
+        "Coordinate": [
+            1639,
+            2339,
+            2043,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            614,
+            2423,
+            838,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/29/2022",
+        "Coordinate": [
+            627,
+            2518,
+            983,
+            2600
+        ]
+    }
+]

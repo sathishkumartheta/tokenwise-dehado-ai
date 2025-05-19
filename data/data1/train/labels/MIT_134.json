@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanveer Desai",
+        "Coordinate": [
+            869,
+            428,
+            2348,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nachiket Desai",
+        "Coordinate": [
+            877,
+            527,
+            2117,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/19/1985",
+        "Coordinate": [
+            886,
+            631,
+            1945,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            894,
+            737,
+            1144,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            833,
+            1213,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1749,
+            825,
+            2027,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            936,
+            2180,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            943,
+            935,
+            1106,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Choudhary-Swaminathan",
+        "Coordinate": [
+            965,
+            1036,
+            2429,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Zacharia  Singhal and Soni",
+        "Coordinate": [
+            958,
+            1139,
+            2406,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47, Purohit, Anantapuram-009025",
+        "Coordinate": [
+            895,
+            1269,
+            2353,
+            1453
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "56/165, Sabharwal Path, Pimpri-Chinchwad 334911",
+        "Coordinate": [
+            867,
+            1514,
+            2341,
+            1726
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9948278044",
+        "Coordinate": [
+            1632,
+            1852,
+            2261,
+            1938
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8622937468",
+        "Coordinate": [
+            896,
+            1800,
+            1370,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Malayalam, Hindi",
+        "Coordinate": [
+            866,
+            1938,
+            2256,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishwar Nazareth - 8067075672",
+        "Coordinate": [
+            960,
+            2038,
+            2222,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anmol Yohannan - 8170546709",
+        "Coordinate": [
+            945,
+            2172,
+            2238,
+            2278
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "336000000000.0",
+        "Coordinate": [
+            588,
+            2385,
+            1226,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            599,
+            2480,
+            959,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-05-2024",
+        "Coordinate": [
+            632,
+            2569,
+            1140,
+            2663
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Suhani Ram",
+        "Coordinate": [
+            867,
+            437,
+            1276,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Xavier Ram",
+        "Coordinate": [
+            878,
+            544,
+            1281,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1968",
+        "Coordinate": [
+            883,
+            648,
+            1209,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            880,
+            750,
+            1233,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            867,
+            1129,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            840,
+            2074,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            896,
+            958,
+            1041,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            947,
+            2095,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bhandari Group",
+        "Coordinate": [
+            1014,
+            1051,
+            2124,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Kadakia  Saini and Pall",
+        "Coordinate": [
+            1011,
+            1158,
+            2309,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15, Ben Zila, Navi Mumbai-677767",
+        "Coordinate": [
+            915,
+            1289,
+            2282,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22/496, Kamdar Chowk, Vijayawada 755791",
+        "Coordinate": [
+            886,
+            1567,
+            2237,
+            1759
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8143741968",
+        "Coordinate": [
+            875,
+            1844,
+            1294,
+            1948
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9068870182",
+        "Coordinate": [
+            1660,
+            1858,
+            2100,
+            1951
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Marathi",
+        "Coordinate": [
+            904,
+            1956,
+            1783,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Mohan - 8947889173",
+        "Coordinate": [
+            955,
+            2071,
+            2156,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aishani Bajwa - 9772028959",
+        "Coordinate": [
+            950,
+            2199,
+            2189,
+            2309
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            600,
+            2501,
+            912,
+            2592
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VGGUJ7819B",
+        "Coordinate": [
+            1649,
+            2399,
+            2242,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/19/2023",
+        "Coordinate": [
+            568,
+            2581,
+            1041,
+            2669
+        ]
+    }
+]

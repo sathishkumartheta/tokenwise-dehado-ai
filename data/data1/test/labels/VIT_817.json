@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nikita Balasubramanian",
+        "Coordinate": [
+            881,
+            424,
+            2098,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Thomas Balasubramanian",
+        "Coordinate": [
+            879,
+            528,
+            1996,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/20/1992",
+        "Coordinate": [
+            922,
+            633,
+            1465,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            912,
+            729,
+            1118,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            833,
+            1268,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            821,
+            2032,
+            900
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            929,
+            2182,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Aurora LLC",
+        "Coordinate": [
+            946,
+            1027,
+            1958,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Parekh LLC",
+        "Coordinate": [
+            954,
+            1133,
+            1956,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 81, Vaidya Zila, Miryalaguda-938502",
+        "Coordinate": [
+            906,
+            1264,
+            2371,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "98, Oak Street, Raichur 715641",
+        "Coordinate": [
+            892,
+            1512,
+            2334,
+            1673
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9222162154",
+        "Coordinate": [
+            1851,
+            1799,
+            2348,
+            1928
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9670067755",
+        "Coordinate": [
+            889,
+            1799,
+            1361,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu",
+        "Coordinate": [
+            889,
+            1935,
+            1754,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Kalita - 7200769487",
+        "Coordinate": [
+            958,
+            2036,
+            2270,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanaya Babu - 8794362807",
+        "Coordinate": [
+            966,
+            2168,
+            2270,
+            2292
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UNRMB0027F",
+        "Coordinate": [
+            1606,
+            2378,
+            2228,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            594,
+            2465,
+            1116,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/24/2024",
+        "Coordinate": [
+            592,
+            2559,
+            1157,
+            2659
+        ]
+    }
+]

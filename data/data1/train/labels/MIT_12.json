@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Iyengar",
+        "Coordinate": [
+            949,
+            439,
+            1566,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advaith Iyengar",
+        "Coordinate": [
+            958,
+            547,
+            1568,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-09-2001",
+        "Coordinate": [
+            963,
+            648,
+            1289,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            957,
+            741,
+            1322,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            958,
+            841,
+            1199,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1913,
+            846,
+            2193,
+            961
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1941,
+            956,
+            2224,
+            1057
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            961,
+            945,
+            1142,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Khare and Sons",
+        "Coordinate": [
+            1008,
+            1047,
+            2108,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Contractor-Kamdar",
+        "Coordinate": [
+            988,
+            1157,
+            2338,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Contractor, Bijapur-904966",
+        "Coordinate": [
+            944,
+            1292,
+            2310,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "31/49, Barman Zila, Katihar-518506",
+        "Coordinate": [
+            942,
+            1535,
+            2349,
+            1694
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7657307423",
+        "Coordinate": [
+            1910,
+            1809,
+            2401,
+            1934
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7576304079",
+        "Coordinate": [
+            944,
+            1807,
+            1414,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Hindi, Tamil",
+        "Coordinate": [
+            939,
+            1947,
+            1962,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hitesh Sant - 9741193571",
+        "Coordinate": [
+            984,
+            2055,
+            1886,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tripti Dua - 9569903951",
+        "Coordinate": [
+            999,
+            2186,
+            1961,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "485000000000.0",
+        "Coordinate": [
+            645,
+            2380,
+            1166,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            645,
+            2475,
+            1356,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/21/2022",
+        "Coordinate": [
+            642,
+            2568,
+            1017,
+            2673
+        ]
+    }
+]

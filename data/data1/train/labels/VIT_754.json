@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurang Pant",
+        "Coordinate": [
+            857,
+            426,
+            1396,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tristan Pant",
+        "Coordinate": [
+            874,
+            528,
+            1338,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-08-1979",
+        "Coordinate": [
+            882,
+            631,
+            1280,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            882,
+            732,
+            1173,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            835,
+            1188,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1773,
+            822,
+            2173,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            938,
+            2059,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            917,
+            941,
+            1029,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Vasa-Wali",
+        "Coordinate": [
+            988,
+            1039,
+            1713,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Naidu and Sons",
+        "Coordinate": [
+            987,
+            1149,
+            1961,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18/511, Murty Zila, Fatehpur-385157",
+        "Coordinate": [
+            890,
+            1289,
+            2308,
+            1459
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/050, Wali Marg, Narasaraopet-831934",
+        "Coordinate": [
+            880,
+            1555,
+            2333,
+            1716
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8208442720",
+        "Coordinate": [
+            1841,
+            1807,
+            2303,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9191943797",
+        "Coordinate": [
+            876,
+            1811,
+            1277,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Bengali",
+        "Coordinate": [
+            896,
+            1939,
+            1681,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekiya Bhasin - 7502484593",
+        "Coordinate": [
+            957,
+            2054,
+            2000,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedhika Nagarajan - 8283309124",
+        "Coordinate": [
+            951,
+            2192,
+            2116,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "791000000000.0",
+        "Coordinate": [
+            600,
+            2380,
+            1088,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            599,
+            2476,
+            885,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-11-2022",
+        "Coordinate": [
+            617,
+            2570,
+            999,
+            2665
+        ]
+    }
+]

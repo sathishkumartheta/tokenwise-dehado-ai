@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Parth Dara",
+        "Coordinate": [
+            904,
+            430,
+            1376,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Dara",
+        "Coordinate": [
+            882,
+            554,
+            1376,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/11/1968",
+        "Coordinate": [
+            916,
+            640,
+            1248,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            896,
+            722,
+            1224,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            848,
+            1232,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            980,
+            946,
+            1088,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1808,
+            822,
+            2030,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            936,
+            2094,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Som-Behl",
+        "Coordinate": [
+            994,
+            1038,
+            1848,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dugal  Bhattacharyya and Oommen",
+        "Coordinate": [
+            1016,
+            1144,
+            2392,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 151, Buch Zila, Akola-143593",
+        "Coordinate": [
+            897,
+            1302,
+            2308,
+            1472
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 616, Anne Path, Panchkula 553107",
+        "Coordinate": [
+            876,
+            1564,
+            2348,
+            1708
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8050411690",
+        "Coordinate": [
+            886,
+            1804,
+            1332,
+            1920
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9243304443",
+        "Coordinate": [
+            1870,
+            1804,
+            2324,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Telugu",
+        "Coordinate": [
+            926,
+            1950,
+            1892,
+            2064
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xalak Borde - 7790636240",
+        "Coordinate": [
+            1006,
+            2070,
+            2188,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhav Amble - 9381230634",
+        "Coordinate": [
+            1028,
+            2206,
+            2282,
+            2320
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "854586000000",
+        "Coordinate": [
+            580,
+            2380,
+            1196,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            592,
+            2474,
+            890,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2022",
+        "Coordinate": [
+            620,
+            2570,
+            1042,
+            2668
+        ]
+    }
+]

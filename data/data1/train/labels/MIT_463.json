@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vritti Mishra",
+        "Coordinate": [
+            897,
+            427,
+            1385,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Avi Mishra",
+        "Coordinate": [
+            916,
+            526,
+            1371,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/28/1968",
+        "Coordinate": [
+            934,
+            636,
+            1264,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            731,
+            1257,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            944,
+            832,
+            1229,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1817,
+            802,
+            2060,
+            902
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1883,
+            908,
+            2119,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            968,
+            934,
+            1123,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Madan-Badami",
+        "Coordinate": [
+            1016,
+            1014,
+            1964,
+            1121
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Saraf  Solanki and Peri",
+        "Coordinate": [
+            1018,
+            1129,
+            2182,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62, Agate Path, Kozhikode-036385",
+        "Coordinate": [
+            963,
+            1247,
+            2195,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14, Sem, Satna-931839",
+        "Coordinate": [
+            955,
+            1511,
+            1774,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7639049615",
+        "Coordinate": [
+            1902,
+            1759,
+            2299,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8595534619",
+        "Coordinate": [
+            962,
+            1789,
+            1377,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Kannada, Bengali",
+        "Coordinate": [
+            947,
+            1924,
+            1940,
+            2031
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arunima Brahmbhatt - 9973038574",
+        "Coordinate": [
+            1020,
+            2021,
+            2135,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashawini Sane - 7604270121",
+        "Coordinate": [
+            1036,
+            2162,
+            1975,
+            2279
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "751000000000.0",
+        "Coordinate": [
+            661,
+            2378,
+            1122,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            675,
+            2477,
+            893,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/14/2023",
+        "Coordinate": [
+            667,
+            2567,
+            990,
+            2661
+        ]
+    }
+]

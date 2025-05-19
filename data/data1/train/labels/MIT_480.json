@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avi Ray",
+        "Coordinate": [
+            913,
+            439,
+            1175,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarav Ray",
+        "Coordinate": [
+            926,
+            536,
+            1335,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/15/1969",
+        "Coordinate": [
+            917,
+            637,
+            1297,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            930,
+            736,
+            1081,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            918,
+            836,
+            1160,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1865,
+            832,
+            2065,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1920,
+            941,
+            2169,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            931,
+            940,
+            1037,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Hora-Konda",
+        "Coordinate": [
+            1044,
+            1043,
+            1893,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bora  Pradhan and Lall",
+        "Coordinate": [
+            1036,
+            1144,
+            2248,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 600, Hayer Street, Udaipur-550522",
+        "Coordinate": [
+            901,
+            1271,
+            2296,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 420, Rege Marg, Vadodara 514599",
+        "Coordinate": [
+            912,
+            1524,
+            2237,
+            1651
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9277298453",
+        "Coordinate": [
+            1890,
+            1799,
+            2322,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7436377370",
+        "Coordinate": [
+            886,
+            1796,
+            1294,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Telugu, Tamil",
+        "Coordinate": [
+            909,
+            1940,
+            1946,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anirudh Chandran - 9670872025",
+        "Coordinate": [
+            964,
+            2043,
+            2014,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Panini Krish - 8549848054",
+        "Coordinate": [
+            979,
+            2176,
+            1903,
+            2283
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "683000000000.0",
+        "Coordinate": [
+            591,
+            2382,
+            1070,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            608,
+            2470,
+            943,
+            2548
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-03-2024",
+        "Coordinate": [
+            591,
+            2564,
+            905,
+            2645
+        ]
+    }
+]

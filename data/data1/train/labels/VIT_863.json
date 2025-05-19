@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lavanya Yohannan",
+        "Coordinate": [
+            878,
+            432,
+            1627,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gavin Yohannan",
+        "Coordinate": [
+            915,
+            528,
+            1572,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/17/1965",
+        "Coordinate": [
+            971,
+            630,
+            1386,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            934,
+            730,
+            1335,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            833,
+            1216,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1803,
+            827,
+            2080,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            939,
+            2134,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            897,
+            939,
+            1087,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Virk Ltd",
+        "Coordinate": [
+            994,
+            1044,
+            1850,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Dalal Inc",
+        "Coordinate": [
+            1016,
+            1150,
+            1952,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69, Chaudhry Road, Kota 985532",
+        "Coordinate": [
+            904,
+            1285,
+            2293,
+            1525
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 08, Talwar Ganj, Kochi-525232",
+        "Coordinate": [
+            902,
+            1528,
+            2360,
+            1673
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7380991825",
+        "Coordinate": [
+            1874,
+            1803,
+            2354,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7996493406",
+        "Coordinate": [
+            884,
+            1806,
+            1341,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Marathi",
+        "Coordinate": [
+            902,
+            1941,
+            1829,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Krishnamurthy - 9072651708",
+        "Coordinate": [
+            963,
+            2046,
+            2331,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gopal Jayaraman - 8760747368",
+        "Coordinate": [
+            992,
+            2183,
+            2266,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "353000000000.0",
+        "Coordinate": [
+            578,
+            2386,
+            1195,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            623,
+            2480,
+            946,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-08-2024",
+        "Coordinate": [
+            628,
+            2570,
+            1042,
+            2662
+        ]
+    }
+]

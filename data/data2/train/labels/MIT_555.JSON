@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kashvi Pillai",
+        "Coordinate": [
+            935,
+            450,
+            1287,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranav Pillai",
+        "Coordinate": [
+            955,
+            573,
+            1281,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/6/2007",
+        "Coordinate": [
+            965,
+            680,
+            1201,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            952,
+            765,
+            1105,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            865,
+            1169,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            865,
+            1980,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            977,
+            942,
+            1121,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            953,
+            1989,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Reddy  Bath and Suresh",
+        "Coordinate": [
+            1002,
+            1040,
+            2027,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sha and Sons",
+        "Coordinate": [
+            1042,
+            1133,
+            1779,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 13, Pai Ganj, Jammu-143097",
+        "Coordinate": [
+            955,
+            1293,
+            2007,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49, Sankaran Ganj, Kamarhati 796714",
+        "Coordinate": [
+            937,
+            1518,
+            2135,
+            1647
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8120394340",
+        "Coordinate": [
+            925,
+            1765,
+            1323,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8310470413",
+        "Coordinate": [
+            1855,
+            1785,
+            2279,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Bengali, Kannada",
+        "Coordinate": [
+            915,
+            1898,
+            1909,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rohan Apte - 8003363019",
+        "Coordinate": [
+            980,
+            1995,
+            1819,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanmayi Kari - 8568109374",
+        "Coordinate": [
+            987,
+            2080,
+            1925,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "514916000000",
+        "Coordinate": [
+            635,
+            2288,
+            1107,
+            2391
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            642,
+            2385,
+            997,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/15/2024",
+        "Coordinate": [
+            679,
+            2485,
+            1105,
+            2580
+        ]
+    }
+]

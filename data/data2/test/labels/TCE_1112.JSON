@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girish Hayer",
+        "Coordinate": [
+            908,
+            473,
+            1429,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanav Hayer",
+        "Coordinate": [
+            906,
+            570,
+            1466,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/11/1960",
+        "Coordinate": [
+            923,
+            678,
+            1372,
+            764
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            940,
+            776,
+            1333,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            921,
+            871,
+            1211,
+            960
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1814,
+            852,
+            2051,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            1003,
+            963,
+            1134,
+            1051
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            957,
+            2213,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Brahmbhatt  Singh and Bora",
+        "Coordinate": [
+            1109,
+            1037,
+            2440,
+            1170
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Modi  Lata and Oommen",
+        "Coordinate": [
+            1015,
+            1146,
+            2315,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69, Dora Marg, Panihati 711712",
+        "Coordinate": [
+            914,
+            1259,
+            2267,
+            1424
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 57, Das Road, Mau 592300",
+        "Coordinate": [
+            917,
+            1518,
+            2215,
+            1732
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7379380118",
+        "Coordinate": [
+            904,
+            1772,
+            1348,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8907614022",
+        "Coordinate": [
+            1842,
+            1765,
+            2321,
+            1888
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Bengali, Hindi",
+        "Coordinate": [
+            935,
+            1914,
+            2244,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qasim Master - 9737412970",
+        "Coordinate": [
+            981,
+            1999,
+            2267,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kai Kashyap - 8846498518",
+        "Coordinate": [
+            981,
+            2121,
+            2249,
+            2270
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            622,
+            2417,
+            1072,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/27/2025",
+        "Coordinate": [
+            636,
+            2512,
+            1051,
+            2605
+        ]
+    }
+]

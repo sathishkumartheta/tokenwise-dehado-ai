@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amaira Krishna",
+        "Coordinate": [
+            882,
+            439,
+            1540,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagat Krishna",
+        "Coordinate": [
+            882,
+            544,
+            1538,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/1/1964",
+        "Coordinate": [
+            892,
+            642,
+            1256,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            902,
+            738,
+            1294,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            842,
+            1246,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            960,
+            937,
+            1090,
+            1028
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            824,
+            2148,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            944,
+            2200,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Memon-Dubey",
+        "Coordinate": [
+            962,
+            1038,
+            2098,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Khanna PLC",
+        "Coordinate": [
+            978,
+            1170,
+            2042,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99, Oak Chowk, Hajipur 937772",
+        "Coordinate": [
+            883,
+            1332,
+            2162,
+            1466
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 42, Kurian Street, Dehradun-038341",
+        "Coordinate": [
+            892,
+            1540,
+            2296,
+            1736
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9023729269",
+        "Coordinate": [
+            882,
+            1808,
+            1296,
+            1906
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7028607730",
+        "Coordinate": [
+            1840,
+            1808,
+            2308,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu",
+        "Coordinate": [
+            882,
+            1943,
+            1512,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavna Soman - 8873115719",
+        "Coordinate": [
+            954,
+            2056,
+            2056,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranit Karpe - 7946611407",
+        "Coordinate": [
+            940,
+            2178,
+            2056,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "998087000000",
+        "Coordinate": [
+            574,
+            2394,
+            1120,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            612,
+            2484,
+            996,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/3/2024",
+        "Coordinate": [
+            584,
+            2570,
+            1080,
+            2662
+        ]
+    }
+]

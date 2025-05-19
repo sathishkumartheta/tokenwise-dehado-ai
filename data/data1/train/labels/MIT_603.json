@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarav Nazareth",
+        "Coordinate": [
+            878,
+            440,
+            1411,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaac Nazareth",
+        "Coordinate": [
+            913,
+            538,
+            1428,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-06-1961",
+        "Coordinate": [
+            906,
+            636,
+            1161,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            907,
+            730,
+            1215,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            835,
+            1165,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            828,
+            1926,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            940,
+            2060,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            898,
+            942,
+            1025,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chada-Dutta",
+        "Coordinate": [
+            987,
+            1044,
+            1830,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sahni Inc",
+        "Coordinate": [
+            1016,
+            1157,
+            1794,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "837, Mammen Chowk, Malda 549857",
+        "Coordinate": [
+            921,
+            1305,
+            2201,
+            1453
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "20/63, Dutt Street, Vijayawada-698044",
+        "Coordinate": [
+            892,
+            1552,
+            2271,
+            1704
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7556776555",
+        "Coordinate": [
+            1878,
+            1810,
+            2291,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7417389599",
+        "Coordinate": [
+            901,
+            1812,
+            1331,
+            1928
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Gujarati, Malayalam",
+        "Coordinate": [
+            863,
+            1943,
+            2044,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oni Pau - 8273830088",
+        "Coordinate": [
+            1007,
+            2057,
+            1745,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Laksh Madan - 9496936840",
+        "Coordinate": [
+            991,
+            2191,
+            1980,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "348000000000.0",
+        "Coordinate": [
+            611,
+            2390,
+            1092,
+            2474
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FIQOB6644Z",
+        "Coordinate": [
+            1652,
+            2393,
+            2039,
+            2493
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            611,
+            2481,
+            1015,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-09-2022",
+        "Coordinate": [
+            593,
+            2572,
+            1002,
+            2667
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandresh Shetty",
+        "Coordinate": [
+            940,
+            417,
+            1790,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kabir Shetty",
+        "Coordinate": [
+            960,
+            530,
+            1560,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/18/2002",
+        "Coordinate": [
+            977,
+            632,
+            1382,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            937,
+            745,
+            1415,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            817,
+            1182,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1757,
+            822,
+            2020,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            922,
+            2165,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            935,
+            929,
+            1092,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Dayal PLC",
+        "Coordinate": [
+            1007,
+            1042,
+            1997,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Borde  Basu and Rai",
+        "Coordinate": [
+            1020,
+            1145,
+            2310,
+            1280
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34, Johal Road, Parbhani 026335",
+        "Coordinate": [
+            905,
+            1315,
+            2317,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 629, Tandon Circle, Tirunelveli-215143",
+        "Coordinate": [
+            877,
+            1555,
+            2292,
+            1797
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7119007175",
+        "Coordinate": [
+            867,
+            1810,
+            1312,
+            1925
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9231276656",
+        "Coordinate": [
+            1817,
+            1807,
+            2355,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Marathi, Telugu",
+        "Coordinate": [
+            880,
+            1937,
+            2165,
+            2075
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girish Soman - 9746050019",
+        "Coordinate": [
+            952,
+            2055,
+            2177,
+            2187
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rudra Raj - 7405937107",
+        "Coordinate": [
+            934,
+            2187,
+            1999,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PBVLF2528W",
+        "Coordinate": [
+            1635,
+            2382,
+            2260,
+            2492
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "634311000000",
+        "Coordinate": [
+            580,
+            2380,
+            1212,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            610,
+            2482,
+            1057,
+            2600
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/9/2022",
+        "Coordinate": [
+            657,
+            2572,
+            1132,
+            2667
+        ]
+    }
+]

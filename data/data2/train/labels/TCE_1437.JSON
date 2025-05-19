@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Frederick Kade",
+        "Coordinate": [
+            920,
+            476,
+            1430,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Kade",
+        "Coordinate": [
+            910,
+            586,
+            1354,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/19/2003",
+        "Coordinate": [
+            930,
+            666,
+            1274,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            955,
+            781,
+            1206,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            895,
+            1154,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            970,
+            955,
+            1114,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            841,
+            1990,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            931,
+            2034,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Ghose Ltd",
+        "Coordinate": [
+            1055,
+            1031,
+            1798,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Issac-Amble",
+        "Coordinate": [
+            1070,
+            1141,
+            1958,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33/03, Bora Marg, Bhavnagar-769047",
+        "Coordinate": [
+            904,
+            1266,
+            2174,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30, Varghese, Jamshedpur 780876",
+        "Coordinate": [
+            950,
+            1520,
+            2126,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9289215531",
+        "Coordinate": [
+            920,
+            1766,
+            1338,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7855659458",
+        "Coordinate": [
+            1865,
+            1770,
+            2258,
+            1845
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasana Wable - 7474477033",
+        "Coordinate": [
+            990,
+            1995,
+            1886,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harinakshi Jhaveri - 8324967247",
+        "Coordinate": [
+            975,
+            2135,
+            2130,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "965593000000",
+        "Coordinate": [
+            640,
+            2321,
+            1094,
+            2389
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            680,
+            2401,
+            914,
+            2481
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/8/2022",
+        "Coordinate": [
+            675,
+            2475,
+            1042,
+            2585
+        ]
+    }
+]

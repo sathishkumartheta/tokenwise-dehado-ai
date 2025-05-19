@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dominic Dube",
+        "Coordinate": [
+            878,
+            413,
+            1360,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Dube",
+        "Coordinate": [
+            885,
+            513,
+            1466,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/19/1993",
+        "Coordinate": [
+            913,
+            608,
+            1233,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            918,
+            709,
+            1219,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            922,
+            813,
+            1138,
+            911
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1841,
+            808,
+            2026,
+            889
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            908,
+            2091,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            929,
+            917,
+            1061,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Keer  Kumar and Nagy",
+        "Coordinate": [
+            962,
+            1000,
+            2073,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Zacharia  Choudhary and Gole",
+        "Coordinate": [
+            950,
+            1118,
+            2302,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "77/06, Raja Chowk, Dhule 299865",
+        "Coordinate": [
+            884,
+            1234,
+            2055,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "02/57, Mann Circle, Panipat 858588",
+        "Coordinate": [
+            886,
+            1487,
+            2072,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8850734885",
+        "Coordinate": [
+            1867,
+            1768,
+            2244,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9921169121",
+        "Coordinate": [
+            886,
+            1769,
+            1273,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Malayalam, English",
+        "Coordinate": [
+            891,
+            1908,
+            1994,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Onveer Nagi - 7090784623",
+        "Coordinate": [
+            942,
+            2017,
+            1730,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vanya Deshmukh - 8098779412",
+        "Coordinate": [
+            955,
+            2144,
+            1934,
+            2255
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QCGFL1067N",
+        "Coordinate": [
+            1642,
+            2354,
+            2041,
+            2443
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            612,
+            2442,
+            867,
+            2524
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-11-2025",
+        "Coordinate": [
+            614,
+            2529,
+            930,
+            2620
+        ]
+    }
+]

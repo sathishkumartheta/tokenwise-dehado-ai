@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yamini Dhar",
+        "Coordinate": [
+            899,
+            436,
+            1391,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kalpit Dhar",
+        "Coordinate": [
+            899,
+            533,
+            1421,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/24/1986",
+        "Coordinate": [
+            902,
+            638,
+            1324,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            908,
+            741,
+            1292,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            838,
+            1248,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1811,
+            829,
+            2137,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1861,
+            938,
+            2129,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            910,
+            949,
+            1025,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Dyal  Mander and Sibal",
+        "Coordinate": [
+            973,
+            1038,
+            2325,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mandal PLC",
+        "Coordinate": [
+            968,
+            1149,
+            2005,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/186, Konda Road, Shahjahanpur 456518",
+        "Coordinate": [
+            906,
+            1281,
+            2340,
+            1506
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59, Soman Zila, Lucknow 437432",
+        "Coordinate": [
+            902,
+            1538,
+            2268,
+            1681
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8248642079",
+        "Coordinate": [
+            1855,
+            1804,
+            2308,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9263995444",
+        "Coordinate": [
+            886,
+            1808,
+            1370,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            923,
+            1947,
+            1611,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshmi Singh - 7242874581",
+        "Coordinate": [
+            941,
+            2052,
+            1993,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ayush Narayanan - 9376114268",
+        "Coordinate": [
+            950,
+            2184,
+            2093,
+            2303
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BNLRG7898H",
+        "Coordinate": [
+            1622,
+            2387,
+            2062,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            626,
+            2480,
+            900,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/14/2022",
+        "Coordinate": [
+            633,
+            2571,
+            1071,
+            2658
+        ]
+    }
+]

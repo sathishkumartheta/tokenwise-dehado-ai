@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshit Chahal",
+        "Coordinate": [
+            896,
+            397,
+            1383,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azad Chahal",
+        "Coordinate": [
+            906,
+            499,
+            1366,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-11-2002",
+        "Coordinate": [
+            905,
+            597,
+            1240,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            914,
+            692,
+            1215,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            799,
+            1160,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1741,
+            791,
+            1927,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            898,
+            2063,
+            987
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            910,
+            898,
+            1013,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Vyas-Raju",
+        "Coordinate": [
+            969,
+            993,
+            1716,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dugar  Sangha and Sawhney",
+        "Coordinate": [
+            953,
+            1107,
+            2212,
+            1231
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19/976, Natt Road, Agartala 551564",
+        "Coordinate": [
+            908,
+            1284,
+            2205,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89, Khanna Marg, Dhanbad 582016",
+        "Coordinate": [
+            925,
+            1524,
+            2094,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8052549105",
+        "Coordinate": [
+            1891,
+            1771,
+            2268,
+            1884
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7653070835",
+        "Coordinate": [
+            913,
+            1767,
+            1307,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Gujarati",
+        "Coordinate": [
+            897,
+            1899,
+            1837,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Baljiwan Chada - 9393071822",
+        "Coordinate": [
+            967,
+            2010,
+            1907,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vaishnavi Dubey - 7551966603",
+        "Coordinate": [
+            997,
+            2134,
+            1950,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "305000000000.0",
+        "Coordinate": [
+            604,
+            2339,
+            1013,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            599,
+            2430,
+            903,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-04-2024",
+        "Coordinate": [
+            580,
+            2522,
+            936,
+            2603
+        ]
+    }
+]

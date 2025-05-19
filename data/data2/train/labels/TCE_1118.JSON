@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Devansh Bera",
+        "Coordinate": [
+            932,
+            472,
+            1310,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Praneel Bera",
+        "Coordinate": [
+            926,
+            575,
+            1305,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/9/2000",
+        "Coordinate": [
+            898,
+            659,
+            1270,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            935,
+            747,
+            1216,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            942,
+            846,
+            1187,
+            957
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1723,
+            850,
+            1924,
+            964
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1799,
+            936,
+            1986,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            985,
+            947,
+            1151,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bhalla PLC",
+        "Coordinate": [
+            972,
+            1055,
+            1549,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Venkatesh  Kaur and Bajwa",
+        "Coordinate": [
+            999,
+            1156,
+            2097,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "024, Tata Zila, Vellore-068382",
+        "Coordinate": [
+            938,
+            1279,
+            1839,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/400, Srivastava Nagar, Korba-496259",
+        "Coordinate": [
+            914,
+            1537,
+            1932,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7320433513",
+        "Coordinate": [
+            930,
+            1801,
+            1341,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7367386854",
+        "Coordinate": [
+            1672,
+            1817,
+            2128,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Kannada, Bengali",
+        "Coordinate": [
+            930,
+            1910,
+            1775,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Andrew D\u2019Alia - 7948333741",
+        "Coordinate": [
+            975,
+            2012,
+            1944,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gautam Kalla - 7417454295",
+        "Coordinate": [
+            1007,
+            2143,
+            1836,
+            2244
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            632,
+            2410,
+            962,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/13/2023",
+        "Coordinate": [
+            647,
+            2516,
+            997,
+            2594
+        ]
+    }
+]

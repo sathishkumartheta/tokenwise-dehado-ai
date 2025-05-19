@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lekha Sabharwal",
+        "Coordinate": [
+            880,
+            467,
+            1497,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Sabharwal",
+        "Coordinate": [
+            887,
+            557,
+            1522,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/2/1998",
+        "Coordinate": [
+            887,
+            665,
+            1215,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            892,
+            755,
+            1210,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            885,
+            1180,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            842,
+            2057,
+            914
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            892,
+            967,
+            1010,
+            1055
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            945,
+            2122,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bakshi-Kata",
+        "Coordinate": [
+            962,
+            1080,
+            1825,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sane-Misra",
+        "Coordinate": [
+            997,
+            1182,
+            1807,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32, Nagar, Bellary 831597",
+        "Coordinate": [
+            902,
+            1315,
+            1812,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "29/273, Upadhyay Zila, Karaikudi 029158",
+        "Coordinate": [
+            902,
+            1567,
+            2317,
+            1675
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9542442429",
+        "Coordinate": [
+            912,
+            1822,
+            1357,
+            1917
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7410971438",
+        "Coordinate": [
+            1887,
+            1794,
+            2332,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            905,
+            1960,
+            1447,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksha Gade - 8831038879",
+        "Coordinate": [
+            980,
+            2060,
+            1872,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Utkarsh Gill - 8405777220",
+        "Coordinate": [
+            982,
+            2202,
+            1935,
+            2285
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ADGEF3844U",
+        "Coordinate": [
+            1660,
+            2372,
+            2155,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            620,
+            2507,
+            912,
+            2587
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/4/2023",
+        "Coordinate": [
+            647,
+            2590,
+            1015,
+            2680
+        ]
+    }
+]

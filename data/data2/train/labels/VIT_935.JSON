@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vaishnavi Mallick",
+        "Coordinate": [
+            877,
+            437,
+            1527,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Mallick",
+        "Coordinate": [
+            870,
+            527,
+            1547,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/1/1967",
+        "Coordinate": [
+            892,
+            635,
+            1237,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            880,
+            700,
+            1077,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            867,
+            815,
+            1162,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1747,
+            817,
+            2019,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            917,
+            2117,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            902,
+            945,
+            1072,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Saran-Sarna",
+        "Coordinate": [
+            980,
+            1027,
+            2002,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Prabhu-Bajaj",
+        "Coordinate": [
+            950,
+            1112,
+            1987,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "753, Natarajan Zila, Raichur 295083",
+        "Coordinate": [
+            882,
+            1282,
+            1695,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "903, Tandon Marg, Miryalaguda-756753",
+        "Coordinate": [
+            885,
+            1530,
+            2220,
+            1780
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7514493159",
+        "Coordinate": [
+            872,
+            1795,
+            1340,
+            1917
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9626333382",
+        "Coordinate": [
+            1850,
+            1807,
+            2322,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Marathi",
+        "Coordinate": [
+            862,
+            1945,
+            1772,
+            2082
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Mutti - 7840354050",
+        "Coordinate": [
+            940,
+            2042,
+            1985,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarna Tak - 7470102262",
+        "Coordinate": [
+            937,
+            2175,
+            1890,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ENLSL7039B",
+        "Coordinate": [
+            1659,
+            2392,
+            2127,
+            2495
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            565,
+            2480,
+            900,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/27/2024",
+        "Coordinate": [
+            582,
+            2582,
+            1057,
+            2665
+        ]
+    }
+]

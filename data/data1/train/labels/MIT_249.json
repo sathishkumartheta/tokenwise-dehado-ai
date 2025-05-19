@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qasim Sarma",
+        "Coordinate": [
+            896,
+            388,
+            1396,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lucky Sarma",
+        "Coordinate": [
+            907,
+            486,
+            1370,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/17/1966",
+        "Coordinate": [
+            902,
+            588,
+            1212,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            907,
+            681,
+            1213,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            779,
+            1206,
+            871
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1806,
+            780,
+            2002,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            885,
+            2082,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            936,
+            892,
+            1055,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Desai-Borah",
+        "Coordinate": [
+            971,
+            982,
+            1810,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sachdev-Doshi",
+        "Coordinate": [
+            967,
+            1092,
+            1876,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "38/17, Narang Ganj, Proddatur-021557",
+        "Coordinate": [
+            895,
+            1219,
+            2246,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 73, Pathak Chowk, Davanagere-490216",
+        "Coordinate": [
+            897,
+            1466,
+            2292,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7070284454",
+        "Coordinate": [
+            1844,
+            1741,
+            2225,
+            1829
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9950890397",
+        "Coordinate": [
+            902,
+            1741,
+            1299,
+            1828
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Kannada",
+        "Coordinate": [
+            891,
+            1878,
+            1809,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Sur - 8456060538",
+        "Coordinate": [
+            951,
+            1992,
+            1792,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darpan Vala - 9731993895",
+        "Coordinate": [
+            955,
+            2116,
+            1803,
+            2211
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "503000000000.0",
+        "Coordinate": [
+            597,
+            2327,
+            992,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            606,
+            2415,
+            846,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-02-2023",
+        "Coordinate": [
+            608,
+            2511,
+            976,
+            2594
+        ]
+    }
+]

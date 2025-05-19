@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amruta Chander",
+        "Coordinate": [
+            887,
+            434,
+            1420,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Brijesh Chander",
+        "Coordinate": [
+            890,
+            534,
+            1465,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-09-1976",
+        "Coordinate": [
+            901,
+            637,
+            1223,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            895,
+            735,
+            1060,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            838,
+            1182,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1746,
+            834,
+            2037,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            944,
+            2108,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            913,
+            943,
+            1012,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Suresh  Modi and Shah",
+        "Coordinate": [
+            962,
+            1046,
+            2202,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Magar-Suri",
+        "Coordinate": [
+            972,
+            1156,
+            1908,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04, Baral, Berhampore-945659",
+        "Coordinate": [
+            888,
+            1317,
+            2019,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "961, Iyer Nagar, Jaipur-736891",
+        "Coordinate": [
+            888,
+            1582,
+            2014,
+            1738
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8522568276",
+        "Coordinate": [
+            1761,
+            1857,
+            2277,
+            1953
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8192343198",
+        "Coordinate": [
+            909,
+            1820,
+            1339,
+            1938
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Hindi",
+        "Coordinate": [
+            888,
+            1952,
+            1731,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zilmil Bahri - 8577318465",
+        "Coordinate": [
+            940,
+            2062,
+            2014,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Imaran Taneja - 9661098976",
+        "Coordinate": [
+            947,
+            2189,
+            2017,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "408000000000.0",
+        "Coordinate": [
+            579,
+            2388,
+            1202,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            577,
+            2483,
+            1014,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/21/2025",
+        "Coordinate": [
+            572,
+            2576,
+            963,
+            2668
+        ]
+    }
+]

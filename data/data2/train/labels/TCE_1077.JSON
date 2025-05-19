@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavini Khosla",
+        "Coordinate": [
+            914,
+            554,
+            1409,
+            616
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Khosla",
+        "Coordinate": [
+            907,
+            641,
+            1430,
+            729
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/17/1985",
+        "Coordinate": [
+            899,
+            750,
+            1228,
+            811
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            909,
+            837,
+            1206,
+            901
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            928,
+            924,
+            1162,
+            1002
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1751,
+            909,
+            1978,
+            985
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            1013,
+            2036,
+            1082
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            981,
+            1025,
+            1083,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Lala  Varughese and Kothari",
+        "Coordinate": [
+            974,
+            1114,
+            2224,
+            1212
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Varghese-Anne",
+        "Coordinate": [
+            996,
+            1232,
+            1787,
+            1345
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87/32, Setty, Sasaram 562713",
+        "Coordinate": [
+            940,
+            1348,
+            1785,
+            1480
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "24/469, Malhotra Circle, Phusro-906609",
+        "Coordinate": [
+            926,
+            1601,
+            2130,
+            1721
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7794442874",
+        "Coordinate": [
+            931,
+            1869,
+            1290,
+            1953
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7355422445",
+        "Coordinate": [
+            1881,
+            1845,
+            2241,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Kannada",
+        "Coordinate": [
+            928,
+            1971,
+            1667,
+            2080
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unni Vohra - 8929226100",
+        "Coordinate": [
+            979,
+            2096,
+            1691,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatura Saha - 8825505075",
+        "Coordinate": [
+            989,
+            2217,
+            1852,
+            2307
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            663,
+            2492,
+            899,
+            2590
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/27/2024",
+        "Coordinate": [
+            699,
+            2605,
+            1025,
+            2662
+        ]
+    }
+]

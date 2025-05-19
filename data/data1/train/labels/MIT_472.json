@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekani Bala",
+        "Coordinate": [
+            883,
+            398,
+            1199,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yash Bala",
+        "Coordinate": [
+            883,
+            494,
+            1168,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/21/1959",
+        "Coordinate": [
+            882,
+            591,
+            1178,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            882,
+            689,
+            1020,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            791,
+            1113,
+            880
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1841,
+            786,
+            2042,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            895,
+            2045,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            895,
+            896,
+            982,
+            966
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Rama-Bansal",
+        "Coordinate": [
+            954,
+            986,
+            1648,
+            1079
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Batta Group",
+        "Coordinate": [
+            961,
+            1098,
+            1665,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29, Dhawan Circle, Begusarai-348649",
+        "Coordinate": [
+            867,
+            1235,
+            2029,
+            1367
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "506, Narang Chowk, Sasaram-833557",
+        "Coordinate": [
+            873,
+            1478,
+            2062,
+            1600
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8826735104",
+        "Coordinate": [
+            1848,
+            1757,
+            2220,
+            1845
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8901972203",
+        "Coordinate": [
+            891,
+            1754,
+            1271,
+            1828
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati",
+        "Coordinate": [
+            880,
+            1900,
+            1362,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vidhi Sathe - 9871136291",
+        "Coordinate": [
+            933,
+            1998,
+            1631,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harrison Garde - 9316513366",
+        "Coordinate": [
+            928,
+            2123,
+            1745,
+            2212
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "412000000000.0",
+        "Coordinate": [
+            607,
+            2338,
+            1070,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            598,
+            2428,
+            899,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/23/2023",
+        "Coordinate": [
+            598,
+            2519,
+            949,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvashi Bala",
+        "Coordinate": [
+            882,
+            435,
+            1371,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aadi Bala",
+        "Coordinate": [
+            885,
+            538,
+            1277,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/27/1982",
+        "Coordinate": [
+            892,
+            638,
+            1300,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            739,
+            1071,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            842,
+            1227,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1766,
+            831,
+            2032,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            938,
+            2095,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            919,
+            946,
+            1051,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Tailor Inc",
+        "Coordinate": [
+            977,
+            1037,
+            1741,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Varty  Samra and Bandi",
+        "Coordinate": [
+            955,
+            1143,
+            2249,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "68/803, Ratti Zila, Farrukhabad 951279",
+        "Coordinate": [
+            894,
+            1276,
+            2236,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "428, Khanna Path, Gopalpur-601991",
+        "Coordinate": [
+            896,
+            1524,
+            2051,
+            1660
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8764894887",
+        "Coordinate": [
+            1864,
+            1801,
+            2336,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9113239555",
+        "Coordinate": [
+            896,
+            1805,
+            1356,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            900,
+            1945,
+            1652,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anmol Vig - 9713305320",
+        "Coordinate": [
+            962,
+            2052,
+            2046,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarnav Dani - 7344540532",
+        "Coordinate": [
+            976,
+            2188,
+            2086,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "897000000000.0",
+        "Coordinate": [
+            593,
+            2388,
+            1135,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            591,
+            2482,
+            911,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-02-2023",
+        "Coordinate": [
+            588,
+            2577,
+            1030,
+            2669
+        ]
+    }
+]

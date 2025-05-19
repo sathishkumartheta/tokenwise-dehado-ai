@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Umang Thakkar",
+        "Coordinate": [
+            919,
+            461,
+            1568,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Thakkar",
+        "Coordinate": [
+            947,
+            564,
+            1581,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/28/1980",
+        "Coordinate": [
+            944,
+            669,
+            1337,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            963,
+            748,
+            1552,
+            846
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1825,
+            861,
+            2071,
+            950
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            848,
+            1279,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            976,
+            954,
+            1221,
+            1046
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            947,
+            2134,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Lall Group",
+        "Coordinate": [
+            1030,
+            1056,
+            1917,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saran-Bahl",
+        "Coordinate": [
+            1002,
+            1134,
+            2006,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25/976, Taneja Path, Udaipur 445847",
+        "Coordinate": [
+            911,
+            1290,
+            2269,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61/49, Badami, Bilaspur 905444",
+        "Coordinate": [
+            913,
+            1529,
+            2263,
+            1711
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8621540387",
+        "Coordinate": [
+            886,
+            1777,
+            1366,
+            1914
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8920954011",
+        "Coordinate": [
+            1826,
+            1765,
+            2261,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi",
+        "Coordinate": [
+            898,
+            1906,
+            1514,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Onkar Prasad - 8085405850",
+        "Coordinate": [
+            1001,
+            2013,
+            2111,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Imaran Sama - 8469206619",
+        "Coordinate": [
+            1021,
+            2130,
+            1991,
+            2262
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RXUOC1045I",
+        "Coordinate": [
+            1622,
+            2341,
+            2129,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            652,
+            2426,
+            960,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/10/2025",
+        "Coordinate": [
+            673,
+            2536,
+            1105,
+            2602
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hema Sharma",
+        "Coordinate": [
+            945,
+            473,
+            1491,
+            564
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Omkaar Sharma",
+        "Coordinate": [
+            928,
+            562,
+            1622,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1972",
+        "Coordinate": [
+            967,
+            660,
+            1460,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            920,
+            743,
+            1143,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            859,
+            1261,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            943,
+            966,
+            1109,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1716,
+            850,
+            2040,
+            955
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            951,
+            2102,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Chhabra  Upadhyay and Kuruvilla",
+        "Coordinate": [
+            1021,
+            1029,
+            2264,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Khalsa  Khanna and Radhakrishnan",
+        "Coordinate": [
+            1000,
+            1134,
+            2469,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 529, Kulkarni Marg, Saharsa 166393",
+        "Coordinate": [
+            950,
+            1269,
+            2308,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "216, Varghese Circle, Kirari Suleman Nagar 182155",
+        "Coordinate": [
+            918,
+            1540,
+            2331,
+            1751
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7476291024",
+        "Coordinate": [
+            906,
+            1770,
+            1367,
+            1906
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9131545699",
+        "Coordinate": [
+            1851,
+            1772,
+            2298,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Tamil",
+        "Coordinate": [
+            906,
+            1913,
+            1962,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Chahal - 9243588384",
+        "Coordinate": [
+            976,
+            2008,
+            2080,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jhalak Chaudhry - 9098931370",
+        "Coordinate": [
+            975,
+            2135,
+            2123,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            681,
+            2420,
+            1208,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/27/2024",
+        "Coordinate": [
+            725,
+            2504,
+            1192,
+            2622
+        ]
+    }
+]

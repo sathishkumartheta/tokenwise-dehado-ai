@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Quincy Sheth",
+        "Coordinate": [
+            883,
+            398,
+            1378,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Amol Sheth",
+        "Coordinate": [
+            891,
+            497,
+            1269,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/18/1981",
+        "Coordinate": [
+            890,
+            596,
+            1225,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            697,
+            1211,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            797,
+            1177,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1809,
+            787,
+            1991,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            899,
+            2056,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            900,
+            898,
+            1005,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Dhingra Inc",
+        "Coordinate": [
+            973,
+            992,
+            1788,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Ramanathan-Bora",
+        "Coordinate": [
+            986,
+            1104,
+            2009,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "460, Kothari Zila, Mango-037183",
+        "Coordinate": [
+            882,
+            1239,
+            2067,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "45/208, Das Circle, Ongole-350313",
+        "Coordinate": [
+            886,
+            1479,
+            2190,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8790893663",
+        "Coordinate": [
+            1845,
+            1751,
+            2232,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8562306595",
+        "Coordinate": [
+            890,
+            1763,
+            1334,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil",
+        "Coordinate": [
+            871,
+            1894,
+            1392,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekta Aurora - 9801931647",
+        "Coordinate": [
+            961,
+            2008,
+            1876,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anya Dar - 7065842273",
+        "Coordinate": [
+            969,
+            2131,
+            1809,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "717000000000.0",
+        "Coordinate": [
+            591,
+            2336,
+            1011,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            582,
+            2427,
+            1246,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-12-2024",
+        "Coordinate": [
+            585,
+            2518,
+            935,
+            2601
+        ]
+    }
+]

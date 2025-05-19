@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasatika Lal",
+        "Coordinate": [
+            892,
+            462,
+            1505,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tristan Lal",
+        "Coordinate": [
+            897,
+            562,
+            1493,
+            690
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/1969",
+        "Coordinate": [
+            897,
+            662,
+            1349,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            747,
+            1181,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            846,
+            1177,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1708,
+            854,
+            1999,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            897,
+            958,
+            1089,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1764,
+            948,
+            2091,
+            1052
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sabharwal  Savant and Kakar",
+        "Coordinate": [
+            963,
+            1043,
+            2275,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Rajan Ltd",
+        "Coordinate": [
+            975,
+            1147,
+            1771,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15, Kapadia, Aizawl 762028",
+        "Coordinate": [
+            904,
+            1274,
+            2071,
+            1385
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49, Rege Path, Alwar-324591",
+        "Coordinate": [
+            911,
+            1516,
+            2067,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8293979557",
+        "Coordinate": [
+            934,
+            1780,
+            1365,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8203650624",
+        "Coordinate": [
+            1831,
+            1761,
+            2288,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Hindi, Kannada",
+        "Coordinate": [
+            916,
+            1900,
+            2133,
+            2026
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wriddhish Bora - 8276262731",
+        "Coordinate": [
+            932,
+            2006,
+            2095,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fiyaz Madan - 9920373211",
+        "Coordinate": [
+            917,
+            2116,
+            1979,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            589,
+            2389,
+            929,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/13/2024",
+        "Coordinate": [
+            636,
+            2511,
+            1024,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ubika Nadkarni",
+        "Coordinate": [
+            877,
+            395,
+            1482,
+            505
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balveer Nadkarni",
+        "Coordinate": [
+            882,
+            510,
+            1572,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/2/1983",
+        "Coordinate": [
+            890,
+            615,
+            1305,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            712,
+            1107,
+            792
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            805,
+            1275,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            790,
+            2117,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            907,
+            2172,
+            1002
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            950,
+            915,
+            1095,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Vyas PLC",
+        "Coordinate": [
+            975,
+            1010,
+            1837,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ganesh-Dani",
+        "Coordinate": [
+            1000,
+            1122,
+            2092,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 99, Virk Nagar, Aurangabad-865581",
+        "Coordinate": [
+            907,
+            1250,
+            2240,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 92, Yogi Ganj, Jalandhar-489180",
+        "Coordinate": [
+            897,
+            1495,
+            2075,
+            1665
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7085016227",
+        "Coordinate": [
+            932,
+            1807,
+            1352,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9216744788",
+        "Coordinate": [
+            1562,
+            1812,
+            2045,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English",
+        "Coordinate": [
+            910,
+            1915,
+            1567,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rohan Walia - 8498992337",
+        "Coordinate": [
+            962,
+            2002,
+            2047,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarna Rajan - 8891426863",
+        "Coordinate": [
+            992,
+            2125,
+            2065,
+            2257
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "576301000000",
+        "Coordinate": [
+            640,
+            2357,
+            1137,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            625,
+            2447,
+            1030,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/5/2024",
+        "Coordinate": [
+            652,
+            2540,
+            1067,
+            2645
+        ]
+    }
+]

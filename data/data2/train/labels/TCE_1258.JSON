@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aahana Sheth",
+        "Coordinate": [
+            915,
+            463,
+            1423,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mohammed Sheth",
+        "Coordinate": [
+            902,
+            558,
+            1534,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/14/1981",
+        "Coordinate": [
+            900,
+            658,
+            1220,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            905,
+            745,
+            1198,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            848,
+            1172,
+            927
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            913,
+            950,
+            1040,
+            1013
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            857,
+            2015,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            948,
+            2065,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Thakkar-Lala",
+        "Coordinate": [
+            987,
+            1042,
+            1930,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhatia-Ganguly",
+        "Coordinate": [
+            1002,
+            1143,
+            2072,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "71, Raju Road, Patna-860118",
+        "Coordinate": [
+            928,
+            1297,
+            1944,
+            1380
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91, Uppal Nagar, Bongaigaon-378011",
+        "Coordinate": [
+            935,
+            1542,
+            2247,
+            1632
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8325047361",
+        "Coordinate": [
+            903,
+            1777,
+            1342,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7746141422",
+        "Coordinate": [
+            1827,
+            1765,
+            2270,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Tamil, Kannada",
+        "Coordinate": [
+            910,
+            1910,
+            2042,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Sharaf - 7029178750",
+        "Coordinate": [
+            967,
+            2004,
+            1977,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashoda Loyal - 7861364361",
+        "Coordinate": [
+            963,
+            2124,
+            1980,
+            2224
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            618,
+            2414,
+            1040,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2024",
+        "Coordinate": [
+            608,
+            2492,
+            1005,
+            2581
+        ]
+    }
+]

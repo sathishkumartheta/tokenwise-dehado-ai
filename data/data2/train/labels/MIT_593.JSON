@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nihal Pandit",
+        "Coordinate": [
+            897,
+            503,
+            1419,
+            604
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Noah Pandit",
+        "Coordinate": [
+            877,
+            588,
+            1421,
+            692
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/17/1965",
+        "Coordinate": [
+            895,
+            693,
+            1299,
+            804
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            790,
+            1251,
+            886
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            888,
+            1261,
+            988
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1772,
+            888,
+            2021,
+            972
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            983,
+            2121,
+            1072
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            917,
+            978,
+            1055,
+            1064
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bahl  Badami and Patla",
+        "Coordinate": [
+            997,
+            1078,
+            2247,
+            1202
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Bali PLC",
+        "Coordinate": [
+            977,
+            1193,
+            1833,
+            1292
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "84/226, Johal Street, Ahmedabad 607223",
+        "Coordinate": [
+            902,
+            1305,
+            2303,
+            1524
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "830, Magar Ganj, Panipat 753916",
+        "Coordinate": [
+            902,
+            1563,
+            2111,
+            1796
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8387923529",
+        "Coordinate": [
+            907,
+            1805,
+            1371,
+            1914
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8085456215",
+        "Coordinate": [
+            1830,
+            1798,
+            2303,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Telugu",
+        "Coordinate": [
+            900,
+            1942,
+            1993,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Choudhury - 8417370739",
+        "Coordinate": [
+            947,
+            2043,
+            2459,
+            2188
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Kant - 7272713060",
+        "Coordinate": [
+            950,
+            2133,
+            2241,
+            2304
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KVIAP5723C",
+        "Coordinate": [
+            1620,
+            2365,
+            2229,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            579,
+            2435,
+            1009,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/2/2022",
+        "Coordinate": [
+            615,
+            2547,
+            1065,
+            2652
+        ]
+    }
+]

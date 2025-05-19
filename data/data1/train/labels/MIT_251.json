@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemangini Chaudhuri",
+        "Coordinate": [
+            921,
+            401,
+            1538,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Agastya Chaudhuri",
+        "Coordinate": [
+            922,
+            506,
+            1478,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/16/1995",
+        "Coordinate": [
+            962,
+            604,
+            1312,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            960,
+            706,
+            1249,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            933,
+            810,
+            1170,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1907,
+            792,
+            2099,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1905,
+            896,
+            2110,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            973,
+            906,
+            1116,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Baral  Datta and Zachariah",
+        "Coordinate": [
+            966,
+            981,
+            2118,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Biswas-Narang",
+        "Coordinate": [
+            977,
+            1107,
+            1814,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33/426, Kaul Road, Raichur 271607",
+        "Coordinate": [
+            905,
+            1242,
+            2029,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 776, Jha Ganj, Gudivada-128981",
+        "Coordinate": [
+            898,
+            1472,
+            2177,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7907143152",
+        "Coordinate": [
+            1865,
+            1746,
+            2243,
+            1825
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7271611804",
+        "Coordinate": [
+            896,
+            1746,
+            1274,
+            1829
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada",
+        "Coordinate": [
+            919,
+            1894,
+            1394,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Shaurya Dara - 9385060663",
+        "Coordinate": [
+            980,
+            2005,
+            1884,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Nadig - 7988810439",
+        "Coordinate": [
+            983,
+            2129,
+            1880,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "218000000000.0",
+        "Coordinate": [
+            612,
+            2336,
+            1024,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            647,
+            2426,
+            831,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/26/2025",
+        "Coordinate": [
+            667,
+            2519,
+            1036,
+            2601
+        ]
+    }
+]

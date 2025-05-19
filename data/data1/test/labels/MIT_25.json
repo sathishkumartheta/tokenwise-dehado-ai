@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hritik Puri",
+        "Coordinate": [
+            949,
+            416,
+            1317,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Puri",
+        "Coordinate": [
+            949,
+            515,
+            1351,
+            609
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-12-1990",
+        "Coordinate": [
+            979,
+            615,
+            1289,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            979,
+            702,
+            1453,
+            801
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            971,
+            817,
+            1251,
+            908
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1854,
+            794,
+            2025,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            910,
+            2139,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1020,
+            913,
+            1154,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Dugar-Pingle",
+        "Coordinate": [
+            1029,
+            1006,
+            1899,
+            1113
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Nair-Chad",
+        "Coordinate": [
+            1045,
+            1123,
+            1868,
+            1222
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "901, Savant Road, Shivpuri 643815",
+        "Coordinate": [
+            974,
+            1242,
+            2013,
+            1367
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 97, Morar Circle, Muzaffarnagar-900343",
+        "Coordinate": [
+            993,
+            1484,
+            2397,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9308215006",
+        "Coordinate": [
+            1940,
+            1754,
+            2317,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7864138549",
+        "Coordinate": [
+            969,
+            1783,
+            1344,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Marathi",
+        "Coordinate": [
+            992,
+            1915,
+            1886,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aadhya Mann - 9142465438",
+        "Coordinate": [
+            1076,
+            2021,
+            1948,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagdish Amble - 8845430164",
+        "Coordinate": [
+            1042,
+            2139,
+            1928,
+            2246
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "362000000000.0",
+        "Coordinate": [
+            669,
+            2358,
+            1213,
+            2443
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            662,
+            2450,
+            933,
+            2534
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-06-2024",
+        "Coordinate": [
+            691,
+            2545,
+            1038,
+            2629
+        ]
+    }
+]

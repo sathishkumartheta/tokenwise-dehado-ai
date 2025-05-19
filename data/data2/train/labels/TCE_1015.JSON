@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balveer Salvi",
+        "Coordinate": [
+            934,
+            488,
+            1434,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Salvi",
+        "Coordinate": [
+            932,
+            576,
+            1326,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/28/1998",
+        "Coordinate": [
+            906,
+            668,
+            1252,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            910,
+            784,
+            1110,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            870,
+            1222,
+            973
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1764,
+            864,
+            1942,
+            961
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            954,
+            2110,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            946,
+            974,
+            1062,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Jha Inc",
+        "Coordinate": [
+            974,
+            1070,
+            1724,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chahal LLC",
+        "Coordinate": [
+            1014,
+            1198,
+            1974,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 02, Dass Marg, Kadapa-603632",
+        "Coordinate": [
+            896,
+            1300,
+            2068,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "18/522, Chakraborty, Raichur-130739",
+        "Coordinate": [
+            910,
+            1538,
+            2118,
+            1739
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7738753640",
+        "Coordinate": [
+            930,
+            1804,
+            1342,
+            1901
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8435647194",
+        "Coordinate": [
+            1838,
+            1806,
+            2234,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Marathi, Telugu",
+        "Coordinate": [
+            912,
+            1922,
+            2184,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Farhan Mannan - 7270336660",
+        "Coordinate": [
+            962,
+            2046,
+            2222,
+            2147
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekanta Madan - 9330567281",
+        "Coordinate": [
+            984,
+            2150,
+            2256,
+            2279
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            626,
+            2424,
+            1158,
+            2531
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/2/2025",
+        "Coordinate": [
+            646,
+            2516,
+            1080,
+            2611
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aadi Deshmukh",
+        "Coordinate": [
+            872,
+            390,
+            1425,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatan Deshmukh",
+        "Coordinate": [
+            881,
+            495,
+            1511,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/19/1973",
+        "Coordinate": [
+            899,
+            598,
+            1310,
+            687
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            896,
+            694,
+            1180,
+            798
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            890,
+            805,
+            1148,
+            900
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            781,
+            1932,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            890,
+            2100,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            934,
+            903,
+            1075,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Lalla and Sons",
+        "Coordinate": [
+            956,
+            978,
+            2038,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Saini-Joshi",
+        "Coordinate": [
+            962,
+            1104,
+            1912,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "14/44, D\u2019Alia Chowk, Guntakal-309690",
+        "Coordinate": [
+            872,
+            1258,
+            2297,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49, Ghose Nagar, Dibrugarh-987455",
+        "Coordinate": [
+            882,
+            1472,
+            2308,
+            1634
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8481387825",
+        "Coordinate": [
+            1879,
+            1747,
+            2327,
+            1845
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7424253829",
+        "Coordinate": [
+            888,
+            1750,
+            1367,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Kannada, Bengali",
+        "Coordinate": [
+            875,
+            1889,
+            2105,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warjas Narasimhan - 9393775074",
+        "Coordinate": [
+            930,
+            2003,
+            2188,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Laban Swaminathan - 8739793106",
+        "Coordinate": [
+            926,
+            2126,
+            2212,
+            2251
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "528000000000.0",
+        "Coordinate": [
+            587,
+            2328,
+            1155,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            573,
+            2423,
+            1294,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2022",
+        "Coordinate": [
+            608,
+            2520,
+            1035,
+            2613
+        ]
+    }
+]

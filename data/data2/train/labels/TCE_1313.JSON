@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anvi Hayer",
+        "Coordinate": [
+            918,
+            478,
+            1398,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayaan Hayer",
+        "Coordinate": [
+            918,
+            564,
+            1382,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/29/1999",
+        "Coordinate": [
+            914,
+            666,
+            1326,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            908,
+            768,
+            1170,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            866,
+            1148,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1772,
+            864,
+            2074,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            962,
+            2124,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            916,
+            962,
+            1050,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Koshy-Anand",
+        "Coordinate": [
+            1010,
+            1044,
+            1968,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chandra-Mane",
+        "Coordinate": [
+            1000,
+            1138,
+            2080,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 910, Pingle Road, Avadi-468817",
+        "Coordinate": [
+            901,
+            1298,
+            2218,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 095, Karan Circle, Panvel 591275",
+        "Coordinate": [
+            890,
+            1564,
+            2270,
+            1689
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9032259479",
+        "Coordinate": [
+            892,
+            1780,
+            1326,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9709317767",
+        "Coordinate": [
+            1820,
+            1788,
+            2224,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Bengali",
+        "Coordinate": [
+            892,
+            1893,
+            1896,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omisha Goyal - 9842952814",
+        "Coordinate": [
+            954,
+            2014,
+            1878,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urvashi Bhalla - 7383845217",
+        "Coordinate": [
+            974,
+            2148,
+            2022,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            614,
+            2412,
+            1034,
+            2485
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/13/2023",
+        "Coordinate": [
+            592,
+            2494,
+            1026,
+            2581
+        ]
+    }
+]

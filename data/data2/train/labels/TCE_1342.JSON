@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omisha Chopra",
+        "Coordinate": [
+            900,
+            484,
+            1426,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pratyush Chopra",
+        "Coordinate": [
+            894,
+            584,
+            1438,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/29/1987",
+        "Coordinate": [
+            916,
+            688,
+            1296,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            918,
+            778,
+            1236,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            874,
+            1204,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1788,
+            858,
+            2018,
+            953
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1777,
+            964,
+            1999,
+            1049
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            926,
+            966,
+            1044,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Mitra-Badami",
+        "Coordinate": [
+            998,
+            1056,
+            1858,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sur  Krishnan and Chandran",
+        "Coordinate": [
+            992,
+            1154,
+            2194,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08, Dewan Zila, Gandhidham-602982",
+        "Coordinate": [
+            878,
+            1286,
+            2174,
+            1459
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/14, Behl Chowk, Morbi-965000",
+        "Coordinate": [
+            890,
+            1524,
+            2038,
+            1625
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7578275781",
+        "Coordinate": [
+            914,
+            1780,
+            1332,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8738855261",
+        "Coordinate": [
+            1808,
+            1786,
+            2246,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Malayalam, Hindi",
+        "Coordinate": [
+            918,
+            1895,
+            1956,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isaiah Seshadri - 7997857018",
+        "Coordinate": [
+            970,
+            2032,
+            1962,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Oviya Mitter - 8450781902",
+        "Coordinate": [
+            968,
+            2142,
+            2038,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            606,
+            2420,
+            932,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/3/2024",
+        "Coordinate": [
+            588,
+            2512,
+            1052,
+            2589
+        ]
+    }
+]

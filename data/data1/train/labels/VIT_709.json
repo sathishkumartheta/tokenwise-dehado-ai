@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wyatt Bobal",
+        "Coordinate": [
+            909,
+            411,
+            1514,
+            507
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qabil Bobal",
+        "Coordinate": [
+            900,
+            511,
+            1550,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-11-2004",
+        "Coordinate": [
+            911,
+            611,
+            1288,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            904,
+            711,
+            1267,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            818,
+            1213,
+            912
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1844,
+            817,
+            2101,
+            905
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            923,
+            2159,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            900,
+            921,
+            1058,
+            1003
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Choudhry-Shetty",
+        "Coordinate": [
+            970,
+            1020,
+            2353,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Raghavan  Ramakrishnan and Amble",
+        "Coordinate": [
+            951,
+            1134,
+            2345,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "89, Chad Ganj, Rewa 576776",
+        "Coordinate": [
+            890,
+            1255,
+            2139,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "66/647, Batra Marg, Cuttack 852964",
+        "Coordinate": [
+            894,
+            1534,
+            2305,
+            1741
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8720591168",
+        "Coordinate": [
+            1859,
+            1790,
+            2328,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7535082516",
+        "Coordinate": [
+            871,
+            1784,
+            1350,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Gujarati",
+        "Coordinate": [
+            872,
+            1926,
+            2057,
+            2031
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekani Goyal - 9988975941",
+        "Coordinate": [
+            932,
+            2032,
+            2173,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vritti Patla - 7565902282",
+        "Coordinate": [
+            936,
+            2166,
+            2259,
+            2275
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "491000000000.0",
+        "Coordinate": [
+            572,
+            2368,
+            1264,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            592,
+            2460,
+            973,
+            2543
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-04-2023",
+        "Coordinate": [
+            584,
+            2548,
+            1112,
+            2647
+        ]
+    }
+]

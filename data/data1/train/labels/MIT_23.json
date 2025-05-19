@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chatura Seth",
+        "Coordinate": [
+            965,
+            421,
+            1515,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Seth",
+        "Coordinate": [
+            975,
+            530,
+            1519,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/26/1974",
+        "Coordinate": [
+            1015,
+            631,
+            1470,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1013,
+            728,
+            1443,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            974,
+            835,
+            1358,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1850,
+            811,
+            2059,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1876,
+            922,
+            2184,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1060,
+            938,
+            1186,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bassi  Verma and Mitra",
+        "Coordinate": [
+            1021,
+            1025,
+            2483,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Balasubramanian-Bhat",
+        "Coordinate": [
+            1080,
+            1134,
+            2480,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17, Borah Chowk, Pondicherry-124998",
+        "Coordinate": [
+            978,
+            1255,
+            2416,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "84/78, Sani, Raipur 673657",
+        "Coordinate": [
+            969,
+            1510,
+            2142,
+            1658
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8008210225",
+        "Coordinate": [
+            1956,
+            1761,
+            2403,
+            1876
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8769859028",
+        "Coordinate": [
+            953,
+            1788,
+            1414,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Hindi",
+        "Coordinate": [
+            1005,
+            1927,
+            2006,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojasvi Chandran - 9821804106",
+        "Coordinate": [
+            1041,
+            2033,
+            2330,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Prisha Munshi - 9571110283",
+        "Coordinate": [
+            1111,
+            2164,
+            2334,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "565000000000.0",
+        "Coordinate": [
+            703,
+            2372,
+            1366,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            728,
+            2472,
+            962,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/30/2024",
+        "Coordinate": [
+            739,
+            2560,
+            1269,
+            2659
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yahvi Date",
+        "Coordinate": [
+            882,
+            383,
+            1227,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Date",
+        "Coordinate": [
+            886,
+            484,
+            1303,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/27/1973",
+        "Coordinate": [
+            892,
+            589,
+            1238,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            897,
+            683,
+            1217,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            781,
+            1119,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1814,
+            774,
+            2047,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            881,
+            2063,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            901,
+            892,
+            991,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Pillai LLC",
+        "Coordinate": [
+            943,
+            976,
+            1724,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sachar Group",
+        "Coordinate": [
+            959,
+            1096,
+            1931,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 05, Issac Chowk, Thrissur-279246",
+        "Coordinate": [
+            869,
+            1250,
+            2277,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 374, Rastogi Chowk, Kirari Suleman Nagar-372603",
+        "Coordinate": [
+            899,
+            1498,
+            2236,
+            1719
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7880060835",
+        "Coordinate": [
+            1862,
+            1739,
+            2273,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9809232650",
+        "Coordinate": [
+            878,
+            1757,
+            1295,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Telugu, English",
+        "Coordinate": [
+            871,
+            1883,
+            1989,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Merchant - 7140084041",
+        "Coordinate": [
+            919,
+            1998,
+            2014,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatresh Palla - 7431518920",
+        "Coordinate": [
+            936,
+            2124,
+            1960,
+            2234
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BWBJF9479X",
+        "Coordinate": [
+            1647,
+            2330,
+            2084,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            584,
+            2414,
+            816,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/21/2022",
+        "Coordinate": [
+            590,
+            2512,
+            978,
+            2597
+        ]
+    }
+]

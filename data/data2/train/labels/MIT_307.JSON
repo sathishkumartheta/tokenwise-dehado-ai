@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Rama",
+        "Coordinate": [
+            885,
+            396,
+            1272,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gopal Rama",
+        "Coordinate": [
+            880,
+            490,
+            1320,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/29/1995",
+        "Coordinate": [
+            888,
+            584,
+            1214,
+            663
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            880,
+            685,
+            1182,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            785,
+            1177,
+            867
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1792,
+            779,
+            2041,
+            852
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            888,
+            2054,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            889,
+            883,
+            1053,
+            965
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Padmanabhan-Deshpande",
+        "Coordinate": [
+            936,
+            975,
+            2182,
+            1081
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sabharwal-Mani",
+        "Coordinate": [
+            951,
+            1095,
+            2056,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "16/49, Agarwal Chowk, Machilipatnam 429291",
+        "Coordinate": [
+            834,
+            1219,
+            2212,
+            1327
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/301, Deol Marg, Bally-903106",
+        "Coordinate": [
+            862,
+            1466,
+            1954,
+            1589
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9104804022",
+        "Coordinate": [
+            1847,
+            1738,
+            2228,
+            1820
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9619583658",
+        "Coordinate": [
+            873,
+            1743,
+            1263,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Hindi",
+        "Coordinate": [
+            889,
+            1884,
+            1902,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harita Jhaveri - 8718951836",
+        "Coordinate": [
+            926,
+            1998,
+            1918,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanas Din - 9523272568",
+        "Coordinate": [
+            945,
+            2119,
+            1928,
+            2218
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "744186000000",
+        "Coordinate": [
+            574,
+            2327,
+            986,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            601,
+            2416,
+            841,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/24/2024",
+        "Coordinate": [
+            595,
+            2512,
+            946,
+            2591
+        ]
+    }
+]

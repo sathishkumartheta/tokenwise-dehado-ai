@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Niharika Patil",
+        "Coordinate": [
+            940,
+            470,
+            1442,
+            584
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Patil",
+        "Coordinate": [
+            930,
+            577,
+            1410,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/20/1968",
+        "Coordinate": [
+            942,
+            670,
+            1398,
+            778
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            940,
+            768,
+            1318,
+            884
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            955,
+            860,
+            1286,
+            980
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            888,
+            2186,
+            982
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            985,
+            2166,
+            1088
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            950,
+            965,
+            1116,
+            1060
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Mall  Balay and Goda",
+        "Coordinate": [
+            1000,
+            1068,
+            2246,
+            1202
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Chokshi  Sharma and Sule",
+        "Coordinate": [
+            1025,
+            1170,
+            2304,
+            1324
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "16/681, Jhaveri Zila, Nandyal-670721",
+        "Coordinate": [
+            939,
+            1320,
+            2282,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40/242, Garde Street, Bareilly-063236",
+        "Coordinate": [
+            927,
+            1553,
+            2326,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7658876432",
+        "Coordinate": [
+            912,
+            1812,
+            1370,
+            1948
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7249097085",
+        "Coordinate": [
+            1897,
+            1852,
+            2311,
+            1965
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Kannada, Tamil",
+        "Coordinate": [
+            905,
+            1965,
+            2135,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darika Atwal - 8661459039",
+        "Coordinate": [
+            975,
+            2055,
+            2043,
+            2215
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harish Mukherjee - 8384213067",
+        "Coordinate": [
+            962,
+            2210,
+            2077,
+            2341
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UIWPA8133I",
+        "Coordinate": [
+            1639,
+            2415,
+            2133,
+            2539
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            595,
+            2492,
+            869,
+            2589
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/23/2023",
+        "Coordinate": [
+            614,
+            2601,
+            1045,
+            2692
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurav Sama",
+        "Coordinate": [
+            922,
+            458,
+            1473,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Sama",
+        "Coordinate": [
+            912,
+            569,
+            1365,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/1962",
+        "Coordinate": [
+            912,
+            661,
+            1269,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            937,
+            759,
+            1105,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            937,
+            852,
+            1153,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1703,
+            849,
+            1946,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            961,
+            2053,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            946,
+            943,
+            1093,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Wason  Sur and Parsa",
+        "Coordinate": [
+            976,
+            1038,
+            2175,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Tiwari-Nagarajan",
+        "Coordinate": [
+            1002,
+            1142,
+            2161,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/88, Sandhu Zila, Kottayam-965119",
+        "Coordinate": [
+            935,
+            1278,
+            2256,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "47/321, Sethi Chowk, Durg-747706",
+        "Coordinate": [
+            911,
+            1521,
+            2276,
+            1686
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7015259051",
+        "Coordinate": [
+            881,
+            1764,
+            1313,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7434555741",
+        "Coordinate": [
+            1831,
+            1801,
+            2282,
+            1888
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Tamil, Telugu",
+        "Coordinate": [
+            916,
+            1901,
+            2142,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hema Nori - 8780963731",
+        "Coordinate": [
+            970,
+            2023,
+            1980,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Devika Zachariah - 8203640953",
+        "Coordinate": [
+            978,
+            2141,
+            2168,
+            2259
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            582,
+            2416,
+            929,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/8/2023",
+        "Coordinate": [
+            614,
+            2494,
+            1095,
+            2605
+        ]
+    }
+]

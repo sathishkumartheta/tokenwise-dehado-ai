@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitali Konda",
+        "Coordinate": [
+            896,
+            399,
+            1375,
+            492
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tristan Konda",
+        "Coordinate": [
+            913,
+            500,
+            1456,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/13/1960",
+        "Coordinate": [
+            905,
+            598,
+            1214,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            913,
+            695,
+            1189,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            796,
+            1217,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1782,
+            791,
+            2033,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            899,
+            2141,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            934,
+            899,
+            1106,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Dani  Merchant and Pandit",
+        "Coordinate": [
+            986,
+            990,
+            2352,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chawla Inc",
+        "Coordinate": [
+            982,
+            1112,
+            1823,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66, Bhardwaj Path, Belgaum-612092",
+        "Coordinate": [
+            900,
+            1259,
+            2254,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "80, Borah Marg, Bhatpara 311678",
+        "Coordinate": [
+            894,
+            1509,
+            2113,
+            1669
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7390265020",
+        "Coordinate": [
+            1892,
+            1757,
+            2298,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9123945224",
+        "Coordinate": [
+            912,
+            1768,
+            1327,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Telugu, Bengali",
+        "Coordinate": [
+            903,
+            1900,
+            2046,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arjun Raju - 8102099488",
+        "Coordinate": [
+            987,
+            2015,
+            1968,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Prisha Jayaraman - 9188544717",
+        "Coordinate": [
+            992,
+            2138,
+            2298,
+            2271
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GICTC0221W",
+        "Coordinate": [
+            1672,
+            2340,
+            2123,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            649,
+            2431,
+            904,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/20/2024",
+        "Coordinate": [
+            642,
+            2528,
+            1036,
+            2622
+        ]
+    }
+]

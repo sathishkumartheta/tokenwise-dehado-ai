@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "William Atwal",
+        "Coordinate": [
+            895,
+            435,
+            1396,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Atwal",
+        "Coordinate": [
+            902,
+            538,
+            1415,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-08-1981",
+        "Coordinate": [
+            914,
+            641,
+            1200,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            909,
+            735,
+            1273,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            842,
+            1207,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1805,
+            839,
+            1987,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            946,
+            2097,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            945,
+            947,
+            1052,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sarma Ltd",
+        "Coordinate": [
+            971,
+            1040,
+            1703,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chauhan-Dube",
+        "Coordinate": [
+            973,
+            1152,
+            1948,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/56, Mander Road, Proddatur-304555",
+        "Coordinate": [
+            890,
+            1299,
+            2332,
+            1449
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 263, Sangha Path, Panchkula 789433",
+        "Coordinate": [
+            909,
+            1536,
+            2337,
+            1671
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7028818702",
+        "Coordinate": [
+            1880,
+            1808,
+            2255,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7530604597",
+        "Coordinate": [
+            904,
+            1809,
+            1297,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati",
+        "Coordinate": [
+            891,
+            1948,
+            1454,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vinaya Rout - 9576994093",
+        "Coordinate": [
+            970,
+            2064,
+            1903,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "David Lall - 8353200919",
+        "Coordinate": [
+            969,
+            2192,
+            1799,
+            2303
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "797000000000.0",
+        "Coordinate": [
+            599,
+            2390,
+            1067,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            600,
+            2484,
+            875,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/17/2022",
+        "Coordinate": [
+            593,
+            2576,
+            928,
+            2665
+        ]
+    }
+]

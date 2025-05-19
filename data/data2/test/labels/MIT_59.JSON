@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rehaan Doctor",
+        "Coordinate": [
+            912,
+            425,
+            1508,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Doctor",
+        "Coordinate": [
+            907,
+            527,
+            1524,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1961",
+        "Coordinate": [
+            907,
+            634,
+            1277,
+            714
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            916,
+            743,
+            1327,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            840,
+            1173,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            945,
+            926,
+            1054,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saini  Kapur and Nagy",
+        "Coordinate": [
+            980,
+            1026,
+            2273,
+            1118
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            940,
+            2092,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1831,
+            840,
+            2025,
+            926
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Saha Ltd",
+        "Coordinate": [
+            990,
+            1130,
+            1797,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 951, Ben Circle, Rajahmundry 617445",
+        "Coordinate": [
+            916,
+            1249,
+            2173,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 534, Modi, Madhyamgram 973832",
+        "Coordinate": [
+            916,
+            1510,
+            2037,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9949737460",
+        "Coordinate": [
+            890,
+            1767,
+            1311,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8597487992",
+        "Coordinate": [
+            1524,
+            1826,
+            2075,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Gujarati, Kannada",
+        "Coordinate": [
+            909,
+            1919,
+            2168,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nimrat Bajwa - 9644680428",
+        "Coordinate": [
+            964,
+            2035,
+            2101,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hiral Andra - 9980500541",
+        "Coordinate": [
+            966,
+            2166,
+            2097,
+            2270
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DOQUH0712S",
+        "Coordinate": [
+            1617,
+            2356,
+            2104,
+            2472
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "803278000000",
+        "Coordinate": [
+            593,
+            2353,
+            1180,
+            2451
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            591,
+            2451,
+            1002,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/19/2022",
+        "Coordinate": [
+            598,
+            2567,
+            1083,
+            2641
+        ]
+    }
+]

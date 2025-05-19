@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanveer Nayak",
+        "Coordinate": [
+            901,
+            486,
+            1449,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ryan Nayak",
+        "Coordinate": [
+            887,
+            581,
+            1345,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/18/1961",
+        "Coordinate": [
+            936,
+            644,
+            1265,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            892,
+            760,
+            1228,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            866,
+            1180,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            892,
+            965,
+            1108,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1728,
+            847,
+            2014,
+            963
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            966,
+            2099,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ramakrishnan Group",
+        "Coordinate": [
+            971,
+            1038,
+            2010,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Muni  Chaudhry and Gera",
+        "Coordinate": [
+            988,
+            1148,
+            2278,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "824, Raja Path, Rourkela 972484",
+        "Coordinate": [
+            897,
+            1281,
+            2230,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/960, Gupta Chowk, Kolkata-150710",
+        "Coordinate": [
+            893,
+            1510,
+            2159,
+            1599
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9402287435",
+        "Coordinate": [
+            872,
+            1770,
+            1349,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8532980146",
+        "Coordinate": [
+            1835,
+            1767,
+            2239,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati",
+        "Coordinate": [
+            887,
+            1912,
+            1565,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nitara Prabhakar - 8130087591",
+        "Coordinate": [
+            972,
+            2003,
+            2127,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harita Walia - 7923193173",
+        "Coordinate": [
+            980,
+            2139,
+            1995,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            625,
+            2435,
+            924,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/15/2023",
+        "Coordinate": [
+            631,
+            2512,
+            1064,
+            2607
+        ]
+    }
+]

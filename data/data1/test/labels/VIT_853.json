@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samaksh Gola",
+        "Coordinate": [
+            884,
+            426,
+            1410,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Gola",
+        "Coordinate": [
+            886,
+            523,
+            1416,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-07-2004",
+        "Coordinate": [
+            912,
+            626,
+            1230,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            910,
+            722,
+            1321,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            894,
+            824,
+            1160,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1752,
+            824,
+            1978,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            934,
+            2130,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            875,
+            934,
+            1034,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at De Group",
+        "Coordinate": [
+            1044,
+            1028,
+            1873,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sethi-Dua",
+        "Coordinate": [
+            1046,
+            1139,
+            1941,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "80/47, Srivastava Nagar, Gandhidham 752399",
+        "Coordinate": [
+            907,
+            1269,
+            2303,
+            1483
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91, Mital Circle, Bally-198385",
+        "Coordinate": [
+            1038,
+            1531,
+            2328,
+            1714
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8435139423",
+        "Coordinate": [
+            1883,
+            1801,
+            2357,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7956131692",
+        "Coordinate": [
+            896,
+            1799,
+            1359,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            891,
+            1933,
+            1449,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mitesh Vyas - 9842996355",
+        "Coordinate": [
+            963,
+            2043,
+            2059,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mugdha Din - 7130626423",
+        "Coordinate": [
+            952,
+            2183,
+            2046,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "490000000000.0",
+        "Coordinate": [
+            585,
+            2384,
+            1121,
+            2472
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OKQPG0093X",
+        "Coordinate": [
+            1643,
+            2386,
+            2206,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            585,
+            2468,
+            803,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/25/2023",
+        "Coordinate": [
+            580,
+            2566,
+            979,
+            2663
+        ]
+    }
+]

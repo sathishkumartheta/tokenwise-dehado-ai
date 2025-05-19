@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ryan Cherian",
+        "Coordinate": [
+            874,
+            432,
+            1400,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Cherian",
+        "Coordinate": [
+            881,
+            532,
+            1374,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-09-1989",
+        "Coordinate": [
+            877,
+            639,
+            1250,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            868,
+            733,
+            1312,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            881,
+            843,
+            1136,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1783,
+            838,
+            1953,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            946,
+            2071,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            907,
+            946,
+            1042,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Wali Ltd",
+        "Coordinate": [
+            981,
+            1051,
+            1709,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Raval  Bhatti and Dalal",
+        "Coordinate": [
+            945,
+            1150,
+            2255,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "402, Bandi Path, Vellore-227643",
+        "Coordinate": [
+            888,
+            1286,
+            2083,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/265, Nagarajan Nagar, Anantapuram 741160",
+        "Coordinate": [
+            890,
+            1536,
+            2311,
+            1756
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9899129990",
+        "Coordinate": [
+            1888,
+            1807,
+            2333,
+            1927
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8889392792",
+        "Coordinate": [
+            888,
+            1806,
+            1367,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Hindi",
+        "Coordinate": [
+            891,
+            1952,
+            1848,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashoda Prakash - 9600220076",
+        "Coordinate": [
+            956,
+            2074,
+            2189,
+            2193
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rehaan Yogi - 8117979859",
+        "Coordinate": [
+            983,
+            2196,
+            2099,
+            2325
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "862000000000.0",
+        "Coordinate": [
+            591,
+            2389,
+            1140,
+            2491
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            576,
+            2490,
+            833,
+            2585
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/25/2024",
+        "Coordinate": [
+            579,
+            2579,
+            972,
+            2677
+        ]
+    }
+]

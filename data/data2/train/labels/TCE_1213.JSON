@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oliver Dara",
+        "Coordinate": [
+            923,
+            484,
+            1367,
+            570
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Praneel Dara",
+        "Coordinate": [
+            907,
+            570,
+            1378,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/10/1976",
+        "Coordinate": [
+            917,
+            674,
+            1242,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            923,
+            760,
+            1439,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            867,
+            1204,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1857,
+            850,
+            2050,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            957,
+            960,
+            1106,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1893,
+            957,
+            2135,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Garde-Kapoor",
+        "Coordinate": [
+            1017,
+            1057,
+            2010,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Lad LLC",
+        "Coordinate": [
+            1012,
+            1157,
+            1801,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 88, Narula Path, Bangalore 171087",
+        "Coordinate": [
+            930,
+            1280,
+            2314,
+            1388
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "159, Sant, Sikar 872547",
+        "Coordinate": [
+            899,
+            1521,
+            1732,
+            1631
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8067924794",
+        "Coordinate": [
+            910,
+            1797,
+            1319,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9726771503",
+        "Coordinate": [
+            1857,
+            1777,
+            2274,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali",
+        "Coordinate": [
+            940,
+            1917,
+            1445,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wishi Narayanan - 8551236233",
+        "Coordinate": [
+            1003,
+            2017,
+            2162,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yasti Dani - 9219086236",
+        "Coordinate": [
+            993,
+            2144,
+            1930,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            647,
+            2414,
+            954,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/20/2022",
+        "Coordinate": [
+            646,
+            2504,
+            1031,
+            2588
+        ]
+    }
+]

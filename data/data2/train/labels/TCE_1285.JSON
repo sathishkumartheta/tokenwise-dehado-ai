@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oeshi Om",
+        "Coordinate": [
+            930,
+            468,
+            1235,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Om",
+        "Coordinate": [
+            910,
+            570,
+            1238,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/12/1997",
+        "Coordinate": [
+            908,
+            666,
+            1258,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            902,
+            751,
+            1145,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            855,
+            1095,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1727,
+            847,
+            2034,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            930,
+            953,
+            1083,
+            1038
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            952,
+            2062,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Sathe-Wali",
+        "Coordinate": [
+            1000,
+            1045,
+            1790,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Raghavan  Mane and Bhavsar",
+        "Coordinate": [
+            1033,
+            1155,
+            2272,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "82/81, Nayar Nagar, Karnal-211894",
+        "Coordinate": [
+            945,
+            1260,
+            2234,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "116, Pingle Marg, Pali-630043",
+        "Coordinate": [
+            935,
+            1537,
+            2090,
+            1669
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8480205011",
+        "Coordinate": [
+            927,
+            1797,
+            1312,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8536737782",
+        "Coordinate": [
+            1842,
+            1787,
+            2269,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Bengali, Telugu",
+        "Coordinate": [
+            928,
+            1909,
+            2207,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekaja Baria - 8855993650",
+        "Coordinate": [
+            1005,
+            2015,
+            1964,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ijaya Randhawa - 7155574636",
+        "Coordinate": [
+            983,
+            2140,
+            2064,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            640,
+            2419,
+            947,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/18/2022",
+        "Coordinate": [
+            665,
+            2519,
+            1003,
+            2591
+        ]
+    }
+]

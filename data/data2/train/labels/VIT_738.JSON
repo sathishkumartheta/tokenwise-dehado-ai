@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashawini Prakash",
+        "Coordinate": [
+            870,
+            420,
+            1603,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Madhav Prakash",
+        "Coordinate": [
+            885,
+            517,
+            1615,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/21/1978",
+        "Coordinate": [
+            903,
+            618,
+            1378,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            868,
+            732,
+            1093,
+            811
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            878,
+            811,
+            1128,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            804,
+            2147,
+            915
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            907,
+            927,
+            1029,
+            1014
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            927,
+            2244,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Wadhwa Ltd",
+        "Coordinate": [
+            984,
+            1029,
+            2038,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Krish-Saini",
+        "Coordinate": [
+            987,
+            1128,
+            1934,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "20/931, Sinha Ganj, Kozhikode-093676",
+        "Coordinate": [
+            873,
+            1242,
+            2154,
+            1501
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73, Oommen Marg, Burhanpur-554590",
+        "Coordinate": [
+            880,
+            1506,
+            2177,
+            1768
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7467861465",
+        "Coordinate": [
+            875,
+            1796,
+            1365,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8076391890",
+        "Coordinate": [
+            1578,
+            1840,
+            2177,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Bengali",
+        "Coordinate": [
+            917,
+            1942,
+            2058,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zashil Thaman - 7442851991",
+        "Coordinate": [
+            947,
+            2060,
+            2130,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ganga Krishna - 7918164943",
+        "Coordinate": [
+            942,
+            2157,
+            2105,
+            2286
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "766166000000",
+        "Coordinate": [
+            583,
+            2377,
+            1167,
+            2451
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            616,
+            2471,
+            1049,
+            2548
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/4/2022",
+        "Coordinate": [
+            608,
+            2560,
+            1192,
+            2647
+        ]
+    }
+]

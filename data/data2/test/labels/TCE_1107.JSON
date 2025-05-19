@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Guneet Guha",
+        "Coordinate": [
+            915,
+            461,
+            1634,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Brijesh Guha",
+        "Coordinate": [
+            933,
+            570,
+            1663,
+            690
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/24/1995",
+        "Coordinate": [
+            922,
+            674,
+            1406,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            908,
+            768,
+            1280,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            858,
+            1300,
+            975
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            840,
+            2147,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            935,
+            2203,
+            1068
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            923,
+            969,
+            1133,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Saran-Rajan",
+        "Coordinate": [
+            1013,
+            1054,
+            2151,
+            1174
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Natarajan  Kunda and Korpal",
+        "Coordinate": [
+            1010,
+            1158,
+            2395,
+            1292
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "12/68, Varkey Circle, Chennai 863201",
+        "Coordinate": [
+            903,
+            1286,
+            2252,
+            1510
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/781, Sampath Chowk, Kulti-558811",
+        "Coordinate": [
+            908,
+            1540,
+            2164,
+            1774
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7015976508",
+        "Coordinate": [
+            899,
+            1785,
+            1369,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9934577366",
+        "Coordinate": [
+            1814,
+            1789,
+            2297,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Hindi",
+        "Coordinate": [
+            912,
+            1904,
+            2016,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Noah Sarraf - 8067527485",
+        "Coordinate": [
+            977,
+            2021,
+            2239,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omya Chaudhari - 8260824516",
+        "Coordinate": [
+            977,
+            2154,
+            2239,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            660,
+            2408,
+            1263,
+            2528
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/23/2025",
+        "Coordinate": [
+            663,
+            2504,
+            1284,
+            2616
+        ]
+    }
+]

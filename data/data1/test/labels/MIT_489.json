@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rajata Mandal",
+        "Coordinate": [
+            890,
+            460,
+            1373,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Mandal",
+        "Coordinate": [
+            899,
+            561,
+            1330,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/30/1963",
+        "Coordinate": [
+            923,
+            656,
+            1253,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            928,
+            753,
+            1241,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            860,
+            1197,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1792,
+            849,
+            2009,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            957,
+            2077,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            947,
+            961,
+            1079,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shukla  Majumdar and Verma",
+        "Coordinate": [
+            1031,
+            1048,
+            2343,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Parmer  Sandhu and Ramakrishnan",
+        "Coordinate": [
+            1011,
+            1162,
+            2351,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 051, Oak, Bidhannagar 635584",
+        "Coordinate": [
+            879,
+            1317,
+            2134,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17, Ramakrishnan Street, Guntur-650460",
+        "Coordinate": [
+            904,
+            1569,
+            2233,
+            1705
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7328342194",
+        "Coordinate": [
+            1886,
+            1810,
+            2286,
+            1899
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7397456902",
+        "Coordinate": [
+            901,
+            1826,
+            1340,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, English, Bengali",
+        "Coordinate": [
+            965,
+            1955,
+            2130,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arin Basak - 9498398926",
+        "Coordinate": [
+            979,
+            2069,
+            1858,
+            2182
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitaly Maharaj - 7289348714",
+        "Coordinate": [
+            1008,
+            2200,
+            1936,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "759000000000.0",
+        "Coordinate": [
+            599,
+            2405,
+            1097,
+            2492
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UTFDC4623Z",
+        "Coordinate": [
+            1659,
+            2398,
+            2005,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            616,
+            2498,
+            844,
+            2582
+        ]
+    }
+]

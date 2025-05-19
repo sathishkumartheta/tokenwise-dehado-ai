@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ansh Tiwari",
+        "Coordinate": [
+            925,
+            437,
+            1410,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Tiwari",
+        "Coordinate": [
+            936,
+            554,
+            1540,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/21/1962",
+        "Coordinate": [
+            953,
+            661,
+            1343,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            939,
+            746,
+            1357,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            965,
+            856,
+            1326,
+            965
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            1017,
+            974,
+            1131,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ganguly  Barman and Dalal",
+        "Coordinate": [
+            977,
+            1070,
+            2427,
+            1186
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1826,
+            863,
+            2083,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1871,
+            951,
+            2159,
+            1058
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Chanda  Zachariah and Manda",
+        "Coordinate": [
+            925,
+            1181,
+            2423,
+            1291
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 326, Chaudhry Marg, Thanjavur-858052",
+        "Coordinate": [
+            908,
+            1341,
+            2351,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "119, Bali Marg, Malda-205397",
+        "Coordinate": [
+            896,
+            1574,
+            2149,
+            1714
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9664873823",
+        "Coordinate": [
+            1907,
+            1790,
+            2370,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9131871144",
+        "Coordinate": [
+            925,
+            1809,
+            1353,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            998,
+            1961,
+            1617,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vamakshi Sood - 8403784775",
+        "Coordinate": [
+            984,
+            2059,
+            2190,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Januja Mallick - 9742887435",
+        "Coordinate": [
+            998,
+            2183,
+            2275,
+            2282
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            656,
+            2492,
+            920,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/24/2025",
+        "Coordinate": [
+            653,
+            2572,
+            1165,
+            2675
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FRZLT0606Q",
+        "Coordinate": [
+            1657,
+            2382,
+            2199,
+            2475
+        ]
+    }
+]

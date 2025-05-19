@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Laban Rege",
+        "Coordinate": [
+            906,
+            472,
+            1238,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rehaan Rege",
+        "Coordinate": [
+            890,
+            574,
+            1446,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/8/2004",
+        "Coordinate": [
+            908,
+            668,
+            1240,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            904,
+            766,
+            1264,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            882,
+            865,
+            1064,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1748,
+            868,
+            1946,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            966,
+            2045,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            888,
+            956,
+            1000,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Aggarwal-Natt",
+        "Coordinate": [
+            1004,
+            1040,
+            2060,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saha PLC",
+        "Coordinate": [
+            984,
+            1142,
+            1834,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 52, Verma Circle, Davanagere 840704",
+        "Coordinate": [
+            912,
+            1298,
+            2222,
+            1483
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "416, Tandon Zila, Bhavnagar 797309",
+        "Coordinate": [
+            902,
+            1536,
+            2232,
+            1679
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7164460657",
+        "Coordinate": [
+            880,
+            1786,
+            1330,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9549999248",
+        "Coordinate": [
+            1802,
+            1786,
+            2220,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Tamil",
+        "Coordinate": [
+            874,
+            1907,
+            1722,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falguni Kapur - 9902636451",
+        "Coordinate": [
+            952,
+            2010,
+            1938,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksh D\u2019Alia - 9502788628",
+        "Coordinate": [
+            950,
+            2150,
+            2088,
+            2251
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/8/2025",
+        "Coordinate": [
+            582,
+            2502,
+            976,
+            2587
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            606,
+            2412,
+            968,
+            2495
+        ]
+    }
+]

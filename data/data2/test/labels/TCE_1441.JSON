@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krisha Amble",
+        "Coordinate": [
+            905,
+            485,
+            1350,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Parth Amble",
+        "Coordinate": [
+            895,
+            586,
+            1358,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/2/1974",
+        "Coordinate": [
+            895,
+            661,
+            1266,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            760,
+            1086,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            886,
+            1222,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            930,
+            956,
+            1074,
+            1054
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            841,
+            2046,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            955,
+            2078,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Saini-Deo",
+        "Coordinate": [
+            990,
+            1051,
+            1850,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sachdev-Keer",
+        "Coordinate": [
+            1000,
+            1166,
+            1938,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/632, Devan Path, Sambalpur 674881",
+        "Coordinate": [
+            900,
+            1301,
+            2318,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 20, Tara Ganj, Singrauli-143140",
+        "Coordinate": [
+            890,
+            1516,
+            2266,
+            1606
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9681794186",
+        "Coordinate": [
+            910,
+            1760,
+            1338,
+            1850
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7857977032",
+        "Coordinate": [
+            1835,
+            1765,
+            2262,
+            1842
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Malayalam, Bengali",
+        "Coordinate": [
+            930,
+            1916,
+            2138,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wahab Wable - 9102612917",
+        "Coordinate": [
+            975,
+            2001,
+            1906,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Edwin - 9408220716",
+        "Coordinate": [
+            1005,
+            2121,
+            2086,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            610,
+            2426,
+            970,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/14/2023",
+        "Coordinate": [
+            615,
+            2505,
+            1030,
+            2586
+        ]
+    }
+]

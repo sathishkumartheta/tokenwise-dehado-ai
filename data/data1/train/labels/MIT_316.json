@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yahvi Kothari",
+        "Coordinate": [
+            900,
+            386,
+            1407,
+            473
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gunbir Kothari",
+        "Coordinate": [
+            917,
+            480,
+            1498,
+            576
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1985",
+        "Coordinate": [
+            919,
+            588,
+            1268,
+            670
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            917,
+            681,
+            1232,
+            765
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            781,
+            1202,
+            867
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1741,
+            784,
+            2136,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1879,
+            889,
+            2224,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            933,
+            883,
+            1140,
+            966
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Guha  Wadhwa and Bhatt",
+        "Coordinate": [
+            990,
+            978,
+            2225,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Loyal-Kibe",
+        "Coordinate": [
+            998,
+            1085,
+            2015,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "694, Vig Street, Vellore-203625",
+        "Coordinate": [
+            907,
+            1226,
+            2237,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 441, Baria Chowk, Jalna-255402",
+        "Coordinate": [
+            910,
+            1476,
+            2288,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7231314378",
+        "Coordinate": [
+            1880,
+            1760,
+            2305,
+            1866
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9730978427",
+        "Coordinate": [
+            897,
+            1756,
+            1324,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Gujarati",
+        "Coordinate": [
+            897,
+            1878,
+            1938,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Veer Pillay - 9349747806",
+        "Coordinate": [
+            1009,
+            2001,
+            2120,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachit Memon - 7888089987",
+        "Coordinate": [
+            1009,
+            2125,
+            2261,
+            2237
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "322000000000.0",
+        "Coordinate": [
+            600,
+            2330,
+            1235,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            643,
+            2420,
+            945,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2023",
+        "Coordinate": [
+            641,
+            2509,
+            1170,
+            2598
+        ]
+    }
+]

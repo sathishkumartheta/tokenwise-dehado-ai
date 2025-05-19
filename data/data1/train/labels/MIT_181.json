@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wriddhish Tank",
+        "Coordinate": [
+            924,
+            387,
+            1449,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "David Tank",
+        "Coordinate": [
+            960,
+            491,
+            1405,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-01-1986",
+        "Coordinate": [
+            928,
+            591,
+            1255,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            927,
+            681,
+            1445,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            784,
+            1243,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1768,
+            782,
+            1978,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            892,
+            2089,
+            991
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            946,
+            883,
+            1137,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Gupta Ltd",
+        "Coordinate": [
+            1009,
+            984,
+            1762,
+            1102
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sandal Ltd",
+        "Coordinate": [
+            979,
+            1102,
+            1811,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "89/097, Viswanathan Street, Akola 528506",
+        "Coordinate": [
+            902,
+            1254,
+            2230,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "515, Zacharia Ganj, Ramagundam-744309",
+        "Coordinate": [
+            903,
+            1485,
+            2238,
+            1738
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8844256221",
+        "Coordinate": [
+            1848,
+            1753,
+            2314,
+            1872
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8702540551",
+        "Coordinate": [
+            884,
+            1761,
+            1329,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            965,
+            1887,
+            1701,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Teerth Mody - 9451520837",
+        "Coordinate": [
+            967,
+            1998,
+            1984,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ubika Sura - 8154853757",
+        "Coordinate": [
+            967,
+            2128,
+            2024,
+            2248
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "988000000000.0",
+        "Coordinate": [
+            609,
+            2328,
+            1126,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            640,
+            2417,
+            1060,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/22/2022",
+        "Coordinate": [
+            674,
+            2512,
+            1141,
+            2609
+        ]
+    }
+]

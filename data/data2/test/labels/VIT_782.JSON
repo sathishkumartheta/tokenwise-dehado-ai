@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yadavi Sawhney",
+        "Coordinate": [
+            877,
+            448,
+            1487,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hitesh Sawhney",
+        "Coordinate": [
+            872,
+            543,
+            1436,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/19/1976",
+        "Coordinate": [
+            872,
+            639,
+            1243,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            875,
+            735,
+            1237,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            881,
+            840,
+            1181,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            832,
+            1993,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            915,
+            956,
+            1055,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            956,
+            2078,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at De  Rama and Natt",
+        "Coordinate": [
+            941,
+            1044,
+            2014,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Subramaniam  Naidu and Bava",
+        "Coordinate": [
+            937,
+            1159,
+            2301,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 497, Chanda, Mumbai-712806",
+        "Coordinate": [
+            879,
+            1282,
+            2117,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46, Sachar Marg, Darbhanga 217124",
+        "Coordinate": [
+            866,
+            1545,
+            2166,
+            1656
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7749337925",
+        "Coordinate": [
+            874,
+            1828,
+            1305,
+            1901
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7278806854",
+        "Coordinate": [
+            1845,
+            1817,
+            2312,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Malayalam",
+        "Coordinate": [
+            883,
+            1950,
+            1736,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jyoti Ramakrishnan - 9936554816",
+        "Coordinate": [
+            943,
+            2055,
+            2168,
+            2160
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Xiti Konda - 7486015373",
+        "Coordinate": [
+            964,
+            2183,
+            1907,
+            2303
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "295390000000",
+        "Coordinate": [
+            592,
+            2398,
+            1194,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            585,
+            2485,
+            845,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/10/2025",
+        "Coordinate": [
+            620,
+            2588,
+            1009,
+            2670
+        ]
+    }
+]

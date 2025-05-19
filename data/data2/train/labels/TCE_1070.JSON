@@ -1,0 +1,162 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sanya Sathe",
+        "Coordinate": [
+            918,
+            492,
+            1416,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qarin Sathe",
+        "Coordinate": [
+            934,
+            588,
+            1448,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/8/1961",
+        "Coordinate": [
+            930,
+            670,
+            1250,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            914,
+            772,
+            1472,
+            843
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1716,
+            849,
+            1990,
+            930
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            870,
+            1373,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            924,
+            964,
+            1312,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            964,
+            2132,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kara PLC",
+        "Coordinate": [
+            983,
+            1046,
+            1864,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Iyer PLC",
+        "Coordinate": [
+            990,
+            1154,
+            1862,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "41, Ganguly Road, Salem-498438",
+        "Coordinate": [
+            918,
+            1282,
+            1624,
+            1457
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 04, Goel Marg, Fatehpur-357236",
+        "Coordinate": [
+            914,
+            1524,
+            1778,
+            1747
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7194590638",
+        "Coordinate": [
+            912,
+            1779,
+            1352,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, English",
+        "Coordinate": [
+            906,
+            1912,
+            1878,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasatika Karan - 9441644727",
+        "Coordinate": [
+            992,
+            2036,
+            2046,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Champak Thaker - 9819465043",
+        "Coordinate": [
+            948,
+            2142,
+            2108,
+            2259
+        ]
+    }
+]

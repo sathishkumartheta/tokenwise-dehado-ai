@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eesha Misra",
+        "Coordinate": [
+            879,
+            431,
+            1527,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanveer Misra",
+        "Coordinate": [
+            888,
+            538,
+            1540,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-10-1997",
+        "Coordinate": [
+            892,
+            637,
+            1439,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            883,
+            735,
+            1338,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            834,
+            1242,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1719,
+            822,
+            2038,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            929,
+            2167,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            906,
+            938,
+            1053,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sridhar-Kohli",
+        "Coordinate": [
+            977,
+            1029,
+            2130,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Parsa LLC",
+        "Coordinate": [
+            989,
+            1140,
+            2022,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 29, Bajwa, Muzaffarnagar 791207",
+        "Coordinate": [
+            892,
+            1263,
+            2311,
+            1464
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "57/89, Kaur Nagar, Pondicherry-819968",
+        "Coordinate": [
+            894,
+            1528,
+            2331,
+            1758
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9760260995",
+        "Coordinate": [
+            1847,
+            1802,
+            2340,
+            1933
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7441959833",
+        "Coordinate": [
+            891,
+            1803,
+            1368,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Hindi",
+        "Coordinate": [
+            896,
+            1944,
+            1837,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arunima Nagy - 9335245979",
+        "Coordinate": [
+            963,
+            2044,
+            2218,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Eta Sekhon - 7263598282",
+        "Coordinate": [
+            966,
+            2180,
+            2176,
+            2304
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KLUWP3565F",
+        "Coordinate": [
+            1629,
+            2382,
+            2215,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            594,
+            2472,
+            1017,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/23/2022",
+        "Coordinate": [
+            606,
+            2566,
+            1171,
+            2665
+        ]
+    }
+]

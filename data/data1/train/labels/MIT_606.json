@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ryan Sunder",
+        "Coordinate": [
+            906,
+            435,
+            1340,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charan Sunder",
+        "Coordinate": [
+            905,
+            534,
+            1463,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/19/1984",
+        "Coordinate": [
+            917,
+            637,
+            1313,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            917,
+            736,
+            1471,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            835,
+            1213,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1834,
+            826,
+            2034,
+            910
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            943,
+            2148,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            944,
+            945,
+            1109,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Baral Group",
+        "Coordinate": [
+            993,
+            1043,
+            2007,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chauhan-Bhakta",
+        "Coordinate": [
+            987,
+            1151,
+            2160,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 433, Pradhan Marg, Kavali-724610",
+        "Coordinate": [
+            878,
+            1323,
+            2007,
+            1524
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 090, Singh Nagar, Aligarh 850205",
+        "Coordinate": [
+            889,
+            1550,
+            2235,
+            1751
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7500391127",
+        "Coordinate": [
+            1893,
+            1805,
+            2337,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8829957497",
+        "Coordinate": [
+            904,
+            1815,
+            1366,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Gujarati",
+        "Coordinate": [
+            889,
+            1946,
+            1889,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manthan Pall - 9123827986",
+        "Coordinate": [
+            967,
+            2053,
+            2075,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urvashi Gade - 9889694419",
+        "Coordinate": [
+            968,
+            2190,
+            2123,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SVJSG9313H",
+        "Coordinate": [
+            1655,
+            2391,
+            2216,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            600,
+            2479,
+            887,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/24/2025",
+        "Coordinate": [
+            581,
+            2575,
+            1025,
+            2662
+        ]
+    }
+]

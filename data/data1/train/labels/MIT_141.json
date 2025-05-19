@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zayyan Raj",
+        "Coordinate": [
+            881,
+            427,
+            1328,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Matthew Raj",
+        "Coordinate": [
+            914,
+            535,
+            1410,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-08-1986",
+        "Coordinate": [
+            920,
+            633,
+            1272,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            906,
+            734,
+            1245,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            836,
+            1173,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1788,
+            825,
+            1974,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            937,
+            2080,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            914,
+            938,
+            1109,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Prabhakar  Deo and Barman",
+        "Coordinate": [
+            974,
+            1036,
+            2341,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Gola  Lad and Gara",
+        "Coordinate": [
+            972,
+            1143,
+            2175,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "21, Wali Path, Ajmer-150274",
+        "Coordinate": [
+            922,
+            1294,
+            2071,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 49, Varughese Road, Junagadh 572870",
+        "Coordinate": [
+            888,
+            1526,
+            2310,
+            1779
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8019041639",
+        "Coordinate": [
+            1855,
+            1804,
+            2298,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7255915307",
+        "Coordinate": [
+            883,
+            1803,
+            1329,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Malayalam, Telugu",
+        "Coordinate": [
+            879,
+            1936,
+            2110,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manthan Bhagat - 9287673189",
+        "Coordinate": [
+            955,
+            2052,
+            2182,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qadim Banik - 9512055445",
+        "Coordinate": [
+            986,
+            2186,
+            2193,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "456000000000.0",
+        "Coordinate": [
+            591,
+            2379,
+            1172,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            610,
+            2467,
+            871,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/13/2023",
+        "Coordinate": [
+            586,
+            2563,
+            984,
+            2660
+        ]
+    }
+]

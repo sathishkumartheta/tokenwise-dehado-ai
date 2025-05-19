@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Henry Om",
+        "Coordinate": [
+            937,
+            427,
+            1337,
+            572
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Om",
+        "Coordinate": [
+            905,
+            547,
+            1315,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1982",
+        "Coordinate": [
+            910,
+            660,
+            1302,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            750,
+            1200,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            862,
+            1180,
+            970
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            832,
+            2004,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            945,
+            2125,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            952,
+            960,
+            1127,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Goswami  Rout and Balay",
+        "Coordinate": [
+            972,
+            1052,
+            2212,
+            1177
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sibal Inc",
+        "Coordinate": [
+            972,
+            1157,
+            1812,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 67, Srivastava Nagar, Hosur-292361",
+        "Coordinate": [
+            875,
+            1285,
+            2332,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "377, Patla Road, Kota-376870",
+        "Coordinate": [
+            905,
+            1542,
+            1992,
+            1662
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7005350206",
+        "Coordinate": [
+            875,
+            1800,
+            1365,
+            1930
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7943356094",
+        "Coordinate": [
+            1872,
+            1817,
+            2350,
+            1940
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi",
+        "Coordinate": [
+            915,
+            1937,
+            1412,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashasvi Apte - 8739240853",
+        "Coordinate": [
+            944,
+            2055,
+            2105,
+            2187
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dominic Basu - 9601830516",
+        "Coordinate": [
+            987,
+            2202,
+            2022,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "896947000000",
+        "Coordinate": [
+            582,
+            2395,
+            1152,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            602,
+            2465,
+            872,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/6/2022",
+        "Coordinate": [
+            600,
+            2570,
+            1052,
+            2677
+        ]
+    }
+]

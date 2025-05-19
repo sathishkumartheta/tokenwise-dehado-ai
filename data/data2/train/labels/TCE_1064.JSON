@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dakshesh Brar",
+        "Coordinate": [
+            950,
+            478,
+            1532,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manthan Brar",
+        "Coordinate": [
+            958,
+            570,
+            1524,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/9/1994",
+        "Coordinate": [
+            938,
+            660,
+            1328,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            758,
+            1286,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            849,
+            1292,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1768,
+            860,
+            1952,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1792,
+            942,
+            2064,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            952,
+            953,
+            1108,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Mukhopadhyay Ltd",
+        "Coordinate": [
+            1024,
+            1034,
+            2128,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mitra Ltd",
+        "Coordinate": [
+            1018,
+            1160,
+            1884,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 44, Shetty Marg, Siliguri-963490",
+        "Coordinate": [
+            898,
+            1290,
+            2136,
+            1501
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "76/89, Koshy Ganj, Karimnagar 041951",
+        "Coordinate": [
+            906,
+            1514,
+            2126,
+            1733
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7811707280",
+        "Coordinate": [
+            932,
+            1784,
+            1316,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9524531211",
+        "Coordinate": [
+            1862,
+            1776,
+            2280,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Tamil",
+        "Coordinate": [
+            936,
+            1896,
+            1752,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rudra Bassi - 9264496306",
+        "Coordinate": [
+            1092,
+            2022,
+            2156,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Atharv Savant - 8358852362",
+        "Coordinate": [
+            1072,
+            2128,
+            2184,
+            2243
+        ]
+    }
+]

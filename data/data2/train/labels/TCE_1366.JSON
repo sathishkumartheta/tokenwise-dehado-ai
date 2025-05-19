@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wahab Dugal",
+        "Coordinate": [
+            910,
+            461,
+            1358,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Teerth Dugal",
+        "Coordinate": [
+            890,
+            581,
+            1530,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/15/1993",
+        "Coordinate": [
+            925,
+            650,
+            1206,
+            773
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            910,
+            781,
+            1202,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            851,
+            1178,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            836,
+            1934,
+            909
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            925,
+            950,
+            1106,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            935,
+            2114,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Nigam  Panchal and D'Alia",
+        "Coordinate": [
+            970,
+            1041,
+            2238,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Goda LLC",
+        "Coordinate": [
+            970,
+            1141,
+            1838,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 343, Chanda Road, Solapur 035705",
+        "Coordinate": [
+            930,
+            1241,
+            2306,
+            1353
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49/437, Swaminathan Road, Allahabad-368539",
+        "Coordinate": [
+            895,
+            1511,
+            1898,
+            1725
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9563186893",
+        "Coordinate": [
+            920,
+            1761,
+            1406,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9409248223",
+        "Coordinate": [
+            1490,
+            1801,
+            2010,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Telugu",
+        "Coordinate": [
+            925,
+            1895,
+            1786,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashica Rastogi - 9526152688",
+        "Coordinate": [
+            980,
+            2000,
+            2034,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Keya Kaul - 8008667144",
+        "Coordinate": [
+            970,
+            2104,
+            2042,
+            2209
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            645,
+            2406,
+            966,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/14/2022",
+        "Coordinate": [
+            640,
+            2505,
+            966,
+            2581
+        ]
+    }
+]

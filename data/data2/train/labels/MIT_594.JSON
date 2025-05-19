@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sanya Sinha",
+        "Coordinate": [
+            890,
+            503,
+            1529,
+            622
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Sinha",
+        "Coordinate": [
+            920,
+            600,
+            1629,
+            700
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1959",
+        "Coordinate": [
+            922,
+            675,
+            1387,
+            792
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            900,
+            773,
+            1373,
+            876
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            883,
+            1317,
+            992
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1737,
+            880,
+            2141,
+            978
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            970,
+            2159,
+            1070
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            925,
+            997,
+            1107,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Jhaveri Inc",
+        "Coordinate": [
+            987,
+            1077,
+            2093,
+            1206
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Prakash-Mallick",
+        "Coordinate": [
+            1007,
+            1188,
+            2353,
+            1306
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 616, Lalla Marg, Kolkata 844580",
+        "Coordinate": [
+            895,
+            1317,
+            2239,
+            1540
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/642, Sachar, Hazaribagh 924115",
+        "Coordinate": [
+            907,
+            1553,
+            2177,
+            1792
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8646282763",
+        "Coordinate": [
+            880,
+            1818,
+            1355,
+            1942
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9680469563",
+        "Coordinate": [
+            1822,
+            1808,
+            2259,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            887,
+            1950,
+            1793,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eesha Badami - 8761703687",
+        "Coordinate": [
+            969,
+            2028,
+            2289,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ojasvi Chaudhary - 9820849467",
+        "Coordinate": [
+            970,
+            2183,
+            2371,
+            2308
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ZFLPG4762H",
+        "Coordinate": [
+            1637,
+            2373,
+            2281,
+            2452
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            624,
+            2440,
+            1043,
+            2542
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2022",
+        "Coordinate": [
+            642,
+            2538,
+            1097,
+            2658
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jeet Dani",
+        "Coordinate": [
+            897,
+            423,
+            1316,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Dani",
+        "Coordinate": [
+            906,
+            535,
+            1434,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/13/1990",
+        "Coordinate": [
+            893,
+            642,
+            1281,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            919,
+            732,
+            1349,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            914,
+            827,
+            1215,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1731,
+            831,
+            2001,
+            912
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            908,
+            939,
+            1094,
+            1022
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            945,
+            2145,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Batra-Tandon",
+        "Coordinate": [
+            996,
+            1031,
+            2126,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Keer  Hegde and Palla",
+        "Coordinate": [
+            978,
+            1140,
+            2303,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24/524, Yadav Circle, Munger 353417",
+        "Coordinate": [
+            912,
+            1290,
+            2356,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 61, Chaudhary Road, Adoni-014739",
+        "Coordinate": [
+            890,
+            1527,
+            2343,
+            1660
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9347587949",
+        "Coordinate": [
+            888,
+            1799,
+            1347,
+            1902
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8910662521",
+        "Coordinate": [
+            1862,
+            1807,
+            2341,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Marathi",
+        "Coordinate": [
+            890,
+            1941,
+            1979,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omkaar Toor - 7834092330",
+        "Coordinate": [
+            993,
+            2044,
+            2314,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dhriti Venkatesh - 7202572552",
+        "Coordinate": [
+            1009,
+            2183,
+            2295,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "807196000000",
+        "Coordinate": [
+            636,
+            2385,
+            1226,
+            2472
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HVMXC6514N",
+        "Coordinate": [
+            1645,
+            2393,
+            2286,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            631,
+            2470,
+            972,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2025",
+        "Coordinate": [
+            596,
+            2567,
+            1125,
+            2648
+        ]
+    }
+]

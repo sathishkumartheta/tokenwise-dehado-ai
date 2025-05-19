@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ranbir Dugar",
+        "Coordinate": [
+            893,
+            456,
+            1318,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Dugar",
+        "Coordinate": [
+            933,
+            560,
+            1479,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/30/1982",
+        "Coordinate": [
+            921,
+            662,
+            1353,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            964,
+            745,
+            1275,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            869,
+            1197,
+            954
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1864,
+            840,
+            2025,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1035,
+            973,
+            1168,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            961,
+            2099,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sethi LLC",
+        "Coordinate": [
+            1042,
+            1061,
+            1819,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Raval  Bhalla and Agrawal",
+        "Coordinate": [
+            1049,
+            1180,
+            2346,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "023, Barad Road, Eluru-712515",
+        "Coordinate": [
+            895,
+            1268,
+            1976,
+            1370
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 828, Nayar Nagar, Haridwar 608123",
+        "Coordinate": [
+            902,
+            1555,
+            2292,
+            1667
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9301120812",
+        "Coordinate": [
+            1854,
+            1802,
+            2292,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8466465221",
+        "Coordinate": [
+            897,
+            1809,
+            1327,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            923,
+            1971,
+            1588,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vinaya Vyas - 8510807542",
+        "Coordinate": [
+            973,
+            2066,
+            1968,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anya Sunder - 9611519945",
+        "Coordinate": [
+            980,
+            2208,
+            1999,
+            2308
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            629,
+            2496,
+            878,
+            2598
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/25/2022",
+        "Coordinate": [
+            600,
+            2603,
+            999,
+            2693
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FMETP0838B",
+        "Coordinate": [
+            1648,
+            2382,
+            2116,
+            2503
+        ]
+    }
+]

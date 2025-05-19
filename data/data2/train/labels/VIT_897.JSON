@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girindra Bala",
+        "Coordinate": [
+            882,
+            449,
+            1383,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Bala",
+        "Coordinate": [
+            875,
+            534,
+            1324,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/25/1975",
+        "Coordinate": [
+            873,
+            638,
+            1252,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            886,
+            742,
+            1473,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            875,
+            851,
+            1151,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1786,
+            837,
+            1940,
+            912
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            887,
+            957,
+            1024,
+            1043
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            948,
+            2101,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kadakia-Grewal",
+        "Coordinate": [
+            957,
+            1043,
+            1919,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dutt  Rama and Dhar",
+        "Coordinate": [
+            957,
+            1144,
+            2141,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "55/562, Mitra Circle, Serampore 578339",
+        "Coordinate": [
+            898,
+            1286,
+            2294,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "109, Buch Path, Raiganj-828095",
+        "Coordinate": [
+            887,
+            1546,
+            2124,
+            1678
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9554647963",
+        "Coordinate": [
+            886,
+            1824,
+            1252,
+            1910
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8092944023",
+        "Coordinate": [
+            1862,
+            1812,
+            2262,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Marathi",
+        "Coordinate": [
+            891,
+            1957,
+            1656,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Upadhyay - 8308750808",
+        "Coordinate": [
+            950,
+            2053,
+            1976,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanaya Vasa - 9818470117",
+        "Coordinate": [
+            964,
+            2190,
+            1982,
+            2285
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "873873000000",
+        "Coordinate": [
+            580,
+            2406,
+            1102,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            582,
+            2495,
+            974,
+            2583
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/15/2022",
+        "Coordinate": [
+            582,
+            2585,
+            943,
+            2675
+        ]
+    }
+]

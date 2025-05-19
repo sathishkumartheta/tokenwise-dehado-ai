@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasana Butala",
+        "Coordinate": [
+            887,
+            416,
+            1436,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Butala",
+        "Coordinate": [
+            894,
+            516,
+            1393,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-10-1972",
+        "Coordinate": [
+            906,
+            617,
+            1342,
+            714
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            886,
+            714,
+            1466,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            820,
+            1226,
+            920
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            814,
+            2097,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            924,
+            2099,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            900,
+            925,
+            1060,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Badami  Hayer and Anne",
+        "Coordinate": [
+            975,
+            1022,
+            2306,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dubey  Bal and Ben",
+        "Coordinate": [
+            985,
+            1135,
+            2333,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "607, Goel Nagar, Kumbakonam 857988",
+        "Coordinate": [
+            898,
+            1256,
+            2348,
+            1436
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "273, Dalal Circle, Akola-932297",
+        "Coordinate": [
+            898,
+            1503,
+            2327,
+            1660
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9726824394",
+        "Coordinate": [
+            1864,
+            1791,
+            2333,
+            1926
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7320991992",
+        "Coordinate": [
+            891,
+            1792,
+            1345,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            876,
+            1931,
+            1507,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falak Kunda - 7932988706",
+        "Coordinate": [
+            948,
+            2034,
+            2019,
+            2147
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isaac Minhas - 9841057834",
+        "Coordinate": [
+            952,
+            2158,
+            2136,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "270000000000.0",
+        "Coordinate": [
+            588,
+            2370,
+            1201,
+            2460
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            603,
+            2462,
+            1101,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/15/2023",
+        "Coordinate": [
+            606,
+            2559,
+            1053,
+            2656
+        ]
+    }
+]

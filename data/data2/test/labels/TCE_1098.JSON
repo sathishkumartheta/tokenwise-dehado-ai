@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "1/9/2022",
+        "Coordinate": [
+            650,
+            2540,
+            1168,
+            2605
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            602,
+            2446,
+            890,
+            2533
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachita Iyengar - 9217130400",
+        "Coordinate": [
+            980,
+            2152,
+            2142,
+            2255
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshit Krishnan - 8767737224",
+        "Coordinate": [
+            974,
+            2012,
+            2066,
+            2101
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Malayalam",
+        "Coordinate": [
+            916,
+            1902,
+            1996,
+            1999
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9992381197",
+        "Coordinate": [
+            1830,
+            1778,
+            2208,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7777568848",
+        "Coordinate": [
+            900,
+            1792,
+            1336,
+            1883
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36, Sura Street, Rajpur Sonarpur-473223",
+        "Coordinate": [
+            912,
+            1526,
+            2310,
+            1681
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 477, Sanghvi Zila, Katihar 182446",
+        "Coordinate": [
+            900,
+            1290,
+            2248,
+            1451
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bains-Mahajan",
+        "Coordinate": [
+            992,
+            1178,
+            1906,
+            1273
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sharma  Devan and Mukhopadhyay",
+        "Coordinate": [
+            964,
+            1044,
+            2268,
+            1151
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            936,
+            2200,
+            1035
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1717,
+            845,
+            2103,
+            952
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            880,
+            1322,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            899,
+            958,
+            1148,
+            1057
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            932,
+            754,
+            1318,
+            839
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/22/1970",
+        "Coordinate": [
+            910,
+            668,
+            1306,
+            749
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tarak Pandey",
+        "Coordinate": [
+            928,
+            574,
+            1496,
+            663
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Pandey",
+        "Coordinate": [
+            906,
+            466,
+            1402,
+            561
+        ]
+    }
+]

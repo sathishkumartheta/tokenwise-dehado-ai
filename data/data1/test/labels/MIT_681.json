@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Garima Korpal",
+        "Coordinate": [
+            875,
+            426,
+            1327,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qasim Korpal",
+        "Coordinate": [
+            878,
+            529,
+            1272,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/30/1989",
+        "Coordinate": [
+            896,
+            635,
+            1257,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            942,
+            732,
+            1199,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            835,
+            1173,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1806,
+            836,
+            2023,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            949,
+            2046,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            949,
+            940,
+            1068,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kade-Wadhwa",
+        "Coordinate": [
+            1008,
+            1049,
+            1827,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Thakkar-Brahmbhatt",
+        "Coordinate": [
+            1001,
+            1157,
+            2063,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 70, Mistry Ganj, Uluberia 016426",
+        "Coordinate": [
+            883,
+            1312,
+            2128,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 54, Gaba Marg, Mangalore-354692",
+        "Coordinate": [
+            892,
+            1575,
+            2155,
+            1768
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7509902921",
+        "Coordinate": [
+            1890,
+            1810,
+            2238,
+            1926
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9858826431",
+        "Coordinate": [
+            884,
+            1807,
+            1254,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Kannada",
+        "Coordinate": [
+            876,
+            1948,
+            1756,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zaid Mane - 8338276115",
+        "Coordinate": [
+            955,
+            2065,
+            1671,
+            2187
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrishti Chacko - 9554439763",
+        "Coordinate": [
+            990,
+            2193,
+            1871,
+            2321
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "294000000000.0",
+        "Coordinate": [
+            587,
+            2381,
+            1086,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            593,
+            2485,
+            912,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-11-2023",
+        "Coordinate": [
+            700,
+            2571,
+            1013,
+            2666
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tristan Mani",
+        "Coordinate": [
+            876,
+            415,
+            1401,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Mani",
+        "Coordinate": [
+            879,
+            521,
+            1408,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-12-2004",
+        "Coordinate": [
+            892,
+            622,
+            1328,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            888,
+            719,
+            1250,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            879,
+            820,
+            1147,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1802,
+            821,
+            2001,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            927,
+            2178,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            879,
+            932,
+            978,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bassi-Pillai",
+        "Coordinate": [
+            962,
+            1037,
+            1982,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chada-Tara",
+        "Coordinate": [
+            955,
+            1145,
+            1994,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "279, Tak, Ujjain 158789",
+        "Coordinate": [
+            884,
+            1396,
+            2020,
+            1543
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/171, Comar Path, Jabalpur 241248",
+        "Coordinate": [
+            879,
+            1631,
+            2362,
+            1789
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8121264949",
+        "Coordinate": [
+            1850,
+            1805,
+            2343,
+            1926
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8359078871",
+        "Coordinate": [
+            887,
+            1798,
+            1358,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Gujarati, Malayalam",
+        "Coordinate": [
+            891,
+            1922,
+            2407,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janya Mody - 8809236410",
+        "Coordinate": [
+            936,
+            2035,
+            2017,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ria Kalla - 9019813447",
+        "Coordinate": [
+            949,
+            2166,
+            2042,
+            2279
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "652000000000.0",
+        "Coordinate": [
+            586,
+            2371,
+            1224,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            566,
+            2465,
+            848,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-08-2022",
+        "Coordinate": [
+            587,
+            2556,
+            1139,
+            2653
+        ]
+    }
+]

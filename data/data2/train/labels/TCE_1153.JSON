@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Odika Mitra",
+        "Coordinate": [
+            907,
+            471,
+            1326,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manbir Mitra",
+        "Coordinate": [
+            910,
+            558,
+            1327,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/7/1983",
+        "Coordinate": [
+            894,
+            667,
+            1225,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            748,
+            1248,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            857,
+            1227,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            937,
+            964,
+            1081,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            849,
+            2046,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            937,
+            2100,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Gupta  Chopra and Chhabra",
+        "Coordinate": [
+            979,
+            1040,
+            2229,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chandran and Sons",
+        "Coordinate": [
+            988,
+            1151,
+            2144,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09, Tata, Bardhaman 350540",
+        "Coordinate": [
+            929,
+            1293,
+            2006,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Rajagopalan Circle, Dharmavaram-368131",
+        "Coordinate": [
+            931,
+            1548,
+            2267,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8962074957",
+        "Coordinate": [
+            940,
+            1778,
+            1338,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9813371742",
+        "Coordinate": [
+            1829,
+            1778,
+            2244,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, English, Bengali",
+        "Coordinate": [
+            922,
+            1906,
+            1980,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gauri Kaur - 9571913255",
+        "Coordinate": [
+            956,
+            2010,
+            1812,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhiram Sidhu - 9040394967",
+        "Coordinate": [
+            984,
+            2144,
+            2051,
+            2272
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            629,
+            2413,
+            921,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/4/2025",
+        "Coordinate": [
+            641,
+            2518,
+            1066,
+            2606
+        ]
+    }
+]

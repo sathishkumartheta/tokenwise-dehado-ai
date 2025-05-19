@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abhiram Atwal",
+        "Coordinate": [
+            904,
+            476,
+            1459,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gabriel Atwal",
+        "Coordinate": [
+            888,
+            552,
+            1479,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/1/1999",
+        "Coordinate": [
+            907,
+            647,
+            1234,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            913,
+            750,
+            1117,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            854,
+            1194,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            855,
+            1985,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            916,
+            975,
+            1094,
+            1044
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            945,
+            2085,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Yadav-Anand",
+        "Coordinate": [
+            998,
+            1064,
+            2047,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Subramaniam-Dewan",
+        "Coordinate": [
+            1006,
+            1163,
+            2280,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 53, Din Nagar, Bokaro 128816",
+        "Coordinate": [
+            914,
+            1269,
+            2180,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 83, Doctor Street, Rourkela 234424",
+        "Coordinate": [
+            907,
+            1517,
+            2260,
+            1734
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9284364443",
+        "Coordinate": [
+            921,
+            1768,
+            1338,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9505689231",
+        "Coordinate": [
+            1827,
+            1777,
+            2269,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, English",
+        "Coordinate": [
+            908,
+            1904,
+            2032,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manya Bhardwaj - 8322830386",
+        "Coordinate": [
+            966,
+            1995,
+            2259,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Finn Kumar - 8282976904",
+        "Coordinate": [
+            974,
+            2138,
+            1948,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            632,
+            2411,
+            983,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2024",
+        "Coordinate": [
+            642,
+            2510,
+            999,
+            2587
+        ]
+    }
+]

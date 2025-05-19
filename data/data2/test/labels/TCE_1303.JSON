@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ridhi Patla",
+        "Coordinate": [
+            930,
+            480,
+            1292,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Patla",
+        "Coordinate": [
+            932,
+            564,
+            1296,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/14/1983",
+        "Coordinate": [
+            904,
+            674,
+            1246,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            920,
+            776,
+            1054,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            864,
+            1180,
+            919
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1736,
+            844,
+            2002,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            963,
+            2050,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            902,
+            963,
+            1048,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Tripathi PLC",
+        "Coordinate": [
+            968,
+            1044,
+            1808,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dayal  Oommen and Sethi",
+        "Coordinate": [
+            986,
+            1164,
+            2182,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11, Bora Chowk, Sambhal 178188",
+        "Coordinate": [
+            938,
+            1278,
+            2002,
+            1377
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "15/89, Wadhwa Zila, Kolhapur-937840",
+        "Coordinate": [
+            910,
+            1512,
+            2204,
+            1593
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7312989907",
+        "Coordinate": [
+            942,
+            1788,
+            1316,
+            1863
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7957189509",
+        "Coordinate": [
+            1846,
+            1780,
+            2228,
+            1849
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Marathi",
+        "Coordinate": [
+            924,
+            1912,
+            1718,
+            1979
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekansh Patla - 9808561656",
+        "Coordinate": [
+            997,
+            2022,
+            1847,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Farhan Padmanabhan - 7488644825",
+        "Coordinate": [
+            980,
+            2138,
+            1852,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            646,
+            2434,
+            840,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/24/2023",
+        "Coordinate": [
+            642,
+            2514,
+            976,
+            2581
+        ]
+    }
+]

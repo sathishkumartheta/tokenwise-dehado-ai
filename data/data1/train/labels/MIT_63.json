@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Januja Balan",
+        "Coordinate": [
+            864,
+            388,
+            1445,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Balan",
+        "Coordinate": [
+            872,
+            491,
+            1491,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/24/1963",
+        "Coordinate": [
+            910,
+            589,
+            1372,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            896,
+            683,
+            1260,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            785,
+            1224,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1795,
+            779,
+            2110,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1877,
+            893,
+            2207,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            953,
+            891,
+            1113,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Wagle-Parmar",
+        "Coordinate": [
+            951,
+            980,
+            2129,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kaul  Dutta and Chaudhry",
+        "Coordinate": [
+            925,
+            1095,
+            2319,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 80, Rama Ganj, Malegaon-395590",
+        "Coordinate": [
+            889,
+            1213,
+            2306,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37/84, Swaminathan Street, Mysore 393087",
+        "Coordinate": [
+            870,
+            1471,
+            2072,
+            1706
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7464103688",
+        "Coordinate": [
+            1850,
+            1754,
+            2321,
+            1873
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7072913819",
+        "Coordinate": [
+            868,
+            1757,
+            1347,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Hindi, Telugu",
+        "Coordinate": [
+            857,
+            1885,
+            2276,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Garima Jaggi - 7688616735",
+        "Coordinate": [
+            902,
+            2001,
+            2057,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harini Goel - 8527670334",
+        "Coordinate": [
+            916,
+            2135,
+            2178,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "887000000000.0",
+        "Coordinate": [
+            573,
+            2331,
+            1163,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            581,
+            2420,
+            1083,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/22/2024",
+        "Coordinate": [
+            590,
+            2511,
+            1117,
+            2600
+        ]
+    }
+]

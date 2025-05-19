@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wakeeta Sabharwal",
+        "Coordinate": [
+            893,
+            451,
+            1634,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azad Sabharwal",
+        "Coordinate": [
+            890,
+            544,
+            1546,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/20/1963",
+        "Coordinate": [
+            917,
+            645,
+            1360,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            908,
+            737,
+            1261,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            849,
+            1195,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1753,
+            840,
+            2053,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            890,
+            956,
+            989,
+            1044
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            952,
+            2088,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Natt  Krishnan and Sharma",
+        "Coordinate": [
+            980,
+            1046,
+            2341,
+            1165
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Gade  Soman and Malhotra",
+        "Coordinate": [
+            934,
+            1184,
+            2262,
+            1285
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 19, Dasgupta Ganj, Eluru 378280",
+        "Coordinate": [
+            895,
+            1320,
+            2358,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89, Contractor, Karaikudi-877707",
+        "Coordinate": [
+            897,
+            1564,
+            2288,
+            1724
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9691934865",
+        "Coordinate": [
+            879,
+            1823,
+            1336,
+            1946
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8028570349",
+        "Coordinate": [
+            1582,
+            1876,
+            2055,
+            1955
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Gujarati, English",
+        "Coordinate": [
+            895,
+            1944,
+            2231,
+            2069
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Cherian - 8758193969",
+        "Coordinate": [
+            974,
+            2080,
+            2224,
+            2200
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanveer Ghose - 8674622972",
+        "Coordinate": [
+            993,
+            2211,
+            2218,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "352964000000",
+        "Coordinate": [
+            579,
+            2400,
+            1160,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            592,
+            2485,
+            939,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/5/2022",
+        "Coordinate": [
+            594,
+            2586,
+            1015,
+            2674
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Yohannan",
+        "Coordinate": [
+            876,
+            396,
+            1574,
+            494
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Yohannan",
+        "Coordinate": [
+            888,
+            495,
+            1605,
+            590
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/16/1990",
+        "Coordinate": [
+            898,
+            594,
+            1379,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            897,
+            688,
+            1290,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            790,
+            1182,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            781,
+            1997,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            892,
+            2147,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            934,
+            896,
+            1145,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Loyal-Naidu",
+        "Coordinate": [
+            1001,
+            986,
+            2065,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Chadha LLC",
+        "Coordinate": [
+            1005,
+            1102,
+            2068,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99, Nayar Marg, Shimla-273545",
+        "Coordinate": [
+            899,
+            1251,
+            2328,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "08/31, Ray Ganj, Miryalaguda 777014",
+        "Coordinate": [
+            891,
+            1478,
+            2333,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7725845843",
+        "Coordinate": [
+            1850,
+            1746,
+            2346,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9243198990",
+        "Coordinate": [
+            886,
+            1752,
+            1306,
+            1851
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Kannada",
+        "Coordinate": [
+            911,
+            1889,
+            1831,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidhi Kohli - 9073971919",
+        "Coordinate": [
+            977,
+            2003,
+            1948,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jyoti Solanki - 8084546715",
+        "Coordinate": [
+            950,
+            2128,
+            2124,
+            2251
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "449000000000.0",
+        "Coordinate": [
+            622,
+            2333,
+            1253,
+            2423
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JNRVF9566G",
+        "Coordinate": [
+            1640,
+            2332,
+            2164,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            642,
+            2425,
+            1100,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/15/2022",
+        "Coordinate": [
+            644,
+            2521,
+            1111,
+            2612
+        ]
+    }
+]

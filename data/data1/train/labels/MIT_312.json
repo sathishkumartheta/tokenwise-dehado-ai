@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upma Dube",
+        "Coordinate": [
+            888,
+            387,
+            1293,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azad Dube",
+        "Coordinate": [
+            901,
+            486,
+            1346,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/23/1970",
+        "Coordinate": [
+            927,
+            589,
+            1287,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            898,
+            682,
+            1429,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            784,
+            1198,
+            870
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1805,
+            784,
+            2059,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            891,
+            2109,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            911,
+            885,
+            1086,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Radhakrishnan-Amble",
+        "Coordinate": [
+            997,
+            979,
+            2218,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Prasad Inc",
+        "Coordinate": [
+            998,
+            1096,
+            1998,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 123, Dube Zila, Moradabad-324888",
+        "Coordinate": [
+            886,
+            1219,
+            2266,
+            1350
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "989, Sen Ganj, Malegaon 454930",
+        "Coordinate": [
+            892,
+            1466,
+            2189,
+            1610
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8268007901",
+        "Coordinate": [
+            1898,
+            1747,
+            2315,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7591207667",
+        "Coordinate": [
+            897,
+            1748,
+            1318,
+            1842
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Kannada",
+        "Coordinate": [
+            905,
+            1885,
+            1947,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidra Merchant - 9827956261",
+        "Coordinate": [
+            961,
+            1997,
+            2127,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udyati Chand - 8960352716",
+        "Coordinate": [
+            978,
+            2121,
+            2147,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "716000000000.0",
+        "Coordinate": [
+            607,
+            2330,
+            1148,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            616,
+            2425,
+            871,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-09-2024",
+        "Coordinate": [
+            631,
+            2518,
+            1053,
+            2604
+        ]
+    }
+]

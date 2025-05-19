@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Inaya Nagy",
+        "Coordinate": [
+            903,
+            475,
+            1370,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Avi Nagy",
+        "Coordinate": [
+            901,
+            571,
+            1307,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/26/1971",
+        "Coordinate": [
+            905,
+            682,
+            1316,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            908,
+            760,
+            1319,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            856,
+            1279,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            850,
+            2096,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            948,
+            2099,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            918,
+            948,
+            1088,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Borah  Bhasin and Kale",
+        "Coordinate": [
+            1003,
+            1039,
+            2279,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sood-Aurora",
+        "Coordinate": [
+            1003,
+            1153,
+            2109,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "358, Issac Street, Nagpur 274157",
+        "Coordinate": [
+            932,
+            1283,
+            2078,
+            1504
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "860, Char Road, Salem 354349",
+        "Coordinate": [
+            930,
+            1529,
+            2041,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9349650027",
+        "Coordinate": [
+            911,
+            1785,
+            1365,
+            1903
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9809775059",
+        "Coordinate": [
+            1850,
+            1777,
+            2338,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            908,
+            1917,
+            1685,
+            2026
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yahvi Dora - 8635499598",
+        "Coordinate": [
+            989,
+            2021,
+            2186,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hiral Murty - 7784272101",
+        "Coordinate": [
+            991,
+            2151,
+            2188,
+            2270
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            634,
+            2431,
+            931,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2025",
+        "Coordinate": [
+            643,
+            2525,
+            1056,
+            2613
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "201292000000",
+        "Coordinate": [
+            631,
+            2342,
+            1275,
+            2429
+        ]
+    }
+]

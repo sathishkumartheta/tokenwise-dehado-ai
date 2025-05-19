@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Bawa",
+        "Coordinate": [
+            916,
+            474,
+            1410,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Akshay Bawa",
+        "Coordinate": [
+            946,
+            570,
+            1421,
+            686
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1978",
+        "Coordinate": [
+            926,
+            684,
+            1293,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            920,
+            767,
+            1283,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            850,
+            1224,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            933,
+            954,
+            1042,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1746,
+            847,
+            1938,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            953,
+            2056,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Parsa  Gaba and Lall",
+        "Coordinate": [
+            1007,
+            1047,
+            2216,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Lata and Sons",
+        "Coordinate": [
+            1016,
+            1154,
+            2013,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46, Kamdar Marg, Vijayawada 120633",
+        "Coordinate": [
+            917,
+            1281,
+            2296,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 99, Mahajan Chowk, Satna 756466",
+        "Coordinate": [
+            923,
+            1507,
+            2328,
+            1609
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9538887178",
+        "Coordinate": [
+            910,
+            1767,
+            1339,
+            1859
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8714672618",
+        "Coordinate": [
+            1840,
+            1760,
+            2261,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Hindi",
+        "Coordinate": [
+            910,
+            1910,
+            1747,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Ranganathan - 8743341074",
+        "Coordinate": [
+            1000,
+            2004,
+            2147,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aadhya Chander - 9100227866",
+        "Coordinate": [
+            986,
+            2140,
+            2029,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            640,
+            2427,
+            1016,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/3/2023",
+        "Coordinate": [
+            650,
+            2524,
+            973,
+            2606
+        ]
+    }
+]

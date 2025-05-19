@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Gopal",
+        "Coordinate": [
+            889,
+            382,
+            1617,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ansh Gopal",
+        "Coordinate": [
+            940,
+            512,
+            1485,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/22/1976",
+        "Coordinate": [
+            987,
+            610,
+            1485,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            887,
+            715,
+            1387,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            905,
+            825,
+            1217,
+            1000
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            832,
+            2002,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            925,
+            929,
+            1110,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Badami Inc",
+        "Coordinate": [
+            990,
+            1030,
+            2282,
+            1172
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Khare-Bhatt",
+        "Coordinate": [
+            970,
+            1150,
+            2322,
+            1312
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97, Koshy Zila, New Delhi 911420",
+        "Coordinate": [
+            910,
+            1270,
+            2247,
+            1492
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 223, Sabharwal Street, Gopalpur-245422",
+        "Coordinate": [
+            877,
+            1527,
+            2215,
+            1780
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7780916912",
+        "Coordinate": [
+            887,
+            1787,
+            1355,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8271897925",
+        "Coordinate": [
+            1645,
+            1850,
+            2275,
+            1970
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Telugu",
+        "Coordinate": [
+            910,
+            1939,
+            1930,
+            2070
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nachiket Garde - 8159687273",
+        "Coordinate": [
+            947,
+            2042,
+            2357,
+            2207
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wriddhish Bains - 7667045634",
+        "Coordinate": [
+            945,
+            2172,
+            2390,
+            2337
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "791853000000",
+        "Coordinate": [
+            582,
+            2365,
+            1307,
+            2497
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            607,
+            2482,
+            937,
+            2587
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/14/2025",
+        "Coordinate": [
+            635,
+            2557,
+            1155,
+            2717
+        ]
+    }
+]

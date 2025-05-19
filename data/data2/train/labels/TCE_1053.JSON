@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abha Mann",
+        "Coordinate": [
+            926,
+            478,
+            1310,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Mann",
+        "Coordinate": [
+            918,
+            586,
+            1288,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/28/1976",
+        "Coordinate": [
+            920,
+            670,
+            1282,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            974,
+            772,
+            1254,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            926,
+            884,
+            1164,
+            959
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            841,
+            2038,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            988,
+            972,
+            1122,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Yadav Inc",
+        "Coordinate": [
+            1022,
+            1064,
+            1780,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mandal-Malhotra",
+        "Coordinate": [
+            1002,
+            1170,
+            2050,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39/685, Sethi Street, Ambala-091881",
+        "Coordinate": [
+            914,
+            1276,
+            2142,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 66, Lad Zila, Jorhat-970209",
+        "Coordinate": [
+            916,
+            1514,
+            2148,
+            1629
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8303908497",
+        "Coordinate": [
+            924,
+            1778,
+            1364,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7961676076",
+        "Coordinate": [
+            1862,
+            1774,
+            2232,
+            1843
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Bengali",
+        "Coordinate": [
+            944,
+            1904,
+            1744,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Alexander Saran - 7866767518",
+        "Coordinate": [
+            1006,
+            1992,
+            2072,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Chaudhuri - 9005671637",
+        "Coordinate": [
+            1016,
+            2114,
+            2166,
+            2233
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            694,
+            2404,
+            928,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/9/2022",
+        "Coordinate": [
+            634,
+            2516,
+            1044,
+            2581
+        ]
+    }
+]

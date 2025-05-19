@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bahadurjit Keer",
+        "Coordinate": [
+            885,
+            420,
+            1459,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Keer",
+        "Coordinate": [
+            897,
+            523,
+            1378,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/25/1967",
+        "Coordinate": [
+            911,
+            625,
+            1276,
+            713
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            937,
+            721,
+            1239,
+            811
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            935,
+            825,
+            1137,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1866,
+            813,
+            2038,
+            904
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            919,
+            2135,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            972,
+            927,
+            1107,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Koshy  Baral and Bumb",
+        "Coordinate": [
+            953,
+            1016,
+            2245,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Virk-Mutti",
+        "Coordinate": [
+            967,
+            1131,
+            1769,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53/462, Shankar Road, Srinagar 799118",
+        "Coordinate": [
+            916,
+            1268,
+            2234,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "513, Mane Path, Bahraich-980841",
+        "Coordinate": [
+            885,
+            1500,
+            2075,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7845660594",
+        "Coordinate": [
+            1879,
+            1775,
+            2291,
+            1877
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8777560451",
+        "Coordinate": [
+            885,
+            1782,
+            1315,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali",
+        "Coordinate": [
+            892,
+            1926,
+            1553,
+            2026
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aishani D\u2019Alia - 9663539479",
+        "Coordinate": [
+            972,
+            2034,
+            2013,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nachiket Magar - 9687308854",
+        "Coordinate": [
+            958,
+            2161,
+            2030,
+            2276
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "883000000000.0",
+        "Coordinate": [
+            598,
+            2367,
+            1086,
+            2454
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            615,
+            2461,
+            847,
+            2547
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2022",
+        "Coordinate": [
+            628,
+            2554,
+            1015,
+            2656
+        ]
+    }
+]

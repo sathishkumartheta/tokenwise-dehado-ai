@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hamsini Dube",
+        "Coordinate": [
+            895,
+            397,
+            1397,
+            504
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frederick Dube",
+        "Coordinate": [
+            909,
+            507,
+            1428,
+            602
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/24/2004",
+        "Coordinate": [
+            904,
+            602,
+            1335,
+            705
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            916,
+            708,
+            1280,
+            808
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            926,
+            811,
+            1153,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            793,
+            1997,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            903,
+            2140,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            915,
+            905,
+            1025,
+            997
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Nazareth  Barman and Balakrishnan",
+        "Coordinate": [
+            977,
+            1002,
+            2437,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bath Ltd",
+        "Coordinate": [
+            976,
+            1129,
+            1757,
+            1248
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69/07, Mann Circle, Karawal Nagar 647102",
+        "Coordinate": [
+            914,
+            1265,
+            2243,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73, Dhawan Path, Imphal-625881",
+        "Coordinate": [
+            908,
+            1542,
+            2217,
+            1700
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9413154111",
+        "Coordinate": [
+            1865,
+            1748,
+            2296,
+            1845
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8355883565",
+        "Coordinate": [
+            904,
+            1789,
+            1364,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Gujarati",
+        "Coordinate": [
+            895,
+            1908,
+            1749,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wyatt Shukla - 9148590247",
+        "Coordinate": [
+            976,
+            2021,
+            2035,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amara Sengupta - 7895542604",
+        "Coordinate": [
+            939,
+            2175,
+            2058,
+            2299
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HDEVH6706L",
+        "Coordinate": [
+            1627,
+            2332,
+            2134,
+            2448
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            631,
+            2436,
+            924,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/27/2024",
+        "Coordinate": [
+            652,
+            2527,
+            1069,
+            2631
+        ]
+    }
+]

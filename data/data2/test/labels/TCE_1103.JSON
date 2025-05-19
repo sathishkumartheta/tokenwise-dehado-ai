@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pooja Bail",
+        "Coordinate": [
+            930,
+            466,
+            1312,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatresh Bail",
+        "Coordinate": [
+            921,
+            562,
+            1438,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/4/1969",
+        "Coordinate": [
+            923,
+            652,
+            1258,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            923,
+            745,
+            1253,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            845,
+            1200,
+            920
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            919,
+            944,
+            1063,
+            1032
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1824,
+            854,
+            2088,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            952,
+            2108,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sandhu-Toor",
+        "Coordinate": [
+            1034,
+            1037,
+            1916,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Verma-Jani",
+        "Coordinate": [
+            994,
+            1141,
+            1866,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29/786, Borde Chowk, Bijapur 959957",
+        "Coordinate": [
+            948,
+            1288,
+            2265,
+            1424
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70, Sibal Nagar, Ghaziabad 035336",
+        "Coordinate": [
+            913,
+            1532,
+            2155,
+            1661
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7636552475",
+        "Coordinate": [
+            899,
+            1782,
+            1285,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7820107539",
+        "Coordinate": [
+            1849,
+            1770,
+            2248,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Hindi, Gujarati",
+        "Coordinate": [
+            911,
+            1909,
+            1977,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ikshita Dixit - 8577243925",
+        "Coordinate": [
+            1005,
+            1992,
+            2031,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Upma Gola - 9974355854",
+        "Coordinate": [
+            1003,
+            2135,
+            1914,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            634,
+            2416,
+            898,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/12/2022",
+        "Coordinate": [
+            623,
+            2508,
+            1009,
+            2579
+        ]
+    }
+]

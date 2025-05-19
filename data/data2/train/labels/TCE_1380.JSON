@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mugdha Bains",
+        "Coordinate": [
+            900,
+            465,
+            1282,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frederick Bains",
+        "Coordinate": [
+            910,
+            571,
+            1362,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/1965",
+        "Coordinate": [
+            945,
+            666,
+            1258,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            910,
+            740,
+            1182,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            846,
+            1138,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            850,
+            2018,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            946,
+            2014,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            950,
+            946,
+            1078,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kadakia-Bedi",
+        "Coordinate": [
+            1000,
+            1046,
+            1870,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Aurora  Mandal and Bhakta",
+        "Coordinate": [
+            985,
+            1145,
+            2266,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17, Chaudhuri Chowk, Anand-323454",
+        "Coordinate": [
+            930,
+            1286,
+            2210,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "31/778, Rama Zila, Gorakhpur-276565",
+        "Coordinate": [
+            949,
+            1576,
+            2266,
+            1698
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7062895042",
+        "Coordinate": [
+            940,
+            1786,
+            1358,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8938413745",
+        "Coordinate": [
+            1815,
+            1781,
+            2310,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Tamil",
+        "Coordinate": [
+            940,
+            1906,
+            1654,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anthony Sridhar - 9316938688",
+        "Coordinate": [
+            980,
+            2000,
+            2002,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Matthew Bir - 7114088399",
+        "Coordinate": [
+            989,
+            2146,
+            1921,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            630,
+            2406,
+            986,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/3/2023",
+        "Coordinate": [
+            670,
+            2511,
+            986,
+            2610
+        ]
+    }
+]

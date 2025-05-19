@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai De",
+        "Coordinate": [
+            920,
+            450,
+            1186,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Umang De",
+        "Coordinate": [
+            950,
+            581,
+            1322,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/4/1968",
+        "Coordinate": [
+            950,
+            660,
+            1346,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            950,
+            746,
+            1262,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            861,
+            1262,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            975,
+            941,
+            1130,
+            1049
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1710,
+            835,
+            1898,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            931,
+            2042,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Varughese  Shetty and Bal",
+        "Coordinate": [
+            1030,
+            1051,
+            2270,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Gour PLC",
+        "Coordinate": [
+            985,
+            1161,
+            1862,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 975, Boase Zila, Gaya 940996",
+        "Coordinate": [
+            915,
+            1271,
+            2246,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "89, Raghavan Path, Raichur 713032",
+        "Coordinate": [
+            930,
+            1521,
+            2222,
+            1661
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8794103011",
+        "Coordinate": [
+            915,
+            1781,
+            1294,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8547383069",
+        "Coordinate": [
+            1855,
+            1786,
+            2310,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Telugu",
+        "Coordinate": [
+            929,
+            1915,
+            1737,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bishakha Misra - 8295069113",
+        "Coordinate": [
+            980,
+            2021,
+            1978,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ojas Chhabra - 8363369502",
+        "Coordinate": [
+            1025,
+            2141,
+            1954,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            675,
+            2421,
+            926,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/26/2024",
+        "Coordinate": [
+            669,
+            2495,
+            1013,
+            2585
+        ]
+    }
+]

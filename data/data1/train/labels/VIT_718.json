@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vidhi Munshi",
+        "Coordinate": [
+            882,
+            422,
+            1370,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Munshi",
+        "Coordinate": [
+            902,
+            521,
+            1305,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/16/1973",
+        "Coordinate": [
+            917,
+            628,
+            1250,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            875,
+            720,
+            1189,
+            813
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            825,
+            1170,
+            921
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1876,
+            825,
+            2135,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1891,
+            935,
+            2155,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            927,
+            928,
+            1087,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bir-Varma",
+        "Coordinate": [
+            948,
+            1038,
+            1806,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chokshi-Tata",
+        "Coordinate": [
+            953,
+            1140,
+            1971,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 95, Rege, Bulandshahr-033752",
+        "Coordinate": [
+            910,
+            1263,
+            2151,
+            1495
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/421, Dutta Nagar, Warangal-145579",
+        "Coordinate": [
+            899,
+            1523,
+            2252,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9712878993",
+        "Coordinate": [
+            1901,
+            1797,
+            2363,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8755177331",
+        "Coordinate": [
+            918,
+            1800,
+            1351,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Malayalam, Telugu",
+        "Coordinate": [
+            936,
+            1928,
+            2366,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rudra Setty - 7116550833",
+        "Coordinate": [
+            1000,
+            2039,
+            1999,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Victor Sundaram - 8379999307",
+        "Coordinate": [
+            997,
+            2174,
+            2333,
+            2299
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KOUXB6624A",
+        "Coordinate": [
+            1655,
+            2379,
+            2188,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            597,
+            2458,
+            878,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/31/2024",
+        "Coordinate": [
+            607,
+            2555,
+            1123,
+            2655
+        ]
+    }
+]

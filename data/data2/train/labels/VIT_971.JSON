@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dhriti Chahal",
+        "Coordinate": [
+            912,
+            436,
+            1388,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Karan Chahal",
+        "Coordinate": [
+            930,
+            532,
+            1442,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/8/1986",
+        "Coordinate": [
+            908,
+            640,
+            1290,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            922,
+            744,
+            1256,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            836,
+            1266,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            962,
+            934,
+            1070,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Patla-Bhagat",
+        "Coordinate": [
+            1010,
+            1056,
+            2028,
+            1140
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            947,
+            2234,
+            1017
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1836,
+            842,
+            2138,
+            926
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kalla-Sant",
+        "Coordinate": [
+            1008,
+            1164,
+            1986,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76, Pant Path, Kavali 697602",
+        "Coordinate": [
+            920,
+            1352,
+            2204,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44, Palan, Ramagundam-704342",
+        "Coordinate": [
+            906,
+            1542,
+            2340,
+            1656
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7122279477",
+        "Coordinate": [
+            1864,
+            1814,
+            2348,
+            1926
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9071478734",
+        "Coordinate": [
+            910,
+            1808,
+            1352,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Malayalam, Bengali",
+        "Coordinate": [
+            906,
+            1946,
+            2348,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemang Sahota - 9563253281",
+        "Coordinate": [
+            970,
+            2058,
+            2246,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qushi Hora - 9065407844",
+        "Coordinate": [
+            998,
+            2190,
+            2228,
+            2318
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "879574000000",
+        "Coordinate": [
+            618,
+            2394,
+            1200,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            584,
+            2484,
+            916,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/2/2024",
+        "Coordinate": [
+            624,
+            2576,
+            1090,
+            2686
+        ]
+    }
+]

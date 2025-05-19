@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darpan Dugar",
+        "Coordinate": [
+            948,
+            473,
+            1600,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Dugar",
+        "Coordinate": [
+            946,
+            573,
+            1571,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/10/1970",
+        "Coordinate": [
+            946,
+            680,
+            1343,
+            764
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            946,
+            756,
+            1349,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            943,
+            858,
+            1320,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1818,
+            844,
+            2073,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            948,
+            2161,
+            1046
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1012,
+            948,
+            1227,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Lata Ltd",
+        "Coordinate": [
+            995,
+            1043,
+            1841,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Mann-Mallick",
+        "Coordinate": [
+            1003,
+            1148,
+            2058,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "48/56, Mukherjee, Ozhukarai-421572",
+        "Coordinate": [
+            941,
+            1267,
+            2204,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "607, Kanda Zila, Adoni 438276",
+        "Coordinate": [
+            931,
+            1512,
+            2250,
+            1643
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7198840465",
+        "Coordinate": [
+            927,
+            1771,
+            1368,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9541883662",
+        "Coordinate": [
+            1863,
+            1764,
+            2296,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            981,
+            1913,
+            1735,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mekhala D\u2019Alia - 9556456049",
+        "Coordinate": [
+            993,
+            2009,
+            2294,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siddharth Pandey - 9462519919",
+        "Coordinate": [
+            991,
+            2137,
+            2286,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            658,
+            2408,
+            942,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/8/2025",
+        "Coordinate": [
+            679,
+            2510,
+            1105,
+            2609
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gopal Bora",
+        "Coordinate": [
+            888,
+            422,
+            1424,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manan Bora",
+        "Coordinate": [
+            912,
+            526,
+            1544,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/10/1998",
+        "Coordinate": [
+            890,
+            634,
+            1328,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            902,
+            732,
+            1356,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            834,
+            1286,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            904,
+            937,
+            1066,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Balasubramanian LLC",
+        "Coordinate": [
+            976,
+            1030,
+            2322,
+            1156
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1794,
+            814,
+            2070,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            930,
+            2156,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Johal  Babu and Sachdeva",
+        "Coordinate": [
+            960,
+            1156,
+            2404,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 12, Bhargava Zila, Thane 310550",
+        "Coordinate": [
+            936,
+            1308,
+            2288,
+            1522
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 88, Nadig Chowk, Munger-067514",
+        "Coordinate": [
+            886,
+            1540,
+            2346,
+            1778
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9141493657",
+        "Coordinate": [
+            892,
+            1797,
+            1376,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7990614200",
+        "Coordinate": [
+            1856,
+            1796,
+            2294,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Marathi",
+        "Coordinate": [
+            890,
+            1938,
+            2080,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Alka Vig - 7058232902",
+        "Coordinate": [
+            968,
+            2046,
+            2108,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemani Bora - 7369391890",
+        "Coordinate": [
+            1000,
+            2202,
+            2160,
+            2292
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            610,
+            2454,
+            988,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/13/2022",
+        "Coordinate": [
+            600,
+            2570,
+            1018,
+            2686
+        ]
+    }
+]

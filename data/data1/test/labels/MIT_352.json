@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Bhasin",
+        "Coordinate": [
+            870,
+            391,
+            1385,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Bhasin",
+        "Coordinate": [
+            876,
+            491,
+            1481,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-09-1995",
+        "Coordinate": [
+            890,
+            589,
+            1268,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            683,
+            1323,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            791,
+            1206,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1845,
+            780,
+            2174,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            892,
+            2141,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            902,
+            894,
+            1054,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Chokshi Group",
+        "Coordinate": [
+            947,
+            982,
+            2035,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Varty  Randhawa and Srivastava",
+        "Coordinate": [
+            912,
+            1105,
+            2386,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "129, Parmar, Ahmedabad-726426",
+        "Coordinate": [
+            875,
+            1233,
+            2180,
+            1370
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/038, Karnik Road, Tiruvottiyur 659680",
+        "Coordinate": [
+            864,
+            1469,
+            2189,
+            1681
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8968384036",
+        "Coordinate": [
+            1862,
+            1747,
+            2305,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9714154849",
+        "Coordinate": [
+            865,
+            1749,
+            1316,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati",
+        "Coordinate": [
+            902,
+            1888,
+            1529,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Inaya Ganguly - 8813356667",
+        "Coordinate": [
+            945,
+            2001,
+            2149,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Alka Varkey - 9348757586",
+        "Coordinate": [
+            954,
+            2132,
+            2127,
+            2258
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UZJDA3070K",
+        "Coordinate": [
+            1619,
+            2334,
+            2168,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            662,
+            2424,
+            1033,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/30/2024",
+        "Coordinate": [
+            681,
+            2519,
+            1123,
+            2613
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harini Muni",
+        "Coordinate": [
+            886,
+            394,
+            1330,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Farhan Muni",
+        "Coordinate": [
+            892,
+            493,
+            1335,
+            575
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/27/1966",
+        "Coordinate": [
+            907,
+            591,
+            1243,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            919,
+            687,
+            1088,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            793,
+            1200,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            787,
+            2065,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1872,
+            895,
+            2155,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            963,
+            893,
+            1104,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Pingle  Sheth and Khurana",
+        "Coordinate": [
+            958,
+            984,
+            2267,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chaudry and Sons",
+        "Coordinate": [
+            947,
+            1109,
+            2110,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "734, Chahal Zila, Rewa 331555",
+        "Coordinate": [
+            887,
+            1224,
+            2084,
+            1339
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 530, Bhargava Ganj, Sagar-778110",
+        "Coordinate": [
+            892,
+            1472,
+            2254,
+            1652
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9688790700",
+        "Coordinate": [
+            1774,
+            1791,
+            2285,
+            1899
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7001495384",
+        "Coordinate": [
+            880,
+            1755,
+            1346,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, English",
+        "Coordinate": [
+            909,
+            1890,
+            1807,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jalsa Mitter - 9140161012",
+        "Coordinate": [
+            961,
+            2002,
+            1981,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaja Shan - 7904513890",
+        "Coordinate": [
+            992,
+            2132,
+            2046,
+            2239
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QZDHB6485T",
+        "Coordinate": [
+            1668,
+            2337,
+            2212,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            641,
+            2424,
+            912,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-09-2023",
+        "Coordinate": [
+            679,
+            2522,
+            1081,
+            2605
+        ]
+    }
+]

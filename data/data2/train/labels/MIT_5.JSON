@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gopal Gupta",
+        "Coordinate": [
+            886,
+            456,
+            1279,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udarsh Gupta",
+        "Coordinate": [
+            906,
+            568,
+            1360,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/11/1968",
+        "Coordinate": [
+            891,
+            656,
+            1248,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            936,
+            758,
+            1284,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            925,
+            856,
+            1127,
+            951
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            901,
+            970,
+            1067,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Goswami-Mallick",
+        "Coordinate": [
+            991,
+            1072,
+            2059,
+            1155
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1840,
+            844,
+            1988,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            951,
+            2187,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Krish-Borra",
+        "Coordinate": [
+            1008,
+            1181,
+            1745,
+            1284
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 801, Ganesan Ganj, Shivpuri-360260",
+        "Coordinate": [
+            906,
+            1315,
+            2185,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46, Sur Circle, Jhansi-309805",
+        "Coordinate": [
+            910,
+            1557,
+            1738,
+            1659
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8027730386",
+        "Coordinate": [
+            1854,
+            1819,
+            2232,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9137238249",
+        "Coordinate": [
+            889,
+            1833,
+            1310,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu",
+        "Coordinate": [
+            932,
+            1961,
+            1436,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandresh Sood - 7230117714",
+        "Coordinate": [
+            977,
+            2085,
+            1880,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dakshesh Trivedi - 8902548580",
+        "Coordinate": [
+            1005,
+            2218,
+            1942,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "302909000000",
+        "Coordinate": [
+            620,
+            2397,
+            1098,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            613,
+            2504,
+            948,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/28/2025",
+        "Coordinate": [
+            623,
+            2592,
+            1001,
+            2651
+        ]
+    }
+]

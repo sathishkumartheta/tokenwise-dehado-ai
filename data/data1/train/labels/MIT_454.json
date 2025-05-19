@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manya Badami",
+        "Coordinate": [
+            893,
+            414,
+            1489,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeet Badami",
+        "Coordinate": [
+            902,
+            520,
+            1406,
+            615
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-09-2000",
+        "Coordinate": [
+            922,
+            616,
+            1273,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            909,
+            714,
+            1273,
+            811
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            823,
+            1223,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1794,
+            793,
+            2052,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            899,
+            2098,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            926,
+            919,
+            1083,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Doctor  Gokhale and Bumb",
+        "Coordinate": [
+            998,
+            990,
+            2340,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bajwa  Kadakia and Raja",
+        "Coordinate": [
+            1000,
+            1109,
+            2351,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03/858, Rastogi Circle, Jaipur-880265",
+        "Coordinate": [
+            971,
+            1264,
+            1901,
+            1464
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 646, Jhaveri, Patiala-623039",
+        "Coordinate": [
+            940,
+            1484,
+            2322,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7513285207",
+        "Coordinate": [
+            1901,
+            1751,
+            2364,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9593220085",
+        "Coordinate": [
+            909,
+            1770,
+            1359,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Hindi, English",
+        "Coordinate": [
+            924,
+            1903,
+            2163,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charita Lall - 7270283975",
+        "Coordinate": [
+            987,
+            2006,
+            1984,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yahvi Tripathi - 8412375134",
+        "Coordinate": [
+            1004,
+            2131,
+            2087,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "490000000000.0",
+        "Coordinate": [
+            624,
+            2353,
+            1135,
+            2441
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            644,
+            2447,
+            972,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2024",
+        "Coordinate": [
+            631,
+            2540,
+            1064,
+            2631
+        ]
+    }
+]

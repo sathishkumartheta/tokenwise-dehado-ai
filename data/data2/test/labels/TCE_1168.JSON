@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chandani Bala",
+        "Coordinate": [
+            927,
+            485,
+            1500,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Bala",
+        "Coordinate": [
+            925,
+            580,
+            1354,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/1979",
+        "Coordinate": [
+            965,
+            695,
+            1330,
+            775
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            946,
+            788,
+            1261,
+            872
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            886,
+            1254,
+            966
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1869,
+            856,
+            2104,
+            960
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            965,
+            2138,
+            1055
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1000,
+            977,
+            1131,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Pall Inc",
+        "Coordinate": [
+            1053,
+            1065,
+            1813,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ramakrishnan-Jani",
+        "Coordinate": [
+            1032,
+            1170,
+            2121,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26, Memon Circle, Amritsar 768961",
+        "Coordinate": [
+            918,
+            1301,
+            2240,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/296, Bahri Street, Tirunelveli-581014",
+        "Coordinate": [
+            925,
+            1555,
+            2311,
+            1695
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9444847203",
+        "Coordinate": [
+            927,
+            1788,
+            1382,
+            1903
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8954260138",
+        "Coordinate": [
+            1834,
+            1788,
+            2259,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, English",
+        "Coordinate": [
+            920,
+            1928,
+            1770,
+            2031
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Champak Balakrishnan - 9097354085",
+        "Coordinate": [
+            1023,
+            2045,
+            2298,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemangini Gola - 9238334112",
+        "Coordinate": [
+            986,
+            2156,
+            2123,
+            2280
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            672,
+            2435,
+            994,
+            2531
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/22/2024",
+        "Coordinate": [
+            676,
+            2538,
+            1118,
+            2621
+        ]
+    }
+]

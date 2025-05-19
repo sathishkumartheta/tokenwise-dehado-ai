@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Ravi",
+        "Coordinate": [
+            945,
+            492,
+            1345,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mitesh Ravi",
+        "Coordinate": [
+            960,
+            572,
+            1447,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/26/1974",
+        "Coordinate": [
+            972,
+            667,
+            1402,
+            770
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            990,
+            772,
+            1182,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            865,
+            1277,
+            965
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            855,
+            1977,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1890,
+            972,
+            2202,
+            1057
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            944,
+            965,
+            1072,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bassi  Dugar and Batta",
+        "Coordinate": [
+            1020,
+            1060,
+            2242,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Madan PLC",
+        "Coordinate": [
+            1042,
+            1165,
+            1932,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "479, Bedi Marg, Dhanbad 091657",
+        "Coordinate": [
+            980,
+            1302,
+            2230,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "24, Ravi Street, Durgapur-549203",
+        "Coordinate": [
+            957,
+            1535,
+            2277,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9925684750",
+        "Coordinate": [
+            935,
+            1772,
+            1372,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8317221209",
+        "Coordinate": [
+            1850,
+            1790,
+            2322,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, English",
+        "Coordinate": [
+            952,
+            1895,
+            1912,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vihaan Bera - 8654204027",
+        "Coordinate": [
+            1027,
+            2017,
+            1950,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amrita Bhargava - 7133450472",
+        "Coordinate": [
+            1014,
+            2125,
+            2107,
+            2260
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CEHEH1313T",
+        "Coordinate": [
+            1635,
+            2347,
+            2110,
+            2430
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/20/2022",
+        "Coordinate": [
+            692,
+            2500,
+            1075,
+            2600
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            655,
+            2417,
+            907,
+            2505
+        ]
+    }
+]

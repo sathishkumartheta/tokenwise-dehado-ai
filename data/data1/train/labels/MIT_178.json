@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vansha Murthy",
+        "Coordinate": [
+            892,
+            391,
+            1423,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Murthy",
+        "Coordinate": [
+            908,
+            490,
+            1422,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/26/1961",
+        "Coordinate": [
+            914,
+            595,
+            1273,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            928,
+            689,
+            1406,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            789,
+            1173,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1822,
+            782,
+            2057,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            893,
+            2059,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            929,
+            895,
+            1019,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Jhaveri Ltd",
+        "Coordinate": [
+            983,
+            985,
+            1896,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chahal PLC",
+        "Coordinate": [
+            974,
+            1103,
+            1900,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 184, Garg Path, Mumbai 408487",
+        "Coordinate": [
+            909,
+            1288,
+            2254,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/598, Kadakia Circle, Varanasi-032432",
+        "Coordinate": [
+            926,
+            1510,
+            2193,
+            1717
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9742079771",
+        "Coordinate": [
+            1911,
+            1754,
+            2313,
+            1856
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9605435339",
+        "Coordinate": [
+            910,
+            1755,
+            1312,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Malayalam",
+        "Coordinate": [
+            914,
+            1891,
+            1986,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagrati Mall - 7501974522",
+        "Coordinate": [
+            975,
+            2006,
+            1919,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pahal Borde - 8850512268",
+        "Coordinate": [
+            980,
+            2127,
+            1965,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "474000000000.0",
+        "Coordinate": [
+            648,
+            2328,
+            1096,
+            2412
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            634,
+            2423,
+            894,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2024",
+        "Coordinate": [
+            635,
+            2510,
+            1018,
+            2596
+        ]
+    }
+]

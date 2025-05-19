@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Caleb Bajwa",
+        "Coordinate": [
+            899,
+            391,
+            1348,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chanakya Bajwa",
+        "Coordinate": [
+            902,
+            489,
+            1565,
+            590
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-05-1973",
+        "Coordinate": [
+            937,
+            588,
+            1282,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            936,
+            681,
+            1277,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            937,
+            782,
+            1185,
+            889
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1790,
+            782,
+            1987,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            887,
+            2151,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dey Inc",
+        "Coordinate": [
+            1000,
+            984,
+            1746,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Reddy-Bora",
+        "Coordinate": [
+            1018,
+            1093,
+            1989,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "87/339, Tella Chowk, Raurkela Industrial Township 176619",
+        "Coordinate": [
+            915,
+            1229,
+            2136,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "41/17, Behl Ganj, Lucknow 446512",
+        "Coordinate": [
+            920,
+            1472,
+            2304,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7267091630",
+        "Coordinate": [
+            1864,
+            1746,
+            2281,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8576328845",
+        "Coordinate": [
+            895,
+            1744,
+            1360,
+            1845
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada",
+        "Coordinate": [
+            889,
+            1888,
+            1577,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Warrior - 9954980455",
+        "Coordinate": [
+            952,
+            1997,
+            2109,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zarna Tella - 8845364687",
+        "Coordinate": [
+            962,
+            2119,
+            2098,
+            2225
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "712000000000.0",
+        "Coordinate": [
+            608,
+            2326,
+            1069,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            628,
+            2420,
+            970,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-09-2025",
+        "Coordinate": [
+            624,
+            2509,
+            1099,
+            2605
+        ]
+    }
+]

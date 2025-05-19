@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advika Lanka",
+        "Coordinate": [
+            889,
+            393,
+            1379,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Lanka",
+        "Coordinate": [
+            894,
+            493,
+            1450,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/20/1971",
+        "Coordinate": [
+            897,
+            592,
+            1214,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            897,
+            686,
+            1209,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            788,
+            1179,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1858,
+            787,
+            2094,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            892,
+            2097,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            901,
+            890,
+            1046,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chaudhry-Chokshi",
+        "Coordinate": [
+            952,
+            980,
+            2050,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Behl  Banik and Hans",
+        "Coordinate": [
+            947,
+            1100,
+            2179,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61/63, Soman Nagar, Jalgaon 720200",
+        "Coordinate": [
+            895,
+            1262,
+            2247,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62, Patel Zila, Alappuzha 057795",
+        "Coordinate": [
+            887,
+            1521,
+            2155,
+            1665
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8377814921",
+        "Coordinate": [
+            1886,
+            1746,
+            2300,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8934485473",
+        "Coordinate": [
+            902,
+            1757,
+            1302,
+            1856
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            901,
+            1890,
+            1372,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darpan Char - 9918708130",
+        "Coordinate": [
+            939,
+            1993,
+            1932,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yagnesh Deshpande - 7951964847",
+        "Coordinate": [
+            950,
+            2124,
+            2103,
+            2239
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "681000000000.0",
+        "Coordinate": [
+            606,
+            2332,
+            1147,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            608,
+            2425,
+            980,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-01-2024",
+        "Coordinate": [
+            611,
+            2516,
+            992,
+            2597
+        ]
+    }
+]

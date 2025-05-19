@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varenya Chatterjee",
+        "Coordinate": [
+            880,
+            391,
+            1457,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Chatterjee",
+        "Coordinate": [
+            895,
+            491,
+            1485,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/14/1974",
+        "Coordinate": [
+            902,
+            589,
+            1223,
+            671
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            910,
+            682,
+            1183,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            785,
+            1196,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            785,
+            2064,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            891,
+            2082,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            906,
+            893,
+            1013,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Guha  Salvi and Ganesan",
+        "Coordinate": [
+            948,
+            981,
+            2172,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Purohit  Kalita and Pall",
+        "Coordinate": [
+            942,
+            1096,
+            2192,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/550, Mohanty Road, Panchkula-665586",
+        "Coordinate": [
+            887,
+            1225,
+            2263,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "765, Gaba Street, Eluru 649111",
+        "Coordinate": [
+            897,
+            1505,
+            1907,
+            1645
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8187928959",
+        "Coordinate": [
+            1853,
+            1752,
+            2260,
+            1856
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7673062772",
+        "Coordinate": [
+            883,
+            1749,
+            1288,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Hindi, Kannada",
+        "Coordinate": [
+            872,
+            1886,
+            1966,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amol Sabharwal - 8556203279",
+        "Coordinate": [
+            933,
+            2000,
+            2022,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Watika Chaudhry - 9590030609",
+        "Coordinate": [
+            952,
+            2126,
+            2015,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "978000000000.0",
+        "Coordinate": [
+            601,
+            2327,
+            1104,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            597,
+            2421,
+            771,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/15/2024",
+        "Coordinate": [
+            590,
+            2510,
+            995,
+            2596
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ucchal Rajan",
+        "Coordinate": [
+            893,
+            453,
+            1365,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhiram Rajan",
+        "Coordinate": [
+            902,
+            551,
+            1472,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/24/2003",
+        "Coordinate": [
+            883,
+            641,
+            1280,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            888,
+            741,
+            1265,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            855,
+            1187,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            904,
+            950,
+            1075,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1883,
+            833,
+            2204,
+            900
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1909,
+            935,
+            2199,
+            1007
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Raju  Merchant and Pingle",
+        "Coordinate": [
+            990,
+            1037,
+            2353,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Parikh  Mohanty and Mittal",
+        "Coordinate": [
+            992,
+            1156,
+            2396,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 78, Sheth Ganj, Raebareli-053273",
+        "Coordinate": [
+            883,
+            1292,
+            2325,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/28, Kala Circle, Korba-997833",
+        "Coordinate": [
+            909,
+            1555,
+            2225,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7071254435",
+        "Coordinate": [
+            1873,
+            1805,
+            2320,
+            1897
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7065141742",
+        "Coordinate": [
+            893,
+            1835,
+            1346,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English",
+        "Coordinate": [
+            904,
+            1961,
+            1508,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kashish Bajaj - 8609119589",
+        "Coordinate": [
+            990,
+            2056,
+            2075,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nitesh Chandra - 8217105187",
+        "Coordinate": [
+            1002,
+            2201,
+            2258,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "471308000000",
+        "Coordinate": [
+            615,
+            2403,
+            1235,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            622,
+            2491,
+            964,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/18/2024",
+        "Coordinate": [
+            641,
+            2593,
+            1078,
+            2688
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Orinder Mann",
+        "Coordinate": [
+            881,
+            441,
+            1516,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Mann",
+        "Coordinate": [
+            892,
+            541,
+            1540,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1975",
+        "Coordinate": [
+            887,
+            641,
+            1358,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            889,
+            744,
+            1307,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            845,
+            1285,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1722,
+            834,
+            1957,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            945,
+            2141,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            891,
+            949,
+            1026,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Natarajan PLC",
+        "Coordinate": [
+            960,
+            1046,
+            2210,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Brar-Panchal",
+        "Coordinate": [
+            941,
+            1150,
+            2129,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 177, Jani Path, Dehradun-581987",
+        "Coordinate": [
+            885,
+            1275,
+            2279,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 755, Agate Ganj, Thiruvananthapuram 597268",
+        "Coordinate": [
+            892,
+            1532,
+            2188,
+            1772
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8292960457",
+        "Coordinate": [
+            1863,
+            1811,
+            2353,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8531721626",
+        "Coordinate": [
+            894,
+            1822,
+            1356,
+            1936
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Kannada",
+        "Coordinate": [
+            881,
+            1954,
+            2065,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kamala Bandi - 7376636193",
+        "Coordinate": [
+            926,
+            2058,
+            2148,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arjun Palla - 7766254083",
+        "Coordinate": [
+            928,
+            2186,
+            2197,
+            2306
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XTGCF3019X",
+        "Coordinate": [
+            1625,
+            2396,
+            2182,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            576,
+            2487,
+            862,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-02-2024",
+        "Coordinate": [
+            583,
+            2582,
+            1039,
+            2677
+        ]
+    }
+]

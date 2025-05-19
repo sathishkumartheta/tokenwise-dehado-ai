@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eesha Pingle",
+        "Coordinate": [
+            875,
+            400,
+            1301,
+            505
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Pingle",
+        "Coordinate": [
+            870,
+            507,
+            1300,
+            605
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/14/1963",
+        "Coordinate": [
+            879,
+            608,
+            1205,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            872,
+            714,
+            1009,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            805,
+            1157,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            795,
+            2033,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1809,
+            901,
+            2114,
+            996
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            873,
+            908,
+            961,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sekhon LLC",
+        "Coordinate": [
+            960,
+            981,
+            1757,
+            1078
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Koshy-Kadakia",
+        "Coordinate": [
+            972,
+            1080,
+            1900,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 74, Oak Circle, Jammu 593993",
+        "Coordinate": [
+            887,
+            1221,
+            2057,
+            1347
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/58, Rajagopalan Zila, Pondicherry-877941",
+        "Coordinate": [
+            891,
+            1467,
+            2319,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7964340483",
+        "Coordinate": [
+            1852,
+            1743,
+            2279,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9047092011",
+        "Coordinate": [
+            878,
+            1745,
+            1257,
+            1842
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            865,
+            1902,
+            1474,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lopa Hans - 8309975337",
+        "Coordinate": [
+            946,
+            2022,
+            1764,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Luke Patla - 8127046073",
+        "Coordinate": [
+            949,
+            2166,
+            1731,
+            2274
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NHSGA4207Q",
+        "Coordinate": [
+            1611,
+            2331,
+            2124,
+            2443
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            576,
+            2423,
+            912,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/25/2023",
+        "Coordinate": [
+            586,
+            2527,
+            983,
+            2616
+        ]
+    }
+]

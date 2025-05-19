@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishita Dube",
+        "Coordinate": [
+            890,
+            429,
+            1401,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Dube",
+        "Coordinate": [
+            886,
+            533,
+            1422,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/21/1980",
+        "Coordinate": [
+            891,
+            634,
+            1239,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            887,
+            731,
+            1269,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            839,
+            1141,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            831,
+            2055,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            939,
+            2107,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            907,
+            941,
+            1020,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sem-Hora",
+        "Coordinate": [
+            966,
+            1037,
+            1849,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Singh  Varkey and Parikh",
+        "Coordinate": [
+            945,
+            1141,
+            2317,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 760, Bajaj, Shimla 645810",
+        "Coordinate": [
+            884,
+            1288,
+            2139,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34, Saran Marg, Rohtak 338780",
+        "Coordinate": [
+            880,
+            1539,
+            2130,
+            1695
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7762208266",
+        "Coordinate": [
+            1867,
+            1804,
+            2305,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8001685229",
+        "Coordinate": [
+            881,
+            1807,
+            1298,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Marathi",
+        "Coordinate": [
+            882,
+            1943,
+            1850,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kalpit Thaker - 8907101053",
+        "Coordinate": [
+            936,
+            2054,
+            1984,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Garima Ramachandran - 7772096067",
+        "Coordinate": [
+            930,
+            2183,
+            2285,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "705000000000.0",
+        "Coordinate": [
+            574,
+            2386,
+            1067,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            584,
+            2482,
+            842,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-06-2025",
+        "Coordinate": [
+            593,
+            2573,
+            1027,
+            2662
+        ]
+    }
+]

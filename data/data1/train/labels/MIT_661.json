@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harish Brar",
+        "Coordinate": [
+            879,
+            440,
+            1374,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Brar",
+        "Coordinate": [
+            878,
+            542,
+            1361,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-11-2006",
+        "Coordinate": [
+            885,
+            643,
+            1300,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            743,
+            1243,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            884,
+            845,
+            1118,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1808,
+            836,
+            2010,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1854,
+            943,
+            2132,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            882,
+            948,
+            993,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Rajagopalan PLC",
+        "Coordinate": [
+            984,
+            1047,
+            2189,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bhakta LLC",
+        "Coordinate": [
+            989,
+            1161,
+            2044,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/54, Mani Circle, Bellary 779739",
+        "Coordinate": [
+            901,
+            1282,
+            2382,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "55/381, Chad Path, Shivpuri-382642",
+        "Coordinate": [
+            897,
+            1535,
+            2379,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9159459164",
+        "Coordinate": [
+            1876,
+            1810,
+            2358,
+            1924
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9461499403",
+        "Coordinate": [
+            903,
+            1820,
+            1369,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Gujarati",
+        "Coordinate": [
+            874,
+            1951,
+            1990,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Guneet Thaman - 8327276071",
+        "Coordinate": [
+            954,
+            2065,
+            2190,
+            2186
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qasim Patil - 7525239562",
+        "Coordinate": [
+            987,
+            2195,
+            2099,
+            2321
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "510000000000.0",
+        "Coordinate": [
+            593,
+            2400,
+            1271,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            591,
+            2491,
+            1067,
+            2586
+        ]
+    }
+]

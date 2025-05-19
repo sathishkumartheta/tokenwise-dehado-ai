@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Michael Karan",
+        "Coordinate": [
+            926,
+            394,
+            1498,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Siddharth Karan",
+        "Coordinate": [
+            951,
+            490,
+            1653,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/29/1969",
+        "Coordinate": [
+            958,
+            590,
+            1326,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            964,
+            683,
+            1336,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            949,
+            785,
+            1260,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1811,
+            785,
+            2008,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            894,
+            2132,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            960,
+            885,
+            1116,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chanda-Vig",
+        "Coordinate": [
+            1008,
+            981,
+            2049,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dass-Kakar",
+        "Coordinate": [
+            1009,
+            1101,
+            2031,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "628, Brahmbhatt, Morena-662056",
+        "Coordinate": [
+            917,
+            1222,
+            2252,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 115, Nayak, Mathura-281139",
+        "Coordinate": [
+            911,
+            1466,
+            2284,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7791951122",
+        "Coordinate": [
+            1888,
+            1745,
+            2313,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8623940445",
+        "Coordinate": [
+            907,
+            1746,
+            1359,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Hindi, Gujarati",
+        "Coordinate": [
+            894,
+            1882,
+            2178,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dayamai Guha - 7702412753",
+        "Coordinate": [
+            957,
+            1997,
+            2150,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bachittar Khosla - 7487024035",
+        "Coordinate": [
+            952,
+            2123,
+            2162,
+            2225
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "718000000000.0",
+        "Coordinate": [
+            615,
+            2330,
+            1207,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            634,
+            2425,
+            952,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-02-2024",
+        "Coordinate": [
+            642,
+            2517,
+            1079,
+            2602
+        ]
+    }
+]

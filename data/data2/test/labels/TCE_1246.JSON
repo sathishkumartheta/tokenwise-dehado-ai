@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishani Patil",
+        "Coordinate": [
+            893,
+            467,
+            1360,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nicholas Patil",
+        "Coordinate": [
+            923,
+            580,
+            1490,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/29/2001",
+        "Coordinate": [
+            936,
+            674,
+            1293,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            767,
+            1264,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            936,
+            854,
+            1141,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            930,
+            940,
+            1096,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1733,
+            841,
+            2002,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            940,
+            2051,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ranganathan  Shenoy and Kapur",
+        "Coordinate": [
+            970,
+            1042,
+            2301,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Issac Ltd",
+        "Coordinate": [
+            983,
+            1137,
+            1808,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 312, Hora Road, Eluru 629136",
+        "Coordinate": [
+            913,
+            1290,
+            2226,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 39, Kuruvilla Road, Yamunanagar-146120",
+        "Coordinate": [
+            907,
+            1514,
+            1848,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7517979891",
+        "Coordinate": [
+            913,
+            1773,
+            1325,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9719765797",
+        "Coordinate": [
+            1843,
+            1757,
+            2250,
+            1849
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada",
+        "Coordinate": [
+            896,
+            1900,
+            1578,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anvi Manda - 9681109849",
+        "Coordinate": [
+            976,
+            2000,
+            1799,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siya Pradhan - 9303995207",
+        "Coordinate": [
+            987,
+            2127,
+            1968,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            626,
+            2411,
+            938,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/2/2022",
+        "Coordinate": [
+            626,
+            2511,
+            1058,
+            2588
+        ]
+    }
+]

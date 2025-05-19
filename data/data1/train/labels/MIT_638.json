@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jacob Thaman",
+        "Coordinate": [
+            882,
+            431,
+            1338,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Upkaar Thaman",
+        "Coordinate": [
+            902,
+            528,
+            1427,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/24/1963",
+        "Coordinate": [
+            934,
+            633,
+            1273,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            943,
+            728,
+            1289,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            985,
+            831,
+            1280,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1788,
+            828,
+            1983,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            934,
+            2091,
+            1027
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1010,
+            932,
+            1175,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Verma PLC",
+        "Coordinate": [
+            1010,
+            1045,
+            1836,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Kadakia LLC",
+        "Coordinate": [
+            1006,
+            1150,
+            1970,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46/60, Bhargava Road, Morena 474769",
+        "Coordinate": [
+            919,
+            1284,
+            2319,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12, D\u2019Alia Street, Varanasi 965586",
+        "Coordinate": [
+            930,
+            1525,
+            2326,
+            1670
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9650634209",
+        "Coordinate": [
+            1859,
+            1804,
+            2292,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8121992557",
+        "Coordinate": [
+            902,
+            1811,
+            1312,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Telugu, English",
+        "Coordinate": [
+            944,
+            1941,
+            2312,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaitanya Basak - 9989725563",
+        "Coordinate": [
+            987,
+            2050,
+            2081,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jason Murthy - 7653219469",
+        "Coordinate": [
+            994,
+            2182,
+            1974,
+            2296
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PLKXJ3239X",
+        "Coordinate": [
+            1629,
+            2386,
+            2146,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            632,
+            2477,
+            983,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-05-2022",
+        "Coordinate": [
+            633,
+            2571,
+            997,
+            2661
+        ]
+    }
+]

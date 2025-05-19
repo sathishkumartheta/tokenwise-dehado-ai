@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rohan Ahuja",
+        "Coordinate": [
+            924,
+            456,
+            1698,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mohammed Ahuja",
+        "Coordinate": [
+            910,
+            572,
+            1924,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/5/1977",
+        "Coordinate": [
+            936,
+            662,
+            1428,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            930,
+            736,
+            1190,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            848,
+            1300,
+            965
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1884,
+            845,
+            2214,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            950,
+            2214,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            938,
+            937,
+            1148,
+            1053
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Raman  Chokshi and Patel",
+        "Coordinate": [
+            971,
+            1042,
+            2473,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chatterjee and Sons",
+        "Coordinate": [
+            1011,
+            1164,
+            2330,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 665, Sant Marg, Karimnagar-590855",
+        "Coordinate": [
+            916,
+            1288,
+            2122,
+            1527
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 78, Kala, Chapra-919474",
+        "Coordinate": [
+            907,
+            1542,
+            2364,
+            1649
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7119417301",
+        "Coordinate": [
+            906,
+            1788,
+            1366,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7318792992",
+        "Coordinate": [
+            1816,
+            1758,
+            2306,
+            1853
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Malayalam",
+        "Coordinate": [
+            920,
+            1894,
+            2252,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Triya Doshi - 7942519645",
+        "Coordinate": [
+            967,
+            2004,
+            2286,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rayaan Nanda - 7592724430",
+        "Coordinate": [
+            992,
+            2124,
+            2294,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            642,
+            2424,
+            1614,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/1/2022",
+        "Coordinate": [
+            638,
+            2520,
+            1252,
+            2621
+        ]
+    }
+]

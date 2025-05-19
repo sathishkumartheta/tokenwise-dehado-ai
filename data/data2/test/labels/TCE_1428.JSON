@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sudiksha Narang",
+        "Coordinate": [
+            875,
+            486,
+            1522,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Siddharth Narang",
+        "Coordinate": [
+            885,
+            581,
+            1550,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/18/1993",
+        "Coordinate": [
+            890,
+            661,
+            1302,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            890,
+            760,
+            1110,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            866,
+            1178,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            890,
+            965,
+            1054,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1720,
+            850,
+            2006,
+            967
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1769,
+            970,
+            2033,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Nagi LLC",
+        "Coordinate": [
+            925,
+            1071,
+            1690,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Anand  Verma and Patla",
+        "Coordinate": [
+            929,
+            1156,
+            2166,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "72, Sarkar, Jalgaon-346718",
+        "Coordinate": [
+            895,
+            1281,
+            1962,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17, Dey Ganj, Bihar Sharif 076674",
+        "Coordinate": [
+            875,
+            1510,
+            2278,
+            1651
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8062820706",
+        "Coordinate": [
+            870,
+            1770,
+            1346,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9563408998",
+        "Coordinate": [
+            1795,
+            1771,
+            2270,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            885,
+            1896,
+            1394,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Agastya Chaudhary - 7943668340",
+        "Coordinate": [
+            970,
+            2011,
+            2118,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ucchal Sandhu - 8198796726",
+        "Coordinate": [
+            930,
+            2151,
+            2070,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            560,
+            2411,
+            838,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/15/2022",
+        "Coordinate": [
+            590,
+            2496,
+            1054,
+            2607
+        ]
+    }
+]

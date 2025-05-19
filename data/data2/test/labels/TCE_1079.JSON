@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varsha Tara",
+        "Coordinate": [
+            918,
+            599,
+            1331,
+            687
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wazir Tara",
+        "Coordinate": [
+            918,
+            718,
+            1307,
+            781
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/1984",
+        "Coordinate": [
+            931,
+            797,
+            1241,
+            874
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            907,
+            891,
+            1193,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1773,
+            951,
+            2018,
+            1075
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            964,
+            975,
+            1158,
+            1081
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            963,
+            1083,
+            1137,
+            1154
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            1071,
+            2108,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bhagat Inc",
+        "Coordinate": [
+            1040,
+            1171,
+            1897,
+            1284
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Goda and Sons",
+        "Coordinate": [
+            1031,
+            1298,
+            1778,
+            1401
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34, Upadhyay Chowk, Mathura-674846",
+        "Coordinate": [
+            970,
+            1423,
+            2281,
+            1561
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 032, Kata Ganj, Bardhaman 767305",
+        "Coordinate": [
+            926,
+            1628,
+            2293,
+            1798
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9885681387",
+        "Coordinate": [
+            918,
+            1906,
+            1287,
+            2014
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7346390486",
+        "Coordinate": [
+            1843,
+            1889,
+            2285,
+            2003
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            945,
+            2032,
+            1450,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Owen Brahmbhatt - 9571967748",
+        "Coordinate": [
+            1002,
+            2137,
+            2092,
+            2225
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arunima Om - 8435576328",
+        "Coordinate": [
+            994,
+            2267,
+            1948,
+            2374
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            637,
+            2552,
+            935,
+            2633
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2023",
+        "Coordinate": [
+            649,
+            2639,
+            1012,
+            2714
+        ]
+    }
+]

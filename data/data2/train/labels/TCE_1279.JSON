@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mason Loke",
+        "Coordinate": [
+            939,
+            468,
+            1354,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Loke",
+        "Coordinate": [
+            932,
+            562,
+            1329,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/16/1974",
+        "Coordinate": [
+            934,
+            644,
+            1314,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            949,
+            748,
+            1473,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            939,
+            846,
+            1222,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            836,
+            1981,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            972,
+            954,
+            1135,
+            1031
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            953,
+            2122,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Rajagopal Inc",
+        "Coordinate": [
+            990,
+            1047,
+            1891,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Vala LLC",
+        "Coordinate": [
+            1010,
+            1150,
+            1791,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 419, Reddy Ganj, Mumbai 415118",
+        "Coordinate": [
+            946,
+            1282,
+            2256,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "413, Pradhan Street, Solapur-232321",
+        "Coordinate": [
+            942,
+            1520,
+            2222,
+            1656
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8111832219",
+        "Coordinate": [
+            933,
+            1787,
+            1322,
+            1868
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7644424020",
+        "Coordinate": [
+            1828,
+            1761,
+            2266,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Malayalam, Telugu",
+        "Coordinate": [
+            946,
+            1898,
+            2130,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Laban Zachariah - 7871323207",
+        "Coordinate": [
+            997,
+            2031,
+            2190,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashica Dara - 9769281243",
+        "Coordinate": [
+            1031,
+            2137,
+            2125,
+            2240
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            655,
+            2414,
+            936,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/7/2022",
+        "Coordinate": [
+            671,
+            2494,
+            1046,
+            2578
+        ]
+    }
+]

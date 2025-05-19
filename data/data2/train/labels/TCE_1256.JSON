@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Udyati Balakrishnan",
+        "Coordinate": [
+            900,
+            468,
+            1660,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wriddhish Balakrishnan",
+        "Coordinate": [
+            903,
+            570,
+            1924,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/4/1964",
+        "Coordinate": [
+            935,
+            656,
+            1257,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            933,
+            746,
+            1550,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            848,
+            1267,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1825,
+            843,
+            2120,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1003,
+            950,
+            1128,
+            1032
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            948,
+            2154,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kalla  Sura and Rajagopal",
+        "Coordinate": [
+            998,
+            1042,
+            2309,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sibal-Arora",
+        "Coordinate": [
+            998,
+            1142,
+            1985,
+            1233
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 605, Saini Nagar, Bhopal 118328",
+        "Coordinate": [
+            915,
+            1293,
+            2257,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14/407, Bahri, Panihati 531732",
+        "Coordinate": [
+            915,
+            1497,
+            2147,
+            1620
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8013954090",
+        "Coordinate": [
+            923,
+            1772,
+            1362,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7672899759",
+        "Coordinate": [
+            1824,
+            1759,
+            2297,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, English, Tamil",
+        "Coordinate": [
+            917,
+            1895,
+            2084,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rachita Chopra - 7200168600",
+        "Coordinate": [
+            1010,
+            1992,
+            2069,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Dugar - 7594644234",
+        "Coordinate": [
+            1005,
+            2124,
+            2125,
+            2220
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            641,
+            2412,
+            902,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/10/2025",
+        "Coordinate": [
+            653,
+            2504,
+            985,
+            2589
+        ]
+    }
+]

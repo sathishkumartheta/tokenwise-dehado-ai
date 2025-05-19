@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekanta Biswas",
+        "Coordinate": [
+            892,
+            462,
+            1421,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samesh Biswas",
+        "Coordinate": [
+            897,
+            563,
+            1429,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/20/1998",
+        "Coordinate": [
+            897,
+            663,
+            1349,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            897,
+            748,
+            1229,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            903,
+            847,
+            1177,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1744,
+            827,
+            2035,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            897,
+            959,
+            1089,
+            1049
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            945,
+            2139,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bath  Sandal and Boase",
+        "Coordinate": [
+            967,
+            1045,
+            2227,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Oommen Ltd",
+        "Coordinate": [
+            975,
+            1149,
+            1906,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/244, Gour Marg, Thoothukudi-615772",
+        "Coordinate": [
+            892,
+            1272,
+            2307,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "51/727, Minhas Road, Hindupur-705994",
+        "Coordinate": [
+            887,
+            1507,
+            2287,
+            1684
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9470235233",
+        "Coordinate": [
+            862,
+            1783,
+            1365,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7582221327",
+        "Coordinate": [
+            1831,
+            1764,
+            2304,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Malayalam, Tamil",
+        "Coordinate": [
+            872,
+            1903,
+            2178,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Chaudhari - 9431192845",
+        "Coordinate": [
+            932,
+            2009,
+            2147,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udarsh Murty - 8335412797",
+        "Coordinate": [
+            917,
+            2119,
+            2119,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            641,
+            2400,
+            1389,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/7/2025",
+        "Coordinate": [
+            636,
+            2515,
+            1024,
+            2604
+        ]
+    }
+]

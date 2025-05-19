@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "469392000000",
+        "Coordinate": [
+            580,
+            2396,
+            1032,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            593,
+            2496,
+            775,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/6/2023",
+        "Coordinate": [
+            560,
+            2582,
+            898,
+            2648
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wyatt Oak - 9763951907",
+        "Coordinate": [
+            980,
+            2184,
+            1828,
+            2300
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Varenya Devi - 7671207123",
+        "Coordinate": [
+            960,
+            2070,
+            1876,
+            2168
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, English",
+        "Coordinate": [
+            904,
+            1945,
+            1614,
+            2039
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8963633637",
+        "Coordinate": [
+            888,
+            1812,
+            1294,
+            1910
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7051365857",
+        "Coordinate": [
+            1890,
+            1816,
+            2296,
+            1898
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 317, Borra Path, Pondicherry 909039",
+        "Coordinate": [
+            878,
+            1532,
+            2114,
+            1632
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarini Dey",
+        "Coordinate": [
+            894,
+            466,
+            1246,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranav Dey",
+        "Coordinate": [
+            890,
+            554,
+            1234,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/5/1989",
+        "Coordinate": [
+            878,
+            662,
+            1192,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            892,
+            750,
+            1144,
+            858
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            868,
+            1160,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            900,
+            958,
+            1048,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Nadig  Khatri and Parmar",
+        "Coordinate": [
+            958,
+            1040,
+            2104,
+            1146
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1818,
+            826,
+            2042,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            943,
+            2042,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mukherjee-Madan",
+        "Coordinate": [
+            954,
+            1166,
+            1866,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/47, Virk Street, Kulti 240238",
+        "Coordinate": [
+            908,
+            1280,
+            1926,
+            1378
+        ]
+    }
+]

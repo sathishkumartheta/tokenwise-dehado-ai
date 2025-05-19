@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Benjamin Basu",
+        "Coordinate": [
+            885,
+            442,
+            1527,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kevin Basu",
+        "Coordinate": [
+            900,
+            530,
+            1385,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/28/1972",
+        "Coordinate": [
+            915,
+            635,
+            1345,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            905,
+            717,
+            1307,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            829,
+            1190,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            835,
+            1987,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            937,
+            2117,
+            1010
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            925,
+            957,
+            1117,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Shroff-Bali",
+        "Coordinate": [
+            985,
+            1040,
+            1965,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sachdeva Group",
+        "Coordinate": [
+            982,
+            1162,
+            2147,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 356, Khanna Street, Gaya 645604",
+        "Coordinate": [
+            907,
+            1302,
+            2202,
+            1495
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 990, Nagarajan Marg, Noida 267911",
+        "Coordinate": [
+            897,
+            1530,
+            2320,
+            1782
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8579729659",
+        "Coordinate": [
+            882,
+            1820,
+            1345,
+            1925
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8928184476",
+        "Coordinate": [
+            1852,
+            1824,
+            2355,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam",
+        "Coordinate": [
+            902,
+            1952,
+            1790,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vyanjana Trivedi - 9844913328",
+        "Coordinate": [
+            957,
+            2075,
+            2232,
+            2185
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishaan Gole - 9129082976",
+        "Coordinate": [
+            960,
+            2200,
+            2065,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UJDKG8700V",
+        "Coordinate": [
+            1632,
+            2402,
+            2155,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            602,
+            2500,
+            925,
+            2587
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/21/2023",
+        "Coordinate": [
+            600,
+            2577,
+            1017,
+            2672
+        ]
+    }
+]

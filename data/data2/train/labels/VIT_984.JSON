@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wishi Mangal",
+        "Coordinate": [
+            876,
+            438,
+            1308,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sathvik Mangal",
+        "Coordinate": [
+            876,
+            536,
+            1328,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/28/1970",
+        "Coordinate": [
+            898,
+            648,
+            1236,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            876,
+            738,
+            1036,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            842,
+            1132,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            894,
+            944,
+            1026,
+            1024
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1761,
+            838,
+            1993,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            942,
+            2038,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Johal and Sons",
+        "Coordinate": [
+            946,
+            1034,
+            1746,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Patla-Palan",
+        "Coordinate": [
+            950,
+            1148,
+            1706,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "56, Bhatt Street, Khora -909944",
+        "Coordinate": [
+            888,
+            1290,
+            1964,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "53, Sane Chowk, Bidhannagar 564858",
+        "Coordinate": [
+            900,
+            1578,
+            2134,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8534029027",
+        "Coordinate": [
+            1850,
+            1798,
+            2254,
+            1882
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8521505252",
+        "Coordinate": [
+            894,
+            1816,
+            1306,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Hindi, Gujarati",
+        "Coordinate": [
+            914,
+            1952,
+            1900,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Devika Tank - 8639600436",
+        "Coordinate": [
+            976,
+            2054,
+            1960,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omisha Parmar - 9948325379",
+        "Coordinate": [
+            978,
+            2188,
+            2008,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "918395000000",
+        "Coordinate": [
+            608,
+            2398,
+            1104,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            592,
+            2486,
+            912,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/8/2025",
+        "Coordinate": [
+            614,
+            2576,
+            1040,
+            2660
+        ]
+    }
+]

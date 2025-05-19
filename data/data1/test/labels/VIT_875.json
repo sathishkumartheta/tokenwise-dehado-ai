@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Idika Bala",
+        "Coordinate": [
+            884,
+            438,
+            1388,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Bala",
+        "Coordinate": [
+            892,
+            537,
+            1315,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-06-1979",
+        "Coordinate": [
+            917,
+            637,
+            1274,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            907,
+            737,
+            1260,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            839,
+            1222,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1801,
+            835,
+            2084,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            943,
+            2154,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            921,
+            945,
+            1055,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Swamy LLC",
+        "Coordinate": [
+            1014,
+            1047,
+            2022,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Balay-Char",
+        "Coordinate": [
+            1010,
+            1155,
+            2058,
+            1276
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90, Loyal Path, Begusarai-739339",
+        "Coordinate": [
+            921,
+            1290,
+            2334,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 829, Pandya Marg, Moradabad-064646",
+        "Coordinate": [
+            897,
+            1547,
+            2329,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8829788536",
+        "Coordinate": [
+            1901,
+            1810,
+            2352,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9857113258",
+        "Coordinate": [
+            894,
+            1817,
+            1331,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam",
+        "Coordinate": [
+            924,
+            1950,
+            1597,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krisha Lad - 9721372244",
+        "Coordinate": [
+            979,
+            2051,
+            2046,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishani Raja - 9334949905",
+        "Coordinate": [
+            972,
+            2185,
+            2056,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "332000000000.0",
+        "Coordinate": [
+            605,
+            2398,
+            1211,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            615,
+            2477,
+            966,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-06-2023",
+        "Coordinate": [
+            627,
+            2580,
+            1034,
+            2680
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avni Garg",
+        "Coordinate": [
+            887,
+            431,
+            1280,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naksh Garg",
+        "Coordinate": [
+            894,
+            536,
+            1318,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-08-1965",
+        "Coordinate": [
+            899,
+            639,
+            1290,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            889,
+            736,
+            1187,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            836,
+            1125,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            831,
+            1992,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            943,
+            2051,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            894,
+            943,
+            1011,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Krish-Om",
+        "Coordinate": [
+            956,
+            1048,
+            1775,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Barman  Malhotra and Sinha",
+        "Coordinate": [
+            947,
+            1153,
+            2326,
+            1276
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/45, Butala Nagar, Latur 195960",
+        "Coordinate": [
+            885,
+            1288,
+            2056,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "93, Talwar Road, Medininagar-605485",
+        "Coordinate": [
+            887,
+            1526,
+            2272,
+            1697
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8408342056",
+        "Coordinate": [
+            1863,
+            1804,
+            2333,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9118809764",
+        "Coordinate": [
+            880,
+            1808,
+            1302,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Telugu",
+        "Coordinate": [
+            886,
+            1952,
+            1709,
+            2073
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mason Nadig - 7439047633",
+        "Coordinate": [
+            940,
+            2081,
+            2028,
+            2197
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Inaya Anand - 7471381219",
+        "Coordinate": [
+            930,
+            2199,
+            1988,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "912000000000.0",
+        "Coordinate": [
+            586,
+            2394,
+            1103,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            588,
+            2484,
+            898,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-11-2022",
+        "Coordinate": [
+            585,
+            2578,
+            993,
+            2674
+        ]
+    }
+]

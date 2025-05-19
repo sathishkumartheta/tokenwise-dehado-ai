@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nidra Chhabra",
+        "Coordinate": [
+            884,
+            482,
+            1500,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kalpit Chhabra",
+        "Coordinate": [
+            924,
+            574,
+            1530,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/15/1982",
+        "Coordinate": [
+            906,
+            678,
+            1378,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            902,
+            760,
+            1278,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            865,
+            1158,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1734,
+            864,
+            1976,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            962,
+            2096,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            946,
+            964,
+            1118,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bassi  Verma and Barad",
+        "Coordinate": [
+            991,
+            1044,
+            2258,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Rajagopalan-Bakshi",
+        "Coordinate": [
+            980,
+            1162,
+            2188,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "409, Rai Zila, Erode-133363",
+        "Coordinate": [
+            882,
+            1274,
+            2046,
+            1373
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "804, Gulati Ganj, Kharagpur 445816",
+        "Coordinate": [
+            880,
+            1522,
+            2278,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9321300355",
+        "Coordinate": [
+            890,
+            1790,
+            1320,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9060446395",
+        "Coordinate": [
+            1802,
+            1794,
+            2296,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Bengali",
+        "Coordinate": [
+            888,
+            1913,
+            1736,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anjali Sagar - 9081470871",
+        "Coordinate": [
+            966,
+            2022,
+            2150,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Falguni Dugar - 9590350693",
+        "Coordinate": [
+            952,
+            2154,
+            2180,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            630,
+            2412,
+            1144,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/12/2022",
+        "Coordinate": [
+            638,
+            2506,
+            1092,
+            2585
+        ]
+    }
+]

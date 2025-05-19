@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anusha Kalla",
+        "Coordinate": [
+            933,
+            464,
+            1458,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yash Kalla",
+        "Coordinate": [
+            960,
+            564,
+            1397,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/24/1991",
+        "Coordinate": [
+            963,
+            660,
+            1370,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            983,
+            754,
+            1160,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            987,
+            860,
+            1320,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1983,
+            847,
+            2245,
+            924
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1010,
+            961,
+            1133,
+            1036
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            2020,
+            947,
+            2267,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bal Inc",
+        "Coordinate": [
+            1033,
+            1047,
+            1912,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Tata-Varty",
+        "Coordinate": [
+            1030,
+            1154,
+            2029,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70/66, Upadhyay Marg, Kollam 165098",
+        "Coordinate": [
+            943,
+            1314,
+            2274,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/72, Basu Road, Agartala-543934",
+        "Coordinate": [
+            933,
+            1534,
+            2274,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9113494537",
+        "Coordinate": [
+            920,
+            1791,
+            1365,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9378508250",
+        "Coordinate": [
+            1637,
+            1814,
+            2184,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, Telugu",
+        "Coordinate": [
+            946,
+            1911,
+            2021,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zansi Verma - 7533894861",
+        "Coordinate": [
+            986,
+            2024,
+            2258,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vanya Korpal - 8487600328",
+        "Coordinate": [
+            1047,
+            2157,
+            2272,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            657,
+            2427,
+            944,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/19/2024",
+        "Coordinate": [
+            666,
+            2511,
+            1085,
+            2593
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Praneel Srinivasan",
+        "Coordinate": [
+            885,
+            391,
+            1396,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ikbal Srinivasan",
+        "Coordinate": [
+            887,
+            484,
+            1375,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/17/1987",
+        "Coordinate": [
+            888,
+            589,
+            1168,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            893,
+            687,
+            1105,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            794,
+            1111,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1818,
+            782,
+            1995,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            894,
+            2038,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            930,
+            896,
+            1072,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Buch LLC",
+        "Coordinate": [
+            950,
+            978,
+            1641,
+            1075
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Murthy  Bhatt and Sastry",
+        "Coordinate": [
+            919,
+            1089,
+            2098,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 47, Karan Street, Siliguri-310287",
+        "Coordinate": [
+            881,
+            1233,
+            1990,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/44, Pandit Nagar, Ghaziabad 511871",
+        "Coordinate": [
+            867,
+            1466,
+            1958,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7138650295",
+        "Coordinate": [
+            1838,
+            1745,
+            2185,
+            1827
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7140213644",
+        "Coordinate": [
+            873,
+            1745,
+            1186,
+            1827
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, English",
+        "Coordinate": [
+            875,
+            1883,
+            1652,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warjas Jani - 9959738117",
+        "Coordinate": [
+            953,
+            1990,
+            1687,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kamya Sagar - 7516116992",
+        "Coordinate": [
+            949,
+            2119,
+            1745,
+            2228
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JGPMF8488R",
+        "Coordinate": [
+            1612,
+            2334,
+            2026,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            590,
+            2420,
+            795,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/24/2022",
+        "Coordinate": [
+            588,
+            2508,
+            928,
+            2590
+        ]
+    }
+]

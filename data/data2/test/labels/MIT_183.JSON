@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Noah Balay",
+        "Coordinate": [
+            888,
+            382,
+            1319,
+            473
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faris Balay",
+        "Coordinate": [
+            891,
+            486,
+            1308,
+            571
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/28/2004",
+        "Coordinate": [
+            895,
+            585,
+            1321,
+            669
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            680,
+            1073,
+            765
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            784,
+            1125,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1825,
+            774,
+            2055,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            885,
+            2112,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            902,
+            887,
+            1028,
+            966
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Srinivas Ltd",
+        "Coordinate": [
+            976,
+            975,
+            1926,
+            1074
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dani-Sama",
+        "Coordinate": [
+            978,
+            1092,
+            1891,
+            1194
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25/686, Choudhary Street, Jaipur-258030",
+        "Coordinate": [
+            880,
+            1211,
+            2127,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06/74, Sunder Road, Haldia 928234",
+        "Coordinate": [
+            895,
+            1468,
+            2315,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8256132600",
+        "Coordinate": [
+            1847,
+            1736,
+            2326,
+            1823
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9681085185",
+        "Coordinate": [
+            888,
+            1741,
+            1334,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, English, Marathi",
+        "Coordinate": [
+            889,
+            1867,
+            2228,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Kota - 7191045395",
+        "Coordinate": [
+            942,
+            1990,
+            1971,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rushil Som - 7449930431",
+        "Coordinate": [
+            964,
+            2117,
+            1956,
+            2206
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FYXXL2668U",
+        "Coordinate": [
+            1641,
+            2326,
+            2189,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            575,
+            2418,
+            810,
+            2490
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/3/2024",
+        "Coordinate": [
+            581,
+            2504,
+            1016,
+            2583
+        ]
+    }
+]

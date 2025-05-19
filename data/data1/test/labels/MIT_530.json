@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manbir Madan",
+        "Coordinate": [
+            901,
+            402,
+            1416,
+            512
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faras Madan",
+        "Coordinate": [
+            898,
+            511,
+            1397,
+            613
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/16/2004",
+        "Coordinate": [
+            930,
+            614,
+            1292,
+            704
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            885,
+            709,
+            1062,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            892,
+            810,
+            1127,
+            910
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1831,
+            809,
+            2024,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            913,
+            2107,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            907,
+            910,
+            1007,
+            999
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Balasubramanian  Dugar and Mammen",
+        "Coordinate": [
+            958,
+            997,
+            2317,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Pillai Inc",
+        "Coordinate": [
+            967,
+            1122,
+            1780,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "51, Varma Zila, Amritsar 640994",
+        "Coordinate": [
+            902,
+            1259,
+            2051,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "53, Zacharia, Nellore 054245",
+        "Coordinate": [
+            879,
+            1489,
+            2006,
+            1616
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8975591019",
+        "Coordinate": [
+            1866,
+            1760,
+            2291,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9911917393",
+        "Coordinate": [
+            922,
+            1758,
+            1332,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, Bengali, Tamil",
+        "Coordinate": [
+            924,
+            1905,
+            2167,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksh Trivedi - 9674688975",
+        "Coordinate": [
+            967,
+            2018,
+            2038,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lekha Borra - 9516697941",
+        "Coordinate": [
+            972,
+            2150,
+            1980,
+            2271
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "455000000000.0",
+        "Coordinate": [
+            605,
+            2340,
+            1089,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            609,
+            2437,
+            1279,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/29/2023",
+        "Coordinate": [
+            624,
+            2529,
+            977,
+            2639
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yug Char",
+        "Coordinate": [
+            917,
+            468,
+            1319,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charles Char",
+        "Coordinate": [
+            922,
+            561,
+            1433,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/15/1974",
+        "Coordinate": [
+            924,
+            657,
+            1346,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            936,
+            742,
+            1315,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            846,
+            1288,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1740,
+            841,
+            2020,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            950,
+            949,
+            1164,
+            1031
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            943,
+            2156,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sami  Kulkarni and Samra",
+        "Coordinate": [
+            987,
+            1033,
+            2337,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhagat  Rajan and Walia",
+        "Coordinate": [
+            971,
+            1145,
+            2301,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03/91, Sharma Street, Tadipatri-538751",
+        "Coordinate": [
+            930,
+            1277,
+            2237,
+            1483
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/970, Shere Ganj, Panihati 800414",
+        "Coordinate": [
+            932,
+            1519,
+            2137,
+            1723
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7013368759",
+        "Coordinate": [
+            922,
+            1775,
+            1377,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9040742939",
+        "Coordinate": [
+            1597,
+            1811,
+            2192,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, English",
+        "Coordinate": [
+            930,
+            1903,
+            2075,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nitesh Sahni - 9673729185",
+        "Coordinate": [
+            983,
+            2009,
+            2186,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charvi Dasgupta - 7761533344",
+        "Coordinate": [
+            1006,
+            2136,
+            2211,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            638,
+            2409,
+            1296,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/25/2022",
+        "Coordinate": [
+            658,
+            2503,
+            1199,
+            2586
+        ]
+    }
+]

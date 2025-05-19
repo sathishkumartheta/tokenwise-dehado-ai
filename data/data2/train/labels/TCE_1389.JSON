@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Guneet Kade",
+        "Coordinate": [
+            885,
+            466,
+            1378,
+            594
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udant Kade",
+        "Coordinate": [
+            910,
+            586,
+            1342,
+            686
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/25/2005",
+        "Coordinate": [
+            900,
+            681,
+            1258,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            746,
+            1234,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            860,
+            1130,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            955,
+            945,
+            1102,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            840,
+            1970,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            941,
+            1998,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sur  Jayaraman and Karpe",
+        "Coordinate": [
+            989,
+            1061,
+            2226,
+            1182
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Viswanathan-Bhargava",
+        "Coordinate": [
+            950,
+            1181,
+            2162,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98/95, Thakur, Ichalkaranji 595155",
+        "Coordinate": [
+            895,
+            1311,
+            2194,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 64, Goswami Street, Davanagere-063647",
+        "Coordinate": [
+            885,
+            1541,
+            2278,
+            1686
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7701240690",
+        "Coordinate": [
+            910,
+            1781,
+            1366,
+            1898
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8703620510",
+        "Coordinate": [
+            1680,
+            1811,
+            2134,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Kannada",
+        "Coordinate": [
+            920,
+            1921,
+            1698,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arunima Viswanathan - 8723869012",
+        "Coordinate": [
+            920,
+            2041,
+            2110,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darpan Memon - 8648117973",
+        "Coordinate": [
+            960,
+            2151,
+            1822,
+            2274
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            610,
+            2426,
+            1070,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/6/2024",
+        "Coordinate": [
+            625,
+            2511,
+            1070,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Januja Varughese",
+        "Coordinate": [
+            878,
+            391,
+            1503,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Varughese",
+        "Coordinate": [
+            871,
+            489,
+            1524,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/1961",
+        "Coordinate": [
+            882,
+            591,
+            1230,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            882,
+            685,
+            1166,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            784,
+            1173,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            782,
+            2041,
+            879
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            890,
+            2086,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            890,
+            893,
+            1015,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Patla-Bava",
+        "Coordinate": [
+            985,
+            983,
+            1812,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chana Ltd",
+        "Coordinate": [
+            983,
+            1098,
+            1765,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "80/41, Kumer Circle, Jalgaon-264236",
+        "Coordinate": [
+            883,
+            1244,
+            2208,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13/19, Goda Nagar, Motihari 623039",
+        "Coordinate": [
+            874,
+            1475,
+            2106,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8157092728",
+        "Coordinate": [
+            1866,
+            1745,
+            2263,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8355263935",
+        "Coordinate": [
+            880,
+            1750,
+            1279,
+            1850
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Marathi, Telugu",
+        "Coordinate": [
+            863,
+            1887,
+            2151,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekalinga Chaudhuri - 8406798533",
+        "Coordinate": [
+            928,
+            1995,
+            2110,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Praneel Walla - 7395297413",
+        "Coordinate": [
+            941,
+            2124,
+            1925,
+            2229
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SZXJB2423X",
+        "Coordinate": [
+            1609,
+            2331,
+            2052,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            582,
+            2414,
+            832,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2023",
+        "Coordinate": [
+            575,
+            2514,
+            952,
+            2602
+        ]
+    }
+]

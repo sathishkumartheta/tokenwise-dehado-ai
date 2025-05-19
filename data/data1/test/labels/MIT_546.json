@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balveer Aurora",
+        "Coordinate": [
+            905,
+            451,
+            1478,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Aurora",
+        "Coordinate": [
+            914,
+            554,
+            1630,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/15/1993",
+        "Coordinate": [
+            922,
+            654,
+            1321,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            915,
+            751,
+            1297,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            854,
+            1265,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1853,
+            840,
+            2062,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1914,
+            949,
+            2180,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            921,
+            955,
+            1067,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Johal LLC",
+        "Coordinate": [
+            982,
+            1051,
+            1822,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kunda PLC",
+        "Coordinate": [
+            995,
+            1164,
+            1912,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29/44, Dara Zila, Jaunpur 534728",
+        "Coordinate": [
+            905,
+            1284,
+            2279,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 673, Narula Nagar, Cuttack-708488",
+        "Coordinate": [
+            920,
+            1547,
+            2355,
+            1699
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7270204578",
+        "Coordinate": [
+            1884,
+            1805,
+            2375,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9677581804",
+        "Coordinate": [
+            911,
+            1817,
+            1340,
+            1939
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Bengali",
+        "Coordinate": [
+            913,
+            1952,
+            1747,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Odika Narula - 7613604764",
+        "Coordinate": [
+            966,
+            2065,
+            1991,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manthan Ganesan - 9840793717",
+        "Coordinate": [
+            983,
+            2188,
+            2323,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "722000000000.0",
+        "Coordinate": [
+            617,
+            2392,
+            1109,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            616,
+            2484,
+            1036,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/24/2023",
+        "Coordinate": [
+            637,
+            2577,
+            1078,
+            2680
+        ]
+    }
+]

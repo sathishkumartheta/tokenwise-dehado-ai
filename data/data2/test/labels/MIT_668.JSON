@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gavin Dewan",
+        "Coordinate": [
+            883,
+            430,
+            1345,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Dewan",
+        "Coordinate": [
+            869,
+            548,
+            1331,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/10/1975",
+        "Coordinate": [
+            866,
+            664,
+            1238,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            869,
+            750,
+            1175,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            869,
+            857,
+            1163,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            848,
+            1940,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            886,
+            964,
+            1007,
+            1042
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            958,
+            2107,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Deshpande  Lata and Rajagopal",
+        "Coordinate": [
+            941,
+            1027,
+            2304,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Swaminathan  Devan and Grewal",
+        "Coordinate": [
+            926,
+            1166,
+            2358,
+            1305
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33, Madan Chowk, Munger 386748",
+        "Coordinate": [
+            886,
+            1310,
+            2145,
+            1510
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/45, Rajan Path, Hospet 578680",
+        "Coordinate": [
+            897,
+            1541,
+            2093,
+            1726
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7819068779",
+        "Coordinate": [
+            900,
+            1824,
+            1348,
+            1940
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7940735535",
+        "Coordinate": [
+            1850,
+            1819,
+            2321,
+            1940
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Kannada",
+        "Coordinate": [
+            886,
+            1948,
+            1882,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ira Nazareth - 9994216046",
+        "Coordinate": [
+            949,
+            2052,
+            2009,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Randhawa - 7971716030",
+        "Coordinate": [
+            955,
+            2197,
+            2145,
+            2315
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            583,
+            2483,
+            883,
+            2584
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/3/2023",
+        "Coordinate": [
+            594,
+            2584,
+            984,
+            2673
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EPZBJ7021K",
+        "Coordinate": [
+            1614,
+            2408,
+            2139,
+            2491
+        ]
+    }
+]

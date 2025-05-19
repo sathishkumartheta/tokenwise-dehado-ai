@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jai Mannan",
+        "Coordinate": [
+            902,
+            397,
+            1295,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Karan Mannan",
+        "Coordinate": [
+            910,
+            495,
+            1369,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-10-1982",
+        "Coordinate": [
+            915,
+            589,
+            1218,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            934,
+            686,
+            1236,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            784,
+            1168,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1771,
+            785,
+            1954,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            890,
+            2053,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            947,
+            893,
+            1077,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Vohra LLC",
+        "Coordinate": [
+            1002,
+            985,
+            1755,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sami  Pau and Korpal",
+        "Coordinate": [
+            1004,
+            1100,
+            2076,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "266, Arya Nagar, Bhilwara 091103",
+        "Coordinate": [
+            894,
+            1254,
+            2063,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "11, Thaker, Satara 181583",
+        "Coordinate": [
+            900,
+            1483,
+            1820,
+            1616
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9958121445",
+        "Coordinate": [
+            1824,
+            1757,
+            2260,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7983417246",
+        "Coordinate": [
+            919,
+            1751,
+            1322,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Telugu, Marathi",
+        "Coordinate": [
+            910,
+            1886,
+            1868,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aradhana Ratti - 9067960054",
+        "Coordinate": [
+            975,
+            1999,
+            2056,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faraj Muni - 7824244450",
+        "Coordinate": [
+            989,
+            2129,
+            1903,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "781000000000.0",
+        "Coordinate": [
+            593,
+            2332,
+            1043,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            636,
+            2417,
+            927,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/22/2022",
+        "Coordinate": [
+            618,
+            2513,
+            965,
+            2605
+        ]
+    }
+]

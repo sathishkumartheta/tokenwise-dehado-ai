@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Nagar",
+        "Coordinate": [
+            887,
+            406,
+            1267,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Nagar",
+        "Coordinate": [
+            888,
+            501,
+            1243,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-06-2004",
+        "Coordinate": [
+            889,
+            598,
+            1170,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            696,
+            1050,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            798,
+            1073,
+            891
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1787,
+            786,
+            1949,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            894,
+            2003,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            932,
+            900,
+            1042,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Rastogi  Krishnamurthy and Rajagopal",
+        "Coordinate": [
+            984,
+            980,
+            2314,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Dhar Ltd",
+        "Coordinate": [
+            1014,
+            1104,
+            1650,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 730, Dutt Nagar, Satna 403211",
+        "Coordinate": [
+            871,
+            1255,
+            1979,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 50, Chandra Path, Bhagalpur 191430",
+        "Coordinate": [
+            877,
+            1476,
+            2080,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9127955733",
+        "Coordinate": [
+            1859,
+            1749,
+            2239,
+            1841
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8721733457",
+        "Coordinate": [
+            877,
+            1753,
+            1253,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, Hindi, Bengali",
+        "Coordinate": [
+            893,
+            1891,
+            1820,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vedhika Shenoy - 9947320765",
+        "Coordinate": [
+            952,
+            1998,
+            1805,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Advika Shukla - 8866953009",
+        "Coordinate": [
+            971,
+            2123,
+            1803,
+            2226
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MKTBL9772X",
+        "Coordinate": [
+            1642,
+            2331,
+            2048,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            590,
+            2431,
+            791,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-06-2024",
+        "Coordinate": [
+            586,
+            2523,
+            930,
+            2604
+        ]
+    }
+]

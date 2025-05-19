@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Damini Parmer",
+        "Coordinate": [
+            901,
+            393,
+            1368,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Parmer",
+        "Coordinate": [
+            921,
+            495,
+            1383,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/1970",
+        "Coordinate": [
+            929,
+            595,
+            1262,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            966,
+            690,
+            1121,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            945,
+            785,
+            1201,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1840,
+            787,
+            2053,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            896,
+            2081,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            985,
+            891,
+            1150,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Soman-Natt",
+        "Coordinate": [
+            1045,
+            988,
+            1782,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chaudhry-Grover",
+        "Coordinate": [
+            1046,
+            1100,
+            1950,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "782, Sarna Nagar, Guntakal 673459",
+        "Coordinate": [
+            920,
+            1247,
+            2130,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64/038, Sama Zila, Agartala 902824",
+        "Coordinate": [
+            941,
+            1471,
+            2264,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9016493611",
+        "Coordinate": [
+            1861,
+            1747,
+            2280,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8905605131",
+        "Coordinate": [
+            901,
+            1750,
+            1321,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu",
+        "Coordinate": [
+            932,
+            1891,
+            1476,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Liam De - 8890734596",
+        "Coordinate": [
+            1023,
+            2003,
+            1917,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatura Chana - 9921435809",
+        "Coordinate": [
+            1010,
+            2127,
+            2050,
+            2235
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SSPOG2521I",
+        "Coordinate": [
+            1667,
+            2331,
+            2121,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            643,
+            2417,
+            833,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2023",
+        "Coordinate": [
+            650,
+            2512,
+            1022,
+            2602
+        ]
+    }
+]

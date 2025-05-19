@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekani Chanda",
+        "Coordinate": [
+            885,
+            422,
+            1391,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rachit Chanda",
+        "Coordinate": [
+            904,
+            518,
+            1404,
+            613
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-07-1986",
+        "Coordinate": [
+            894,
+            624,
+            1214,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            921,
+            718,
+            1256,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            931,
+            821,
+            1221,
+            916
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1840,
+            817,
+            2119,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            925,
+            2088,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            955,
+            925,
+            1077,
+            1010
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Hayre  Kumer and Oza",
+        "Coordinate": [
+            955,
+            1028,
+            2274,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sagar and Sons",
+        "Coordinate": [
+            939,
+            1137,
+            2017,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/23, Patla Ganj, Patna-445514",
+        "Coordinate": [
+            913,
+            1249,
+            2292,
+            1368
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 21, Cheema Zila, Sonipat-944957",
+        "Coordinate": [
+            890,
+            1501,
+            2346,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8081059656",
+        "Coordinate": [
+            1871,
+            1789,
+            2303,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7582155667",
+        "Coordinate": [
+            890,
+            1796,
+            1342,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali",
+        "Coordinate": [
+            936,
+            1930,
+            1708,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojas Buch - 7631514646",
+        "Coordinate": [
+            906,
+            2037,
+            1783,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Praneel Mital - 9036985197",
+        "Coordinate": [
+            964,
+            2166,
+            2125,
+            2272
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "959000000000.0",
+        "Coordinate": [
+            609,
+            2373,
+            1080,
+            2453
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            641,
+            2469,
+            935,
+            2551
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/21/2025",
+        "Coordinate": [
+            610,
+            2560,
+            1076,
+            2653
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Onveer Bora",
+        "Coordinate": [
+            938,
+            422,
+            1491,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Bora",
+        "Coordinate": [
+            950,
+            535,
+            1512,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/1973",
+        "Coordinate": [
+            960,
+            641,
+            1384,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            947,
+            742,
+            1367,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            838,
+            1341,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1859,
+            828,
+            2093,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            940,
+            2205,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            954,
+            942,
+            1085,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Dewan  Barman and Chandra",
+        "Coordinate": [
+            996,
+            1029,
+            2384,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Maharaj Ltd",
+        "Coordinate": [
+            1007,
+            1142,
+            2178,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 26, Master Marg, Chinsurah 351272",
+        "Coordinate": [
+            930,
+            1286,
+            2305,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 33, Pau Chowk, Satara 976487",
+        "Coordinate": [
+            943,
+            1534,
+            2321,
+            1774
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8582860621",
+        "Coordinate": [
+            1895,
+            1791,
+            2375,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7635594508",
+        "Coordinate": [
+            922,
+            1793,
+            1400,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Malayalam",
+        "Coordinate": [
+            935,
+            1929,
+            2133,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pooja Dutta - 9414884580",
+        "Coordinate": [
+            975,
+            2040,
+            2188,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arya Mani - 8703580769",
+        "Coordinate": [
+            992,
+            2175,
+            2187,
+            2293
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "882000000000.0",
+        "Coordinate": [
+            621,
+            2374,
+            1207,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            625,
+            2469,
+            1023,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/27/2025",
+        "Coordinate": [
+            632,
+            2558,
+            1125,
+            2656
+        ]
+    }
+]

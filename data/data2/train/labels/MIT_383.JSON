@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ronith Palla",
+        "Coordinate": [
+            900,
+            348,
+            1321,
+            454
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Palla",
+        "Coordinate": [
+            887,
+            463,
+            1297,
+            554
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1987",
+        "Coordinate": [
+            885,
+            558,
+            1241,
+            646
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            907,
+            668,
+            1213,
+            750
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            877,
+            755,
+            1195,
+            844
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            710,
+            1931,
+            806
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            838,
+            2061,
+            916
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            912,
+            873,
+            1011,
+            934
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Saran  Kota and Misra",
+        "Coordinate": [
+            977,
+            935,
+            2243,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Lala-Master",
+        "Coordinate": [
+            960,
+            1040,
+            1903,
+            1148
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "41/491, Konda Marg, Rampur-974394",
+        "Coordinate": [
+            892,
+            1177,
+            2277,
+            1296
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 882, Kapur Street, Guntakal-862973",
+        "Coordinate": [
+            892,
+            1427,
+            2349,
+            1516
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7388756386",
+        "Coordinate": [
+            887,
+            1697,
+            1317,
+            1786
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7260045840",
+        "Coordinate": [
+            1865,
+            1690,
+            2289,
+            1776
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Hindi, Bengali",
+        "Coordinate": [
+            899,
+            1833,
+            2089,
+            1938
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Krish - 8489135768",
+        "Coordinate": [
+            932,
+            1943,
+            1989,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemang Anand - 9638520288",
+        "Coordinate": [
+            977,
+            2087,
+            2051,
+            2172
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "453219000000",
+        "Coordinate": [
+            597,
+            2268,
+            1117,
+            2366
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            593,
+            2380,
+            1215,
+            2457
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/15/2024",
+        "Coordinate": [
+            577,
+            2476,
+            995,
+            2573
+        ]
+    }
+]

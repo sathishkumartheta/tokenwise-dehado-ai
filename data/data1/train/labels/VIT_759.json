@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qushi Borra",
+        "Coordinate": [
+            931,
+            429,
+            1501,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charles Borra",
+        "Coordinate": [
+            977,
+            525,
+            2141,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/16/2002",
+        "Coordinate": [
+            975,
+            632,
+            1423,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            998,
+            729,
+            1397,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            984,
+            834,
+            1266,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1862,
+            830,
+            2192,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1929,
+            940,
+            2289,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            968,
+            937,
+            1115,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Vaidya LLC",
+        "Coordinate": [
+            1038,
+            1046,
+            2109,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sane  Buch and Bansal",
+        "Coordinate": [
+            1013,
+            1149,
+            2359,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/260, Sahota Road, Vasai-Virar-495389",
+        "Coordinate": [
+            1328,
+            1271,
+            2352,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "441, Saha Nagar, Pallavaram 573216",
+        "Coordinate": [
+            1166,
+            1524,
+            2316,
+            1762
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8497274677",
+        "Coordinate": [
+            1879,
+            1803,
+            2342,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7083794530",
+        "Coordinate": [
+            911,
+            1799,
+            1369,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Kannada",
+        "Coordinate": [
+            904,
+            1933,
+            2352,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksh Goel - 8243138647",
+        "Coordinate": [
+            954,
+            2042,
+            2277,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Michael Kakar - 9581243946",
+        "Coordinate": [
+            999,
+            2186,
+            2324,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "813000000000.0",
+        "Coordinate": [
+            583,
+            2384,
+            1139,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            651,
+            2470,
+            1122,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-10-2025",
+        "Coordinate": [
+            636,
+            2568,
+            1182,
+            2660
+        ]
+    }
+]

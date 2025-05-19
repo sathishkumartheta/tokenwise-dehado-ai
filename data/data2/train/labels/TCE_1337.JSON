@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nandini Menon",
+        "Coordinate": [
+            898,
+            480,
+            1400,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Upkaar Menon",
+        "Coordinate": [
+            884,
+            582,
+            1440,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/12/2004",
+        "Coordinate": [
+            906,
+            678,
+            1266,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            892,
+            768,
+            1232,
+            831
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1712,
+            845,
+            1996,
+            928
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            948,
+            858,
+            1206,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            938,
+            948,
+            1092,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Garg  Baria and Batta",
+        "Coordinate": [
+            954,
+            1052,
+            2220,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Handa Group",
+        "Coordinate": [
+            976,
+            1158,
+            1898,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 28, Keer Zila, Bikaner-204653",
+        "Coordinate": [
+            916,
+            1264,
+            2272,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 705, Desai Chowk, Shimla 983002",
+        "Coordinate": [
+            896,
+            1506,
+            2218,
+            1615
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7683008178",
+        "Coordinate": [
+            888,
+            1779,
+            1270,
+            1864
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8360216160",
+        "Coordinate": [
+            1819,
+            1768,
+            2220,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Tamil, Kannada",
+        "Coordinate": [
+            906,
+            1908,
+            2146,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rehaan Barad - 7191322203",
+        "Coordinate": [
+            972,
+            2004,
+            2042,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rayaan Iyer - 7261687255",
+        "Coordinate": [
+            990,
+            2132,
+            2110,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            615,
+            2404,
+            991,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/26/2024",
+        "Coordinate": [
+            632,
+            2502,
+            1024,
+            2577
+        ]
+    }
+]

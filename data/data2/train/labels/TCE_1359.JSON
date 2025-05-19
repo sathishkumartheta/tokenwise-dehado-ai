@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Riya Varughese",
+        "Coordinate": [
+            910,
+            465,
+            1349,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harsh Varughese",
+        "Coordinate": [
+            915,
+            566,
+            1449,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/28/1990",
+        "Coordinate": [
+            915,
+            656,
+            1229,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            920,
+            751,
+            1229,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            861,
+            1213,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1705,
+            840,
+            1989,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            920,
+            925,
+            1101,
+            1036
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            940,
+            2053,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Lad-Parikh",
+        "Coordinate": [
+            965,
+            1026,
+            1665,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Subramanian  Bhagat and Dhawan",
+        "Coordinate": [
+            950,
+            1121,
+            2269,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10, Puri Path, Kalyan-Dombivli-674158",
+        "Coordinate": [
+            980,
+            1261,
+            2149,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "52/40, Tandon Circle, Navi Mumbai-507576",
+        "Coordinate": [
+            880,
+            1495,
+            2225,
+            1628
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9492041083",
+        "Coordinate": [
+            900,
+            1756,
+            1361,
+            1852
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8388090356",
+        "Coordinate": [
+            1800,
+            1755,
+            2229,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Bengali, Kannada",
+        "Coordinate": [
+            905,
+            1881,
+            2053,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damini Puri - 9347656468",
+        "Coordinate": [
+            970,
+            1970,
+            1857,
+            2084
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Qadim Char - 9630684071",
+        "Coordinate": [
+            970,
+            2106,
+            1813,
+            2212
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            605,
+            2391,
+            965,
+            2484
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/31/2023",
+        "Coordinate": [
+            644,
+            2485,
+            1000,
+            2568
+        ]
+    }
+]

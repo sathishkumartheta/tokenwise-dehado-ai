@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Owen Setty",
+        "Coordinate": [
+            871,
+            421,
+            1228,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Falan Setty",
+        "Coordinate": [
+            873,
+            523,
+            1283,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/19/1974",
+        "Coordinate": [
+            886,
+            621,
+            1254,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            872,
+            721,
+            1040,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            825,
+            1119,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1763,
+            823,
+            1924,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            927,
+            2049,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            877,
+            929,
+            1009,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chaudhary  Sami and Bora",
+        "Coordinate": [
+            943,
+            1014,
+            2267,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dixit Inc",
+        "Coordinate": [
+            953,
+            1131,
+            1760,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 113, Bedi Ganj, Ludhiana-535024",
+        "Coordinate": [
+            868,
+            1253,
+            2231,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "41/23, Date Street, Ambattur-087385",
+        "Coordinate": [
+            868,
+            1502,
+            2149,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7693053899",
+        "Coordinate": [
+            1852,
+            1783,
+            2266,
+            1880
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8643065368",
+        "Coordinate": [
+            871,
+            1780,
+            1325,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Gujarati",
+        "Coordinate": [
+            869,
+            1927,
+            1659,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daniel Modi - 9335876899",
+        "Coordinate": [
+            926,
+            2029,
+            1806,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Henry Kothari - 9024587599",
+        "Coordinate": [
+            946,
+            2155,
+            1904,
+            2289
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "229000000000.0",
+        "Coordinate": [
+            574,
+            2367,
+            1233,
+            2456
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IMSCH4980S",
+        "Coordinate": [
+            1627,
+            2373,
+            2132,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            577,
+            2463,
+            845,
+            2551
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/21/2025",
+        "Coordinate": [
+            568,
+            2557,
+            996,
+            2649
+        ]
+    }
+]

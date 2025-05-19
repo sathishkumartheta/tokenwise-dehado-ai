@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakrika Rege",
+        "Coordinate": [
+            893,
+            437,
+            1519,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Victor Rege",
+        "Coordinate": [
+            912,
+            535,
+            1481,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/21/1984",
+        "Coordinate": [
+            925,
+            636,
+            1351,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            925,
+            737,
+            1290,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            933,
+            841,
+            1276,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1743,
+            829,
+            2018,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            944,
+            2123,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            916,
+            937,
+            1084,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bhatt Inc",
+        "Coordinate": [
+            991,
+            1044,
+            1913,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Hora-Deshmukh",
+        "Coordinate": [
+            1023,
+            1148,
+            2250,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "414, Sood Chowk, Nadiad-371379",
+        "Coordinate": [
+            896,
+            1286,
+            2345,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "05/38, Zacharia Street, Belgaum-396575",
+        "Coordinate": [
+            903,
+            1536,
+            2323,
+            1775
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8712963238",
+        "Coordinate": [
+            1864,
+            1813,
+            2353,
+            1933
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9741401467",
+        "Coordinate": [
+            891,
+            1814,
+            1356,
+            1931
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Telugu, Malayalam",
+        "Coordinate": [
+            895,
+            1951,
+            2328,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vidhi Ramachandran - 9990742418",
+        "Coordinate": [
+            968,
+            2056,
+            2365,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavya Natarajan - 7013319265",
+        "Coordinate": [
+            978,
+            2185,
+            2329,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "949000000000.0",
+        "Coordinate": [
+            611,
+            2391,
+            1213,
+            2479
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PBHBA3738F",
+        "Coordinate": [
+            1650,
+            2394,
+            2247,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            624,
+            2483,
+            1095,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-09-2023",
+        "Coordinate": [
+            641,
+            2581,
+            1084,
+            2675
+        ]
+    }
+]

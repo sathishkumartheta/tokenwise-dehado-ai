@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wishi Wable",
+        "Coordinate": [
+            887,
+            434,
+            1375,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dakshesh Wable",
+        "Coordinate": [
+            901,
+            527,
+            1552,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/1989",
+        "Coordinate": [
+            902,
+            634,
+            1275,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            889,
+            732,
+            1268,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            888,
+            835,
+            1140,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1746,
+            834,
+            2029,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            942,
+            2143,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            897,
+            941,
+            1002,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Morar and Sons",
+        "Coordinate": [
+            977,
+            1044,
+            2147,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Konda  Dey and Tak",
+        "Coordinate": [
+            965,
+            1145,
+            2267,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 859, Bajwa Street, Bellary 416527",
+        "Coordinate": [
+            882,
+            1286,
+            2363,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 891, Padmanabhan Nagar, Jalandhar-017925",
+        "Coordinate": [
+            887,
+            1543,
+            2338,
+            1764
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8336789110",
+        "Coordinate": [
+            1862,
+            1808,
+            2307,
+            1924
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8630345004",
+        "Coordinate": [
+            877,
+            1813,
+            1317,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam",
+        "Coordinate": [
+            905,
+            1947,
+            1695,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Umang Ranganathan - 7687657710",
+        "Coordinate": [
+            979,
+            2056,
+            2258,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nachiket Hayer - 8282193085",
+        "Coordinate": [
+            1002,
+            2185,
+            2172,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "991000000000.0",
+        "Coordinate": [
+            598,
+            2392,
+            1145,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            607,
+            2485,
+            1311,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/23/2024",
+        "Coordinate": [
+            694,
+            2584,
+            1061,
+            2669
+        ]
+    }
+]

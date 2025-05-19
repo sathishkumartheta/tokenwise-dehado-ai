@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekanta Gopal",
+        "Coordinate": [
+            883,
+            392,
+            1311,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Gopal",
+        "Coordinate": [
+            886,
+            492,
+            1367,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-03-1980",
+        "Coordinate": [
+            886,
+            592,
+            1168,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            892,
+            686,
+            1177,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            796,
+            1139,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1887,
+            786,
+            2101,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1890,
+            895,
+            2127,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            892,
+            893,
+            991,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Parikh  Bhargava and Anne",
+        "Coordinate": [
+            954,
+            976,
+            2199,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sahni Ltd",
+        "Coordinate": [
+            961,
+            1096,
+            1742,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 15, Goswami Ganj, Giridih 795074",
+        "Coordinate": [
+            875,
+            1252,
+            2258,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 732, Bawa Chowk, Gudivada 031006",
+        "Coordinate": [
+            880,
+            1478,
+            2285,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7597267325",
+        "Coordinate": [
+            1884,
+            1746,
+            2317,
+            1834
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7218900705",
+        "Coordinate": [
+            880,
+            1753,
+            1269,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, Tamil, Telugu",
+        "Coordinate": [
+            874,
+            1880,
+            2063,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tarak Modi - 7769259617",
+        "Coordinate": [
+            961,
+            1995,
+            1870,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samar Dani - 8240465059",
+        "Coordinate": [
+            968,
+            2129,
+            1871,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "685000000000.0",
+        "Coordinate": [
+            611,
+            2331,
+            1045,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            608,
+            2421,
+            885,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-06-2024",
+        "Coordinate": [
+            615,
+            2514,
+            990,
+            2600
+        ]
+    }
+]

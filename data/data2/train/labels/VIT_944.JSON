@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kiaan Kar",
+        "Coordinate": [
+            882,
+            451,
+            1240,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advik Kar",
+        "Coordinate": [
+            892,
+            536,
+            1274,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/8/1968",
+        "Coordinate": [
+            880,
+            636,
+            1184,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            880,
+            730,
+            1142,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            870,
+            844,
+            1138,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            894,
+            944,
+            996,
+            1018
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1733,
+            832,
+            1935,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            954,
+            2034,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Shukla  Khatri and Nadkarni",
+        "Coordinate": [
+            953,
+            1048,
+            2294,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Madan-Goda",
+        "Coordinate": [
+            965,
+            1160,
+            1813,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "948, Mitra Nagar, Kottayam 989087",
+        "Coordinate": [
+            865,
+            1294,
+            2092,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 27, Mohanty Street, Kirari Suleman Nagar-157873",
+        "Coordinate": [
+            866,
+            1540,
+            2146,
+            1736
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9957016344",
+        "Coordinate": [
+            872,
+            1810,
+            1296,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9737624681",
+        "Coordinate": [
+            1864,
+            1812,
+            2300,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Gujarati, Hindi",
+        "Coordinate": [
+            876,
+            1940,
+            1872,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frederick Om - 7603034693",
+        "Coordinate": [
+            952,
+            2060,
+            1736,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jason Raval - 9953100723",
+        "Coordinate": [
+            940,
+            2188,
+            1712,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "862491000000",
+        "Coordinate": [
+            580,
+            2386,
+            1030,
+            2468
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            582,
+            2486,
+            752,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/14/2024",
+        "Coordinate": [
+            586,
+            2586,
+            974,
+            2660
+        ]
+    }
+]

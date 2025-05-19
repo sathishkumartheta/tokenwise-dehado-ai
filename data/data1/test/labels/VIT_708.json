@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tejas Sanghvi",
+        "Coordinate": [
+            900,
+            409,
+            1596,
+            501
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Sanghvi",
+        "Coordinate": [
+            880,
+            508,
+            1540,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/13/1994",
+        "Coordinate": [
+            888,
+            613,
+            1298,
+            705
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            908,
+            712,
+            1245,
+            802
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            811,
+            1208,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1883,
+            818,
+            2121,
+            905
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1886,
+            920,
+            2219,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            939,
+            915,
+            1082,
+            1000
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mannan PLC",
+        "Coordinate": [
+            955,
+            1013,
+            2039,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Tata  Mohanty and Bhavsar",
+        "Coordinate": [
+            952,
+            1132,
+            2190,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85, Bhatt Ganj, Moradabad 263492",
+        "Coordinate": [
+            896,
+            1255,
+            2192,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "339, Viswanathan, Bhilai 900713",
+        "Coordinate": [
+            875,
+            1534,
+            2232,
+            1739
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7598107734",
+        "Coordinate": [
+            1875,
+            1791,
+            2345,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9511546170",
+        "Coordinate": [
+            876,
+            1785,
+            1365,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Bengali",
+        "Coordinate": [
+            886,
+            1926,
+            2090,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abeer Mann - 9535788983",
+        "Coordinate": [
+            937,
+            2031,
+            2163,
+            2141
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yasti Kuruvilla - 7833773623",
+        "Coordinate": [
+            958,
+            2159,
+            2329,
+            2273
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "425000000000.0",
+        "Coordinate": [
+            580,
+            2366,
+            1281,
+            2456
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            587,
+            2456,
+            1002,
+            2539
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/28/2025",
+        "Coordinate": [
+            588,
+            2545,
+            1142,
+            2639
+        ]
+    }
+]

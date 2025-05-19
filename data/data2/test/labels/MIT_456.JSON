@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zinal Devan",
+        "Coordinate": [
+            892,
+            391,
+            1394,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Devan",
+        "Coordinate": [
+            902,
+            496,
+            1896,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/5/1964",
+        "Coordinate": [
+            903,
+            597,
+            1315,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            908,
+            692,
+            1257,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            802,
+            1248,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1766,
+            766,
+            2041,
+            855
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            873,
+            2107,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            951,
+            897,
+            1078,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bhatt-Mann",
+        "Coordinate": [
+            1014,
+            976,
+            1960,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Borah-Nori",
+        "Coordinate": [
+            1020,
+            1093,
+            1967,
+            1199
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76, Deo Marg, Bokaro-596053",
+        "Coordinate": [
+            882,
+            1239,
+            2173,
+            1358
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61/840, Prakash Street, Miryalaguda 036860",
+        "Coordinate": [
+            931,
+            1478,
+            1904,
+            1669
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7307975903",
+        "Coordinate": [
+            1902,
+            1722,
+            2366,
+            1805
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7656609420",
+        "Coordinate": [
+            920,
+            1746,
+            1398,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Bengali",
+        "Coordinate": [
+            963,
+            1876,
+            1923,
+            1973
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charles Ramaswamy - 7957067114",
+        "Coordinate": [
+            991,
+            1984,
+            2230,
+            2092
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Benjamin Randhawa - 7256859103",
+        "Coordinate": [
+            1007,
+            2105,
+            2307,
+            2200
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "264856000000",
+        "Coordinate": [
+            650,
+            2337,
+            1194,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            651,
+            2428,
+            960,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2022",
+        "Coordinate": [
+            651,
+            2520,
+            1067,
+            2609
+        ]
+    }
+]

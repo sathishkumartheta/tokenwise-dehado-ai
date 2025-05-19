@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bishakha Contractor",
+        "Coordinate": [
+            915,
+            478,
+            1566,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Contractor",
+        "Coordinate": [
+            907,
+            573,
+            1463,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/3/1970",
+        "Coordinate": [
+            917,
+            665,
+            1261,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            925,
+            765,
+            1198,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            875,
+            1194,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            937,
+            965,
+            1033,
+            1032
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1870,
+            858,
+            2088,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1882,
+            950,
+            2127,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Palla-Purohit",
+        "Coordinate": [
+            997,
+            1043,
+            1937,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bhat  Padmanabhan and Bose",
+        "Coordinate": [
+            997,
+            1145,
+            2307,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08/61, Varghese Chowk, Hajipur-135384",
+        "Coordinate": [
+            907,
+            1275,
+            2307,
+            1388
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "420, Shetty Path, Rajahmundry-595925",
+        "Coordinate": [
+            915,
+            1528,
+            2308,
+            1629
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7767435874",
+        "Coordinate": [
+            937,
+            1780,
+            1357,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7371074392",
+        "Coordinate": [
+            1870,
+            1765,
+            2294,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Kannada",
+        "Coordinate": [
+            910,
+            1910,
+            1912,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Atharv Tailor - 7129905547",
+        "Coordinate": [
+            1000,
+            2013,
+            2046,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Varenya Dugar - 8907604758",
+        "Coordinate": [
+            987,
+            2143,
+            2045,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            640,
+            2420,
+            872,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/21/2023",
+        "Coordinate": [
+            645,
+            2510,
+            992,
+            2584
+        ]
+    }
+]

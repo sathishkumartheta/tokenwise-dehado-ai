@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jack Pant",
+        "Coordinate": [
+            905,
+            468,
+            1275,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Pant",
+        "Coordinate": [
+            907,
+            557,
+            1395,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/26/1995",
+        "Coordinate": [
+            903,
+            652,
+            1253,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            899,
+            735,
+            1188,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            853,
+            1222,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1700,
+            836,
+            1936,
+            921
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            923,
+            941,
+            1069,
+            1020
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            926,
+            2095,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bora  Basu and Tailor",
+        "Coordinate": [
+            982,
+            1026,
+            2265,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dhar Group",
+        "Coordinate": [
+            968,
+            1143,
+            1828,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/37, Seth Chowk, Hubli\u2013Dharwad-025375",
+        "Coordinate": [
+            899,
+            1247,
+            2254,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Palan Zila, Sagar-007467",
+        "Coordinate": [
+            905,
+            1511,
+            2200,
+            1601
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9460154538",
+        "Coordinate": [
+            910,
+            1772,
+            1309,
+            1864
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9547270271",
+        "Coordinate": [
+            1816,
+            1774,
+            2250,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, English, Marathi",
+        "Coordinate": [
+            899,
+            1899,
+            2010,
+            1981
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Utkarsh Shanker - 7161471147",
+        "Coordinate": [
+            979,
+            2005,
+            2025,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemang Vohra - 7052474983",
+        "Coordinate": [
+            973,
+            2131,
+            1951,
+            2216
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            642,
+            2411,
+            1009,
+            2485
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/30/2024",
+        "Coordinate": [
+            645,
+            2501,
+            1000,
+            2580
+        ]
+    }
+]

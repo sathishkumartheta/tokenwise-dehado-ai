@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Chhabra",
+        "Coordinate": [
+            941,
+            440,
+            1519,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagat Chhabra",
+        "Coordinate": [
+            950,
+            542,
+            1550,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-10-1985",
+        "Coordinate": [
+            961,
+            641,
+            1330,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            986,
+            733,
+            1206,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            840,
+            1253,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1796,
+            829,
+            2075,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            944,
+            2101,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            970,
+            942,
+            1165,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Parmer  Merchant and Merchant",
+        "Coordinate": [
+            1018,
+            1034,
+            2261,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Randhawa LLC",
+        "Coordinate": [
+            1032,
+            1149,
+            2086,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "74/39, Kanda Path, Udupi 210470",
+        "Coordinate": [
+            954,
+            1276,
+            2249,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 456, Iyer Street, Panvel 884247",
+        "Coordinate": [
+            944,
+            1517,
+            2363,
+            1651
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9197925769",
+        "Coordinate": [
+            1926,
+            1774,
+            2361,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8668587761",
+        "Coordinate": [
+            937,
+            1801,
+            1375,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            964,
+            1941,
+            1555,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hamsini Contractor - 7792756558",
+        "Coordinate": [
+            1013,
+            2032,
+            2265,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faqid Dhaliwal - 7873995373",
+        "Coordinate": [
+            1029,
+            2166,
+            2248,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "740000000000.0",
+        "Coordinate": [
+            659,
+            2381,
+            1201,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            674,
+            2474,
+            1040,
+            2554
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/23/2022",
+        "Coordinate": [
+            701,
+            2565,
+            1129,
+            2658
+        ]
+    }
+]

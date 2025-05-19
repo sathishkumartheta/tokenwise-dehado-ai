@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaitra Bhargava",
+        "Coordinate": [
+            898,
+            470,
+            1600,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kevin Bhargava",
+        "Coordinate": [
+            906,
+            570,
+            1576,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/25/1970",
+        "Coordinate": [
+            902,
+            653,
+            1288,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            916,
+            766,
+            1513,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            839,
+            1243,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1789,
+            845,
+            2069,
+            923
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            967,
+            961,
+            1168,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            949,
+            2077,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Nair-Manne",
+        "Coordinate": [
+            1085,
+            1038,
+            2117,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Ramesh-Aggarwal",
+        "Coordinate": [
+            1008,
+            1148,
+            2197,
+            1276
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "99/32, Bose Zila, Maheshtala-442179",
+        "Coordinate": [
+            925,
+            1290,
+            2316,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Krishnamurthy Marg, Kanpur 462404",
+        "Coordinate": [
+            939,
+            1515,
+            2190,
+            1708
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7373796550",
+        "Coordinate": [
+            912,
+            1773,
+            1334,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9860513537",
+        "Coordinate": [
+            1844,
+            1754,
+            2304,
+            1856
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            927,
+            1902,
+            1608,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gopal Ravel - 7724467969",
+        "Coordinate": [
+            1002,
+            2002,
+            2186,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gavin Samra - 9792666523",
+        "Coordinate": [
+            1026,
+            2130,
+            2233,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            657,
+            2414,
+            953,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/29/2024",
+        "Coordinate": [
+            653,
+            2509,
+            1073,
+            2584
+        ]
+    }
+]

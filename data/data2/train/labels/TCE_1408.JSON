@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nimrat Cherian",
+        "Coordinate": [
+            899,
+            476,
+            1558,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kalpit Cherian",
+        "Coordinate": [
+            899,
+            571,
+            1540,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1977",
+        "Coordinate": [
+            913,
+            664,
+            1345,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            919,
+            765,
+            1299,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            850,
+            1229,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1743,
+            865,
+            2048,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            985,
+            927,
+            1141,
+            1061
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            954,
+            2073,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Manda-Ramachandran",
+        "Coordinate": [
+            992,
+            1062,
+            2307,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Balakrishnan  Parsa and Tandon",
+        "Coordinate": [
+            1005,
+            1153,
+            2398,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "183, Naidu, Vijayanagaram-389335",
+        "Coordinate": [
+            894,
+            1272,
+            2291,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "41/951, Ratti Chowk, Navi Mumbai-786985",
+        "Coordinate": [
+            900,
+            1501,
+            2220,
+            1721
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada, Marathi, Telugu",
+        "Coordinate": [
+            890,
+            1887,
+            2290,
+            2016
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7489038892",
+        "Coordinate": [
+            886,
+            1754,
+            1333,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9685711680",
+        "Coordinate": [
+            1794,
+            1785,
+            2286,
+            1884
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yauvani Singh - 9973178235",
+        "Coordinate": [
+            922,
+            2011,
+            2115,
+            2128
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            638,
+            2401,
+            911,
+            2478
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Suhani Jain - 7836267246",
+        "Coordinate": [
+            949,
+            2142,
+            2025,
+            2248
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/10/2025",
+        "Coordinate": [
+            608,
+            2490,
+            1031,
+            2602
+        ]
+    }
+]

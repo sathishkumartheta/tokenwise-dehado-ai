@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balveer Chaudhary",
+        "Coordinate": [
+            922,
+            468,
+            1491,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Chaudhary",
+        "Coordinate": [
+            918,
+            565,
+            1514,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/8/1983",
+        "Coordinate": [
+            928,
+            653,
+            1284,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            938,
+            739,
+            1289,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            843,
+            1226,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            979,
+            945,
+            1096,
+            1022
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1763,
+            848,
+            2038,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            943,
+            2085,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Chatterjee-Bassi",
+        "Coordinate": [
+            1021,
+            1045,
+            1961,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Mistry-Das",
+        "Coordinate": [
+            1026,
+            1149,
+            1901,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 158, Bala Circle, Morbi-872970",
+        "Coordinate": [
+            946,
+            1270,
+            2230,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83, Parekh Zila, Gulbarga 206051",
+        "Coordinate": [
+            922,
+            1539,
+            2152,
+            1694
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8276969187",
+        "Coordinate": [
+            924,
+            1766,
+            1341,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9145243922",
+        "Coordinate": [
+            1841,
+            1770,
+            2257,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Malayalam",
+        "Coordinate": [
+            914,
+            1903,
+            1858,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Netra Subramaniam - 9330831009",
+        "Coordinate": [
+            998,
+            2004,
+            2151,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Advaith Oza - 9835882064",
+        "Coordinate": [
+            1000,
+            2143,
+            1961,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            623,
+            2413,
+            850,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/13/2025",
+        "Coordinate": [
+            624,
+            2510,
+            1028,
+            2588
+        ]
+    }
+]

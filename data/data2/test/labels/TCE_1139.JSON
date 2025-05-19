@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bimala Madan",
+        "Coordinate": [
+            926,
+            466,
+            1398,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Madan",
+        "Coordinate": [
+            920,
+            562,
+            1412,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1967",
+        "Coordinate": [
+            912,
+            645,
+            1279,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            906,
+            753,
+            1261,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            836,
+            1187,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            842,
+            2070,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            950,
+            930,
+            1135,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            946,
+            2090,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Kapur  Narang and Ratti",
+        "Coordinate": [
+            973,
+            1030,
+            2207,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Deol and Sons",
+        "Coordinate": [
+            980,
+            1135,
+            1989,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 174, Ravi Circle, Vijayanagaram-805846",
+        "Coordinate": [
+            896,
+            1264,
+            2186,
+            1460
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 435, Sur Zila, Medininagar 172610",
+        "Coordinate": [
+            909,
+            1513,
+            2232,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7175645453",
+        "Coordinate": [
+            906,
+            1770,
+            1345,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7999447604",
+        "Coordinate": [
+            1840,
+            1768,
+            2266,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, English, Hindi",
+        "Coordinate": [
+            906,
+            1915,
+            2089,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eta Ranganathan - 7964943600",
+        "Coordinate": [
+            973,
+            2011,
+            2209,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faraj Krishna - 7100398220",
+        "Coordinate": [
+            962,
+            2140,
+            2100,
+            2267
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            611,
+            2403,
+            909,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/10/2025",
+        "Coordinate": [
+            637,
+            2501,
+            1066,
+            2586
+        ]
+    }
+]

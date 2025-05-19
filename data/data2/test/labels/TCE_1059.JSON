@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaaya Gour",
+        "Coordinate": [
+            928,
+            482,
+            1482,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aryan Gour",
+        "Coordinate": [
+            980,
+            588,
+            1460,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/1/1968",
+        "Coordinate": [
+            972,
+            682,
+            1320,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            968,
+            760,
+            1318,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            960,
+            865,
+            1294,
+            964
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1826,
+            850,
+            2106,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            953,
+            2142,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1030,
+            976,
+            1158,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kala-Bakshi",
+        "Coordinate": [
+            1000,
+            1056,
+            1918,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dewan  Kaur and Wable",
+        "Coordinate": [
+            1002,
+            1164,
+            2276,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "12/920, Dua Chowk, Thiruvananthapuram 335823",
+        "Coordinate": [
+            932,
+            1288,
+            2312,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 113, Tank, Latur-927876",
+        "Coordinate": [
+            928,
+            1522,
+            2196,
+            1643
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8637342929",
+        "Coordinate": [
+            952,
+            1804,
+            1374,
+            1905
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8733749573",
+        "Coordinate": [
+            1628,
+            1836,
+            2150,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Tamil",
+        "Coordinate": [
+            935,
+            1923,
+            1927,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Naksh Korpal - 9797801367",
+        "Coordinate": [
+            1016,
+            2016,
+            2080,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhimanyu Memon - 9977809075",
+        "Coordinate": [
+            1006,
+            2156,
+            2246,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            676,
+            2444,
+            1018,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/9/2024",
+        "Coordinate": [
+            672,
+            2512,
+            1116,
+            2609
+        ]
+    }
+]

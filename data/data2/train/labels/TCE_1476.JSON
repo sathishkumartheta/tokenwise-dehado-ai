@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charita Choudhry",
+        "Coordinate": [
+            901,
+            476,
+            1532,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aryan Choudhry",
+        "Coordinate": [
+            901,
+            571,
+            1512,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/24/1995",
+        "Coordinate": [
+            911,
+            655,
+            1300,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            901,
+            761,
+            1148,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            845,
+            1232,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            866,
+            2062,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            917,
+            929,
+            1120,
+            1026
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            955,
+            2074,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Nanda LLC",
+        "Coordinate": [
+            976,
+            1025,
+            2002,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Nagar  Deol and Chacko",
+        "Coordinate": [
+            971,
+            1151,
+            2269,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 594, Korpal Marg, Shahjahanpur 798427",
+        "Coordinate": [
+            896,
+            1271,
+            2157,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 770, Ben Marg, Berhampur-701936",
+        "Coordinate": [
+            901,
+            1499,
+            2198,
+            1674
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Telugu, Marathi",
+        "Coordinate": [
+            891,
+            1885,
+            2028,
+            1990
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8621127620",
+        "Coordinate": [
+            896,
+            1760,
+            1344,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9961853491",
+        "Coordinate": [
+            1565,
+            1804,
+            1962,
+            1894
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Niharika Nori - 9320323720",
+        "Coordinate": [
+            923,
+            2009,
+            1945,
+            2150
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            648,
+            2402,
+            947,
+            2486
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aashi Kalita - 9974813967",
+        "Coordinate": [
+            951,
+            2141,
+            1965,
+            2262
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/11/2022",
+        "Coordinate": [
+            655,
+            2489,
+            1019,
+            2610
+        ]
+    }
+]

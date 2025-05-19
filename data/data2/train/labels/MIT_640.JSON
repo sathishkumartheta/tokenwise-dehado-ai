@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wyatt Amble",
+        "Coordinate": [
+            897,
+            505,
+            1275,
+            606
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abdul Amble",
+        "Coordinate": [
+            883,
+            594,
+            1307,
+            690
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/5/2003",
+        "Coordinate": [
+            910,
+            697,
+            1211,
+            778
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            912,
+            793,
+            1153,
+            868
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            888,
+            1195,
+            984
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            852,
+            1965,
+            968
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            978,
+            2029,
+            1066
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            919,
+            980,
+            1101,
+            1064
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Divan-Jani",
+        "Coordinate": [
+            977,
+            1073,
+            1729,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Gaba  Pau and Badal",
+        "Coordinate": [
+            980,
+            1188,
+            2039,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61/29, Johal Ganj, Aurangabad-495220",
+        "Coordinate": [
+            927,
+            1320,
+            2203,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/717, Patil Chowk, Kharagpur 748066",
+        "Coordinate": [
+            922,
+            1565,
+            2179,
+            1706
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8885837598",
+        "Coordinate": [
+            920,
+            1802,
+            1351,
+            1924
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8120931834",
+        "Coordinate": [
+            1840,
+            1800,
+            2269,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            897,
+            1937,
+            1575,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekansh Golla - 8160049759",
+        "Coordinate": [
+            957,
+            2048,
+            1839,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Bali - 8888623111",
+        "Coordinate": [
+            960,
+            2178,
+            1775,
+            2276
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "338308000000",
+        "Coordinate": [
+            600,
+            2370,
+            1079,
+            2448
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            632,
+            2438,
+            897,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/29/2022",
+        "Coordinate": [
+            610,
+            2527,
+            1065,
+            2630
+        ]
+    }
+]

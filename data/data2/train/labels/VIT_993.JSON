@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "796646000000",
+        "Coordinate": [
+            587,
+            2398,
+            1102,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            642,
+            2504,
+            900,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/3/2025",
+        "Coordinate": [
+            592,
+            2598,
+            948,
+            2690
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chanchal Raghavan - 8793663006",
+        "Coordinate": [
+            960,
+            2198,
+            1926,
+            2304
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yasti Vaidya - 7476059057",
+        "Coordinate": [
+            986,
+            2058,
+            1968,
+            2156
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            898,
+            1952,
+            1336,
+            2046
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9279186516",
+        "Coordinate": [
+            886,
+            1801,
+            1248,
+            1917
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 444, Salvi Road, Shivpuri-814525",
+        "Coordinate": [
+            888,
+            1532,
+            2240,
+            1638
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7621215062",
+        "Coordinate": [
+            1868,
+            1800,
+            2246,
+            1894
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44, Chokshi Street, Karimnagar 394904",
+        "Coordinate": [
+            890,
+            1292,
+            2192,
+            1442
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Shukla-Din",
+        "Coordinate": [
+            982,
+            1182,
+            1744,
+            1272
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Dhaliwal-Pandey",
+        "Coordinate": [
+            966,
+            1048,
+            1800,
+            1176
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachana Magar",
+        "Coordinate": [
+            876,
+            439,
+            1344,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Liam Magar",
+        "Coordinate": [
+            910,
+            550,
+            1328,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/24/1999",
+        "Coordinate": [
+            886,
+            656,
+            1250,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            874,
+            750,
+            1036,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            852,
+            1192,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            940,
+            962,
+            1094,
+            1046
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1874,
+            829,
+            2134,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1890,
+            956,
+            2088,
+            1046
+        ]
+    }
+]

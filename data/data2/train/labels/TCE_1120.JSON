@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advika Pandit",
+        "Coordinate": [
+            921,
+            486,
+            1563,
+            564
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hemang Pandit",
+        "Coordinate": [
+            929,
+            576,
+            1522,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/26/1985",
+        "Coordinate": [
+            929,
+            683,
+            1381,
+            773
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            929,
+            775,
+            1347,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            929,
+            871,
+            1221,
+            966
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1727,
+            843,
+            2041,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1777,
+            952,
+            2093,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            938,
+            966,
+            1046,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shere and Sons",
+        "Coordinate": [
+            1002,
+            1056,
+            2208,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Thakkar LLC",
+        "Coordinate": [
+            997,
+            1163,
+            2068,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "88/668, Wadhwa, Navi Mumbai-652854",
+        "Coordinate": [
+            907,
+            1281,
+            2232,
+            1515
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 523, Chauhan Marg, Bareilly 370727",
+        "Coordinate": [
+            910,
+            1522,
+            1956,
+            1769
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9083664313",
+        "Coordinate": [
+            907,
+            1784,
+            1349,
+            1911
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9380266034",
+        "Coordinate": [
+            1845,
+            1775,
+            2289,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Telugu, Tamil",
+        "Coordinate": [
+            924,
+            1913,
+            2152,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Liam Balakrishnan - 9954715175",
+        "Coordinate": [
+            1002,
+            2006,
+            2149,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ikshita Bera - 9711376625",
+        "Coordinate": [
+            988,
+            2138,
+            1994,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "917287000000",
+        "Coordinate": [
+            648,
+            2334,
+            1237,
+            2429
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XUKWH3090F",
+        "Coordinate": [
+            1631,
+            2334,
+            2197,
+            2432
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            651,
+            2430,
+            1437,
+            2528
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/12/2024",
+        "Coordinate": [
+            654,
+            2514,
+            1095,
+            2611
+        ]
+    }
+]

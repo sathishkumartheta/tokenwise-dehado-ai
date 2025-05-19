@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Joshua Atwal",
+        "Coordinate": [
+            892,
+            431,
+            1526,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Victor Atwal",
+        "Coordinate": [
+            927,
+            532,
+            1522,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-06-1964",
+        "Coordinate": [
+            936,
+            631,
+            1364,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            942,
+            732,
+            1406,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            967,
+            835,
+            1340,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1839,
+            838,
+            2078,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            941,
+            2235,
+            1041
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            984,
+            937,
+            1142,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Aurora Ltd",
+        "Coordinate": [
+            1041,
+            1048,
+            2203,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Garg-Varty",
+        "Coordinate": [
+            1052,
+            1154,
+            2283,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "305, Sandal Nagar, Raiganj 485333",
+        "Coordinate": [
+            947,
+            1283,
+            2286,
+            1512
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 479, Parikh Path, Amritsar 982492",
+        "Coordinate": [
+            911,
+            1541,
+            2263,
+            1784
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7053003451",
+        "Coordinate": [
+            1638,
+            1858,
+            2224,
+            1945
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8046763306",
+        "Coordinate": [
+            907,
+            1812,
+            1366,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Kannada, English",
+        "Coordinate": [
+            942,
+            1943,
+            2350,
+            2063
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abdul Gole - 8885321565",
+        "Coordinate": [
+            1025,
+            2072,
+            2245,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishanvi Golla - 7234624266",
+        "Coordinate": [
+            1042,
+            2196,
+            2381,
+            2325
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CSSCL0153H",
+        "Coordinate": [
+            1702,
+            2391,
+            2325,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            665,
+            2477,
+            1067,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-04-2023",
+        "Coordinate": [
+            710,
+            2577,
+            1268,
+            2678
+        ]
+    }
+]

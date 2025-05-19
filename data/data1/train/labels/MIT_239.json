@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charvi Date",
+        "Coordinate": [
+            886,
+            399,
+            1289,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Date",
+        "Coordinate": [
+            885,
+            494,
+            1249,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/24/2002",
+        "Coordinate": [
+            920,
+            595,
+            1290,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            917,
+            693,
+            1249,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            798,
+            1204,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1834,
+            788,
+            2093,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            901,
+            2113,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            912,
+            901,
+            1037,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sankar-Maharaj",
+        "Coordinate": [
+            968,
+            988,
+            1926,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Shanker-Kohli",
+        "Coordinate": [
+            970,
+            1103,
+            1927,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 550, Chaudhuri Street, Anand-546602",
+        "Coordinate": [
+            908,
+            1259,
+            2324,
+            1390
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13, Lal, Tadepalligudem 059736",
+        "Coordinate": [
+            890,
+            1478,
+            2012,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7566172503",
+        "Coordinate": [
+            1851,
+            1759,
+            2293,
+            1872
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9036271042",
+        "Coordinate": [
+            896,
+            1762,
+            1317,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English, Gujarati",
+        "Coordinate": [
+            871,
+            1894,
+            1727,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Quincy Malhotra - 7517702432",
+        "Coordinate": [
+            933,
+            2005,
+            2061,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mohini Golla - 8662596202",
+        "Coordinate": [
+            948,
+            2133,
+            1915,
+            2241
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ABBWT8604B",
+        "Coordinate": [
+            1612,
+            2339,
+            2090,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            598,
+            2424,
+            819,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2022",
+        "Coordinate": [
+            598,
+            2521,
+            1000,
+            2607
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekta Desai",
+        "Coordinate": [
+            897,
+            393,
+            1311,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Akshay Desai",
+        "Coordinate": [
+            929,
+            489,
+            1410,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-02-2003",
+        "Coordinate": [
+            942,
+            592,
+            1253,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            686,
+            1237,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            946,
+            787,
+            1201,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1788,
+            788,
+            2053,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            894,
+            2101,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            952,
+            895,
+            1072,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Dugar-Dora",
+        "Coordinate": [
+            986,
+            983,
+            1886,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mangal  Dada and Bora",
+        "Coordinate": [
+            963,
+            1098,
+            2283,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "029, Mutti Path, Muzaffarpur 372629",
+        "Coordinate": [
+            897,
+            1221,
+            2196,
+            1351
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 661, Lad Path, Suryapet 133138",
+        "Coordinate": [
+            897,
+            1476,
+            2229,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8623074749",
+        "Coordinate": [
+            1864,
+            1760,
+            2290,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7092209950",
+        "Coordinate": [
+            934,
+            1764,
+            1339,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Kannada, Gujarati",
+        "Coordinate": [
+            948,
+            1890,
+            2194,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Caleb Mahajan - 7171170084",
+        "Coordinate": [
+            965,
+            2004,
+            1956,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Naksh Bhatt - 9913549539",
+        "Coordinate": [
+            975,
+            2131,
+            1987,
+            2236
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "507000000000.0",
+        "Coordinate": [
+            636,
+            2332,
+            1193,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            666,
+            2424,
+            956,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/24/2022",
+        "Coordinate": [
+            691,
+            2516,
+            1088,
+            2597
+        ]
+    }
+]

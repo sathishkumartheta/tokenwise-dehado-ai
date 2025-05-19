@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Januja Savant",
+        "Coordinate": [
+            873,
+            438,
+            1482,
+            546
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Finn Savant",
+        "Coordinate": [
+            873,
+            550,
+            1394,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/5/1960",
+        "Coordinate": [
+            881,
+            643,
+            1191,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            887,
+            743,
+            1217,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            879,
+            836,
+            1240,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1837,
+            838,
+            2135,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            907,
+            971,
+            1041,
+            1051
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            951,
+            2135,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Sawhney and Sons",
+        "Coordinate": [
+            946,
+            1068,
+            2299,
+            1174
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Krishna-Thakur",
+        "Coordinate": [
+            936,
+            1182,
+            2048,
+            1297
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 67, Sharma Nagar, Adoni-565743",
+        "Coordinate": [
+            905,
+            1433,
+            2362,
+            1554
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "05, Raman Road, Panihati-164909",
+        "Coordinate": [
+            881,
+            1704,
+            2208,
+            1806
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7802477897",
+        "Coordinate": [
+            877,
+            1819,
+            1318,
+            1907
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8751852472",
+        "Coordinate": [
+            1853,
+            1817,
+            2299,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            940,
+            1954,
+            1546,
+            2059
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anika Sandal - 8795187332",
+        "Coordinate": [
+            959,
+            2102,
+            2026,
+            2190
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wridesh Bedi - 9570912160",
+        "Coordinate": [
+            946,
+            2229,
+            1981,
+            2330
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "996406000000",
+        "Coordinate": [
+            587,
+            2414,
+            1195,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            583,
+            2490,
+            932,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/25/2024",
+        "Coordinate": [
+            581,
+            2588,
+            959,
+            2691
+        ]
+    }
+]

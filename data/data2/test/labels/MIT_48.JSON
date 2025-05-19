@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaman Merchant",
+        "Coordinate": [
+            925,
+            444,
+            1697,
+            537
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jatin Merchant",
+        "Coordinate": [
+            920,
+            537,
+            1617,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/29/1964",
+        "Coordinate": [
+            929,
+            644,
+            1312,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            908,
+            725,
+            1265,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            832,
+            1212,
+            920
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            803,
+            2080,
+            903
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            922,
+            2147,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            925,
+            917,
+            1022,
+            1003
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Loyal and Sons",
+        "Coordinate": [
+            982,
+            1017,
+            2109,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Dube-Ramachandran",
+        "Coordinate": [
+            1043,
+            1139,
+            2309,
+            1224
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 104, Parsa Chowk, Kota 126788",
+        "Coordinate": [
+            910,
+            1257,
+            2040,
+            1457
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 158, Nair Zila, Ahmedabad-661839",
+        "Coordinate": [
+            917,
+            1498,
+            2175,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7430727710",
+        "Coordinate": [
+            1871,
+            1754,
+            2256,
+            1850
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7415285239",
+        "Coordinate": [
+            920,
+            1759,
+            1345,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Telugu",
+        "Coordinate": [
+            913,
+            1876,
+            1968,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lajita Gara - 7762592114",
+        "Coordinate": [
+            984,
+            1985,
+            2004,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amruta Mitra - 8764718642",
+        "Coordinate": [
+            1010,
+            2118,
+            2140,
+            2221
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "860130000000",
+        "Coordinate": [
+            634,
+            2301,
+            1191,
+            2387
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            646,
+            2394,
+            1431,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/12/2023",
+        "Coordinate": [
+            627,
+            2485,
+            1010,
+            2580
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shivansh Sura",
+        "Coordinate": [
+            916,
+            421,
+            1417,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Praneel Sura",
+        "Coordinate": [
+            929,
+            530,
+            1323,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/28/2001",
+        "Coordinate": [
+            939,
+            634,
+            1269,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            947,
+            734,
+            1260,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            989,
+            838,
+            1174,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1814,
+            794,
+            1964,
+            889
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1863,
+            907,
+            2093,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1004,
+            937,
+            1116,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Babu  Chandra and Som",
+        "Coordinate": [
+            1015,
+            998,
+            2193,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bora-Narang",
+        "Coordinate": [
+            1039,
+            1109,
+            1831,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 61, Memon Road, Tadepalligudem-335174",
+        "Coordinate": [
+            961,
+            1226,
+            2295,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42, Ben Marg, Jamalpur-372631",
+        "Coordinate": [
+            932,
+            1489,
+            2071,
+            1621
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7540188042",
+        "Coordinate": [
+            1919,
+            1746,
+            2303,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7520615984",
+        "Coordinate": [
+            917,
+            1781,
+            1277,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Kannada, Marathi",
+        "Coordinate": [
+            947,
+            1919,
+            1967,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshmi Natt - 7563919488",
+        "Coordinate": [
+            1019,
+            2028,
+            1859,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nakul Goswami - 8963948246",
+        "Coordinate": [
+            1046,
+            2145,
+            1889,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "927000000000.0",
+        "Coordinate": [
+            672,
+            2365,
+            1240,
+            2454
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            685,
+            2460,
+            1079,
+            2551
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/15/2023",
+        "Coordinate": [
+            687,
+            2559,
+            931,
+            2660
+        ]
+    }
+]

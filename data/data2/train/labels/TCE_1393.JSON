@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charles Tailor",
+        "Coordinate": [
+            925,
+            466,
+            1408,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Tailor",
+        "Coordinate": [
+            947,
+            553,
+            1399,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/8/1965",
+        "Coordinate": [
+            931,
+            666,
+            1261,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            887,
+            731,
+            1274,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            936,
+            856,
+            1231,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1802,
+            851,
+            1993,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            937,
+            2062,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            958,
+            964,
+            1161,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Parmer and Sons",
+        "Coordinate": [
+            1077,
+            1045,
+            2235,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Nagi-Arora",
+        "Coordinate": [
+            1044,
+            1154,
+            2123,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83, Mukhopadhyay Path, Madurai-357961",
+        "Coordinate": [
+            936,
+            1267,
+            2253,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 00, Shankar Path, Mahbubnagar 315227",
+        "Coordinate": [
+            936,
+            1500,
+            2209,
+            1685
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9302818221",
+        "Coordinate": [
+            904,
+            1760,
+            1339,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9435432001",
+        "Coordinate": [
+            1510,
+            1814,
+            1915,
+            1928
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Hindi",
+        "Coordinate": [
+            914,
+            1901,
+            1655,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Imaran Arya - 9126194806",
+        "Coordinate": [
+            1012,
+            1987,
+            1919,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dalaja Saran - 8620690401",
+        "Coordinate": [
+            1023,
+            2155,
+            2010,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            627,
+            2431,
+            953,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2022",
+        "Coordinate": [
+            665,
+            2507,
+            1092,
+            2595
+        ]
+    }
+]

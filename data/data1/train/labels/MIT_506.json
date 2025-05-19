@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Madhav Dey",
+        "Coordinate": [
+            905,
+            401,
+            1463,
+            506
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Dey",
+        "Coordinate": [
+            904,
+            505,
+            1517,
+            610
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/20/1968",
+        "Coordinate": [
+            910,
+            602,
+            1438,
+            706
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            913,
+            699,
+            1298,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            811,
+            1211,
+            916
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1851,
+            790,
+            2087,
+            903
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            924,
+            908,
+            1165,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Srivastava  Thaman and Ramakrishnan",
+        "Coordinate": [
+            1002,
+            1005,
+            2381,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Agarwal PLC",
+        "Coordinate": [
+            986,
+            1114,
+            2169,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "12, Bava Zila, Alwar 344730",
+        "Coordinate": [
+            946,
+            1229,
+            2359,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77/196, Soman Zila, Gandhinagar 965667",
+        "Coordinate": [
+            915,
+            1451,
+            2402,
+            1620
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9027764576",
+        "Coordinate": [
+            1906,
+            1741,
+            2482,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9655113299",
+        "Coordinate": [
+            909,
+            1747,
+            1403,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            914,
+            1898,
+            1811,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaman Baria - 9248517676",
+        "Coordinate": [
+            970,
+            2005,
+            2288,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wahab Hayer - 7346829606",
+        "Coordinate": [
+            979,
+            2101,
+            2308,
+            2235
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "425000000000.0",
+        "Coordinate": [
+            612,
+            2341,
+            1172,
+            2436
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PKECB7839K",
+        "Coordinate": [
+            1651,
+            2330,
+            2318,
+            2437
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            613,
+            2437,
+            1038,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/21/2024",
+        "Coordinate": [
+            610,
+            2526,
+            1259,
+            2631
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zinal Krishna",
+        "Coordinate": [
+            904,
+            468,
+            1437,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Krishna",
+        "Coordinate": [
+            896,
+            557,
+            1508,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/3/2004",
+        "Coordinate": [
+            916,
+            656,
+            1360,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            944,
+            757,
+            1255,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            962,
+            852,
+            1202,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1723,
+            847,
+            2001,
+            941
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            990,
+            939,
+            1133,
+            1042
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            950,
+            2082,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Malhotra  Narayan and Wason",
+        "Coordinate": [
+            966,
+            1036,
+            2288,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhagat-Goel",
+        "Coordinate": [
+            978,
+            1142,
+            2045,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76, Dayal Nagar, Begusarai-667252",
+        "Coordinate": [
+            920,
+            1292,
+            2266,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/451, Barad, Gandhidham-421083",
+        "Coordinate": [
+            924,
+            1529,
+            2136,
+            1728
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9148587360",
+        "Coordinate": [
+            923,
+            1758,
+            1341,
+            1910
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7875926628",
+        "Coordinate": [
+            1836,
+            1762,
+            2264,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Telugu, English",
+        "Coordinate": [
+            917,
+            1907,
+            2001,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojasvi Joshi - 8285420451",
+        "Coordinate": [
+            963,
+            2007,
+            2048,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chakrika Iyengar - 7050079352",
+        "Coordinate": [
+            959,
+            2134,
+            2162,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            606,
+            2405,
+            867,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/3/2024",
+        "Coordinate": [
+            634,
+            2502,
+            1037,
+            2588
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girindra Lall",
+        "Coordinate": [
+            890,
+            465,
+            1470,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranveer Lall",
+        "Coordinate": [
+            890,
+            581,
+            1410,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/22/1996",
+        "Coordinate": [
+            930,
+            671,
+            1346,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            935,
+            745,
+            1370,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            850,
+            1262,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            960,
+            955,
+            1210,
+            1038
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            846,
+            1970,
+            950
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            966,
+            2078,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kashyap  Keer and Datta",
+        "Coordinate": [
+            1010,
+            1066,
+            2286,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Raman-Ranganathan",
+        "Coordinate": [
+            930,
+            1161,
+            2202,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "984, Chawla Circle, Berhampore 251257",
+        "Coordinate": [
+            890,
+            1275,
+            2314,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 32, Sant Road, Burhanpur 981808",
+        "Coordinate": [
+            890,
+            1526,
+            2314,
+            1622
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8291661071",
+        "Coordinate": [
+            890,
+            1766,
+            1358,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9774107434",
+        "Coordinate": [
+            1815,
+            1796,
+            2278,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            895,
+            1926,
+            1546,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indali Magar - 7607133680",
+        "Coordinate": [
+            980,
+            2011,
+            2086,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bakhshi Raman - 9414509143",
+        "Coordinate": [
+            960,
+            2146,
+            2114,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            650,
+            2421,
+            1010,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/12/2023",
+        "Coordinate": [
+            640,
+            2516,
+            970,
+            2594
+        ]
+    }
+]

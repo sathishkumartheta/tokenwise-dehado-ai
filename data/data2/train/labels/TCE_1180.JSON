@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Guneet Patla",
+        "Coordinate": [
+            924,
+            464,
+            1467,
+            568
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Imaran Patla",
+        "Coordinate": [
+            923,
+            567,
+            1424,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/29/2001",
+        "Coordinate": [
+            949,
+            662,
+            1355,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            948,
+            767,
+            1257,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            980,
+            874,
+            1211,
+            972
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1842,
+            858,
+            2071,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1017,
+            957,
+            1210,
+            1052
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1873,
+            951,
+            2124,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Nayar  Ramachandran and Gade",
+        "Coordinate": [
+            1008,
+            1049,
+            2306,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Nair LLC",
+        "Coordinate": [
+            1011,
+            1159,
+            1774,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "671, Yohannan Circle, Alappuzha-013619",
+        "Coordinate": [
+            921,
+            1288,
+            2267,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73, Dhar Street, Berhampore 594144",
+        "Coordinate": [
+            929,
+            1540,
+            2215,
+            1726
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7472715521",
+        "Coordinate": [
+            918,
+            1788,
+            1361,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8140813536",
+        "Coordinate": [
+            1832,
+            1772,
+            2236,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English",
+        "Coordinate": [
+            920,
+            1903,
+            1552,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Varenya Gokhale - 8554264191",
+        "Coordinate": [
+            989,
+            2024,
+            2165,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ati Om - 8733544449",
+        "Coordinate": [
+            974,
+            2141,
+            1971,
+            2278
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "929428000000",
+        "Coordinate": [
+            645,
+            2338,
+            1288,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            645,
+            2438,
+            1543,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/16/2024",
+        "Coordinate": [
+            632,
+            2520,
+            1153,
+            2613
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Brinda Bora",
+        "Coordinate": [
+            875,
+            443,
+            1322,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warinder Bora",
+        "Coordinate": [
+            867,
+            560,
+            1436,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/9/2002",
+        "Coordinate": [
+            880,
+            660,
+            1226,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            867,
+            760,
+            1074,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            880,
+            868,
+            1160,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1825,
+            830,
+            2108,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1877,
+            950,
+            2132,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            900,
+            955,
+            1058,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Parikh Inc",
+        "Coordinate": [
+            962,
+            1058,
+            1832,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Khare-Ganesan",
+        "Coordinate": [
+            982,
+            1183,
+            1935,
+            1286
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 56, Kumer Ganj, Mahbubnagar 858055",
+        "Coordinate": [
+            892,
+            1325,
+            2260,
+            1516
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 74, Ramanathan Road, Kulti 607700",
+        "Coordinate": [
+            905,
+            1535,
+            2216,
+            1734
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7041194205",
+        "Coordinate": [
+            885,
+            1800,
+            1316,
+            1918
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7670841582",
+        "Coordinate": [
+            1572,
+            1845,
+            2052,
+            1960
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, English, Telugu",
+        "Coordinate": [
+            922,
+            1950,
+            2328,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advay Korpal - 8541174262",
+        "Coordinate": [
+            977,
+            2058,
+            1958,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Deepa Nagar - 7380167712",
+        "Coordinate": [
+            985,
+            2193,
+            1988,
+            2288
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MSFLP0930D",
+        "Coordinate": [
+            1659,
+            2375,
+            2134,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            590,
+            2495,
+            948,
+            2586
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/12/2022",
+        "Coordinate": [
+            610,
+            2594,
+            1027,
+            2680
+        ]
+    }
+]

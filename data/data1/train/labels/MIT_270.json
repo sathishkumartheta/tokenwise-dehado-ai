@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaman Bail",
+        "Coordinate": [
+            892,
+            393,
+            1331,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Bail",
+        "Coordinate": [
+            901,
+            491,
+            1331,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/30/1962",
+        "Coordinate": [
+            910,
+            593,
+            1223,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            685,
+            1174,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            792,
+            1103,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1786,
+            786,
+            2009,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            894,
+            2078,
+            978
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            911,
+            898,
+            1014,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chana-Munshi",
+        "Coordinate": [
+            961,
+            984,
+            1849,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Jain-Dora",
+        "Coordinate": [
+            959,
+            1098,
+            1745,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 595, Sekhon, Sonipat-441822",
+        "Coordinate": [
+            879,
+            1315,
+            2141,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 896, Singh Street, Kulti-271026",
+        "Coordinate": [
+            879,
+            1607,
+            2153,
+            1739
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7355321671",
+        "Coordinate": [
+            1850,
+            1760,
+            2255,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9098526068",
+        "Coordinate": [
+            882,
+            1762,
+            1313,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Tamil",
+        "Coordinate": [
+            882,
+            1891,
+            1598,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ladli Sood - 9323418660",
+        "Coordinate": [
+            958,
+            2005,
+            1838,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anmol Patil - 7671842810",
+        "Coordinate": [
+            965,
+            2129,
+            1880,
+            2228
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "934000000000.0",
+        "Coordinate": [
+            585,
+            2330,
+            1070,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            586,
+            2420,
+            827,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-03-2022",
+        "Coordinate": [
+            588,
+            2516,
+            970,
+            2596
+        ]
+    }
+]

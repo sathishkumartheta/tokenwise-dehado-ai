@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Janya Ghose",
+        "Coordinate": [
+            899,
+            476,
+            1470,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gautam Ghose",
+        "Coordinate": [
+            899,
+            571,
+            1432,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/7/1978",
+        "Coordinate": [
+            957,
+            664,
+            1345,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            919,
+            765,
+            1299,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            962,
+            845,
+            1229,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            864,
+            2047,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            984,
+            926,
+            1141,
+            1020
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            953,
+            2073,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Verma LLC",
+        "Coordinate": [
+            991,
+            1017,
+            1910,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Babu  Tank and Menon",
+        "Coordinate": [
+            1005,
+            1152,
+            2265,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 16, Kibe Street, Pondicherry-874402",
+        "Coordinate": [
+            894,
+            1270,
+            2290,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "227, Bahri Marg, Dharmavaram 191658",
+        "Coordinate": [
+            899,
+            1499,
+            2295,
+            1631
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Marathi, Telugu",
+        "Coordinate": [
+            889,
+            1885,
+            2046,
+            2014
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9580350168",
+        "Coordinate": [
+            886,
+            1753,
+            1333,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7022293669",
+        "Coordinate": [
+            1794,
+            1784,
+            2285,
+            1882
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lipika Kuruvilla - 9313692340",
+        "Coordinate": [
+            921,
+            2009,
+            2115,
+            2126
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            582,
+            2399,
+            911,
+            2496
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yauvani Prabhu - 7908857830",
+        "Coordinate": [
+            949,
+            2140,
+            2160,
+            2246
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/22/2025",
+        "Coordinate": [
+            608,
+            2488,
+            1030,
+            2600
+        ]
+    }
+]

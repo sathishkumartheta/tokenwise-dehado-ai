@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Panini Chakrabarti",
+        "Coordinate": [
+            903,
+            387,
+            1685,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pratyush Chakrabarti",
+        "Coordinate": [
+            914,
+            493,
+            1773,
+            590
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-06-1994",
+        "Coordinate": [
+            919,
+            588,
+            1241,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            911,
+            683,
+            1223,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            784,
+            1203,
+            873
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            784,
+            2040,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            891,
+            2112,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            926,
+            886,
+            1049,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Wagle-Doctor",
+        "Coordinate": [
+            989,
+            980,
+            1943,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Purohit-Das",
+        "Coordinate": [
+            997,
+            1093,
+            2009,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "483, Pingle Path, Ambarnath-296080",
+        "Coordinate": [
+            892,
+            1245,
+            2166,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33, Sharma Marg, Pune-210401",
+        "Coordinate": [
+            898,
+            1501,
+            2141,
+            1661
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8991542879",
+        "Coordinate": [
+            1916,
+            1748,
+            2340,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7265895364",
+        "Coordinate": [
+            906,
+            1752,
+            1372,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Kannada",
+        "Coordinate": [
+            913,
+            1890,
+            1924,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zayyan Wadhwa - 8321957469",
+        "Coordinate": [
+            984,
+            2003,
+            2254,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abdul Lal - 8959608866",
+        "Coordinate": [
+            1012,
+            2128,
+            2124,
+            2243
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "421000000000.0",
+        "Coordinate": [
+            601,
+            2332,
+            1236,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            632,
+            2420,
+            1063,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-02-2023",
+        "Coordinate": [
+            653,
+            2513,
+            1164,
+            2600
+        ]
+    }
+]

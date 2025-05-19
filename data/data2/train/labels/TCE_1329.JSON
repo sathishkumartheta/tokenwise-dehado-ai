@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Niharika Dhaliwal",
+        "Coordinate": [
+            916,
+            462,
+            1626,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Dhaliwal",
+        "Coordinate": [
+            902,
+            564,
+            1620,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/19/1974",
+        "Coordinate": [
+            910,
+            670,
+            1212,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            906,
+            758,
+            1216,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            856,
+            1260,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            835,
+            2036,
+            922
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            908,
+            948,
+            1074,
+            1023
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            938,
+            2078,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Din-Sangha",
+        "Coordinate": [
+            1010,
+            1026,
+            1948,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Guha  Gade and Kashyap",
+        "Coordinate": [
+            962,
+            1148,
+            2248,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33/75, Sem Path, Kumbakonam-139311",
+        "Coordinate": [
+            910,
+            1276,
+            2284,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "126, Pal Road, Tadepalligudem-757057",
+        "Coordinate": [
+            904,
+            1526,
+            2284,
+            1645
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7593897754",
+        "Coordinate": [
+            906,
+            1784,
+            1322,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9672260563",
+        "Coordinate": [
+            1810,
+            1768,
+            2266,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada",
+        "Coordinate": [
+            908,
+            1898,
+            1714,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Varenya Chander - 8295119606",
+        "Coordinate": [
+            966,
+            2004,
+            2206,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gabriel Zacharia - 8211000825",
+        "Coordinate": [
+            954,
+            2124,
+            2214,
+            2231
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            624,
+            2412,
+            926,
+            2483
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/8/2023",
+        "Coordinate": [
+            610,
+            2504,
+            1032,
+            2569
+        ]
+    }
+]

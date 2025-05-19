@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nitesh Oak",
+        "Coordinate": [
+            910,
+            420,
+            1219,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ansh Oak",
+        "Coordinate": [
+            927,
+            518,
+            1203,
+            608
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-08-2005",
+        "Coordinate": [
+            940,
+            617,
+            1170,
+            702
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            939,
+            711,
+            1190,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            938,
+            819,
+            1172,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1821,
+            805,
+            1983,
+            889
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1883,
+            912,
+            2080,
+            1002
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            950,
+            917,
+            1066,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sarraf-Bali",
+        "Coordinate": [
+            1023,
+            1011,
+            1696,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Datta-Chander",
+        "Coordinate": [
+            1031,
+            1129,
+            1741,
+            1236
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44/40, Pillai Road, Vasai-Virar-414701",
+        "Coordinate": [
+            928,
+            1265,
+            2026,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "50/368, Comar Chowk, Singrauli-097797",
+        "Coordinate": [
+            920,
+            1497,
+            1943,
+            1631
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8044480981",
+        "Coordinate": [
+            1896,
+            1770,
+            2225,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9217894918",
+        "Coordinate": [
+            926,
+            1778,
+            1242,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil",
+        "Coordinate": [
+            927,
+            1926,
+            1289,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lucky Kata - 9670329064",
+        "Coordinate": [
+            1000,
+            2032,
+            1728,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amara Parikh - 9605784882",
+        "Coordinate": [
+            1017,
+            2147,
+            1747,
+            2247
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GIOWJ5755Q",
+        "Coordinate": [
+            1673,
+            2360,
+            2095,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            652,
+            2448,
+            851,
+            2531
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-10-2025",
+        "Coordinate": [
+            640,
+            2544,
+            897,
+            2625
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Priya Menon",
+        "Coordinate": [
+            870,
+            396,
+            1240,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vivaan Menon",
+        "Coordinate": [
+            890,
+            497,
+            1363,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/23/1993",
+        "Coordinate": [
+            893,
+            595,
+            1207,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            895,
+            689,
+            1176,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            791,
+            1126,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1745,
+            784,
+            1994,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            893,
+            2078,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            884,
+            901,
+            990,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Vala-Ratta",
+        "Coordinate": [
+            967,
+            985,
+            1714,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Krishna and Sons",
+        "Coordinate": [
+            954,
+            1098,
+            1913,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19, Muni, Tiruppur-676945",
+        "Coordinate": [
+            904,
+            1305,
+            1844,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39, Prakash Path, Hospet 084964",
+        "Coordinate": [
+            884,
+            1469,
+            1964,
+            1594
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9049692430",
+        "Coordinate": [
+            1845,
+            1744,
+            2224,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8863600895",
+        "Coordinate": [
+            878,
+            1749,
+            1243,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Hindi",
+        "Coordinate": [
+            872,
+            1885,
+            1617,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mitali Balan - 7960106049",
+        "Coordinate": [
+            944,
+            1993,
+            1775,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranit Naidu - 7093441206",
+        "Coordinate": [
+            932,
+            2121,
+            1769,
+            2215
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "593000000000.0",
+        "Coordinate": [
+            584,
+            2330,
+            1009,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            580,
+            2418,
+            824,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-03-2022",
+        "Coordinate": [
+            576,
+            2516,
+            912,
+            2597
+        ]
+    }
+]

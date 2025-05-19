@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekta Bhatti",
+        "Coordinate": [
+            898,
+            474,
+            1464,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Bhatti",
+        "Coordinate": [
+            912,
+            573,
+            1508,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/10/1977",
+        "Coordinate": [
+            912,
+            669,
+            1317,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            931,
+            756,
+            1541,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            863,
+            1218,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1723,
+            866,
+            2016,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1761,
+            967,
+            2047,
+            1054
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            920,
+            943,
+            1067,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pall  Dayal and Nagy",
+        "Coordinate": [
+            981,
+            1055,
+            2218,
+            1186
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Nayar PLC",
+        "Coordinate": [
+            981,
+            1154,
+            1887,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 196, Magar Path, Howrah 944599",
+        "Coordinate": [
+            907,
+            1299,
+            2334,
+            1460
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 21, Devan Nagar, Kurnool 071360",
+        "Coordinate": [
+            887,
+            1540,
+            2273,
+            1710
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8571651391",
+        "Coordinate": [
+            898,
+            1776,
+            1313,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7072970521",
+        "Coordinate": [
+            1816,
+            1798,
+            2273,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi, Gujarati",
+        "Coordinate": [
+            904,
+            1913,
+            1915,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Karan Bhavsar - 7663003080",
+        "Coordinate": [
+            948,
+            2025,
+            1968,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hardik Ahuja - 7982190921",
+        "Coordinate": [
+            945,
+            2151,
+            1977,
+            2269
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            605,
+            2422,
+            911,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/28/2024",
+        "Coordinate": [
+            643,
+            2505,
+            1021,
+            2590
+        ]
+    }
+]

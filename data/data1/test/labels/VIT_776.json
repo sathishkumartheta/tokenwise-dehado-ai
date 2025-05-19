@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qabil Patil",
+        "Coordinate": [
+            898,
+            430,
+            1385,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yash Patil",
+        "Coordinate": [
+            925,
+            538,
+            1338,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-03-1976",
+        "Coordinate": [
+            939,
+            636,
+            1305,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            738,
+            1253,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            840,
+            1175,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1817,
+            825,
+            2024,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1861,
+            932,
+            2164,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            962,
+            940,
+            1087,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Ranganathan-Dani",
+        "Coordinate": [
+            1016,
+            1039,
+            2223,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Arya  Naidu and Thaman",
+        "Coordinate": [
+            1036,
+            1148,
+            2338,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 08, Pillay Ganj, Alwar-788598",
+        "Coordinate": [
+            892,
+            1273,
+            2313,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 696, Raj Path, Mangalore 962762",
+        "Coordinate": [
+            890,
+            1525,
+            2333,
+            1680
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8564411149",
+        "Coordinate": [
+            1892,
+            1802,
+            2325,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9613196457",
+        "Coordinate": [
+            883,
+            1804,
+            1302,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            912,
+            1943,
+            1426,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wriddhish Sachdeva - 8798817375",
+        "Coordinate": [
+            946,
+            2047,
+            2252,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fitan Ghosh - 9805467004",
+        "Coordinate": [
+            953,
+            2188,
+            2045,
+            2312
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QASIA6110M",
+        "Coordinate": [
+            1688,
+            2388,
+            2201,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            621,
+            2480,
+            927,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/20/2022",
+        "Coordinate": [
+            644,
+            2572,
+            1034,
+            2672
+        ]
+    }
+]

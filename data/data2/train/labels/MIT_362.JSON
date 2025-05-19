@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Andrew Kuruvilla",
+        "Coordinate": [
+            890,
+            389,
+            1398,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ojas Kuruvilla",
+        "Coordinate": [
+            886,
+            494,
+            1288,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/31/1962",
+        "Coordinate": [
+            883,
+            588,
+            1163,
+            669
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            900,
+            692,
+            1166,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            786,
+            1135,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1809,
+            780,
+            1988,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            885,
+            2086,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            916,
+            884,
+            1034,
+            968
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pandey PLC",
+        "Coordinate": [
+            952,
+            982,
+            1645,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Rau  Kapadia and Goswami",
+        "Coordinate": [
+            949,
+            1094,
+            2114,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 35, Kunda Chowk, Naihati 680648",
+        "Coordinate": [
+            883,
+            1270,
+            2086,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/398, Krishnamurthy Ganj, Hosur-842536",
+        "Coordinate": [
+            886,
+            1476,
+            2283,
+            1603
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7867896233",
+        "Coordinate": [
+            1858,
+            1738,
+            2223,
+            1817
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7069923203",
+        "Coordinate": [
+            885,
+            1747,
+            1260,
+            1830
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi",
+        "Coordinate": [
+            873,
+            1889,
+            1284,
+            1977
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidra Devi - 9244197566",
+        "Coordinate": [
+            947,
+            1995,
+            1633,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ganga Natt - 8558374366",
+        "Coordinate": [
+            957,
+            2118,
+            1783,
+            2219
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QUBAG2885M",
+        "Coordinate": [
+            1640,
+            2330,
+            2078,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            575,
+            2420,
+            819,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/3/2025",
+        "Coordinate": [
+            589,
+            2513,
+            884,
+            2589
+        ]
+    }
+]

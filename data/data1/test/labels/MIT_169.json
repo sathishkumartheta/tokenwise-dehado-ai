@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitali Bajwa",
+        "Coordinate": [
+            899,
+            394,
+            1344,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishwar Bajwa",
+        "Coordinate": [
+            904,
+            490,
+            1390,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-12-1981",
+        "Coordinate": [
+            918,
+            588,
+            1228,
+            672
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            911,
+            685,
+            1215,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            788,
+            1208,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            781,
+            2039,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            885,
+            2094,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            962,
+            893,
+            1099,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kibe-Jha",
+        "Coordinate": [
+            990,
+            983,
+            1669,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bhagat  Kothari and Kapadia",
+        "Coordinate": [
+            968,
+            1095,
+            2304,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "701, Boase Chowk, Faridabad-321298",
+        "Coordinate": [
+            906,
+            1223,
+            2228,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "16/74, Hora Street, Khandwa-934497",
+        "Coordinate": [
+            910,
+            1475,
+            2209,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7902696250",
+        "Coordinate": [
+            1862,
+            1747,
+            2263,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8676729322",
+        "Coordinate": [
+            908,
+            1750,
+            1292,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Tamil",
+        "Coordinate": [
+            910,
+            1883,
+            1746,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anita Srivastava - 9938424288",
+        "Coordinate": [
+            953,
+            1995,
+            2034,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagvi Rao - 7534742937",
+        "Coordinate": [
+            961,
+            2126,
+            1800,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "662000000000.0",
+        "Coordinate": [
+            615,
+            2327,
+            1063,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            623,
+            2420,
+            863,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/26/2022",
+        "Coordinate": [
+            631,
+            2514,
+            990,
+            2594
+        ]
+    }
+]

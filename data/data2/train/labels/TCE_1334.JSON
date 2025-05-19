@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Guneet Kari",
+        "Coordinate": [
+            914,
+            484,
+            1364,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Devansh Kari",
+        "Coordinate": [
+            904,
+            576,
+            1464,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/7/1990",
+        "Coordinate": [
+            930,
+            674,
+            1268,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            762,
+            1522,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            864,
+            1240,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1704,
+            856,
+            1906,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1788,
+            951,
+            2086,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            938,
+            939,
+            1080,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Baral-Mahajan",
+        "Coordinate": [
+            1017,
+            1050,
+            2025,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Lad-Varkey",
+        "Coordinate": [
+            993,
+            1152,
+            2047,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "49, Sagar Ganj, Srinagar-168763",
+        "Coordinate": [
+            916,
+            1268,
+            2176,
+            1377
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "722, Srivastava Path, Bongaigaon 836391",
+        "Coordinate": [
+            910,
+            1502,
+            2228,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8798103113",
+        "Coordinate": [
+            908,
+            1780,
+            1346,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9709061242",
+        "Coordinate": [
+            1812,
+            1786,
+            2272,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, English",
+        "Coordinate": [
+            892,
+            1912,
+            1910,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bachittar Chaudry - 7265002143",
+        "Coordinate": [
+            954,
+            2002,
+            2240,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yochana Chaudry - 9819181112",
+        "Coordinate": [
+            962,
+            2128,
+            2186,
+            2265
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/14/2023",
+        "Coordinate": [
+            614,
+            2500,
+            1032,
+            2587
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            614,
+            2428,
+            944,
+            2497
+        ]
+    }
+]

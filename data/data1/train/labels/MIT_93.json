@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Meghana Savant",
+        "Coordinate": [
+            887,
+            388,
+            1417,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Savant",
+        "Coordinate": [
+            884,
+            490,
+            1281,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-03-1968",
+        "Coordinate": [
+            898,
+            594,
+            1229,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            895,
+            688,
+            1215,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            794,
+            1123,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1830,
+            786,
+            2035,
+            882
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            898,
+            2053,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            909,
+            893,
+            1033,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Garde  Balakrishnan and Banerjee",
+        "Coordinate": [
+            947,
+            977,
+            2285,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Parikh  Nanda and Soni",
+        "Coordinate": [
+            943,
+            1098,
+            2124,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "72/82, Shan, Loni-578317",
+        "Coordinate": [
+            895,
+            1218,
+            1823,
+            1334
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42, Anne Road, Nagaon 547807",
+        "Coordinate": [
+            890,
+            1468,
+            2001,
+            1594
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8212469778",
+        "Coordinate": [
+            1857,
+            1747,
+            2245,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8304146681",
+        "Coordinate": [
+            892,
+            1753,
+            1276,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam, Marathi",
+        "Coordinate": [
+            920,
+            1880,
+            1869,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chandani Andra - 8253226819",
+        "Coordinate": [
+            948,
+            1999,
+            1947,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Brinda Kashyap - 9526826421",
+        "Coordinate": [
+            963,
+            2124,
+            2055,
+            2235
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "970000000000.0",
+        "Coordinate": [
+            612,
+            2327,
+            1094,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            622,
+            2427,
+            868,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/15/2022",
+        "Coordinate": [
+            618,
+            2516,
+            1009,
+            2599
+        ]
+    }
+]

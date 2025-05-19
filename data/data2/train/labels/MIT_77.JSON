@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omkaar Chokshi",
+        "Coordinate": [
+            955,
+            398,
+            1567,
+            504
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Chokshi",
+        "Coordinate": [
+            950,
+            520,
+            1583,
+            616
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/27/1962",
+        "Coordinate": [
+            965,
+            618,
+            1283,
+            700
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            959,
+            722,
+            1230,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            815,
+            1199,
+            904
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            822,
+            2009,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            930,
+            2077,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            947,
+            933,
+            1045,
+            994
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dasgupta  Seshadri and Shankar",
+        "Coordinate": [
+            1012,
+            1028,
+            2383,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Thaman  Desai and Tara",
+        "Coordinate": [
+            965,
+            1145,
+            2217,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69/78, Ghose Street, Vasai-Virar 995866",
+        "Coordinate": [
+            905,
+            1298,
+            2169,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "54, Deol Chowk, Haridwar-858333",
+        "Coordinate": [
+            922,
+            1507,
+            2119,
+            1660
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7097864156",
+        "Coordinate": [
+            897,
+            1795,
+            1301,
+            1916
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8056825246",
+        "Coordinate": [
+            1580,
+            1833,
+            2011,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            1087,
+            1928,
+            1711,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemani Deo - 8412160493",
+        "Coordinate": [
+            1020,
+            2030,
+            1961,
+            2158
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yahvi Naidu - 7850289479",
+        "Coordinate": [
+            1022,
+            2172,
+            2097,
+            2284
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OSZMF1615A",
+        "Coordinate": [
+            1677,
+            2350,
+            2063,
+            2454
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            635,
+            2448,
+            913,
+            2524
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/29/2025",
+        "Coordinate": [
+            617,
+            2535,
+            987,
+            2628
+        ]
+    }
+]

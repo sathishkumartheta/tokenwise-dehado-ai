@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yash Nanda",
+        "Coordinate": [
+            875,
+            446,
+            1278,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wahab Nanda",
+        "Coordinate": [
+            883,
+            541,
+            1303,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/21/1993",
+        "Coordinate": [
+            885,
+            651,
+            1142,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            895,
+            739,
+            1416,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            836,
+            1201,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            965,
+            934,
+            1129,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            839,
+            1989,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            952,
+            2107,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dhingra  Soni and Gupta",
+        "Coordinate": [
+            939,
+            1049,
+            2258,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sandal-Kota",
+        "Coordinate": [
+            960,
+            1175,
+            1835,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39, Kota Circle, Kharagpur 097978",
+        "Coordinate": [
+            898,
+            1316,
+            2294,
+            1483
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 044, Batra Path, Kolhapur 290107",
+        "Coordinate": [
+            893,
+            1560,
+            2330,
+            1722
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9419431438",
+        "Coordinate": [
+            895,
+            1825,
+            1357,
+            1940
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7051664918",
+        "Coordinate": [
+            1524,
+            1878,
+            2014,
+            1961
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, English, Kannada",
+        "Coordinate": [
+            883,
+            1953,
+            1935,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qabil Divan - 9012698161",
+        "Coordinate": [
+            949,
+            2058,
+            2058,
+            2174
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishani Divan - 7643952641",
+        "Coordinate": [
+            975,
+            2207,
+            2097,
+            2320
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "568495000000",
+        "Coordinate": [
+            628,
+            2402,
+            1206,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            600,
+            2500,
+            988,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/26/2022",
+        "Coordinate": [
+            600,
+            2587,
+            1080,
+            2674
+        ]
+    }
+]

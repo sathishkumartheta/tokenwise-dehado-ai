@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amruta Nair",
+        "Coordinate": [
+            913,
+            723,
+            1357,
+            794
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wahab Nair",
+        "Coordinate": [
+            924,
+            831,
+            1327,
+            894
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/24/1995",
+        "Coordinate": [
+            916,
+            916,
+            1262,
+            989
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            926,
+            1008,
+            1239,
+            1076
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            944,
+            1111,
+            1198,
+            1174
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            1090,
+            1943,
+            1164
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            1193,
+            2056,
+            1259
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1003,
+            1201,
+            1119,
+            1271
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Raval-Gill",
+        "Coordinate": [
+            1008,
+            1298,
+            1771,
+            1389
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Boase Group",
+        "Coordinate": [
+            1003,
+            1414,
+            1789,
+            1492
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "51, Ravel Circle, Raipur-312141",
+        "Coordinate": [
+            916,
+            1558,
+            1850,
+            1669
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "98/790, Sani Circle, Satna-466017",
+        "Coordinate": [
+            942,
+            1796,
+            2089,
+            1880
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9857679037",
+        "Coordinate": [
+            962,
+            2020,
+            1334,
+            2116
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7031299273",
+        "Coordinate": [
+            1843,
+            2017,
+            2192,
+            2111
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English",
+        "Coordinate": [
+            944,
+            2140,
+            1511,
+            2270
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Inaya Khalsa - 9205517341",
+        "Coordinate": [
+            988,
+            2276,
+            1953,
+            2383
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ubika Bansal - 9646877908",
+        "Coordinate": [
+            998,
+            2389,
+            1958,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            659,
+            2656,
+            1006,
+            2760
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/26/2025",
+        "Coordinate": [
+            669,
+            2761,
+            985,
+            2827
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Avi Khatri",
+        "Coordinate": [
+            908,
+            422,
+            1285,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Khatri",
+        "Coordinate": [
+            929,
+            523,
+            1306,
+            611
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-01-1985",
+        "Coordinate": [
+            957,
+            618,
+            1274,
+            698
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            950,
+            715,
+            1258,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            939,
+            824,
+            1215,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1822,
+            820,
+            2013,
+            901
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            913,
+            2116,
+            1009
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            973,
+            919,
+            1113,
+            1001
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Khosla Group",
+        "Coordinate": [
+            1031,
+            1016,
+            1901,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bobal  Wable and Arora",
+        "Coordinate": [
+            1044,
+            1131,
+            2230,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "696, Gera Path, Srinagar 910430",
+        "Coordinate": [
+            911,
+            1241,
+            2067,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/66, Butala Marg, Alwar 418328",
+        "Coordinate": [
+            909,
+            1478,
+            2123,
+            1597
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7178075368",
+        "Coordinate": [
+            1874,
+            1749,
+            2295,
+            1834
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8682272945",
+        "Coordinate": [
+            898,
+            1754,
+            1339,
+            1846
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Marathi",
+        "Coordinate": [
+            902,
+            1905,
+            1689,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mahika Bhatti - 7581401952",
+        "Coordinate": [
+            994,
+            2005,
+            1994,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rajeshri Khare - 7448146868",
+        "Coordinate": [
+            1028,
+            2127,
+            2061,
+            2228
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "578000000000.0",
+        "Coordinate": [
+            614,
+            2344,
+            1127,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            673,
+            2445,
+            928,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-07-2022",
+        "Coordinate": [
+            650,
+            2536,
+            1041,
+            2622
+        ]
+    }
+]

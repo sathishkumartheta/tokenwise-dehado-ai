@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Elijah Wali",
+        "Coordinate": [
+            892,
+            430,
+            1381,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Teerth Wali",
+        "Coordinate": [
+            878,
+            535,
+            1385,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/17/1960",
+        "Coordinate": [
+            885,
+            631,
+            1282,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            883,
+            732,
+            1256,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            838,
+            1186,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1822,
+            821,
+            2047,
+            908
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            926,
+            2171,
+            1019
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            892,
+            935,
+            1015,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sen-Raja",
+        "Coordinate": [
+            967,
+            1031,
+            1755,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mutti  Wagle and Barman",
+        "Coordinate": [
+            943,
+            1136,
+            2346,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94, Madan Path, Navi Mumbai 967393",
+        "Coordinate": [
+            890,
+            1264,
+            2320,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 80, Bir Nagar, Bulandshahr 817534",
+        "Coordinate": [
+            880,
+            1507,
+            2272,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9790800409",
+        "Coordinate": [
+            1861,
+            1795,
+            2314,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8076084464",
+        "Coordinate": [
+            877,
+            1797,
+            1326,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali",
+        "Coordinate": [
+            879,
+            1934,
+            1348,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Reyansh Bandi - 7653278304",
+        "Coordinate": [
+            956,
+            2036,
+            2103,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "George Bhandari - 8240284404",
+        "Coordinate": [
+            947,
+            2169,
+            2076,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "447000000000.0",
+        "Coordinate": [
+            572,
+            2375,
+            1100,
+            2455
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            577,
+            2474,
+            838,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/26/2022",
+        "Coordinate": [
+            575,
+            2564,
+            991,
+            2651
+        ]
+    }
+]

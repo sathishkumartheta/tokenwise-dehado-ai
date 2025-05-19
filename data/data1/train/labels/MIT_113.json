@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachita Choudhary",
+        "Coordinate": [
+            884,
+            419,
+            1456,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Choudhary",
+        "Coordinate": [
+            886,
+            522,
+            1392,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-12-1961",
+        "Coordinate": [
+            891,
+            628,
+            1239,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            892,
+            729,
+            1247,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            836,
+            1200,
+            930
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            904,
+            932,
+            1023,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sankaran Ltd",
+        "Coordinate": [
+            1014,
+            1026,
+            1787,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Ramesh  Nadkarni and Raja",
+        "Coordinate": [
+            1000,
+            1137,
+            2358,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83, Soman Street, Maheshtala-562422",
+        "Coordinate": [
+            894,
+            1279,
+            2092,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "02/762, Devan Zila, Sirsa 927868",
+        "Coordinate": [
+            900,
+            1526,
+            1999,
+            1697
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7084286954",
+        "Coordinate": [
+            890,
+            1801,
+            1357,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Hindi, Tamil",
+        "Coordinate": [
+            944,
+            1943,
+            1854,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Leena Pant - 8621149459",
+        "Coordinate": [
+            952,
+            2053,
+            2131,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Quincy Samra - 8232321604",
+        "Coordinate": [
+            984,
+            2183,
+            2266,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "nan",
+        "Coordinate": [
+            577,
+            2378,
+            1134,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            599,
+            2474,
+            905,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/14/2025",
+        "Coordinate": [
+            644,
+            2566,
+            1148,
+            2666
+        ]
+    }
+]

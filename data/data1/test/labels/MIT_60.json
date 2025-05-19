@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitesh Chawla",
+        "Coordinate": [
+            905,
+            405,
+            1553,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harshil Chawla",
+        "Coordinate": [
+            908,
+            510,
+            1648,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/18/1995",
+        "Coordinate": [
+            918,
+            618,
+            1287,
+            706
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            915,
+            707,
+            1513,
+            811
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            821,
+            1264,
+            916
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            782,
+            2032,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            892,
+            2153,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            936,
+            923,
+            1042,
+            1002
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saini Group",
+        "Coordinate": [
+            940,
+            992,
+            1792,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dhar Ltd",
+        "Coordinate": [
+            966,
+            1105,
+            1743,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 386, Shanker Path, Amaravati 826199",
+        "Coordinate": [
+            888,
+            1225,
+            2261,
+            1351
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "23/445, Narain Marg, Bidhannagar 313291",
+        "Coordinate": [
+            890,
+            1486,
+            2265,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7627205026",
+        "Coordinate": [
+            1873,
+            1746,
+            2326,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8275258221",
+        "Coordinate": [
+            894,
+            1758,
+            1359,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Hindi",
+        "Coordinate": [
+            904,
+            1898,
+            1809,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hitesh Gala - 9684859287",
+        "Coordinate": [
+            962,
+            2008,
+            1994,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unnati Murthy - 9690192784",
+        "Coordinate": [
+            967,
+            2129,
+            2046,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "317000000000.0",
+        "Coordinate": [
+            606,
+            2345,
+            1130,
+            2432
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            610,
+            2441,
+            970,
+            2529
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-12-2024",
+        "Coordinate": [
+            627,
+            2534,
+            1036,
+            2624
+        ]
+    }
+]

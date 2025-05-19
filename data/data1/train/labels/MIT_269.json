@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harshil Korpal",
+        "Coordinate": [
+            909,
+            392,
+            1573,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ikbal Korpal",
+        "Coordinate": [
+            918,
+            499,
+            1537,
+            599
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/1972",
+        "Coordinate": [
+            915,
+            602,
+            1294,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            908,
+            695,
+            1458,
+            804
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            809,
+            1234,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1850,
+            810,
+            2036,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            905,
+            2110,
+            992
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            978,
+            901,
+            1148,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Hayer  Patla and Sheth",
+        "Coordinate": [
+            989,
+            986,
+            2301,
+            1106
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Rege  Prasad and Mohanty",
+        "Coordinate": [
+            962,
+            1110,
+            2319,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "718, Mital Chowk, Faridabad-358268",
+        "Coordinate": [
+            910,
+            1273,
+            2339,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03, Gera Marg, Phusro-693265",
+        "Coordinate": [
+            902,
+            1476,
+            2104,
+            1619
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8450331389",
+        "Coordinate": [
+            1874,
+            1747,
+            2315,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9451524352",
+        "Coordinate": [
+            883,
+            1751,
+            1314,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Gujarati, Tamil",
+        "Coordinate": [
+            866,
+            1889,
+            2190,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yatan De - 7395326328",
+        "Coordinate": [
+            998,
+            2005,
+            1970,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Diya Wali - 8557984889",
+        "Coordinate": [
+            988,
+            2139,
+            1996,
+            2257
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HQOCC1101P",
+        "Coordinate": [
+            1638,
+            2338,
+            2069,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            597,
+            2420,
+            861,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-08-2023",
+        "Coordinate": [
+            607,
+            2519,
+            980,
+            2606
+        ]
+    }
+]

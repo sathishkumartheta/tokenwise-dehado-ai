@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upma Raj",
+        "Coordinate": [
+            892,
+            398,
+            1287,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Raj",
+        "Coordinate": [
+            898,
+            503,
+            1335,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1969",
+        "Coordinate": [
+            898,
+            599,
+            1235,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            916,
+            693,
+            1264,
+            786
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            802,
+            1224,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1827,
+            783,
+            2137,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            898,
+            2108,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            928,
+            898,
+            1059,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Doctor  Solanki and Andra",
+        "Coordinate": [
+            949,
+            978,
+            2198,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sama Group",
+        "Coordinate": [
+            972,
+            1109,
+            1845,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44, Batta Circle, Navi Mumbai-034717",
+        "Coordinate": [
+            889,
+            1227,
+            2318,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 58, Kurian Circle, Jaipur 159399",
+        "Coordinate": [
+            875,
+            1474,
+            2243,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7668461000",
+        "Coordinate": [
+            1852,
+            1754,
+            2277,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8905905049",
+        "Coordinate": [
+            877,
+            1754,
+            1354,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            864,
+            1893,
+            1436,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavani Pant - 8461342762",
+        "Coordinate": [
+            946,
+            1995,
+            1940,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashvi Sura - 9358313327",
+        "Coordinate": [
+            953,
+            2120,
+            1892,
+            2210
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HFUQC4524R",
+        "Coordinate": [
+            1615,
+            2333,
+            2174,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            568,
+            2419,
+            1009,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/29/2022",
+        "Coordinate": [
+            600,
+            2516,
+            1011,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvashi Sen",
+        "Coordinate": [
+            875,
+            440,
+            1314,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samaksh Sen",
+        "Coordinate": [
+            886,
+            541,
+            1386,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-07-1990",
+        "Coordinate": [
+            901,
+            646,
+            1233,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            877,
+            740,
+            1280,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            845,
+            1215,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1702,
+            831,
+            2024,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1770,
+            943,
+            2091,
+            1047
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            879,
+            950,
+            999,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bora-Deshpande",
+        "Coordinate": [
+            937,
+            1050,
+            2113,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Deshmukh  Bandi and Kari",
+        "Coordinate": [
+            938,
+            1155,
+            2212,
+            1279
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75/74, Parmar Nagar, Patiala 360677",
+        "Coordinate": [
+            896,
+            1291,
+            2255,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "24/97, Radhakrishnan Street, Mau-136496",
+        "Coordinate": [
+            879,
+            1549,
+            2313,
+            1725
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7902610227",
+        "Coordinate": [
+            1743,
+            1816,
+            2250,
+            1944
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9442312363",
+        "Coordinate": [
+            897,
+            1822,
+            1346,
+            1949
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Tamil",
+        "Coordinate": [
+            875,
+            1956,
+            1816,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarna Patla - 9436693195",
+        "Coordinate": [
+            928,
+            2075,
+            2046,
+            2194
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Mutti - 9727153560",
+        "Coordinate": [
+            920,
+            2198,
+            2077,
+            2332
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "237000000000.0",
+        "Coordinate": [
+            659,
+            2401,
+            1290,
+            2494
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            607,
+            2488,
+            873,
+            2586
+        ]
+    }
+]

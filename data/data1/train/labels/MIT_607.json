@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaitaly Arora",
+        "Coordinate": [
+            874,
+            431,
+            1289,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gabriel Arora",
+        "Coordinate": [
+            880,
+            528,
+            1296,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-09-2001",
+        "Coordinate": [
+            887,
+            629,
+            1148,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            882,
+            729,
+            1305,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            831,
+            1134,
+            923
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            834,
+            1997,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            937,
+            2048,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            892,
+            932,
+            992,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Patla-Solanki",
+        "Coordinate": [
+            972,
+            1034,
+            1714,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sharma-Nath",
+        "Coordinate": [
+            968,
+            1146,
+            1708,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 97, Kumar Road, Sri Ganganagar-694204",
+        "Coordinate": [
+            868,
+            1285,
+            2278,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 15, Sastry Ganj, Thane 133793",
+        "Coordinate": [
+            870,
+            1550,
+            1930,
+            1699
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8856496921",
+        "Coordinate": [
+            1854,
+            1801,
+            2230,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7969858530",
+        "Coordinate": [
+            874,
+            1804,
+            1314,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Kannada, Gujarati",
+        "Coordinate": [
+            873,
+            1938,
+            1911,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pallavi Rana - 7312514845",
+        "Coordinate": [
+            950,
+            2052,
+            1719,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ladli Walla - 9623512326",
+        "Coordinate": [
+            949,
+            2180,
+            1718,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "404000000000.0",
+        "Coordinate": [
+            579,
+            2384,
+            1045,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            576,
+            2478,
+            844,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-11-2022",
+        "Coordinate": [
+            574,
+            2566,
+            893,
+            2653
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "4/20/2023",
+        "Coordinate": [
+            616,
+            2504,
+            1094,
+            2575
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            620,
+            2416,
+            888,
+            2491
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedant Warrior - 7460215583",
+        "Coordinate": [
+            940,
+            2134,
+            2106,
+            2245
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gopal Vig - 9645984682",
+        "Coordinate": [
+            957,
+            2018,
+            1921,
+            2123
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            886,
+            1902,
+            1664,
+            2013
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9000654443",
+        "Coordinate": [
+            1800,
+            1780,
+            2252,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8778328729",
+        "Coordinate": [
+            892,
+            1791,
+            1320,
+            1870
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 43, Lala, Bulandshahr 662639",
+        "Coordinate": [
+            890,
+            1524,
+            2158,
+            1633
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90, Verma Nagar, Sambalpur-755074",
+        "Coordinate": [
+            918,
+            1298,
+            2280,
+            1473
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Sibal Ltd",
+        "Coordinate": [
+            992,
+            1150,
+            1848,
+            1265
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Yadav-Bail",
+        "Coordinate": [
+            990,
+            1044,
+            1836,
+            1133
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            966,
+            2066,
+            1051
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            868,
+            1974,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            924,
+            948,
+            1070,
+            1029
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            950,
+            752,
+            1092,
+            859
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/9/2001",
+        "Coordinate": [
+            924,
+            674,
+            1288,
+            737
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            944,
+            872,
+            1126,
+            947
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naveen Bhatti",
+        "Coordinate": [
+            912,
+            574,
+            1432,
+            657
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Zashil Bhatti",
+        "Coordinate": [
+            904,
+            488,
+            1444,
+            549
+        ]
+    }
+]

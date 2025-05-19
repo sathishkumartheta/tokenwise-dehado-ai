@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alexander Kurian",
+        "Coordinate": [
+            873,
+            442,
+            1405,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vincent Kurian",
+        "Coordinate": [
+            886,
+            547,
+            1329,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-09-2003",
+        "Coordinate": [
+            883,
+            643,
+            1202,
+            736
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            878,
+            744,
+            1332,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            851,
+            1088,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1763,
+            837,
+            1933,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            950,
+            2042,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            891,
+            953,
+            993,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Hari  Ganesan and Talwar",
+        "Coordinate": [
+            939,
+            1048,
+            2229,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saraf  Ray and Khatri",
+        "Coordinate": [
+            943,
+            1157,
+            2091,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "18/77, Mahajan Road, Bijapur-871446",
+        "Coordinate": [
+            886,
+            1295,
+            2178,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "155, Raval Marg, Asansol-940269",
+        "Coordinate": [
+            883,
+            1537,
+            2057,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9625608949",
+        "Coordinate": [
+            1868,
+            1807,
+            2288,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7985127484",
+        "Coordinate": [
+            879,
+            1818,
+            1299,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, English, Gujarati",
+        "Coordinate": [
+            881,
+            1950,
+            2061,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Keya Loyal - 8681262723",
+        "Coordinate": [
+            943,
+            2065,
+            1765,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi Sahota - 7507481656",
+        "Coordinate": [
+            947,
+            2191,
+            1900,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "498000000000.0",
+        "Coordinate": [
+            584,
+            2401,
+            1083,
+            2483
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TBHHJ7917Y",
+        "Coordinate": [
+            1640,
+            2394,
+            2091,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            591,
+            2490,
+            814,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/25/2024",
+        "Coordinate": [
+            595,
+            2581,
+            850,
+            2674
+        ]
+    }
+]

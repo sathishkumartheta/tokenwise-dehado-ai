@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayita Saraf",
+        "Coordinate": [
+            893,
+            461,
+            1366,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayushman Saraf",
+        "Coordinate": [
+            898,
+            561,
+            1470,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/26/1992",
+        "Coordinate": [
+            898,
+            661,
+            1270,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            898,
+            746,
+            1230,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            852,
+            1190,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1798,
+            824,
+            2105,
+            921
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            956,
+            1089,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            942,
+            2073,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kar PLC",
+        "Coordinate": [
+            968,
+            1041,
+            1736,
+            1121
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chhabra Inc",
+        "Coordinate": [
+            976,
+            1145,
+            1920,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 911, Vora Road, Bhiwandi-850989",
+        "Coordinate": [
+            929,
+            1255,
+            2209,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39/83, Kurian Marg, Madanapalle 610960",
+        "Coordinate": [
+            888,
+            1501,
+            2293,
+            1614
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7584036756",
+        "Coordinate": [
+            863,
+            1777,
+            1366,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8967713004",
+        "Coordinate": [
+            1832,
+            1757,
+            2258,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Bengali, Marathi",
+        "Coordinate": [
+            873,
+            1897,
+            1943,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vivaan Venkatesh - 9245200161",
+        "Coordinate": [
+            933,
+            2002,
+            1989,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manbir Kadakia - 9218683975",
+        "Coordinate": [
+            918,
+            2112,
+            2057,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            602,
+            2392,
+            962,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/27/2023",
+        "Coordinate": [
+            577,
+            2482,
+            965,
+            2571
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shravya Swaminathan",
+        "Coordinate": [
+            965,
+            458,
+            1935,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Swaminathan",
+        "Coordinate": [
+            981,
+            552,
+            1847,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/12/1963",
+        "Coordinate": [
+            1022,
+            658,
+            1369,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            985,
+            744,
+            1347,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1015,
+            847,
+            1333,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1855,
+            815,
+            2177,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1907,
+            935,
+            2255,
+            1010
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            992,
+            958,
+            1121,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Aggarwal-Sane",
+        "Coordinate": [
+            1111,
+            1048,
+            2337,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Menon Ltd",
+        "Coordinate": [
+            1103,
+            1150,
+            2215,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 032, Bumb Road, Bhiwandi-677418",
+        "Coordinate": [
+            997,
+            1255,
+            2403,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 65, Sehgal Street, Firozabad-743490",
+        "Coordinate": [
+            965,
+            1501,
+            2365,
+            1698
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7025370995",
+        "Coordinate": [
+            995,
+            1802,
+            1449,
+            1918
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9447637959",
+        "Coordinate": [
+            1682,
+            1838,
+            2283,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi",
+        "Coordinate": [
+            1030,
+            1937,
+            1633,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gunbir Chada - 9319010895",
+        "Coordinate": [
+            1152,
+            2045,
+            2273,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Odika Karan - 7604913110",
+        "Coordinate": [
+            1163,
+            2162,
+            2135,
+            2278
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DIUEB4779H",
+        "Coordinate": [
+            1793,
+            2358,
+            2340,
+            2458
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/12/2023",
+        "Coordinate": [
+            789,
+            2594,
+            1255,
+            2685
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            764,
+            2483,
+            1013,
+            2578
+        ]
+    }
+]

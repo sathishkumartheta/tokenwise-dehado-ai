@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Luke Dhawan",
+        "Coordinate": [
+            891,
+            462,
+            1363,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Dhawan",
+        "Coordinate": [
+            896,
+            562,
+            1414,
+            683
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/2001",
+        "Coordinate": [
+            900,
+            663,
+            1231,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            900,
+            748,
+            1207,
+            868
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            846,
+            1127,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1746,
+            846,
+            2072,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            896,
+            959,
+            1087,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            961,
+            2132,
+            1064
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Wali  Verma and Jhaveri",
+        "Coordinate": [
+            966,
+            1044,
+            2276,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bhasin PLC",
+        "Coordinate": [
+            974,
+            1148,
+            1968,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 23, Guha Road, Gurgaon 845672",
+        "Coordinate": [
+            903,
+            1275,
+            2287,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30, Kade Street, Proddatur-771467",
+        "Coordinate": [
+            914,
+            1514,
+            2152,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8625224724",
+        "Coordinate": [
+            865,
+            1782,
+            1351,
+            1863
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9978223122",
+        "Coordinate": [
+            1791,
+            1750,
+            2248,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Bengali, Gujarati",
+        "Coordinate": [
+            875,
+            1910,
+            2039,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samesh Bava - 8419221385",
+        "Coordinate": [
+            943,
+            2019,
+            1852,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jason Kibe - 8065326804",
+        "Coordinate": [
+            992,
+            2154,
+            1920,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            604,
+            2391,
+            1088,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/7/2023",
+        "Coordinate": [
+            635,
+            2513,
+            1059,
+            2618
+        ]
+    }
+]

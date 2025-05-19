@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vivaan Borde",
+        "Coordinate": [
+            860,
+            435,
+            1449,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Borde",
+        "Coordinate": [
+            871,
+            536,
+            1376,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/28/1972",
+        "Coordinate": [
+            889,
+            643,
+            1302,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            887,
+            750,
+            1232,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            851,
+            1207,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1768,
+            835,
+            2014,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            905,
+            962,
+            1029,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            958,
+            2110,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mallick-Grewal",
+        "Coordinate": [
+            1008,
+            1051,
+            2103,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Pal LLC",
+        "Coordinate": [
+            981,
+            1172,
+            1873,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "544, Sengupta Nagar, Sirsa 888922",
+        "Coordinate": [
+            876,
+            1293,
+            2234,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07/204, Mukherjee Nagar, Jabalpur 246175",
+        "Coordinate": [
+            889,
+            1540,
+            2295,
+            1738
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8219994955",
+        "Coordinate": [
+            878,
+            1836,
+            1350,
+            1916
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7120232174",
+        "Coordinate": [
+            1857,
+            1818,
+            2309,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English",
+        "Coordinate": [
+            899,
+            1957,
+            1620,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Alexander Mammen - 8721725628",
+        "Coordinate": [
+            1020,
+            2076,
+            2195,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Arin Mukhopadhyay - 8313261811",
+        "Coordinate": [
+            1038,
+            2206,
+            2236,
+            2329
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "383009000000",
+        "Coordinate": [
+            611,
+            2409,
+            1140,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            645,
+            2501,
+            1414,
+            2583
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/14/2025",
+        "Coordinate": [
+            725,
+            2585,
+            1287,
+            2678
+        ]
+    }
+]

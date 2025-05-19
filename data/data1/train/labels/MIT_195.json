@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Riya Dutt",
+        "Coordinate": [
+            906,
+            415,
+            1295,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ryan Dutt",
+        "Coordinate": [
+            913,
+            514,
+            1320,
+            609
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/15/1964",
+        "Coordinate": [
+            932,
+            616,
+            1295,
+            706
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            935,
+            712,
+            1276,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            811,
+            1240,
+            903
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1891,
+            792,
+            2159,
+            886
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1893,
+            903,
+            2171,
+            992
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            939,
+            915,
+            1084,
+            1005
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Rama Group",
+        "Coordinate": [
+            1000,
+            1004,
+            1868,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chander  Palla and Shukla",
+        "Coordinate": [
+            993,
+            1119,
+            2357,
+            1224
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 121, Sant Marg, Rewa-155973",
+        "Coordinate": [
+            916,
+            1270,
+            2291,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 70, Dugal Circle, Ulhasnagar-590960",
+        "Coordinate": [
+            921,
+            1488,
+            2407,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7318976087",
+        "Coordinate": [
+            1897,
+            1752,
+            2337,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8082858569",
+        "Coordinate": [
+            927,
+            1772,
+            1407,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi",
+        "Coordinate": [
+            926,
+            1914,
+            1670,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qushi Solanki - 7623685528",
+        "Coordinate": [
+            997,
+            2015,
+            2051,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatura Kakar - 9336915875",
+        "Coordinate": [
+            1008,
+            2140,
+            2102,
+            2254
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XTNKF1876I",
+        "Coordinate": [
+            1688,
+            2333,
+            2204,
+            2440
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            652,
+            2450,
+            930,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/17/2022",
+        "Coordinate": [
+            648,
+            2540,
+            1138,
+            2635
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Sheth",
+        "Coordinate": [
+            895,
+            430,
+            1312,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Sheth",
+        "Coordinate": [
+            892,
+            560,
+            1255,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/20/1960",
+        "Coordinate": [
+            890,
+            595,
+            1230,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            915,
+            720,
+            1357,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            820,
+            1227,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1742,
+            835,
+            1907,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            939,
+            2027,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            950,
+            952,
+            1087,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Salvi  Gera and Sur",
+        "Coordinate": [
+            975,
+            1050,
+            2025,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Narayanan  Nayak and Dash",
+        "Coordinate": [
+            950,
+            1152,
+            2160,
+            1292
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "54/49, Sangha Marg, Durg 175627",
+        "Coordinate": [
+            902,
+            1302,
+            1965,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "00/16, Sekhon Zila, Gopalpur 794592",
+        "Coordinate": [
+            874,
+            1540,
+            2117,
+            1655
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9803490822",
+        "Coordinate": [
+            887,
+            1797,
+            1330,
+            1924
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8075600883",
+        "Coordinate": [
+            1855,
+            1809,
+            2262,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Bengali",
+        "Coordinate": [
+            897,
+            1952,
+            1632,
+            2060
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dhriti Dalal - 7765644227",
+        "Coordinate": [
+            980,
+            2060,
+            1832,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Simon Kari - 8126420880",
+        "Coordinate": [
+            967,
+            2200,
+            1832,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "865007000000",
+        "Coordinate": [
+            577,
+            2402,
+            1150,
+            2492
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            572,
+            2470,
+            915,
+            2587
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/14/2023",
+        "Coordinate": [
+            615,
+            2582,
+            1015,
+            2687
+        ]
+    }
+]

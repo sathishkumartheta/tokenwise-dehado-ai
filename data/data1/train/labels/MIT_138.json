@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Siddharth Soman",
+        "Coordinate": [
+            939,
+            421,
+            1576,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jatin Soman",
+        "Coordinate": [
+            977,
+            525,
+            1408,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/23/1978",
+        "Coordinate": [
+            956,
+            625,
+            1301,
+            712
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            989,
+            718,
+            1304,
+            806
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            946,
+            823,
+            1208,
+            916
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1804,
+            823,
+            2001,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            932,
+            2103,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1001,
+            930,
+            1121,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Patil Group",
+        "Coordinate": [
+            1013,
+            1024,
+            1922,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Pillai  Morar and Bail",
+        "Coordinate": [
+            1016,
+            1138,
+            2308,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34/864, Dara Path, Mango 064413",
+        "Coordinate": [
+            940,
+            1261,
+            2285,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "756, Mahal Nagar, Pallavaram 656124",
+        "Coordinate": [
+            991,
+            1519,
+            2302,
+            1664
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7334499217",
+        "Coordinate": [
+            1891,
+            1796,
+            2307,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8670542424",
+        "Coordinate": [
+            900,
+            1802,
+            1323,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Kannada",
+        "Coordinate": [
+            944,
+            1936,
+            1827,
+            2035
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indira Salvi - 9735156644",
+        "Coordinate": [
+            1059,
+            2038,
+            2085,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sudiksha Bala - 7398072176",
+        "Coordinate": [
+            1045,
+            2176,
+            2084,
+            2285
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "599000000000.0",
+        "Coordinate": [
+            608,
+            2378,
+            1172,
+            2465
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FPMVA4207G",
+        "Coordinate": [
+            1641,
+            2381,
+            2160,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            646,
+            2466,
+            944,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/28/2023",
+        "Coordinate": [
+            648,
+            2563,
+            993,
+            2655
+        ]
+    }
+]

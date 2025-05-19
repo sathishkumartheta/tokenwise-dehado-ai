@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Adweta Lanka",
+        "Coordinate": [
+            1051,
+            474,
+            1855,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Lanka",
+        "Coordinate": [
+            1054,
+            572,
+            1740,
+            685
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/22/1983",
+        "Coordinate": [
+            1210,
+            684,
+            1708,
+            769
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1189,
+            764,
+            1623,
+            865
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            966,
+            854,
+            1364,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1840,
+            860,
+            2184,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1044,
+            956,
+            1266,
+            1057
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            966,
+            2144,
+            1053
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Borra  Verma and Malhotra",
+        "Coordinate": [
+            1055,
+            1058,
+            2308,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Radhakrishnan and Sons",
+        "Coordinate": [
+            1068,
+            1156,
+            2314,
+            1279
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65/132, Chada Chowk, Visakhapatnam-991264",
+        "Coordinate": [
+            950,
+            1322,
+            2240,
+            1523
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09, Chaudhari Circle, Pune-091633",
+        "Coordinate": [
+            932,
+            1566,
+            2286,
+            1765
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8094904168",
+        "Coordinate": [
+            932,
+            1794,
+            1370,
+            1905
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7740618288",
+        "Coordinate": [
+            1634,
+            1811,
+            2212,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            1044,
+            1920,
+            2060,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yagnesh Raman - 8390316147",
+        "Coordinate": [
+            1030,
+            2008,
+            2304,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Eesha Kannan - 8982036396",
+        "Coordinate": [
+            1024,
+            2144,
+            2300,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            668,
+            2414,
+            1088,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/4/2023",
+        "Coordinate": [
+            850,
+            2526,
+            1488,
+            2615
+        ]
+    }
+]

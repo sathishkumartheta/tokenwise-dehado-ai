@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anthony Bhatnagar",
+        "Coordinate": [
+            888,
+            389,
+            1480,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Bhatnagar",
+        "Coordinate": [
+            899,
+            492,
+            1395,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/26/1978",
+        "Coordinate": [
+            965,
+            599,
+            1282,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            889,
+            698,
+            1027,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            804,
+            1150,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1806,
+            778,
+            1979,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            885,
+            2074,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            892,
+            900,
+            996,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Srinivas  Jain and Loke",
+        "Coordinate": [
+            964,
+            979,
+            2008,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Magar and Sons",
+        "Coordinate": [
+            962,
+            1091,
+            1811,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 096, Suresh Circle, Nashik-519577",
+        "Coordinate": [
+            888,
+            1217,
+            2134,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/825, Ray Path, Amaravati-575427",
+        "Coordinate": [
+            874,
+            1469,
+            2171,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9672353852",
+        "Coordinate": [
+            1865,
+            1744,
+            2259,
+            1822
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9978038482",
+        "Coordinate": [
+            886,
+            1756,
+            1314,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Marathi, Malayalam",
+        "Coordinate": [
+            898,
+            1883,
+            1991,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagvi Sankaran - 7299883214",
+        "Coordinate": [
+            941,
+            2004,
+            1854,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zehaan Devan - 8517761262",
+        "Coordinate": [
+            950,
+            2131,
+            1824,
+            2236
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "901000000000.0",
+        "Coordinate": [
+            600,
+            2337,
+            1056,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            602,
+            2425,
+            835,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-03-2023",
+        "Coordinate": [
+            609,
+            2517,
+            967,
+            2603
+        ]
+    }
+]

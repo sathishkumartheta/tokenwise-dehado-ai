@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jason Bora",
+        "Coordinate": [
+            935,
+            422,
+            1263,
+            519
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hritik Bora",
+        "Coordinate": [
+            952,
+            526,
+            1301,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-11-2004",
+        "Coordinate": [
+            974,
+            622,
+            1267,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            966,
+            712,
+            1246,
+            807
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            971,
+            820,
+            1173,
+            920
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1874,
+            793,
+            2033,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1904,
+            907,
+            2118,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            979,
+            920,
+            1071,
+            1007
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Prabhu-Dhillon",
+        "Coordinate": [
+            1025,
+            1005,
+            1840,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Das-Andra",
+        "Coordinate": [
+            1030,
+            1120,
+            1708,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53/795, Bhatti Ganj, Anantapuram 831849",
+        "Coordinate": [
+            958,
+            1238,
+            2187,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/533, Tak Nagar, Ranchi 611729",
+        "Coordinate": [
+            964,
+            1493,
+            1994,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9709855349",
+        "Coordinate": [
+            1917,
+            1757,
+            2322,
+            1873
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7054883111",
+        "Coordinate": [
+            963,
+            1771,
+            1341,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Kannada",
+        "Coordinate": [
+            947,
+            1915,
+            1773,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Leela Khalsa - 9673522387",
+        "Coordinate": [
+            1034,
+            2022,
+            1865,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavani Badami - 9688308119",
+        "Coordinate": [
+            1032,
+            2159,
+            1945,
+            2281
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LMEPF7881R",
+        "Coordinate": [
+            1710,
+            2342,
+            2109,
+            2448
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            675,
+            2452,
+            983,
+            2547
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-09-2022",
+        "Coordinate": [
+            688,
+            2543,
+            1050,
+            2644
+        ]
+    }
+]

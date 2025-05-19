@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashawini Nadkarni",
+        "Coordinate": [
+            872,
+            391,
+            1514,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onveer Nadkarni",
+        "Coordinate": [
+            879,
+            493,
+            1436,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/2002",
+        "Coordinate": [
+            874,
+            591,
+            1205,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            889,
+            693,
+            1185,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            898,
+            785,
+            1102,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1788,
+            780,
+            2025,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            888,
+            2071,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            924,
+            897,
+            1026,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sethi-Mahajan",
+        "Coordinate": [
+            959,
+            980,
+            1858,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Nagy LLC",
+        "Coordinate": [
+            938,
+            1097,
+            1739,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50/20, Soni, Bangalore-687681",
+        "Coordinate": [
+            871,
+            1227,
+            1948,
+            1377
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/569, Ram Path, Bangalore 753703",
+        "Coordinate": [
+            880,
+            1469,
+            2177,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8278822226",
+        "Coordinate": [
+            1851,
+            1747,
+            2293,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9069982580",
+        "Coordinate": [
+            894,
+            1755,
+            1309,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            915,
+            1885,
+            1485,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Avni Parmar - 9092234518",
+        "Coordinate": [
+            936,
+            2002,
+            1851,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gautam Mitter - 7397662849",
+        "Coordinate": [
+            948,
+            2122,
+            1964,
+            2229
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NLYYF4946H",
+        "Coordinate": [
+            1621,
+            2333,
+            2135,
+            2430
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            612,
+            2416,
+            849,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/26/2024",
+        "Coordinate": [
+            592,
+            2517,
+            1013,
+            2603
+        ]
+    }
+]

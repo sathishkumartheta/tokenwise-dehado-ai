@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yamini Mammen",
+        "Coordinate": [
+            905,
+            481,
+            1610,
+            576
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Mammen",
+        "Coordinate": [
+            910,
+            576,
+            1734,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/17/1981",
+        "Coordinate": [
+            950,
+            656,
+            1374,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            975,
+            761,
+            1406,
+            860
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            861,
+            1282,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            870,
+            2066,
+            964
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1005,
+            946,
+            1162,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            950,
+            2146,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Pall-Chowdhury",
+        "Coordinate": [
+            975,
+            1021,
+            2126,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Badal Group",
+        "Coordinate": [
+            985,
+            1135,
+            2042,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "68/737, Cherian Nagar, Shimoga 715892",
+        "Coordinate": [
+            910,
+            1271,
+            1994,
+            1488
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "25/983, Bose Ganj, Adoni-686421",
+        "Coordinate": [
+            930,
+            1511,
+            2106,
+            1752
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8407747926",
+        "Coordinate": [
+            905,
+            1771,
+            1382,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7125521348",
+        "Coordinate": [
+            1830,
+            1771,
+            2294,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Gujarati, Tamil",
+        "Coordinate": [
+            914,
+            1896,
+            2302,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekansh Buch - 9503904723",
+        "Coordinate": [
+            985,
+            1995,
+            2086,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mahika Bhavsar - 7107960154",
+        "Coordinate": [
+            975,
+            2116,
+            2130,
+            2248
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            615,
+            2416,
+            926,
+            2484
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/12/2022",
+        "Coordinate": [
+            655,
+            2481,
+            1130,
+            2584
+        ]
+    }
+]

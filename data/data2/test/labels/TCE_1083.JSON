@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemangini Lall",
+        "Coordinate": [
+            982,
+            470,
+            1830,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Viraj Lall",
+        "Coordinate": [
+            1000,
+            570,
+            1382,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/23/1983",
+        "Coordinate": [
+            986,
+            678,
+            1444,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            966,
+            766,
+            1666,
+            859
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            954,
+            860,
+            1330,
+            967
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1870,
+            844,
+            2242,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            976,
+            964,
+            1182,
+            1071
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1892,
+            962,
+            2310,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chaudhry  Dara and Sur",
+        "Coordinate": [
+            1106,
+            1058,
+            2306,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Basu Group",
+        "Coordinate": [
+            1082,
+            1196,
+            2398,
+            1313
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 688, Patla Circle, Haldia-273160",
+        "Coordinate": [
+            953,
+            1308,
+            2252,
+            1513
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 245, Ramesh Nagar, Cuttack-052416",
+        "Coordinate": [
+            962,
+            1546,
+            2206,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9482184324",
+        "Coordinate": [
+            930,
+            1800,
+            1378,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7303697991",
+        "Coordinate": [
+            1854,
+            1780,
+            2312,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Telugu, Malayalam",
+        "Coordinate": [
+            938,
+            1916,
+            2294,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dipta Sankar - 8580664502",
+        "Coordinate": [
+            1048,
+            2042,
+            2284,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lakshmi Yadav - 7647927138",
+        "Coordinate": [
+            994,
+            2152,
+            2240,
+            2283
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            692,
+            2428,
+            1106,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/16/2024",
+        "Coordinate": [
+            704,
+            2510,
+            708,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/16/2024",
+        "Coordinate": [
+            700,
+            2524,
+            1230,
+            2629
+        ]
+    }
+]

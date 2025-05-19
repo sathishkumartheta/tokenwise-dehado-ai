@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anya Suri",
+        "Coordinate": [
+            913,
+            461,
+            1386,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Suri",
+        "Coordinate": [
+            925,
+            570,
+            1395,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/11/1967",
+        "Coordinate": [
+            916,
+            665,
+            1301,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            930,
+            748,
+            1354,
+            858
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            845,
+            1299,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1773,
+            851,
+            2069,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            939,
+            957,
+            1129,
+            1046
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1787,
+            948,
+            2122,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Batra  Balakrishnan and Buch",
+        "Coordinate": [
+            985,
+            1057,
+            2314,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sinha-Singhal",
+        "Coordinate": [
+            985,
+            1137,
+            2067,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/220, Krish Nagar, Aizawl-382235",
+        "Coordinate": [
+            928,
+            1272,
+            1970,
+            1486
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "094, Gandhi Zila, Naihati 212025",
+        "Coordinate": [
+            928,
+            1515,
+            2103,
+            1727
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9910317831",
+        "Coordinate": [
+            925,
+            1770,
+            1361,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7279175835",
+        "Coordinate": [
+            1498,
+            1816,
+            2050,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            939,
+            1896,
+            1723,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Atharv Krishnan - 8135310453",
+        "Coordinate": [
+            993,
+            2008,
+            2268,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fariq Gulati - 7021503386",
+        "Coordinate": [
+            1019,
+            2120,
+            2300,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            598,
+            2403,
+            1136,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/14/2022",
+        "Coordinate": [
+            621,
+            2489,
+            1097,
+            2595
+        ]
+    }
+]

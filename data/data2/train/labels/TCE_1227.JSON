@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jalsa Sur",
+        "Coordinate": [
+            933,
+            477,
+            1348,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Sur",
+        "Coordinate": [
+            953,
+            571,
+            1468,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/1/1984",
+        "Coordinate": [
+            956,
+            664,
+            1311,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            970,
+            760,
+            1599,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            973,
+            864,
+            1247,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1043,
+            957,
+            1180,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            2006,
+            867,
+            2276,
+            948
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            2000,
+            954,
+            2234,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Varughese  Arora and Chana",
+        "Coordinate": [
+            1032,
+            1057,
+            2426,
+            1169
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kata-Pillay",
+        "Coordinate": [
+            1033,
+            1177,
+            2100,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "003, Kar Street, Ujjain 192686",
+        "Coordinate": [
+            943,
+            1307,
+            2362,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "38, Naik Path, Bharatpur 051817",
+        "Coordinate": [
+            926,
+            1574,
+            2324,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7661704436",
+        "Coordinate": [
+            923,
+            1794,
+            1359,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8288354596",
+        "Coordinate": [
+            1793,
+            1814,
+            2295,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Gujarati",
+        "Coordinate": [
+            1010,
+            1917,
+            2159,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gavin Mitra - 8758010457",
+        "Coordinate": [
+            1036,
+            2027,
+            2250,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Libni Saini - 9303683506",
+        "Coordinate": [
+            1036,
+            2150,
+            2244,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            673,
+            2424,
+            946,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/27/2023",
+        "Coordinate": [
+            690,
+            2517,
+            1194,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zansi Mukherjee",
+        "Coordinate": [
+            882,
+            426,
+            1414,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Mukherjee",
+        "Coordinate": [
+            884,
+            530,
+            1445,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-09-1995",
+        "Coordinate": [
+            886,
+            637,
+            1171,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            890,
+            736,
+            1138,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            888,
+            843,
+            1149,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1861,
+            836,
+            2103,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1871,
+            944,
+            2108,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            896,
+            945,
+            995,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Dugar  Walia and Mangat",
+        "Coordinate": [
+            961,
+            1045,
+            2206,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Banik-Narasimhan",
+        "Coordinate": [
+            974,
+            1159,
+            1982,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "132, Zachariah, Mysore-320366",
+        "Coordinate": [
+            897,
+            1281,
+            1862,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "778, Deshpande Marg, Hosur-272876",
+        "Coordinate": [
+            903,
+            1533,
+            2025,
+            1679
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7585314172",
+        "Coordinate": [
+            1883,
+            1795,
+            2243,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8185701040",
+        "Coordinate": [
+            885,
+            1806,
+            1234,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Gujarati, English",
+        "Coordinate": [
+            888,
+            1942,
+            1894,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yagnesh Doctor - 9947980855",
+        "Coordinate": [
+            954,
+            2051,
+            1844,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashasvi Subramanian - 8634761449",
+        "Coordinate": [
+            952,
+            2180,
+            2067,
+            2299
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UIOTH2513R",
+        "Coordinate": [
+            1651,
+            2384,
+            2011,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            587,
+            2476,
+            869,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/20/2023",
+        "Coordinate": [
+            597,
+            2574,
+            954,
+            2669
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alka Keer",
+        "Coordinate": [
+            881,
+            429,
+            1387,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Keer",
+        "Coordinate": [
+            891,
+            534,
+            1528,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/26/1988",
+        "Coordinate": [
+            896,
+            633,
+            1361,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            899,
+            727,
+            1313,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            834,
+            1241,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            826,
+            2028,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            932,
+            2164,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            886,
+            938,
+            1093,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Zachariah  Balasubramanian and Grover",
+        "Coordinate": [
+            950,
+            1033,
+            2215,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Saran-Mohan",
+        "Coordinate": [
+            958,
+            1146,
+            2121,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/350, Subramaniam Nagar, Kota 537778",
+        "Coordinate": [
+            897,
+            1265,
+            2221,
+            1479
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Mani Marg, Dharmavaram 636950",
+        "Coordinate": [
+            883,
+            1526,
+            2384,
+            1745
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9966299600",
+        "Coordinate": [
+            1858,
+            1802,
+            2351,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8805100239",
+        "Coordinate": [
+            875,
+            1800,
+            1333,
+            1932
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Gujarati",
+        "Coordinate": [
+            902,
+            1942,
+            2260,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oscar Oza - 9810895065",
+        "Coordinate": [
+            959,
+            2048,
+            2097,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemangini Banik - 8608301343",
+        "Coordinate": [
+            969,
+            2177,
+            2352,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "735000000000.0",
+        "Coordinate": [
+            600,
+            2388,
+            1232,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            619,
+            2481,
+            961,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-08-2025",
+        "Coordinate": [
+            630,
+            2571,
+            1137,
+            2670
+        ]
+    }
+]

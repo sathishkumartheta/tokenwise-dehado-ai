@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Butala",
+        "Coordinate": [
+            912,
+            500,
+            1346,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harish Butala",
+        "Coordinate": [
+            930,
+            610,
+            1276,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/1964",
+        "Coordinate": [
+            912,
+            702,
+            1168,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            940,
+            778,
+            1140,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            936,
+            878,
+            1130,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            862,
+            1922,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            955,
+            2040,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            986,
+            991,
+            1100,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Hegde  Pai and Sankar",
+        "Coordinate": [
+            1007,
+            1038,
+            1943,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chopra Group",
+        "Coordinate": [
+            978,
+            1160,
+            1684,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "84, Guha Chowk, Aizawl 937223",
+        "Coordinate": [
+            928,
+            1310,
+            1820,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "19, Dyal Marg, Sri Ganganagar 843135",
+        "Coordinate": [
+            928,
+            1578,
+            1944,
+            1707
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7372654476",
+        "Coordinate": [
+            908,
+            1806,
+            1246,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9206496039",
+        "Coordinate": [
+            1704,
+            1836,
+            2044,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Kannada",
+        "Coordinate": [
+            959,
+            1938,
+            1625,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daksha Aurora - 9545464659",
+        "Coordinate": [
+            990,
+            2036,
+            1852,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Damyanti Sekhon - 9898800154",
+        "Coordinate": [
+            992,
+            2152,
+            1808,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            654,
+            2438,
+            926,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/6/2025",
+        "Coordinate": [
+            642,
+            2520,
+            1070,
+            2589
+        ]
+    }
+]

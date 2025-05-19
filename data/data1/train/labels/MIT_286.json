@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jasmit Oak",
+        "Coordinate": [
+            870,
+            396,
+            1241,
+            492
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Oak",
+        "Coordinate": [
+            889,
+            497,
+            1189,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/21/1974",
+        "Coordinate": [
+            880,
+            596,
+            1252,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            880,
+            693,
+            1145,
+            784
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            792,
+            1095,
+            889
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1781,
+            783,
+            2005,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            895,
+            2023,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            891,
+            896,
+            999,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Saxena  D\u2019Alia and Chaudhuri",
+        "Coordinate": [
+            947,
+            979,
+            2297,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Dewan and Sons",
+        "Coordinate": [
+            965,
+            1099,
+            1910,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "56, Vohra Nagar, Tinsukia 670468",
+        "Coordinate": [
+            880,
+            1253,
+            2098,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 145, Rattan Chowk, Durgapur-021923",
+        "Coordinate": [
+            897,
+            1511,
+            2312,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9560060920",
+        "Coordinate": [
+            1865,
+            1744,
+            2288,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7777008409",
+        "Coordinate": [
+            896,
+            1762,
+            1327,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            898,
+            1892,
+            1412,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kashvi Lall - 9156576685",
+        "Coordinate": [
+            943,
+            1997,
+            1768,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekalinga Goyal - 7773251160",
+        "Coordinate": [
+            947,
+            2130,
+            2019,
+            2256
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "713000000000.0",
+        "Coordinate": [
+            586,
+            2333,
+            1075,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            582,
+            2421,
+            767,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/21/2022",
+        "Coordinate": [
+            585,
+            2519,
+            939,
+            2603
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "4/5/2025",
+        "Coordinate": [
+            615,
+            2588,
+            839,
+            2710
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "381152951427",
+        "Coordinate": [
+            580,
+            2394,
+            1080,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Nellore",
+        "Coordinate": [
+            612,
+            2490,
+            846,
+            2568
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhadri - 9491919360",
+        "Coordinate": [
+            968,
+            2204,
+            1682,
+            2288
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vyshnav - 9441509640",
+        "Coordinate": [
+            970,
+            2082,
+            1654,
+            2178
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Telugu",
+        "Coordinate": [
+            896,
+            1956,
+            1500,
+            2064
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9063483563",
+        "Coordinate": [
+            928,
+            1816,
+            1314,
+            1908
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9441509640",
+        "Coordinate": [
+            1860,
+            1800,
+            2194,
+            1902
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "Naidupet, Nellore(DT)",
+        "Coordinate": [
+            962,
+            1556,
+            1542,
+            1668
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "VIT CHENNAI",
+        "Coordinate": [
+            928,
+            1282,
+            1322,
+            1362
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 months internship - Simply learn",
+        "Coordinate": [
+            1054,
+            1160,
+            2050,
+            1274
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "Internship at Easystepin - 1 month",
+        "Coordinate": [
+            978,
+            1048,
+            2034,
+            1140
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "G. Pranetha",
+        "Coordinate": [
+            926,
+            455,
+            1298,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "G. Sreedhar",
+        "Coordinate": [
+            972,
+            554,
+            1336,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/2025",
+        "Coordinate": [
+            986,
+            646,
+            1324,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Integrated M.tech",
+        "Coordinate": [
+            968,
+            732,
+            1508,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            990,
+            842,
+            1142,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+ve",
+        "Coordinate": [
+            1016,
+            950,
+            1202,
+            1024
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1774,
+            830,
+            2026,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            940,
+            2090,
+            1032
+        ]
+    }
+]

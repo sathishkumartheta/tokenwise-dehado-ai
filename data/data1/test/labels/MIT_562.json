@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kevin Salvi",
+        "Coordinate": [
+            884,
+            417,
+            1269,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Upkaar Salvi",
+        "Coordinate": [
+            889,
+            514,
+            1315,
+            606
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-02-1982",
+        "Coordinate": [
+            889,
+            616,
+            1187,
+            703
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            891,
+            712,
+            1177,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            898,
+            815,
+            1124,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            811,
+            1976,
+            899
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            923,
+            2087,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            894,
+            918,
+            1006,
+            1004
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Lalla-Oak",
+        "Coordinate": [
+            976,
+            1013,
+            1769,
+            1116
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Acharya LLC",
+        "Coordinate": [
+            965,
+            1132,
+            1936,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47/31, Chanda Circle, Munger 542707",
+        "Coordinate": [
+            892,
+            1254,
+            2274,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61, Chokshi Zila, Karawal Nagar 647545",
+        "Coordinate": [
+            892,
+            1502,
+            2315,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9584317336",
+        "Coordinate": [
+            1885,
+            1791,
+            2300,
+            1883
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9637419179",
+        "Coordinate": [
+            887,
+            1787,
+            1272,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            878,
+            1928,
+            1580,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harita Shenoy - 9992181578",
+        "Coordinate": [
+            940,
+            2031,
+            1960,
+            2141
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yauvani Shah - 7952206448",
+        "Coordinate": [
+            968,
+            2170,
+            2035,
+            2283
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UWBRH8076O",
+        "Coordinate": [
+            1631,
+            2372,
+            2094,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            570,
+            2456,
+            800,
+            2546
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/18/2024",
+        "Coordinate": [
+            582,
+            2552,
+            957,
+            2653
+        ]
+    }
+]

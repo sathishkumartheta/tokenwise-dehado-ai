@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Liam Dey",
+        "Coordinate": [
+            870,
+            389,
+            1238,
+            477
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Dey",
+        "Coordinate": [
+            876,
+            484,
+            1268,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/30/1987",
+        "Coordinate": [
+            880,
+            585,
+            1216,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            880,
+            679,
+            1054,
+            769
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            881,
+            782,
+            1201,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1774,
+            778,
+            1986,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            886,
+            2090,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            886,
+            1024,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Guha LLC",
+        "Coordinate": [
+            958,
+            980,
+            1696,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Goel LLC",
+        "Coordinate": [
+            958,
+            1093,
+            1678,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 17, Patla Path, Nagaon 209628",
+        "Coordinate": [
+            871,
+            1235,
+            2201,
+            1408
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 43, Thakur Path, Mysore-437401",
+        "Coordinate": [
+            866,
+            1484,
+            2270,
+            1648
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7042320448",
+        "Coordinate": [
+            1852,
+            1745,
+            2317,
+            1851
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7316672991",
+        "Coordinate": [
+            878,
+            1748,
+            1285,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            873,
+            1886,
+            1501,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vaishnavi Dey - 9667366087",
+        "Coordinate": [
+            940,
+            1993,
+            2033,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekantika Pradhan - 7590254159",
+        "Coordinate": [
+            945,
+            2121,
+            2157,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "952000000000.0",
+        "Coordinate": [
+            582,
+            2324,
+            1100,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            577,
+            2420,
+            1423,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-05-2023",
+        "Coordinate": [
+            583,
+            2510,
+            963,
+            2596
+        ]
+    }
+]

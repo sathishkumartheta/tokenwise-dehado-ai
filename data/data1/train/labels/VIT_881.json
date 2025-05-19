@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isha Venkatesh",
+        "Coordinate": [
+            871,
+            434,
+            1483,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Venkatesh",
+        "Coordinate": [
+            889,
+            532,
+            1580,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-11-1980",
+        "Coordinate": [
+            896,
+            632,
+            1196,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            893,
+            731,
+            1186,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            832,
+            1161,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1777,
+            831,
+            2062,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            941,
+            2096,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            893,
+            938,
+            1029,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Ahuja-Karnik",
+        "Coordinate": [
+            963,
+            1041,
+            1876,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Vohra Ltd",
+        "Coordinate": [
+            987,
+            1149,
+            1773,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11/64, Sachar Chowk, Amaravati-738681",
+        "Coordinate": [
+            899,
+            1281,
+            2347,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/278, Borde Zila, Hapur-925883",
+        "Coordinate": [
+            900,
+            1528,
+            2264,
+            1670
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7554041033",
+        "Coordinate": [
+            1862,
+            1809,
+            2325,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8968736441",
+        "Coordinate": [
+            879,
+            1807,
+            1341,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Hindi, Bengali",
+        "Coordinate": [
+            875,
+            1944,
+            2041,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Parth Chakrabarti - 9217906816",
+        "Coordinate": [
+            965,
+            2048,
+            2188,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mitali Sur - 9066917327",
+        "Coordinate": [
+            994,
+            2183,
+            1909,
+            2296
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "607000000000.0",
+        "Coordinate": [
+            576,
+            2390,
+            1080,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            604,
+            2484,
+            805,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/21/2023",
+        "Coordinate": [
+            596,
+            2574,
+            988,
+            2666
+        ]
+    }
+]

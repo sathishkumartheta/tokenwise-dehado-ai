@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Naveen Gupta",
+        "Coordinate": [
+            875,
+            432,
+            1482,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Gupta",
+        "Coordinate": [
+            890,
+            532,
+            1597,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/8/1992",
+        "Coordinate": [
+            905,
+            617,
+            1327,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            885,
+            722,
+            1495,
+            815
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            862,
+            827,
+            1220,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            830,
+            2057,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            940,
+            2212,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            917,
+            937,
+            1102,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Rajagopal  Bhasin and Kannan",
+        "Coordinate": [
+            970,
+            1027,
+            2290,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sethi-Joshi",
+        "Coordinate": [
+            995,
+            1147,
+            2115,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 424, Mand Chowk, Raurkela Industrial Township-632956",
+        "Coordinate": [
+            872,
+            1282,
+            2335,
+            1500
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/243, Mitra Marg, Aurangabad-827577",
+        "Coordinate": [
+            902,
+            1527,
+            2337,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7071138149",
+        "Coordinate": [
+            857,
+            1815,
+            1350,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9409002999",
+        "Coordinate": [
+            1852,
+            1805,
+            2340,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Malayalam, Hindi",
+        "Coordinate": [
+            885,
+            1942,
+            2272,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darpan Ram - 7894862858",
+        "Coordinate": [
+            957,
+            2045,
+            2155,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abha Raman - 9908093710",
+        "Coordinate": [
+            977,
+            2180,
+            2117,
+            2270
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "875174000000",
+        "Coordinate": [
+            597,
+            2390,
+            1312,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            585,
+            2475,
+            817,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/24/2023",
+        "Coordinate": [
+            590,
+            2555,
+            1117,
+            2657
+        ]
+    }
+]

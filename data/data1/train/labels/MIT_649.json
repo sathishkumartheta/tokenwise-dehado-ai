@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zaitra Toor",
+        "Coordinate": [
+            880,
+            425,
+            1331,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Toor",
+        "Coordinate": [
+            889,
+            534,
+            1482,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1991",
+        "Coordinate": [
+            891,
+            640,
+            1264,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            889,
+            734,
+            1459,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            841,
+            1156,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1899,
+            839,
+            2119,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1915,
+            938,
+            2136,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            934,
+            940,
+            1051,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Raval  Bera and De",
+        "Coordinate": [
+            980,
+            1031,
+            2312,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Peri PLC",
+        "Coordinate": [
+            993,
+            1140,
+            1870,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/76, Varma Ganj, Pallavaram-903312",
+        "Coordinate": [
+            903,
+            1275,
+            2313,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "954, Baria Circle, Kanpur-731483",
+        "Coordinate": [
+            898,
+            1528,
+            2237,
+            1767
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9094310229",
+        "Coordinate": [
+            1868,
+            1796,
+            2296,
+            1883
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7940802467",
+        "Coordinate": [
+            906,
+            1806,
+            1334,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Gujarati, Marathi",
+        "Coordinate": [
+            895,
+            1937,
+            1925,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ubika Mukherjee - 9771124572",
+        "Coordinate": [
+            961,
+            2042,
+            2068,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urishilla Taneja - 9005630781",
+        "Coordinate": [
+            984,
+            2178,
+            2078,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "451000000000.0",
+        "Coordinate": [
+            600,
+            2383,
+            1132,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            588,
+            2477,
+            847,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/19/2025",
+        "Coordinate": [
+            592,
+            2569,
+            958,
+            2661
+        ]
+    }
+]

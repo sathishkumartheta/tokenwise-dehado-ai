@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Narayanan",
+        "Coordinate": [
+            893,
+            439,
+            1648,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warjas Narayanan",
+        "Coordinate": [
+            899,
+            537,
+            1668,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/20/1963",
+        "Coordinate": [
+            912,
+            638,
+            1343,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            904,
+            736,
+            1240,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            840,
+            1233,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1817,
+            836,
+            2020,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            944,
+            2130,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            913,
+            942,
+            1036,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Minhas-Guha",
+        "Coordinate": [
+            966,
+            1042,
+            2034,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Chokshi Ltd",
+        "Coordinate": [
+            952,
+            1149,
+            2001,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "426, Sachar Road, Bathinda-902041",
+        "Coordinate": [
+            893,
+            1273,
+            2345,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/805, Bedi Zila, Jhansi 653363",
+        "Coordinate": [
+            882,
+            1532,
+            2322,
+            1659
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7175167409",
+        "Coordinate": [
+            1858,
+            1810,
+            2302,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8916939164",
+        "Coordinate": [
+            884,
+            1808,
+            1327,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Telugu, Bengali",
+        "Coordinate": [
+            878,
+            1947,
+            2095,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abeer Mutti - 8742249869",
+        "Coordinate": [
+            962,
+            2060,
+            2080,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jyoti Mittal - 9009289237",
+        "Coordinate": [
+            972,
+            2185,
+            2102,
+            2299
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IELZB6255W",
+        "Coordinate": [
+            1631,
+            2393,
+            2186,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            590,
+            2484,
+            850,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-11-2023",
+        "Coordinate": [
+            621,
+            2578,
+            1014,
+            2665
+        ]
+    }
+]

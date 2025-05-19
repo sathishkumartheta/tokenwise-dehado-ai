@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lopa Jha",
+        "Coordinate": [
+            916,
+            474,
+            1356,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Jha",
+        "Coordinate": [
+            939,
+            570,
+            1663,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/4/1968",
+        "Coordinate": [
+            972,
+            652,
+            1442,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            976,
+            768,
+            1160,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            956,
+            865,
+            1266,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1854,
+            858,
+            2190,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            992,
+            969,
+            1174,
+            1051
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1836,
+            952,
+            2198,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Buch  Dixit and Parekh",
+        "Coordinate": [
+            1064,
+            1036,
+            2416,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Thaker-Thaker",
+        "Coordinate": [
+            1083,
+            1162,
+            2292,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/781, Choudhry Road, Ozhukarai-067077",
+        "Coordinate": [
+            938,
+            1272,
+            2060,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 54, Nanda Chowk, Coimbatore-315687",
+        "Coordinate": [
+            951,
+            1542,
+            2210,
+            1735
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9063754658",
+        "Coordinate": [
+            916,
+            1793,
+            1370,
+            1876
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8424597195",
+        "Coordinate": [
+            1844,
+            1760,
+            2354,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Malayalam",
+        "Coordinate": [
+            924,
+            1919,
+            2054,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jackson Barman - 8997622649",
+        "Coordinate": [
+            994,
+            2032,
+            2454,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chanchal Dugar - 9883429795",
+        "Coordinate": [
+            1020,
+            2136,
+            2324,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            658,
+            2432,
+            1004,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/5/2023",
+        "Coordinate": [
+            661,
+            2506,
+            1068,
+            2601
+        ]
+    }
+]

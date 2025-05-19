@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasudha Chaudhari",
+        "Coordinate": [
+            944,
+            421,
+            1590,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Chaudhari",
+        "Coordinate": [
+            936,
+            532,
+            1583,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/16/1996",
+        "Coordinate": [
+            991,
+            635,
+            1357,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            1055,
+            728,
+            1627,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1017,
+            837,
+            1286,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1867,
+            825,
+            2108,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1886,
+            935,
+            2145,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1068,
+            939,
+            1208,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sridhar  Mangat and Batra",
+        "Coordinate": [
+            1057,
+            1038,
+            2327,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dey and Sons",
+        "Coordinate": [
+            1040,
+            1147,
+            1998,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 446, Goda Marg, Khandwa 304117",
+        "Coordinate": [
+            931,
+            1309,
+            2331,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/152, Vaidya Road, Gorakhpur-863647",
+        "Coordinate": [
+            919,
+            1510,
+            2392,
+            1662
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8341160075",
+        "Coordinate": [
+            1884,
+            1778,
+            2308,
+            1880
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9843072454",
+        "Coordinate": [
+            947,
+            1804,
+            1374,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Kannada",
+        "Coordinate": [
+            944,
+            1929,
+            2040,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zashil Rama - 7481408735",
+        "Coordinate": [
+            991,
+            2051,
+            2148,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krishna Yohannan - 9667107911",
+        "Coordinate": [
+            1028,
+            2185,
+            2239,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "433000000000.0",
+        "Coordinate": [
+            604,
+            2370,
+            1153,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            642,
+            2465,
+            966,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/16/2022",
+        "Coordinate": [
+            618,
+            2559,
+            1090,
+            2655
+        ]
+    }
+]

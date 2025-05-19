@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chatura Agrawal",
+        "Coordinate": [
+            929,
+            470,
+            1558,
+            584
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Agrawal",
+        "Coordinate": [
+            934,
+            575,
+            1769,
+            683
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/14/1976",
+        "Coordinate": [
+            1003,
+            674,
+            1391,
+            781
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1029,
+            771,
+            1368,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            970,
+            858,
+            1327,
+            967
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1769,
+            802,
+            2010,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            955,
+            2130,
+            1053
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            975,
+            970,
+            1119,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Gala  Golla and Mahal",
+        "Coordinate": [
+            1011,
+            1062,
+            2014,
+            1171
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Keer-Dutt",
+        "Coordinate": [
+            1006,
+            1170,
+            1775,
+            1320
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 95, Varkey Zila, Adoni-855179",
+        "Coordinate": [
+            942,
+            1320,
+            2339,
+            1547
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 36, Baria, Gopalpur 948930",
+        "Coordinate": [
+            952,
+            1563,
+            2234,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8517756684",
+        "Coordinate": [
+            926,
+            1782,
+            1346,
+            1931
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9674207530",
+        "Coordinate": [
+            1841,
+            1767,
+            2286,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            949,
+            1913,
+            1613,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anjali Bawa - 7698798041",
+        "Coordinate": [
+            990,
+            2033,
+            2112,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaraj Bandi - 8266191845",
+        "Coordinate": [
+            1001,
+            2148,
+            1957,
+            2267
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            630,
+            2411,
+            1064,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/11/2022",
+        "Coordinate": [
+            628,
+            2503,
+            1099,
+            2610
+        ]
+    }
+]

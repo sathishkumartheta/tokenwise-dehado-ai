@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yagnesh Grewal",
+        "Coordinate": [
+            864,
+            391,
+            1437,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranav Grewal",
+        "Coordinate": [
+            869,
+            501,
+            1395,
+            603
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-01-1982",
+        "Coordinate": [
+            872,
+            606,
+            1176,
+            693
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            871,
+            695,
+            1210,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            878,
+            800,
+            1171,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1786,
+            783,
+            2002,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            891,
+            2102,
+            992
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            877,
+            901,
+            996,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Chaudhuri Group",
+        "Coordinate": [
+            958,
+            996,
+            2076,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Koshy-Ramaswamy",
+        "Coordinate": [
+            963,
+            1113,
+            2209,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "37/72, Bala Chowk, Tinsukia 660534",
+        "Coordinate": [
+            878,
+            1269,
+            2253,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44, Sachar Zila, Visakhapatnam-975358",
+        "Coordinate": [
+            910,
+            1502,
+            2365,
+            1669
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9248840880",
+        "Coordinate": [
+            1879,
+            1748,
+            2341,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9704428599",
+        "Coordinate": [
+            881,
+            1761,
+            1358,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Telugu, Tamil",
+        "Coordinate": [
+            874,
+            1891,
+            2053,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nimrat Lanka - 7020985166",
+        "Coordinate": [
+            949,
+            2004,
+            2043,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kashvi Dash - 7289123153",
+        "Coordinate": [
+            944,
+            2135,
+            1956,
+            2254
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XEPQH2893N",
+        "Coordinate": [
+            1643,
+            2327,
+            2210,
+            2433
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            574,
+            2432,
+            911,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/20/2025",
+        "Coordinate": [
+            586,
+            2525,
+            939,
+            2618
+        ]
+    }
+]

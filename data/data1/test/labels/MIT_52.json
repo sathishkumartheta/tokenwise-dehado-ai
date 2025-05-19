@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavika Chaudry",
+        "Coordinate": [
+            940,
+            402,
+            1584,
+            507
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girik Chaudry",
+        "Coordinate": [
+            954,
+            503,
+            1492,
+            605
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/19/1984",
+        "Coordinate": [
+            957,
+            604,
+            1363,
+            703
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            952,
+            706,
+            1351,
+            802
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            944,
+            809,
+            1298,
+            905
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1912,
+            812,
+            2172,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1927,
+            926,
+            2203,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            954,
+            910,
+            1062,
+            997
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Hegde-Shankar",
+        "Coordinate": [
+            1024,
+            1013,
+            2095,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Lala Ltd",
+        "Coordinate": [
+            1039,
+            1130,
+            1907,
+            1233
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69/69, Pall Zila, Berhampore-499125",
+        "Coordinate": [
+            939,
+            1255,
+            2331,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 12, Dhaliwal Path, Gurgaon 966278",
+        "Coordinate": [
+            934,
+            1512,
+            2265,
+            1740
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9988264876",
+        "Coordinate": [
+            1911,
+            1787,
+            2352,
+            1896
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9251995115",
+        "Coordinate": [
+            916,
+            1763,
+            1330,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu",
+        "Coordinate": [
+            921,
+            1903,
+            1448,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojas Suri - 9773262487",
+        "Coordinate": [
+            1008,
+            2023,
+            1945,
+            2143
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Logan Grover - 8564164234",
+        "Coordinate": [
+            1020,
+            2160,
+            2116,
+            2284
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "482000000000.0",
+        "Coordinate": [
+            618,
+            2338,
+            1136,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            612,
+            2428,
+            1078,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/29/2025",
+        "Coordinate": [
+            622,
+            2524,
+            1035,
+            2635
+        ]
+    }
+]

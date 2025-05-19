@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falguni Misra",
+        "Coordinate": [
+            879,
+            411,
+            1412,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Misra",
+        "Coordinate": [
+            889,
+            523,
+            1415,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/1977",
+        "Coordinate": [
+            886,
+            623,
+            1309,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            882,
+            720,
+            1197,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            828,
+            1157,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1743,
+            804,
+            1981,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            914,
+            2073,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            890,
+            930,
+            1015,
+            1010
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sridhar and Sons",
+        "Coordinate": [
+            946,
+            997,
+            1873,
+            1109
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Chaudhuri  Sule and Buch",
+        "Coordinate": [
+            951,
+            1128,
+            2109,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 203, Suresh Marg, Phagwara 694261",
+        "Coordinate": [
+            881,
+            1294,
+            2359,
+            1438
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64/710, Kannan Chowk, South Dumdum-565208",
+        "Coordinate": [
+            875,
+            1494,
+            2359,
+            1620
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8473102916",
+        "Coordinate": [
+            1848,
+            1779,
+            2208,
+            1868
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7107821467",
+        "Coordinate": [
+            868,
+            1782,
+            1252,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil",
+        "Coordinate": [
+            867,
+            1924,
+            1393,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hitesh Hans - 7803022102",
+        "Coordinate": [
+            937,
+            2028,
+            1814,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abdul Borra - 9614862219",
+        "Coordinate": [
+            949,
+            2155,
+            1794,
+            2265
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "340000000000.0",
+        "Coordinate": [
+            567,
+            2365,
+            1001,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            561,
+            2464,
+            801,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/23/2023",
+        "Coordinate": [
+            570,
+            2550,
+            980,
+            2647
+        ]
+    }
+]

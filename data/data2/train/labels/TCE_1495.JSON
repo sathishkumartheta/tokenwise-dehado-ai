@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitali Magar",
+        "Coordinate": [
+            905,
+            481,
+            1378,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mitesh Magar",
+        "Coordinate": [
+            900,
+            560,
+            1478,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/24/1968",
+        "Coordinate": [
+            920,
+            671,
+            1422,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            910,
+            791,
+            1246,
+            875
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            876,
+            1182,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            905,
+            950,
+            1082,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Gokhale  Zachariah and Chana",
+        "Coordinate": [
+            995,
+            1056,
+            2238,
+            1151
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1785,
+            851,
+            1906,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            950,
+            2134,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Handa  Dubey and Nazareth",
+        "Coordinate": [
+            975,
+            1135,
+            2102,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "669, Sule Zila, Bahraich 972136",
+        "Coordinate": [
+            895,
+            1326,
+            2306,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "02, Ratti Street, Srinagar 501240",
+        "Coordinate": [
+            935,
+            1510,
+            2370,
+            1643
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9727205355",
+        "Coordinate": [
+            870,
+            1761,
+            1418,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7765048307",
+        "Coordinate": [
+            1820,
+            1771,
+            2338,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Tamil",
+        "Coordinate": [
+            895,
+            1901,
+            1878,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advaith Joshi - 8772757090",
+        "Coordinate": [
+            970,
+            2010,
+            1938,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gunbir Srinivasan - 8120646628",
+        "Coordinate": [
+            1090,
+            2131,
+            2266,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "620368000000",
+        "Coordinate": [
+            621,
+            2341,
+            1186,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            605,
+            2396,
+            982,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/5/2022",
+        "Coordinate": [
+            615,
+            2515,
+            1126,
+            2591
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abeer Shah",
+        "Coordinate": [
+            906,
+            458,
+            1412,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Shah",
+        "Coordinate": [
+            928,
+            540,
+            1326,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/16/1996",
+        "Coordinate": [
+            930,
+            668,
+            1278,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            906,
+            754,
+            1240,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            928,
+            838,
+            1262,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1738,
+            849,
+            1954,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            957,
+            2062,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            942,
+            940,
+            1090,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kala Group",
+        "Coordinate": [
+            975,
+            1045,
+            1915,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Goyal  Roy and Bhatt",
+        "Coordinate": [
+            984,
+            1146,
+            2234,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45, Sem Path, Korba 002668",
+        "Coordinate": [
+            889,
+            1278,
+            2183,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "757, Mahajan Zila, Belgaum-529165",
+        "Coordinate": [
+            889,
+            1508,
+            2283,
+            1624
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8074923497",
+        "Coordinate": [
+            893,
+            1756,
+            1364,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9685962042",
+        "Coordinate": [
+            1810,
+            1772,
+            2292,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9685962042",
+        "Coordinate": [
+            1933,
+            1818,
+            2006,
+            1819
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Hindi, Bengali",
+        "Coordinate": [
+            912,
+            1901,
+            2157,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warhi Krishna - 9952459398",
+        "Coordinate": [
+            959,
+            1987,
+            2104,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siya Krishnamurthy - 8929916193",
+        "Coordinate": [
+            987,
+            2122,
+            2290,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            608,
+            2403,
+            887,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/12/2024",
+        "Coordinate": [
+            603,
+            2508,
+            1181,
+            2566
+        ]
+    }
+]

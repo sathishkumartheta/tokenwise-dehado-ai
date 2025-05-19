@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Neelima Saxena",
+        "Coordinate": [
+            896,
+            397,
+            1459,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Noah Saxena",
+        "Coordinate": [
+            902,
+            500,
+            1331,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/21/1989",
+        "Coordinate": [
+            912,
+            597,
+            1261,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            911,
+            688,
+            1062,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            792,
+            1157,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1816,
+            788,
+            2043,
+            871
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            895,
+            2097,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            929,
+            896,
+            1040,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kuruvilla  Maharaj and Banik",
+        "Coordinate": [
+            946,
+            980,
+            2184,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Divan PLC",
+        "Coordinate": [
+            968,
+            1099,
+            1746,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "595, Mohanty Road, Tezpur 774222",
+        "Coordinate": [
+            882,
+            1258,
+            2085,
+            1383
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 30, Mitter Ganj, Bhimavaram 458867",
+        "Coordinate": [
+            875,
+            1473,
+            2214,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7426973062",
+        "Coordinate": [
+            1869,
+            1748,
+            2241,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8093753708",
+        "Coordinate": [
+            884,
+            1754,
+            1301,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Telugu",
+        "Coordinate": [
+            877,
+            1892,
+            1597,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Dugal - 9299341057",
+        "Coordinate": [
+            936,
+            1996,
+            1826,
+            2087
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kavya Radhakrishnan - 9921595623",
+        "Coordinate": [
+            941,
+            2121,
+            2075,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "500000000000.0",
+        "Coordinate": [
+            598,
+            2330,
+            1035,
+            2407
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CWBJC8138N",
+        "Coordinate": [
+            1616,
+            2334,
+            2090,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            597,
+            2423,
+            894,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-10-2024",
+        "Coordinate": [
+            583,
+            2518,
+            966,
+            2600
+        ]
+    }
+]

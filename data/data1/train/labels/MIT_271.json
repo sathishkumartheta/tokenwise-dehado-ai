@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aishani Swamy",
+        "Coordinate": [
+            915,
+            394,
+            1409,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Swamy",
+        "Coordinate": [
+            918,
+            497,
+            1437,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-12-1982",
+        "Coordinate": [
+            934,
+            594,
+            1225,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            935,
+            689,
+            1194,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            791,
+            1201,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1837,
+            782,
+            2061,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            893,
+            2089,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            931,
+            896,
+            1028,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pingle Inc",
+        "Coordinate": [
+            979,
+            988,
+            1712,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Deshmukh PLC",
+        "Coordinate": [
+            965,
+            1105,
+            1805,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "135, Chacko Road, Madanapalle 099625",
+        "Coordinate": [
+            888,
+            1267,
+            2151,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/07, Ganesan Path, Mathura 476504",
+        "Coordinate": [
+            889,
+            1537,
+            2205,
+            1678
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9292571477",
+        "Coordinate": [
+            1865,
+            1749,
+            2273,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8737965944",
+        "Coordinate": [
+            888,
+            1761,
+            1323,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Tamil, Telugu",
+        "Coordinate": [
+            873,
+            1890,
+            1990,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faris Natarajan - 9143800265",
+        "Coordinate": [
+            950,
+            2002,
+            2015,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kalpit Anne - 7257240007",
+        "Coordinate": [
+            956,
+            2128,
+            1929,
+            2229
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "290000000000.0",
+        "Coordinate": [
+            617,
+            2334,
+            1040,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            619,
+            2421,
+            873,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-03-2025",
+        "Coordinate": [
+            616,
+            2515,
+            949,
+            2599
+        ]
+    }
+]

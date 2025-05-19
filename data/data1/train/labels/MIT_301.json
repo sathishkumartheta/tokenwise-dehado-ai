@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amol Krishnan",
+        "Coordinate": [
+            876,
+            397,
+            1286,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Robert Krishnan",
+        "Coordinate": [
+            883,
+            491,
+            1297,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-08-1972",
+        "Coordinate": [
+            884,
+            587,
+            1177,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            888,
+            685,
+            1142,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            787,
+            1136,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            788,
+            1916,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            893,
+            2063,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            882,
+            890,
+            974,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sheth-Rao",
+        "Coordinate": [
+            947,
+            984,
+            1582,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Naik  Sengupta and Deol",
+        "Coordinate": [
+            936,
+            1094,
+            1928,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "59/202, Sagar Road, Morbi 202389",
+        "Coordinate": [
+            872,
+            1226,
+            1971,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "260, Patel Nagar, Srikakulam-501783",
+        "Coordinate": [
+            870,
+            1470,
+            2005,
+            1606
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7764411332",
+        "Coordinate": [
+            1854,
+            1751,
+            2200,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9559050848",
+        "Coordinate": [
+            891,
+            1750,
+            1232,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            884,
+            1889,
+            1461,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manbir Natarajan - 7856284187",
+        "Coordinate": [
+            952,
+            1996,
+            1901,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Mahika Wadhwa - 9504386293",
+        "Coordinate": [
+            949,
+            2119,
+            1937,
+            2212
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "451000000000.0",
+        "Coordinate": [
+            584,
+            2324,
+            939,
+            2394
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            578,
+            2428,
+            827,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/16/2022",
+        "Coordinate": [
+            583,
+            2513,
+            973,
+            2599
+        ]
+    }
+]

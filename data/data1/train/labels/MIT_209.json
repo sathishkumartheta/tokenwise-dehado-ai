@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yash Mohan",
+        "Coordinate": [
+            879,
+            395,
+            1317,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarnav Mohan",
+        "Coordinate": [
+            879,
+            493,
+            1436,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-09-1988",
+        "Coordinate": [
+            893,
+            591,
+            1200,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            889,
+            687,
+            1458,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            790,
+            1226,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1729,
+            784,
+            1918,
+            857
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            890,
+            2092,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            885,
+            896,
+            1009,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Acharya-Bedi",
+        "Coordinate": [
+            946,
+            984,
+            1984,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Devi-Palla",
+        "Coordinate": [
+            935,
+            1107,
+            1825,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 423, Buch Marg, Muzaffarnagar 753666",
+        "Coordinate": [
+            867,
+            1226,
+            2233,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 94, Sarin Street, Adoni 342683",
+        "Coordinate": [
+            854,
+            1468,
+            2203,
+            1595
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7182041185",
+        "Coordinate": [
+            1835,
+            1747,
+            2184,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7970549928",
+        "Coordinate": [
+            866,
+            1744,
+            1304,
+            1828
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Marathi, Hindi",
+        "Coordinate": [
+            861,
+            1887,
+            2097,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dalaja Chada - 8147634959",
+        "Coordinate": [
+            929,
+            2000,
+            1877,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Triya Goswami - 7418001232",
+        "Coordinate": [
+            940,
+            2124,
+            2022,
+            2224
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DUZVF9554M",
+        "Coordinate": [
+            1595,
+            2332,
+            2071,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            571,
+            2421,
+            872,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-12-2022",
+        "Coordinate": [
+            570,
+            2516,
+            973,
+            2598
+        ]
+    }
+]

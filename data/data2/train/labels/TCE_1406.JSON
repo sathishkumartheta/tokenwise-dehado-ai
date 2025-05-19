@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Pandit",
+        "Coordinate": [
+            902,
+            485,
+            1439,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harrison Pandit",
+        "Coordinate": [
+            888,
+            580,
+            1443,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/22/1975",
+        "Coordinate": [
+            933,
+            643,
+            1322,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            893,
+            759,
+            1458,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            864,
+            1182,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            893,
+            964,
+            1109,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            853,
+            1981,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            961,
+            2077,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Iyengar  Shah and Karan",
+        "Coordinate": [
+            972,
+            1037,
+            2181,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Das Inc",
+        "Coordinate": [
+            989,
+            1146,
+            1969,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "60, Chadha Ganj, Nandyal-735339",
+        "Coordinate": [
+            902,
+            1278,
+            2293,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 441, Srivastava Street, Nangloi Jat-272099",
+        "Coordinate": [
+            894,
+            1508,
+            2254,
+            1692
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8358976304",
+        "Coordinate": [
+            873,
+            1767,
+            1350,
+            1876
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7477032914",
+        "Coordinate": [
+            1838,
+            1767,
+            2242,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            888,
+            1908,
+            1427,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Garima Gade - 9037556137",
+        "Coordinate": [
+            965,
+            2019,
+            2058,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekbal Dubey - 7748929662",
+        "Coordinate": [
+            957,
+            2135,
+            2218,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            598,
+            2406,
+            1002,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/20/2025",
+        "Coordinate": [
+            632,
+            2507,
+            1066,
+            2603
+        ]
+    }
+]

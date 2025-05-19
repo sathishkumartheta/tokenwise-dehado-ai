@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mahika Brar",
+        "Coordinate": [
+            887,
+            436,
+            1380,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Brar",
+        "Coordinate": [
+            899,
+            536,
+            1406,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/22/1969",
+        "Coordinate": [
+            890,
+            638,
+            1259,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            887,
+            736,
+            1254,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            837,
+            1226,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1843,
+            836,
+            2101,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            948,
+            2177,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            940,
+            941,
+            1078,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Babu  Mannan and Parmer",
+        "Coordinate": [
+            961,
+            1042,
+            2299,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Savant-Sankar",
+        "Coordinate": [
+            952,
+            1150,
+            2018,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "847, Ramakrishnan Marg, Ghaziabad-301647",
+        "Coordinate": [
+            900,
+            1294,
+            2297,
+            1531
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 746, Nagarajan Circle, Guntur-297611",
+        "Coordinate": [
+            890,
+            1560,
+            2226,
+            1798
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8879706515",
+        "Coordinate": [
+            1859,
+            1814,
+            2322,
+            1930
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9774089968",
+        "Coordinate": [
+            925,
+            1813,
+            1355,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Gujarati, Marathi",
+        "Coordinate": [
+            927,
+            1945,
+            2215,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lila Devan - 8662058897",
+        "Coordinate": [
+            967,
+            2056,
+            2000,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Radhika Anand - 9967932308",
+        "Coordinate": [
+            969,
+            2189,
+            2038,
+            2311
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PUDKB9464N",
+        "Coordinate": [
+            1608,
+            2391,
+            2082,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            607,
+            2478,
+            919,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-11-2024",
+        "Coordinate": [
+            602,
+            2573,
+            982,
+            2665
+        ]
+    }
+]

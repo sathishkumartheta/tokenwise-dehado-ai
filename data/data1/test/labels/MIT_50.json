@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvashi Manne",
+        "Coordinate": [
+            959,
+            401,
+            1553,
+            496
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Manne",
+        "Coordinate": [
+            975,
+            504,
+            1608,
+            600
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-02-1987",
+        "Coordinate": [
+            981,
+            608,
+            1302,
+            692
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            987,
+            704,
+            1313,
+            793
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            993,
+            800,
+            1214,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1900,
+            794,
+            2148,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1963,
+            902,
+            2201,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1026,
+            909,
+            1158,
+            991
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Tata  Dewan and Mitter",
+        "Coordinate": [
+            1033,
+            989,
+            2358,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Krishnan Ltd",
+        "Coordinate": [
+            1016,
+            1114,
+            2091,
+            1224
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17, Srinivas, Deoghar-805891",
+        "Coordinate": [
+            967,
+            1230,
+            2183,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "52/909, Narula Marg, Aligarh 143888",
+        "Coordinate": [
+            1010,
+            1482,
+            2223,
+            1695
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9465865355",
+        "Coordinate": [
+            1934,
+            1756,
+            2380,
+            1866
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9421482474",
+        "Coordinate": [
+            964,
+            1764,
+            1420,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Tamil",
+        "Coordinate": [
+            999,
+            1901,
+            2045,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanaya Prasad - 8947812948",
+        "Coordinate": [
+            1039,
+            2002,
+            2227,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ubika Tella - 8408817509",
+        "Coordinate": [
+            1056,
+            2138,
+            2102,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "520000000000.0",
+        "Coordinate": [
+            687,
+            2341,
+            974,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            671,
+            2435,
+            1067,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/23/2025",
+        "Coordinate": [
+            749,
+            2524,
+            1166,
+            2615
+        ]
+    }
+]

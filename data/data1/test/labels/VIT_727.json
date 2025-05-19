@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai Murty",
+        "Coordinate": [
+            895,
+            424,
+            1454,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azad Murty",
+        "Coordinate": [
+            886,
+            526,
+            1597,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/28/1963",
+        "Coordinate": [
+            892,
+            633,
+            1397,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            898,
+            732,
+            1400,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            832,
+            1328,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1805,
+            828,
+            2082,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            930,
+            2200,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            903,
+            935,
+            1062,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Singh  Mahajan and Soman",
+        "Coordinate": [
+            931,
+            1035,
+            2399,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Chakrabarti Group",
+        "Coordinate": [
+            939,
+            1142,
+            2357,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 85, Sarin Chowk, Jammu 240790",
+        "Coordinate": [
+            874,
+            1281,
+            2160,
+            1526
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13/88, Bhatia Zila, Salem 567677",
+        "Coordinate": [
+            873,
+            1542,
+            2180,
+            1780
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8083829463",
+        "Coordinate": [
+            1637,
+            1855,
+            2323,
+            1945
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7075331017",
+        "Coordinate": [
+            884,
+            1806,
+            1356,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Marathi, Tamil",
+        "Coordinate": [
+            865,
+            1937,
+            2242,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekavir Nigam - 9869533964",
+        "Coordinate": [
+            914,
+            2047,
+            2395,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amrita Rastogi - 9966195632",
+        "Coordinate": [
+            944,
+            2184,
+            2437,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "416000000000.0",
+        "Coordinate": [
+            582,
+            2381,
+            1272,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            552,
+            2474,
+            851,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-03-2024",
+        "Coordinate": [
+            579,
+            2572,
+            1132,
+            2669
+        ]
+    }
+]

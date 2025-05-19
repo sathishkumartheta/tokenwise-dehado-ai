@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "William Vaidya",
+        "Coordinate": [
+            902,
+            466,
+            1425,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daniel Vaidya",
+        "Coordinate": [
+            912,
+            551,
+            1437,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/2006",
+        "Coordinate": [
+            912,
+            666,
+            1312,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            917,
+            766,
+            1245,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            856,
+            1204,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            927,
+            946,
+            1072,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pant-Kashyap",
+        "Coordinate": [
+            957,
+            1056,
+            1915,
+            1146
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            856,
+            1962,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1779,
+            931,
+            2071,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Pau  Doctor and Lal",
+        "Coordinate": [
+            1007,
+            1156,
+            2170,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "60/425, Bail, Chennai-939589",
+        "Coordinate": [
+            900,
+            1305,
+            1995,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "244, Taneja Path, Muzaffarpur 259512",
+        "Coordinate": [
+            897,
+            1506,
+            2186,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7877027940",
+        "Coordinate": [
+            917,
+            1781,
+            1345,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8770745263",
+        "Coordinate": [
+            1801,
+            1787,
+            2243,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Malayalam",
+        "Coordinate": [
+            912,
+            1916,
+            1721,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Neha Nath - 8822725079",
+        "Coordinate": [
+            942,
+            2026,
+            1974,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tristan Thaker - 7959479266",
+        "Coordinate": [
+            952,
+            2136,
+            2042,
+            2259
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            611,
+            2426,
+            932,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/7/2022",
+        "Coordinate": [
+            616,
+            2516,
+            1028,
+            2599
+        ]
+    }
+]

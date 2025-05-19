@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vincent Nagi",
+        "Coordinate": [
+            915,
+            466,
+            1562,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harrison Nagi",
+        "Coordinate": [
+            922,
+            561,
+            1549,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1966",
+        "Coordinate": [
+            922,
+            666,
+            1418,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            917,
+            765,
+            1387,
+            842
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1745,
+            842,
+            2020,
+            945
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            848,
+            1283,
+            960
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            902,
+            965,
+            1087,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1779,
+            953,
+            2197,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Narang-Deep",
+        "Coordinate": [
+            968,
+            1040,
+            2145,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Prashad  Chaudhry and Goyal",
+        "Coordinate": [
+            983,
+            1160,
+            2289,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 002, Hora Path, Thanjavur-835002",
+        "Coordinate": [
+            902,
+            1272,
+            2049,
+            1497
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "40/897, Sura Path, Bhavnagar-518026",
+        "Coordinate": [
+            910,
+            1520,
+            2275,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9378389404",
+        "Coordinate": [
+            912,
+            1800,
+            1367,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7334681925",
+        "Coordinate": [
+            1837,
+            1774,
+            2366,
+            1880
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil",
+        "Coordinate": [
+            922,
+            1909,
+            1635,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pratyush Choudhry - 7566388987",
+        "Coordinate": [
+            968,
+            2025,
+            2357,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Liam Walia - 9844746049",
+        "Coordinate": [
+            992,
+            2147,
+            2165,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            616,
+            2426,
+            1022,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2022",
+        "Coordinate": [
+            621,
+            2516,
+            1145,
+            2619
+        ]
+    }
+]

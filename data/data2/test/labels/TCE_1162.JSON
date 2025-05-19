@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Megha Raghavan",
+        "Coordinate": [
+            896,
+            471,
+            1536,
+            592
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Raghavan",
+        "Coordinate": [
+            926,
+            597,
+            1561,
+            688
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/1983",
+        "Coordinate": [
+            922,
+            682,
+            1305,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            918,
+            778,
+            1336,
+            875
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            941,
+            889,
+            1289,
+            977
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1767,
+            864,
+            2090,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            963,
+            975,
+            1104,
+            1060
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            978,
+            2115,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Jayaraman  Tata and Basak",
+        "Coordinate": [
+            995,
+            1060,
+            2328,
+            1178
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ramanathan  Dhingra and Sheth",
+        "Coordinate": [
+            992,
+            1189,
+            2351,
+            1302
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 26, Kadakia Road, Hubli\u2013Dharwad-388705",
+        "Coordinate": [
+            920,
+            1317,
+            2182,
+            1533
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "29, Mammen Circle, Dindigul-870096",
+        "Coordinate": [
+            907,
+            1541,
+            2298,
+            1726
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8389321228",
+        "Coordinate": [
+            920,
+            1805,
+            1393,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8684223435",
+        "Coordinate": [
+            1841,
+            1781,
+            2307,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Gujarati",
+        "Coordinate": [
+            910,
+            1933,
+            2007,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nisha Dalal - 8470008800",
+        "Coordinate": [
+            978,
+            2042,
+            1988,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Keya Mammen - 9633967462",
+        "Coordinate": [
+            968,
+            2170,
+            2043,
+            2301
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            636,
+            2435,
+            936,
+            2543
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/19/2025",
+        "Coordinate": [
+            663,
+            2539,
+            1105,
+            2642
+        ]
+    }
+]

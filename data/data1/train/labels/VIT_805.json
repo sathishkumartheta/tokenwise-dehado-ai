@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Manne",
+        "Coordinate": [
+            880,
+            411,
+            1332,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jacob Manne",
+        "Coordinate": [
+            873,
+            511,
+            1334,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-08-2002",
+        "Coordinate": [
+            889,
+            615,
+            1266,
+            710
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            873,
+            710,
+            1424,
+            812
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            871,
+            814,
+            1080,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1783,
+            813,
+            1947,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            918,
+            2076,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            881,
+            929,
+            989,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Toor PLC",
+        "Coordinate": [
+            964,
+            1022,
+            1748,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mukhopadhyay-Patel",
+        "Coordinate": [
+            974,
+            1132,
+            2179,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/79, Madan Street, Thrissur 698375",
+        "Coordinate": [
+            891,
+            1258,
+            2312,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "04/583, Tailor Circle, Agra 770990",
+        "Coordinate": [
+            877,
+            1501,
+            2188,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8747146148",
+        "Coordinate": [
+            1860,
+            1784,
+            2301,
+            1900
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8792077276",
+        "Coordinate": [
+            879,
+            1783,
+            1334,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Tamil, Marathi",
+        "Coordinate": [
+            880,
+            1923,
+            2098,
+            2036
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jack Sawhney - 9970901815",
+        "Coordinate": [
+            933,
+            2034,
+            2041,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Girish Brahmbhatt - 9004416470",
+        "Coordinate": [
+            952,
+            2163,
+            2135,
+            2289
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RFNHC0661H",
+        "Coordinate": [
+            1620,
+            2368,
+            2172,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            583,
+            2457,
+            873,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/22/2024",
+        "Coordinate": [
+            586,
+            2553,
+            1013,
+            2653
+        ]
+    }
+]

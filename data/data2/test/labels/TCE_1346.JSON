@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Watika Bhat",
+        "Coordinate": [
+            904,
+            472,
+            1306,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Bhat",
+        "Coordinate": [
+            906,
+            562,
+            1272,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/3/2002",
+        "Coordinate": [
+            904,
+            654,
+            1188,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            898,
+            744,
+            1172,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            848,
+            1108,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            852,
+            1992,
+            901
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            947,
+            2016,
+            1000
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            908,
+            942,
+            1050,
+            997
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Hegde  Divan and Divan",
+        "Coordinate": [
+            970,
+            1032,
+            1870,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhalla-Buch",
+        "Coordinate": [
+            966,
+            1142,
+            1620,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "801, Zachariah Marg, Madhyamgram 281975",
+        "Coordinate": [
+            900,
+            1254,
+            1998,
+            1345
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "21, Badami Circle, Gurgaon 056553",
+        "Coordinate": [
+            902,
+            1498,
+            1758,
+            1599
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8011860140",
+        "Coordinate": [
+            896,
+            1770,
+            1182,
+            1827
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9669830337",
+        "Coordinate": [
+            1804,
+            1772,
+            2122,
+            1851
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Bengali, Marathi",
+        "Coordinate": [
+            884,
+            1900,
+            1768,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arin Bedi - 7887305306",
+        "Coordinate": [
+            968,
+            2005,
+            1594,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Radhika Tailor - 7765853815",
+        "Coordinate": [
+            954,
+            2120,
+            1710,
+            2223
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            600,
+            2402,
+            904,
+            2471
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/10/2022",
+        "Coordinate": [
+            596,
+            2484,
+            874,
+            2553
+        ]
+    }
+]

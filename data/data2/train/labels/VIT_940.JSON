@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "983327000000",
+        "Coordinate": [
+            602,
+            2394,
+            1138,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            604,
+            2480,
+            870,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/30/2023",
+        "Coordinate": [
+            582,
+            2576,
+            998,
+            2654
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanya Natarajan - 74200316706",
+        "Coordinate": [
+            1004,
+            2190,
+            2040,
+            2310
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashoda Sangha - 8428761481",
+        "Coordinate": [
+            1002,
+            2060,
+            2010,
+            2184
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Marathi",
+        "Coordinate": [
+            930,
+            1950,
+            1756,
+            2050
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9565660026",
+        "Coordinate": [
+            952,
+            1810,
+            1356,
+            1916
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9172162191",
+        "Coordinate": [
+            1886,
+            1804,
+            2262,
+            1904
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/250, Morar Chowk, Hajipur 039500",
+        "Coordinate": [
+            888,
+            1536,
+            2216,
+            1676
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "982, Krishnamurthy, Darbhanga 833788",
+        "Coordinate": [
+            910,
+            1278,
+            2258,
+            1434
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kara  Khare and Malhotra",
+        "Coordinate": [
+            1006,
+            1162,
+            2278,
+            1274
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Parmer Inc",
+        "Coordinate": [
+            998,
+            1050,
+            1718,
+            1154
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            946,
+            2096,
+            1040
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1764,
+            838,
+            2046,
+            932
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            840,
+            1148,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            906,
+            944,
+            1000,
+            1030
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            890,
+            740,
+            1032,
+            832
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/17/1960",
+        "Coordinate": [
+            888,
+            634,
+            1192,
+            722
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Simon Taneja",
+        "Coordinate": [
+            900,
+            530,
+            1300,
+            634
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Zansi Taneja",
+        "Coordinate": [
+            876,
+            436,
+            1282,
+            528
+        ]
+    }
+]

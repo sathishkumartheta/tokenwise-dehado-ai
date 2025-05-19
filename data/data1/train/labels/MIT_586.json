@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Priya Kala",
+        "Coordinate": [
+            905,
+            421,
+            1448,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Kala",
+        "Coordinate": [
+            906,
+            524,
+            1609,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-03-1966",
+        "Coordinate": [
+            929,
+            625,
+            1343,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            725,
+            1256,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            827,
+            1225,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1818,
+            824,
+            2131,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            933,
+            2152,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            908,
+            930,
+            1018,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sridhar  Shan and Keer",
+        "Coordinate": [
+            963,
+            1031,
+            2167,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sha and Sons",
+        "Coordinate": [
+            986,
+            1142,
+            2014,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24/872, Palla Ganj, Ozhukarai 927687",
+        "Coordinate": [
+            879,
+            1283,
+            2263,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13/493, Subramaniam Zila, Gandhidham 605581",
+        "Coordinate": [
+            874,
+            1540,
+            2290,
+            1695
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9213678294",
+        "Coordinate": [
+            1854,
+            1818,
+            2279,
+            1927
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9986878579",
+        "Coordinate": [
+            876,
+            1803,
+            1318,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Telugu",
+        "Coordinate": [
+            894,
+            1939,
+            1838,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Veer Nagarajan - 9801427768",
+        "Coordinate": [
+            935,
+            2052,
+            1995,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeremiah Dani - 8824832857",
+        "Coordinate": [
+            947,
+            2184,
+            2094,
+            2306
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FIZLP9394Q",
+        "Coordinate": [
+            1611,
+            2382,
+            2118,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            599,
+            2470,
+            868,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-06-2022",
+        "Coordinate": [
+            600,
+            2567,
+            1034,
+            2657
+        ]
+    }
+]

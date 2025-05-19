@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rushil Kumar",
+        "Coordinate": [
+            932,
+            480,
+            1436,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samesh Kumar",
+        "Coordinate": [
+            940,
+            574,
+            1422,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/8/2001",
+        "Coordinate": [
+            942,
+            674,
+            1270,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            984,
+            762,
+            1162,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            858,
+            1204,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1788,
+            848,
+            1944,
+            969
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            964,
+            2092,
+            1057
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            972,
+            962,
+            1222,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Mall and Sons",
+        "Coordinate": [
+            992,
+            1060,
+            1990,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Tiwari  Mody and Anand",
+        "Coordinate": [
+            1018,
+            1154,
+            2246,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 137, Halder Road, Sasaram 710738",
+        "Coordinate": [
+            946,
+            1272,
+            2240,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "258, Kapoor Ganj, Purnia-233450",
+        "Coordinate": [
+            912,
+            1562,
+            2158,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8588618552",
+        "Coordinate": [
+            930,
+            1792,
+            1372,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7093657089",
+        "Coordinate": [
+            1838,
+            1779,
+            2262,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Malayalam",
+        "Coordinate": [
+            920,
+            1909,
+            1734,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hema Majumdar - 9089699255",
+        "Coordinate": [
+            1017,
+            2012,
+            1923,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urishilla Tak - 8951323709",
+        "Coordinate": [
+            964,
+            2122,
+            2014,
+            2223
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            672,
+            2434,
+            904,
+            2525
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/5/2025",
+        "Coordinate": [
+            656,
+            2530,
+            1036,
+            2591
+        ]
+    }
+]

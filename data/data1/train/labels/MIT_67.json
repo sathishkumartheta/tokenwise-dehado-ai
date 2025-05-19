@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Wason",
+        "Coordinate": [
+            873,
+            390,
+            1408,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wazir Wason",
+        "Coordinate": [
+            889,
+            484,
+            1423,
+            576
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/18/1998",
+        "Coordinate": [
+            898,
+            587,
+            1258,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            901,
+            685,
+            1295,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            789,
+            1202,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1839,
+            779,
+            2029,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1901,
+            887,
+            2161,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            899,
+            882,
+            1022,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Soni LLC",
+        "Coordinate": [
+            976,
+            984,
+            1862,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Rana Ltd",
+        "Coordinate": [
+            1008,
+            1094,
+            1886,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 722, Hans Ganj, Kalyan-Dombivli 163294",
+        "Coordinate": [
+            896,
+            1235,
+            2266,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 686, Nanda Circle, Saharsa 099861",
+        "Coordinate": [
+            881,
+            1464,
+            2294,
+            1595
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9674859999",
+        "Coordinate": [
+            1869,
+            1741,
+            2296,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9531584834",
+        "Coordinate": [
+            892,
+            1739,
+            1343,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            887,
+            1890,
+            1463,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mason Divan - 9364859391",
+        "Coordinate": [
+            943,
+            2001,
+            1995,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hitesh Chaudhuri - 8506222958",
+        "Coordinate": [
+            959,
+            2125,
+            2162,
+            2242
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WMGKF5494L",
+        "Coordinate": [
+            1668,
+            2330,
+            2192,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            609,
+            2418,
+            902,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/18/2025",
+        "Coordinate": [
+            593,
+            2512,
+            1004,
+            2601
+        ]
+    }
+]

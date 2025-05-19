@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pooja Prashad",
+        "Coordinate": [
+            886,
+            477,
+            1292,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advik Prashad",
+        "Coordinate": [
+            888,
+            587,
+            1296,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/9/1989",
+        "Coordinate": [
+            896,
+            671,
+            1212,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            917,
+            775,
+            1072,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            897,
+            878,
+            1136,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            900,
+            954,
+            1044,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1835,
+            843,
+            2055,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            933,
+            2079,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dhingra LLC",
+        "Coordinate": [
+            961,
+            1033,
+            1703,
+            1136
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Krishnamurthy Ltd",
+        "Coordinate": [
+            960,
+            1135,
+            1939,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 20, Raj Path, Udaipur-718038",
+        "Coordinate": [
+            903,
+            1269,
+            1955,
+            1388
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37/104, Virk Path, Nadiad 960075",
+        "Coordinate": [
+            884,
+            1524,
+            1931,
+            1649
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8161107125",
+        "Coordinate": [
+            866,
+            1762,
+            1192,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8807185509",
+        "Coordinate": [
+            1822,
+            1783,
+            2215,
+            1858
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tripti Setty - 9743290719",
+        "Coordinate": [
+            988,
+            2021,
+            1703,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanav Dyal - 7849378731",
+        "Coordinate": [
+            973,
+            2141,
+            1811,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            603,
+            2411,
+            836,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2025",
+        "Coordinate": [
+            586,
+            2506,
+            908,
+            2592
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Hindi, Malayalam",
+        "Coordinate": [
+            895,
+            1896,
+            1842,
+            2010
+        ]
+    }
+]

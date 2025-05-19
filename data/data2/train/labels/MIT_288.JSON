@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oeshi Rana",
+        "Coordinate": [
+            884,
+            390,
+            1274,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Akshay Rana",
+        "Coordinate": [
+            886,
+            492,
+            1368,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/6/1972",
+        "Coordinate": [
+            897,
+            587,
+            1213,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            686,
+            1070,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            789,
+            1188,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1799,
+            783,
+            2090,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            889,
+            2180,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            929,
+            884,
+            1107,
+            969
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Prakash  Raman and Sengupta",
+        "Coordinate": [
+            935,
+            981,
+            2307,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kar  Datta and Srinivas",
+        "Coordinate": [
+            929,
+            1096,
+            2190,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "984, Borde Chowk, Ghaziabad-618120",
+        "Coordinate": [
+            856,
+            1235,
+            2236,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "47, Mitter Path, Aizawl 876989",
+        "Coordinate": [
+            880,
+            1481,
+            2106,
+            1613
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9497256377",
+        "Coordinate": [
+            1563,
+            1799,
+            2049,
+            1888
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9078978469",
+        "Coordinate": [
+            872,
+            1751,
+            1317,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi, Telugu, Gujarati",
+        "Coordinate": [
+            900,
+            1898,
+            2180,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upasna Nazareth - 8219401765",
+        "Coordinate": [
+            937,
+            1998,
+            2076,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrishti Oommen - 7062203155",
+        "Coordinate": [
+            937,
+            2127,
+            2063,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EVAOF5225I",
+        "Coordinate": [
+            1615,
+            2328,
+            2134,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            594,
+            2416,
+            890,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/15/2025",
+        "Coordinate": [
+            602,
+            2513,
+            1011,
+            2601
+        ]
+    }
+]

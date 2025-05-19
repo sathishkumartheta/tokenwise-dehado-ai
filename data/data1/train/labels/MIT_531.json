@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nathan Rajagopal",
+        "Coordinate": [
+            882,
+            392,
+            1440,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Rajagopal",
+        "Coordinate": [
+            880,
+            496,
+            1554,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-11-2001",
+        "Coordinate": [
+            885,
+            593,
+            1196,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            892,
+            689,
+            1218,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            894,
+            797,
+            1119,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            784,
+            1912,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            894,
+            2072,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            905,
+            902,
+            1004,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Golla-Gill",
+        "Coordinate": [
+            935,
+            984,
+            1767,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ghosh and Sons",
+        "Coordinate": [
+            962,
+            1099,
+            2003,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/969, Ganesh Street, Muzaffarpur-861941",
+        "Coordinate": [
+            882,
+            1261,
+            2250,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/34, Mand Street, Durg 662834",
+        "Coordinate": [
+            886,
+            1482,
+            2234,
+            1632
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9889254566",
+        "Coordinate": [
+            1853,
+            1750,
+            2312,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8265635464",
+        "Coordinate": [
+            903,
+            1757,
+            1344,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            907,
+            1894,
+            1457,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rayaan Jaggi - 8636755562",
+        "Coordinate": [
+            937,
+            2000,
+            2027,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zansi Yohannan - 8255809481",
+        "Coordinate": [
+            956,
+            2124,
+            2083,
+            2231
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BCIBB5702B",
+        "Coordinate": [
+            1613,
+            2335,
+            2086,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            572,
+            2424,
+            1008,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/17/2025",
+        "Coordinate": [
+            595,
+            2517,
+            964,
+            2606
+        ]
+    }
+]

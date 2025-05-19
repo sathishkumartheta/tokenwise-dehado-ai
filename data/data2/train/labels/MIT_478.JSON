@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lekha Chanda",
+        "Coordinate": [
+            853,
+            487,
+            1386,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manthan Chanda",
+        "Coordinate": [
+            851,
+            577,
+            1467,
+            682
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/8/2000",
+        "Coordinate": [
+            870,
+            691,
+            1222,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            867,
+            782,
+            1429,
+            875
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            872,
+            896,
+            1093,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            882,
+            991,
+            1027,
+            1062
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1816,
+            853,
+            2052,
+            958
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            974,
+            2085,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bal and Sons",
+        "Coordinate": [
+            946,
+            1077,
+            1928,
+            1177
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Naik  Agate and Gola",
+        "Coordinate": [
+            953,
+            1179,
+            2128,
+            1293
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 344, Rastogi Road, Ajmer 883904",
+        "Coordinate": [
+            879,
+            1376,
+            2225,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "145, Radhakrishnan Road, Dindigul-493251",
+        "Coordinate": [
+            872,
+            1612,
+            2287,
+            1747
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9301958713",
+        "Coordinate": [
+            891,
+            1861,
+            1324,
+            1954
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9323412426",
+        "Coordinate": [
+            1842,
+            1864,
+            2282,
+            1945
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Gujarati, Bengali",
+        "Coordinate": [
+            884,
+            1966,
+            2225,
+            2080
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abha Shankar - 9962943125",
+        "Coordinate": [
+            996,
+            2095,
+            2016,
+            2192
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Edhitha Kala - 8832823516",
+        "Coordinate": [
+            991,
+            2223,
+            2007,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "589751000000",
+        "Coordinate": [
+            613,
+            2423,
+            1103,
+            2511
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            618,
+            2532,
+            1001,
+            2606
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2024",
+        "Coordinate": [
+            608,
+            2627,
+            1051,
+            2696
+        ]
+    }
+]

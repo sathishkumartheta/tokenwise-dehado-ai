@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pooja Samra",
+        "Coordinate": [
+            917,
+            467,
+            1434,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Benjamin Samra",
+        "Coordinate": [
+            917,
+            577,
+            1602,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/1972",
+        "Coordinate": [
+            936,
+            677,
+            1340,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            943,
+            761,
+            1250,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            867,
+            1269,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1010,
+            950,
+            1170,
+            1041
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1773,
+            857,
+            2076,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            957,
+            2146,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bail  Dass and Karan",
+        "Coordinate": [
+            1003,
+            1064,
+            2218,
+            1165
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Srivastava Group",
+        "Coordinate": [
+            996,
+            1181,
+            2172,
+            1290
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94, Tata, Gangtok-687659",
+        "Coordinate": [
+            946,
+            1300,
+            2015,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "18, Subramaniam Zila, Ambattur-096199",
+        "Coordinate": [
+            916,
+            1530,
+            2279,
+            1729
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8419740590",
+        "Coordinate": [
+            906,
+            1770,
+            1340,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8346092312",
+        "Coordinate": [
+            1850,
+            1770,
+            2271,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu",
+        "Coordinate": [
+            973,
+            1914,
+            1626,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Comar - 8780911398",
+        "Coordinate": [
+            996,
+            2024,
+            2100,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedika Mutti - 9609797328",
+        "Coordinate": [
+            1010,
+            2141,
+            2098,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            637,
+            2420,
+            954,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/11/2023",
+        "Coordinate": [
+            647,
+            2504,
+            1058,
+            2612
+        ]
+    }
+]

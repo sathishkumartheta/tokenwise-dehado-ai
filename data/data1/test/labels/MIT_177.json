@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daniel Khosla",
+        "Coordinate": [
+            914,
+            389,
+            1368,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rushil Khosla",
+        "Coordinate": [
+            922,
+            486,
+            1380,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/28/1992",
+        "Coordinate": [
+            954,
+            591,
+            1313,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            963,
+            683,
+            1429,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            987,
+            789,
+            1246,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1772,
+            786,
+            1940,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            891,
+            2084,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1004,
+            890,
+            1174,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Gera-Prashad",
+        "Coordinate": [
+            1008,
+            984,
+            1895,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Chakraborty  Sheth and Raja",
+        "Coordinate": [
+            992,
+            1104,
+            2307,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 01, Butala Zila, Unnao 099974",
+        "Coordinate": [
+            945,
+            1236,
+            2148,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "76, Dass Road, Anantapur 826068",
+        "Coordinate": [
+            963,
+            1501,
+            2151,
+            1642
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8279087950",
+        "Coordinate": [
+            1858,
+            1756,
+            2265,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7530834863",
+        "Coordinate": [
+            937,
+            1757,
+            1335,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi",
+        "Coordinate": [
+            942,
+            1889,
+            1423,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Devansh Venkataraman - 7824099543",
+        "Coordinate": [
+            950,
+            1999,
+            2182,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sarthak Dalal - 7678537150",
+        "Coordinate": [
+            965,
+            2122,
+            2123,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "262000000000.0",
+        "Coordinate": [
+            614,
+            2323,
+            1007,
+            2402
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/26/2024",
+        "Coordinate": [
+            637,
+            2508,
+            984,
+            2591
+        ]
+    }
+]

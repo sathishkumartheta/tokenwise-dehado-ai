@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jyoti Bir",
+        "Coordinate": [
+            913,
+            467,
+            1265,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatan Bir",
+        "Coordinate": [
+            922,
+            562,
+            1241,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/27/1982",
+        "Coordinate": [
+            936,
+            658,
+            1282,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            917,
+            752,
+            1158,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            846,
+            1191,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1835,
+            852,
+            2066,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            951,
+            2122,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            905,
+            951,
+            1080,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Panchal  Jani and Kamdar",
+        "Coordinate": [
+            1002,
+            1041,
+            2235,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sibal  Iyengar and Mishra",
+        "Coordinate": [
+            983,
+            1149,
+            2278,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "63/065, Parekh Circle, Malda-546991",
+        "Coordinate": [
+            932,
+            1274,
+            2126,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "037, Nagi Circle, Agartala 298368",
+        "Coordinate": [
+            912,
+            1517,
+            2124,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9807013000",
+        "Coordinate": [
+            930,
+            1772,
+            1313,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9676094369",
+        "Coordinate": [
+            1836,
+            1777,
+            2255,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Hindi, Marathi",
+        "Coordinate": [
+            943,
+            1912,
+            2071,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nimrat Contractor - 8054182849",
+        "Coordinate": [
+            973,
+            2005,
+            1991,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Triveni Munshi - 9402306282",
+        "Coordinate": [
+            1006,
+            2146,
+            2019,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            637,
+            2416,
+            926,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/27/2025",
+        "Coordinate": [
+            647,
+            2508,
+            1040,
+            2578
+        ]
+    }
+]

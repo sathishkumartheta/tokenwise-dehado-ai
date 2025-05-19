@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jonathan Bajwa",
+        "Coordinate": [
+            883,
+            434,
+            1463,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Caleb Bajwa",
+        "Coordinate": [
+            907,
+            539,
+            1321,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/16/1989",
+        "Coordinate": [
+            897,
+            643,
+            1238,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            903,
+            743,
+            1061,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            840,
+            1145,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1776,
+            828,
+            1945,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            940,
+            2117,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            922,
+            945,
+            1047,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Desai PLC",
+        "Coordinate": [
+            1016,
+            1045,
+            1795,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sami-Bhatnagar",
+        "Coordinate": [
+            1007,
+            1152,
+            1966,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "73/21, Sridhar Road, Bhagalpur-043474",
+        "Coordinate": [
+            911,
+            1295,
+            2299,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 42, Bassi Zila, Karimnagar-004601",
+        "Coordinate": [
+            884,
+            1556,
+            2331,
+            1714
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8974322234",
+        "Coordinate": [
+            1888,
+            1817,
+            2343,
+            1934
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8533401948",
+        "Coordinate": [
+            911,
+            1814,
+            1308,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Bengali",
+        "Coordinate": [
+            948,
+            1947,
+            1666,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Brinda Choudhry - 9611305392",
+        "Coordinate": [
+            982,
+            2060,
+            2100,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Keer - 7738900190",
+        "Coordinate": [
+            990,
+            2191,
+            2021,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "679000000000.0",
+        "Coordinate": [
+            634,
+            2388,
+            1271,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            621,
+            2479,
+            870,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/29/2024",
+        "Coordinate": [
+            641,
+            2571,
+            1031,
+            2666
+        ]
+    }
+]

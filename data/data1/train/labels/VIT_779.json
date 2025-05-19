@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mohammed Sankaran",
+        "Coordinate": [
+            885,
+            435,
+            1792,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Sankaran",
+        "Coordinate": [
+            887,
+            535,
+            1568,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/15/1974",
+        "Coordinate": [
+            903,
+            638,
+            1254,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            917,
+            729,
+            1265,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            834,
+            1215,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1778,
+            832,
+            1963,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            942,
+            2079,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            953,
+            939,
+            1095,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Radhakrishnan  Gupta and Wali",
+        "Coordinate": [
+            950,
+            1038,
+            2346,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Randhawa Ltd",
+        "Coordinate": [
+            955,
+            1146,
+            1977,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "047, Koshy Path, Ambala-770693",
+        "Coordinate": [
+            879,
+            1268,
+            2145,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "202, Mukherjee Path, Jodhpur-794677",
+        "Coordinate": [
+            877,
+            1528,
+            2286,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9415213700",
+        "Coordinate": [
+            1870,
+            1806,
+            2248,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8957181684",
+        "Coordinate": [
+            872,
+            1805,
+            1247,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            917,
+            1943,
+            1540,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zinal Varughese - 9285711241",
+        "Coordinate": [
+            951,
+            2047,
+            2070,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanveer Sachdeva - 8991195375",
+        "Coordinate": [
+            953,
+            2183,
+            2062,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "857000000000.0",
+        "Coordinate": [
+            584,
+            2395,
+            1152,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            581,
+            2478,
+            906,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/18/2022",
+        "Coordinate": [
+            620,
+            2573,
+            1016,
+            2660
+        ]
+    }
+]

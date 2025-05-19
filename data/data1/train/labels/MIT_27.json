@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lavanya Hora",
+        "Coordinate": [
+            884,
+            387,
+            1485,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gabriel Hora",
+        "Coordinate": [
+            897,
+            491,
+            1464,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/25/2000",
+        "Coordinate": [
+            902,
+            591,
+            1390,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            895,
+            693,
+            1257,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            793,
+            1196,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1788,
+            782,
+            2089,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            896,
+            2121,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            926,
+            901,
+            1058,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Borra and Sons",
+        "Coordinate": [
+            963,
+            986,
+            2009,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Tak  Shetty and Sen",
+        "Coordinate": [
+            945,
+            1104,
+            2212,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "717, Mitter Chowk, Gudivada 581477",
+        "Coordinate": [
+            880,
+            1224,
+            2273,
+            1358
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 41, Tripathi Zila, Surendranagar Dudhrej 793597",
+        "Coordinate": [
+            856,
+            1479,
+            2303,
+            1712
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9190976190",
+        "Coordinate": [
+            1834,
+            1751,
+            2335,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8768180399",
+        "Coordinate": [
+            861,
+            1757,
+            1296,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            865,
+            1889,
+            1424,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "David Seshadri - 8241494760",
+        "Coordinate": [
+            917,
+            1998,
+            2127,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemal Chad - 7822813344",
+        "Coordinate": [
+            926,
+            2128,
+            1987,
+            2245
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "852000000000.0",
+        "Coordinate": [
+            564,
+            2331,
+            1095,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            563,
+            2420,
+            1282,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-03-2022",
+        "Coordinate": [
+            571,
+            2510,
+            1071,
+            2602
+        ]
+    }
+]

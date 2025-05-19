@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lavanya Chokshi",
+        "Coordinate": [
+            907,
+            472,
+            1466,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Baljiwan Chokshi",
+        "Coordinate": [
+            900,
+            567,
+            1445,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/23/1993",
+        "Coordinate": [
+            919,
+            664,
+            1227,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            919,
+            746,
+            1223,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            839,
+            1234,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1732,
+            843,
+            2000,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            915,
+            949,
+            1031,
+            1031
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            951,
+            2044,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Date  Sheth and Buch",
+        "Coordinate": [
+            978,
+            1048,
+            2025,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Parekh  Chauhan and Hari",
+        "Coordinate": [
+            993,
+            1137,
+            2238,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "28/82, Sachdeva Chowk, Gopalpur 946357",
+        "Coordinate": [
+            919,
+            1272,
+            2265,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/547, Shukla Ganj, Thoothukudi 147274",
+        "Coordinate": [
+            919,
+            1512,
+            2295,
+            1658
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9844538256",
+        "Coordinate": [
+            924,
+            1786,
+            1322,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7427833116",
+        "Coordinate": [
+            1837,
+            1776,
+            2196,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            917,
+            1913,
+            1516,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saksham Dasgupta - 7207207374",
+        "Coordinate": [
+            974,
+            2014,
+            1974,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Riya Borah - 9104970606",
+        "Coordinate": [
+            972,
+            2135,
+            1816,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            639,
+            2417,
+            921,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/24/2022",
+        "Coordinate": [
+            628,
+            2521,
+            1019,
+            2592
+        ]
+    }
+]

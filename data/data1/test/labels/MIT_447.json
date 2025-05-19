@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amol Wali",
+        "Coordinate": [
+            892,
+            399,
+            1213,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekalinga Wali",
+        "Coordinate": [
+            900,
+            500,
+            1376,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/18/1960",
+        "Coordinate": [
+            892,
+            600,
+            1205,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            909,
+            695,
+            1076,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            799,
+            1206,
+            891
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1766,
+            793,
+            1944,
+            888
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            918,
+            901,
+            1022,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Dar Group",
+        "Coordinate": [
+            957,
+            993,
+            1725,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Gill Group",
+        "Coordinate": [
+            947,
+            1105,
+            1729,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 43, Raj Path, Nizamabad-870120",
+        "Coordinate": [
+            906,
+            1274,
+            2225,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 25, Reddy Ganj, Bhimavaram 237530",
+        "Coordinate": [
+            891,
+            1473,
+            2130,
+            1620
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7335886810",
+        "Coordinate": [
+            1868,
+            1749,
+            2269,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9282436718",
+        "Coordinate": [
+            885,
+            1757,
+            1266,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            893,
+            1897,
+            1458,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amaira Seth - 8138192492",
+        "Coordinate": [
+            945,
+            2006,
+            1889,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daniel Krish - 9962672532",
+        "Coordinate": [
+            944,
+            2124,
+            1892,
+            2223
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "487000000000.0",
+        "Coordinate": [
+            598,
+            2333,
+            1055,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            614,
+            2423,
+            892,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/17/2023",
+        "Coordinate": [
+            613,
+            2517,
+            933,
+            2601
+        ]
+    }
+]

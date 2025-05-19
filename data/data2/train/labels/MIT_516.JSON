@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pushti Choudhary",
+        "Coordinate": [
+            910,
+            423,
+            1804,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Choudhary",
+        "Coordinate": [
+            929,
+            527,
+            1852,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/9/1961",
+        "Coordinate": [
+            963,
+            649,
+            1450,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            963,
+            720,
+            1540,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            832,
+            1367,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1005,
+            927,
+            1219,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1769,
+            813,
+            2121,
+            891
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            908,
+            2204,
+            998
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Deo  Agrawal and Mital",
+        "Coordinate": [
+            986,
+            1027,
+            2389,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bajaj-Goyal",
+        "Coordinate": [
+            994,
+            1117,
+            2114,
+            1231
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "531, Shetty Street, Muzaffarpur 795311",
+        "Coordinate": [
+            910,
+            1243,
+            2358,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "590, Ganesan Road, Secunderabad 742866",
+        "Coordinate": [
+            915,
+            1521,
+            2023,
+            1757
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8156504170",
+        "Coordinate": [
+            1543,
+            1842,
+            2095,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8150263429",
+        "Coordinate": [
+            925,
+            1783,
+            1391,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            913,
+            1921,
+            1638,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Choudhry - 9864982999",
+        "Coordinate": [
+            960,
+            2004,
+            2385,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Januja Tandon - 8659888819",
+        "Coordinate": [
+            986,
+            2137,
+            2230,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "573246000000",
+        "Coordinate": [
+            615,
+            2361,
+            1315,
+            2446
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            608,
+            2451,
+            1108,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/9/2024",
+        "Coordinate": [
+            615,
+            2542,
+            1165,
+            2656
+        ]
+    }
+]

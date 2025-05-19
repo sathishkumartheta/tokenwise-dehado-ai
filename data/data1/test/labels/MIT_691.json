@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedant Mitter",
+        "Coordinate": [
+            881,
+            438,
+            1345,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekalinga Mitter",
+        "Coordinate": [
+            879,
+            543,
+            1375,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/18/1962",
+        "Coordinate": [
+            891,
+            647,
+            1235,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            906,
+            748,
+            1239,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            851,
+            1185,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1848,
+            830,
+            2036,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            946,
+            2116,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            947,
+            953,
+            1094,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sodhi  Din and Datta",
+        "Coordinate": [
+            977,
+            1044,
+            2032,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Kata  Parikh and Sampath",
+        "Coordinate": [
+            984,
+            1151,
+            2323,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17/618, Taneja, Pallavaram-775138",
+        "Coordinate": [
+            888,
+            1307,
+            2055,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/398, Walia Zila, Srikakulam-204873",
+        "Coordinate": [
+            893,
+            1542,
+            2225,
+            1696
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9454902734",
+        "Coordinate": [
+            1677,
+            1853,
+            2088,
+            1944
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9360108451",
+        "Coordinate": [
+            883,
+            1826,
+            1224,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil",
+        "Coordinate": [
+            890,
+            1951,
+            1336,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anvi Patel - 9951984482",
+        "Coordinate": [
+            964,
+            2057,
+            1738,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayyan Nagar - 7139715811",
+        "Coordinate": [
+            962,
+            2190,
+            1853,
+            2313
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "901000000000.0",
+        "Coordinate": [
+            591,
+            2393,
+            1104,
+            2482
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XTFBT9546Y",
+        "Coordinate": [
+            1641,
+            2392,
+            2136,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            594,
+            2487,
+            889,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2025",
+        "Coordinate": [
+            602,
+            2583,
+            979,
+            2675
+        ]
+    }
+]

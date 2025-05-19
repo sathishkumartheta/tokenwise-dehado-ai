@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashica Sarma",
+        "Coordinate": [
+            864,
+            391,
+            1333,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Owen Sarma",
+        "Coordinate": [
+            868,
+            489,
+            1283,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-03-2005",
+        "Coordinate": [
+            869,
+            588,
+            1185,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            874,
+            686,
+            1348,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            871,
+            786,
+            1080,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1711,
+            781,
+            1939,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            887,
+            2041,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            870,
+            897,
+            971,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Pradhan Ltd",
+        "Coordinate": [
+            904,
+            979,
+            1683,
+            1080
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Parikh  Goyal and Khalsa",
+        "Coordinate": [
+            909,
+            1083,
+            2079,
+            1198
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 304, Keer Road, Jodhpur-171523",
+        "Coordinate": [
+            842,
+            1229,
+            2073,
+            1390
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "929, Bajwa Path, Avadi 748309",
+        "Coordinate": [
+            853,
+            1500,
+            1824,
+            1647
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9247268781",
+        "Coordinate": [
+            1836,
+            1742,
+            2222,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9582059188",
+        "Coordinate": [
+            861,
+            1749,
+            1260,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Tamil",
+        "Coordinate": [
+            859,
+            1885,
+            1566,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abdul Sagar - 9882010084",
+        "Coordinate": [
+            927,
+            1992,
+            1737,
+            2083
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fitan Kade - 8059125335",
+        "Coordinate": [
+            932,
+            2114,
+            1756,
+            2212
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "602000000000.0",
+        "Coordinate": [
+            563,
+            2327,
+            988,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            571,
+            2420,
+            827,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/18/2025",
+        "Coordinate": [
+            569,
+            2513,
+            941,
+            2599
+        ]
+    }
+]

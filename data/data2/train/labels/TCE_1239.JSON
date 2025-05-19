@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashica Mistry",
+        "Coordinate": [
+            946,
+            467,
+            1474,
+            588
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sathvik Mistry",
+        "Coordinate": [
+            950,
+            561,
+            1464,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/6/2003",
+        "Coordinate": [
+            966,
+            661,
+            1325,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            966,
+            750,
+            1274,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            970,
+            857,
+            1192,
+            966
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1737,
+            843,
+            2024,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1006,
+            951,
+            1234,
+            1057
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            950,
+            2053,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kuruvilla-Dugal",
+        "Coordinate": [
+            976,
+            1050,
+            2050,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Gupta and Sons",
+        "Coordinate": [
+            970,
+            1157,
+            2027,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "504, Mallick Marg, Tiruchirappalli-426588",
+        "Coordinate": [
+            920,
+            1297,
+            2304,
+            1457
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "61, Madan Street, Indore 160124",
+        "Coordinate": [
+            923,
+            1554,
+            2184,
+            1686
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8373252567",
+        "Coordinate": [
+            933,
+            1787,
+            1368,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8143044070",
+        "Coordinate": [
+            1526,
+            1804,
+            2002,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Kannada, Hindi",
+        "Coordinate": [
+            960,
+            1904,
+            2085,
+            2020
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Henry Chaudhuri - 7423286594",
+        "Coordinate": [
+            1000,
+            2020,
+            2219,
+            2137
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatresh Shan - 9315363402",
+        "Coordinate": [
+            987,
+            2144,
+            2160,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            643,
+            2434,
+            882,
+            2534
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/23/2022",
+        "Coordinate": [
+            633,
+            2500,
+            1034,
+            2611
+        ]
+    }
+]

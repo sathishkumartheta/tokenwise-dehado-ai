@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Bajwa",
+        "Coordinate": [
+            874,
+            391,
+            1249,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhiram Bajwa",
+        "Coordinate": [
+            879,
+            486,
+            1304,
+            577
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-09-1961",
+        "Coordinate": [
+            879,
+            589,
+            1085,
+            670
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            871,
+            687,
+            1093,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            789,
+            1096,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            780,
+            1976,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            888,
+            2047,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            898,
+            891,
+            1000,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dara-Johal",
+        "Coordinate": [
+            948,
+            979,
+            1653,
+            1079
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bora Inc",
+        "Coordinate": [
+            951,
+            1099,
+            1606,
+            1201
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 656, Mital Nagar, Munger 346997",
+        "Coordinate": [
+            860,
+            1228,
+            1953,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 755, Kumer Nagar, Yamunanagar 699570",
+        "Coordinate": [
+            873,
+            1483,
+            2185,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8971254400",
+        "Coordinate": [
+            1847,
+            1745,
+            2164,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9380300502",
+        "Coordinate": [
+            884,
+            1746,
+            1227,
+            1832
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Marathi, Hindi",
+        "Coordinate": [
+            879,
+            1885,
+            1700,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Balvan Sura - 9462915935",
+        "Coordinate": [
+            924,
+            1989,
+            1652,
+            2079
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vaishnavi Krishnan - 7480189245",
+        "Coordinate": [
+            931,
+            2120,
+            1779,
+            2217
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "917000000000.0",
+        "Coordinate": [
+            578,
+            2328,
+            943,
+            2408
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            582,
+            2420,
+            917,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-01-2022",
+        "Coordinate": [
+            571,
+            2515,
+            876,
+            2592
+        ]
+    }
+]

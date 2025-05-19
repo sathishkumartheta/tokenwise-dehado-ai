@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nidhi Modi",
+        "Coordinate": [
+            885,
+            424,
+            1278,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jack Modi",
+        "Coordinate": [
+            896,
+            520,
+            1264,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/31/1963",
+        "Coordinate": [
+            907,
+            622,
+            1256,
+            710
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            905,
+            723,
+            1235,
+            812
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            822,
+            1234,
+            910
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1772,
+            819,
+            2020,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            928,
+            2093,
+            1009
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            910,
+            924,
+            1077,
+            1011
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Nagar-Shetty",
+        "Coordinate": [
+            991,
+            1024,
+            1894,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Date-Chanda",
+        "Coordinate": [
+            989,
+            1138,
+            1903,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "16, Cherian Circle, Buxar 766352",
+        "Coordinate": [
+            891,
+            1262,
+            2170,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "673, Contractor Chowk, Ahmedabad 068686",
+        "Coordinate": [
+            890,
+            1510,
+            2345,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9434774567",
+        "Coordinate": [
+            1872,
+            1794,
+            2338,
+            1887
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7869555021",
+        "Coordinate": [
+            891,
+            1795,
+            1327,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            893,
+            1932,
+            1506,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oni Mohanty - 9853809297",
+        "Coordinate": [
+            966,
+            2038,
+            1942,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bina Solanki - 7793313403",
+        "Coordinate": [
+            958,
+            2166,
+            1955,
+            2262
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "451000000000.0",
+        "Coordinate": [
+            583,
+            2372,
+            1087,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            591,
+            2471,
+            892,
+            2550
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-09-2025",
+        "Coordinate": [
+            596,
+            2564,
+            1061,
+            2650
+        ]
+    }
+]

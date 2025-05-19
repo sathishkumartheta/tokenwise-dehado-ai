@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lajita Arora",
+        "Coordinate": [
+            863,
+            420,
+            1384,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Arora",
+        "Coordinate": [
+            875,
+            521,
+            1316,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-09-1993",
+        "Coordinate": [
+            880,
+            622,
+            1283,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            880,
+            719,
+            1272,
+            808
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            820,
+            1198,
+            916
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            812,
+            2047,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            927,
+            2106,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            892,
+            928,
+            1053,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Ahluwalia-Tak",
+        "Coordinate": [
+            960,
+            1021,
+            2042,
+            1131
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kalla PLC",
+        "Coordinate": [
+            972,
+            1138,
+            1885,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "71, Ahuja, Motihari-983022",
+        "Coordinate": [
+            869,
+            1256,
+            2002,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 209, Misra, Chandigarh 162249",
+        "Coordinate": [
+            888,
+            1503,
+            2306,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7337637049",
+        "Coordinate": [
+            1845,
+            1791,
+            2287,
+            1907
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8835425477",
+        "Coordinate": [
+            862,
+            1792,
+            1329,
+            1913
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Kannada, Malayalam",
+        "Coordinate": [
+            867,
+            1931,
+            2104,
+            2038
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tamanna Parsa - 9133821121",
+        "Coordinate": [
+            936,
+            2035,
+            2093,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Girik Mistry - 8144367168",
+        "Coordinate": [
+            958,
+            2167,
+            2074,
+            2288
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "435000000000.0",
+        "Coordinate": [
+            562,
+            2370,
+            1171,
+            2459
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            591,
+            2468,
+            957,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2023",
+        "Coordinate": [
+            595,
+            2561,
+            977,
+            2654
+        ]
+    }
+]

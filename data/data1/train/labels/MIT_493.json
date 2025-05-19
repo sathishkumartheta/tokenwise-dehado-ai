@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavna Bava",
+        "Coordinate": [
+            911,
+            394,
+            1296,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Bava",
+        "Coordinate": [
+            910,
+            492,
+            1200,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/19/1981",
+        "Coordinate": [
+            928,
+            591,
+            1195,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            926,
+            685,
+            1053,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            933,
+            793,
+            1147,
+            891
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1819,
+            790,
+            1999,
+            892
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            897,
+            2063,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            940,
+            904,
+            1024,
+            988
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sharaf-Khosla",
+        "Coordinate": [
+            1004,
+            992,
+            1716,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sethi LLC",
+        "Coordinate": [
+            1013,
+            1107,
+            1574,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 165, Sawhney Street, Tiruchirappalli 681498",
+        "Coordinate": [
+            897,
+            1225,
+            2230,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 30, Mand Circle, Nangloi Jat 992964",
+        "Coordinate": [
+            916,
+            1479,
+            2172,
+            1623
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9716177301",
+        "Coordinate": [
+            1878,
+            1752,
+            2243,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9071949206",
+        "Coordinate": [
+            957,
+            1760,
+            1292,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Kannada",
+        "Coordinate": [
+            944,
+            1897,
+            1632,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charvi Sharaf - 8604461762",
+        "Coordinate": [
+            982,
+            2009,
+            1797,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranit Naidu - 9542329347",
+        "Coordinate": [
+            974,
+            2135,
+            1817,
+            2247
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "940000000000.0",
+        "Coordinate": [
+            632,
+            2330,
+            1044,
+            2413
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "nan",
+        "Coordinate": [
+            1621,
+            2333,
+            1829,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            652,
+            2426,
+            889,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/18/2024",
+        "Coordinate": [
+            636,
+            2515,
+            950,
+            2604
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Faras Sachar",
+        "Coordinate": [
+            907,
+            432,
+            1435,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manthan Sachar",
+        "Coordinate": [
+            927,
+            547,
+            1607,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/21/1962",
+        "Coordinate": [
+            902,
+            642,
+            1325,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            747,
+            1310,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            859,
+            1202,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1760,
+            825,
+            1990,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            925,
+            935,
+            1107,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            930,
+            2112,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bava-Jani",
+        "Coordinate": [
+            975,
+            1050,
+            1817,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Varghese Ltd",
+        "Coordinate": [
+            995,
+            1145,
+            2045,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26, Wadhwa Street, Ghaziabad 824485",
+        "Coordinate": [
+            912,
+            1285,
+            2355,
+            1447
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "28, Nori Circle, Bhind 116806",
+        "Coordinate": [
+            917,
+            1532,
+            2092,
+            1682
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8401394250",
+        "Coordinate": [
+            907,
+            1799,
+            1380,
+            1937
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7671987928",
+        "Coordinate": [
+            1882,
+            1792,
+            2347,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Marathi, Hindi",
+        "Coordinate": [
+            912,
+            1935,
+            2090,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lekha Choudhary - 8248370859",
+        "Coordinate": [
+            992,
+            2047,
+            2215,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urmi Ravi - 8156302762",
+        "Coordinate": [
+            1002,
+            2175,
+            1977,
+            2290
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HQXNF3648M",
+        "Coordinate": [
+            1672,
+            2357,
+            2292,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            630,
+            2477,
+            1020,
+            2580
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/17/2024",
+        "Coordinate": [
+            690,
+            2557,
+            1110,
+            2675
+        ]
+    }
+]

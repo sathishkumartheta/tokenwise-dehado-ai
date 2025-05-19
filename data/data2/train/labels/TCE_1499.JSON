@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Keya Kamdar",
+        "Coordinate": [
+            895,
+            481,
+            1366,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advaith Kamdar",
+        "Coordinate": [
+            920,
+            566,
+            1522,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/3/1970",
+        "Coordinate": [
+            895,
+            651,
+            1306,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            930,
+            750,
+            1254,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            865,
+            1234,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1700,
+            856,
+            1986,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            926,
+            2026,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            890,
+            910,
+            1078,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Lata-Tara",
+        "Coordinate": [
+            975,
+            1041,
+            1802,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chakraborty  Goda and Solanki",
+        "Coordinate": [
+            970,
+            1136,
+            2238,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44, Patla Circle, Karawal Nagar 892685",
+        "Coordinate": [
+            900,
+            1290,
+            2054,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "701, Wable Zila, Bidar 637055",
+        "Coordinate": [
+            910,
+            1491,
+            2042,
+            1634
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9421431491",
+        "Coordinate": [
+            1820,
+            1776,
+            2222,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9292985834",
+        "Coordinate": [
+            900,
+            1766,
+            1358,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Kannada",
+        "Coordinate": [
+            905,
+            1886,
+            1754,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishanvi Rout - 9765636986",
+        "Coordinate": [
+            945,
+            2016,
+            1994,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemang Natt - 9090102935",
+        "Coordinate": [
+            945,
+            2116,
+            2078,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            610,
+            2406,
+            870,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/1/2022",
+        "Coordinate": [
+            624,
+            2486,
+            1005,
+            2594
+        ]
+    }
+]

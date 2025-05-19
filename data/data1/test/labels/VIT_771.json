@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yamini Saraf",
+        "Coordinate": [
+            890,
+            441,
+            1322,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balhaar Saraf",
+        "Coordinate": [
+            886,
+            548,
+            1365,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/22/1991",
+        "Coordinate": [
+            881,
+            648,
+            1208,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            876,
+            743,
+            989,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            874,
+            849,
+            1116,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1723,
+            840,
+            1911,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            945,
+            2017,
+            1038
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            887,
+            954,
+            965,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Arora  Pau and Bir",
+        "Coordinate": [
+            965,
+            1050,
+            2049,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Venkataraman Inc",
+        "Coordinate": [
+            952,
+            1163,
+            1954,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "213, Sawhney Marg, Sagar 552615",
+        "Coordinate": [
+            882,
+            1306,
+            2151,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "05, Tank Path, Bharatpur 950868",
+        "Coordinate": [
+            900,
+            1594,
+            2149,
+            1769
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7466560862",
+        "Coordinate": [
+            1861,
+            1813,
+            2292,
+            1941
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7308883563",
+        "Coordinate": [
+            895,
+            1818,
+            1343,
+            1939
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Marathi, English",
+        "Coordinate": [
+            888,
+            1959,
+            1989,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amara Mann - 9818803291",
+        "Coordinate": [
+            951,
+            2066,
+            2073,
+            2181
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jonathan Halder - 8008871816",
+        "Coordinate": [
+            966,
+            2196,
+            2115,
+            2321
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "861000000000.0",
+        "Coordinate": [
+            596,
+            2400,
+            1138,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            587,
+            2492,
+            828,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-03-2022",
+        "Coordinate": [
+            581,
+            2583,
+            924,
+            2674
+        ]
+    }
+]

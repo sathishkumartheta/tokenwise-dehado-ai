@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Priya Bir",
+        "Coordinate": [
+            868,
+            428,
+            1245,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayushman Bir",
+        "Coordinate": [
+            868,
+            519,
+            1367,
+            598
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/18/1989",
+        "Coordinate": [
+            884,
+            626,
+            1211,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            886,
+            724,
+            1211,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            864,
+            821,
+            1174,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1726,
+            813,
+            1979,
+            888
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            886,
+            927,
+            1040,
+            1006
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            925,
+            2075,
+            1002
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Date Group",
+        "Coordinate": [
+            959,
+            1026,
+            1691,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Desai  Ganesan and Morar",
+        "Coordinate": [
+            959,
+            1142,
+            2223,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "583, Ganesh Road, Kollam-495591",
+        "Coordinate": [
+            886,
+            1286,
+            2067,
+            1381
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33/558, Pall Circle, Jalgaon 463891",
+        "Coordinate": [
+            880,
+            1519,
+            2085,
+            1620
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7388245539",
+        "Coordinate": [
+            874,
+            1793,
+            1308,
+            1896
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7393399969",
+        "Coordinate": [
+            1850,
+            1797,
+            2294,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            908,
+            1949,
+            1466,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Finn Bala - 9583666536",
+        "Coordinate": [
+            955,
+            2036,
+            1805,
+            2134
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekani Sura - 9809908046",
+        "Coordinate": [
+            947,
+            2170,
+            1835,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "542265000000",
+        "Coordinate": [
+            598,
+            2381,
+            1194,
+            2458
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            594,
+            2474,
+            868,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/16/2022",
+        "Coordinate": [
+            608,
+            2566,
+            1024,
+            2649
+        ]
+    }
+]

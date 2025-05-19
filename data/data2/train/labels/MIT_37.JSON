@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Devansh Chatterjee",
+        "Coordinate": [
+            902,
+            442,
+            1610,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Chatterjee",
+        "Coordinate": [
+            897,
+            550,
+            1537,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/1984",
+        "Coordinate": [
+            922,
+            645,
+            1325,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            887,
+            730,
+            1050,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            830,
+            1192,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            834,
+            1977,
+            922
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            922,
+            930,
+            1057,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1782,
+            925,
+            2095,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Pau-Dhawan",
+        "Coordinate": [
+            997,
+            1035,
+            1950,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Upadhyay Group",
+        "Coordinate": [
+            1002,
+            1137,
+            2102,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 257, Shan Circle, Medininagar 595269",
+        "Coordinate": [
+            907,
+            1292,
+            2235,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88/79, Soman Road, Arrah 169409",
+        "Coordinate": [
+            910,
+            1530,
+            2170,
+            1662
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8800362334",
+        "Coordinate": [
+            887,
+            1760,
+            1317,
+            1845
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7293324189",
+        "Coordinate": [
+            1842,
+            1732,
+            2287,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            895,
+            1895,
+            1555,
+            1975
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Alka Kari - 8540447750",
+        "Coordinate": [
+            990,
+            1979,
+            1972,
+            2092
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Varsha Garde - 9434250605",
+        "Coordinate": [
+            990,
+            2122,
+            2095,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "463754000000",
+        "Coordinate": [
+            630,
+            2310,
+            1205,
+            2390
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            605,
+            2407,
+            1015,
+            2475
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/3/2022",
+        "Coordinate": [
+            627,
+            2470,
+            1047,
+            2562
+        ]
+    }
+]

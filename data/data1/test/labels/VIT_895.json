@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanish Pingle",
+        "Coordinate": [
+            870,
+            442,
+            1346,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pratyush Pingle",
+        "Coordinate": [
+            865,
+            542,
+            1479,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/23/1978",
+        "Coordinate": [
+            872,
+            644,
+            1279,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            877,
+            747,
+            1259,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            881,
+            848,
+            1145,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1774,
+            832,
+            1964,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            937,
+            2114,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            892,
+            951,
+            1056,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bhatt-Datta",
+        "Coordinate": [
+            970,
+            1046,
+            1929,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bhatia  Kannan and Mand",
+        "Coordinate": [
+            951,
+            1147,
+            2362,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26/440, Varghese Zila, Sasaram-435354",
+        "Coordinate": [
+            885,
+            1310,
+            2345,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62/860, Vaidya Chowk, Kulti-751340",
+        "Coordinate": [
+            880,
+            1528,
+            2325,
+            1672
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8352862765",
+        "Coordinate": [
+            1851,
+            1806,
+            2289,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7547921552",
+        "Coordinate": [
+            876,
+            1811,
+            1314,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            878,
+            1950,
+            1343,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anjali Chakrabarti - 9449099808",
+        "Coordinate": [
+            944,
+            2044,
+            2049,
+            2161
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Andrew Prasad - 8943198983",
+        "Coordinate": [
+            949,
+            2182,
+            2040,
+            2298
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HWGFB3900X",
+        "Coordinate": [
+            1617,
+            2394,
+            2174,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            563,
+            2486,
+            804,
+            2581
+        ]
+    }
+]

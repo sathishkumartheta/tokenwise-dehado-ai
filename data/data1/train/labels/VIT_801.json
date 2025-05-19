@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Forum Mann",
+        "Coordinate": [
+            887,
+            440,
+            1392,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krish Mann",
+        "Coordinate": [
+            893,
+            545,
+            1359,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/20/2000",
+        "Coordinate": [
+            904,
+            644,
+            1298,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            884,
+            743,
+            1211,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            845,
+            1204,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1741,
+            838,
+            1986,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            949,
+            2103,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            951,
+            1015,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Hari  Bora and Jaggi",
+        "Coordinate": [
+            961,
+            1045,
+            2176,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Suresh-Pal",
+        "Coordinate": [
+            980,
+            1157,
+            1946,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/849, Narayanan Nagar, Machilipatnam-783203",
+        "Coordinate": [
+            903,
+            1282,
+            2355,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 317, Aurora Chowk, Latur 038833",
+        "Coordinate": [
+            888,
+            1516,
+            2351,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9936131186",
+        "Coordinate": [
+            1859,
+            1802,
+            2289,
+            1896
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8443931220",
+        "Coordinate": [
+            885,
+            1807,
+            1329,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Kannada, Telugu",
+        "Coordinate": [
+            867,
+            1950,
+            2066,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harsh Nagar - 8117163152",
+        "Coordinate": [
+            959,
+            2048,
+            1920,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yauvani Babu - 9979862768",
+        "Coordinate": [
+            964,
+            2183,
+            2078,
+            2299
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "340000000000.0",
+        "Coordinate": [
+            602,
+            2393,
+            1200,
+            2481
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IJCQB0021D",
+        "Coordinate": [
+            1608,
+            2393,
+            2085,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            583,
+            2485,
+            875,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-03-2023",
+        "Coordinate": [
+            591,
+            2577,
+            1018,
+            2674
+        ]
+    }
+]

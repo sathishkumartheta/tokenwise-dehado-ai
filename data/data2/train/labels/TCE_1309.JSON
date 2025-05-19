@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shaurya Edwin",
+        "Coordinate": [
+            914,
+            472,
+            1520,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vihaan Edwin",
+        "Coordinate": [
+            894,
+            554,
+            1440,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1960",
+        "Coordinate": [
+            912,
+            668,
+            1244,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            898,
+            744,
+            1208,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            852,
+            1300,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1832,
+            843,
+            2054,
+            926
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            914,
+            948,
+            1034,
+            1019
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            954,
+            2122,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Borra-Badami",
+        "Coordinate": [
+            986,
+            1046,
+            2092,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Pathak  Baral and Bhardwaj",
+        "Coordinate": [
+            989,
+            1162,
+            2296,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 953, Dixit Chowk, Surendranagar Dudhrej 408988",
+        "Coordinate": [
+            906,
+            1264,
+            2244,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "75/31, Patil Zila, North Dumdum 643398",
+        "Coordinate": [
+            902,
+            1516,
+            2232,
+            1703
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8406633409",
+        "Coordinate": [
+            894,
+            1774,
+            1316,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9272378538",
+        "Coordinate": [
+            1806,
+            1782,
+            2250,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English",
+        "Coordinate": [
+            896,
+            1912,
+            1654,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zinal Warrior - 9128566297",
+        "Coordinate": [
+            968,
+            2012,
+            2186,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Libni Shenoy - 9383052413",
+        "Coordinate": [
+            960,
+            2148,
+            2240,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            588,
+            2416,
+            1208,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/22/2023",
+        "Coordinate": [
+            590,
+            2498,
+            1088,
+            2579
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anmol Apte",
+        "Coordinate": [
+            876,
+            485,
+            1332,
+            587
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Apte",
+        "Coordinate": [
+            886,
+            581,
+            1324,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/17/1998",
+        "Coordinate": [
+            891,
+            661,
+            1220,
+            775
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            891,
+            760,
+            1227,
+            879
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            866,
+            1179,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            891,
+            965,
+            1107,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1726,
+            847,
+            2013,
+            963
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            966,
+            2097,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Varughese  Balasubramanian and Mann",
+        "Coordinate": [
+            926,
+            1038,
+            2320,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sachdeva PLC",
+        "Coordinate": [
+            931,
+            1156,
+            1865,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25/34, Tandon Marg, Dharmavaram 850616",
+        "Coordinate": [
+            896,
+            1281,
+            2229,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 217, Walla Circle, Raebareli 666987",
+        "Coordinate": [
+            876,
+            1510,
+            2169,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9390074519",
+        "Coordinate": [
+            871,
+            1770,
+            1348,
+            1879
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7479104187",
+        "Coordinate": [
+            1822,
+            1755,
+            2309,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam",
+        "Coordinate": [
+            886,
+            1912,
+            1652,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Logan Dyal - 9899718871",
+        "Coordinate": [
+            971,
+            2023,
+            1849,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedant Wagle - 9340078480",
+        "Coordinate": [
+            931,
+            2151,
+            2121,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            644,
+            2403,
+            1031,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/4/2024",
+        "Coordinate": [
+            630,
+            2512,
+            1007,
+            2607
+        ]
+    }
+]

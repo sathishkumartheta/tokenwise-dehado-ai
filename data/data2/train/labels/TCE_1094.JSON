@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "12/28/2025",
+        "Coordinate": [
+            630,
+            2522,
+            1172,
+            2601
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            614,
+            2410,
+            876,
+            2509
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gagan Palla - 7625837933",
+        "Coordinate": [
+            1000,
+            2122,
+            2092,
+            2247
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Sachdeva - 7632614632",
+        "Coordinate": [
+            994,
+            2018,
+            2086,
+            2113
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Kannada",
+        "Coordinate": [
+            942,
+            1912,
+            1906,
+            2019
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9770618591",
+        "Coordinate": [
+            1842,
+            1782,
+            2280,
+            1873
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9033915512",
+        "Coordinate": [
+            946,
+            1783,
+            1372,
+            1882
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 741, Reddy Road, Bharatpur-512335",
+        "Coordinate": [
+            920,
+            1560,
+            2318,
+            1711
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "131, Rao Circle, Satara 346117",
+        "Coordinate": [
+            920,
+            1306,
+            2122,
+            1461
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Varty PLC",
+        "Coordinate": [
+            990,
+            1182,
+            1998,
+            1255
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dutt  Bath and Soni",
+        "Coordinate": [
+            970,
+            1042,
+            2216,
+            1155
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            960,
+            2086,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            854,
+            2080,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            950,
+            956,
+            1066,
+            1045
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            860,
+            1194,
+            943
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            920,
+            756,
+            1338,
+            861
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/9/1982",
+        "Coordinate": [
+            936,
+            668,
+            1396,
+            753
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krish Amble",
+        "Coordinate": [
+            940,
+            560,
+            1382,
+            661
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayamai Amble",
+        "Coordinate": [
+            934,
+            482,
+            1474,
+            557
+        ]
+    }
+]

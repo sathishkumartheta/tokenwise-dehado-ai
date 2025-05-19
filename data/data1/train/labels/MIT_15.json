@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falan Modi",
+        "Coordinate": [
+            918,
+            428,
+            1431,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Brijesh Modi",
+        "Coordinate": [
+            925,
+            533,
+            1486,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1976",
+        "Coordinate": [
+            941,
+            631,
+            1343,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            946,
+            727,
+            1527,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            943,
+            827,
+            1266,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            804,
+            1976,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1906,
+            915,
+            2163,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1043,
+            921,
+            1174,
+            1001
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Saha PLC",
+        "Coordinate": [
+            1045,
+            1008,
+            2024,
+            1106
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Kara  Virk and Rai",
+        "Coordinate": [
+            1035,
+            1130,
+            2301,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 96, Bhasin Road, Dhule-412328",
+        "Coordinate": [
+            947,
+            1272,
+            2318,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 679, Manne Chowk, Ahmednagar 471349",
+        "Coordinate": [
+            956,
+            1526,
+            2367,
+            1715
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7502095620",
+        "Coordinate": [
+            1940,
+            1762,
+            2359,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8143255974",
+        "Coordinate": [
+            947,
+            1789,
+            1334,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            935,
+            1925,
+            1567,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pavani Contractor - 7007489908",
+        "Coordinate": [
+            997,
+            2023,
+            2126,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manthan Lata - 7694226925",
+        "Coordinate": [
+            1026,
+            2152,
+            2079,
+            2259
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "277000000000.0",
+        "Coordinate": [
+            657,
+            2370,
+            1231,
+            2455
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            660,
+            2467,
+            1398,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/23/2024",
+        "Coordinate": [
+            693,
+            2566,
+            1133,
+            2661
+        ]
+    }
+]

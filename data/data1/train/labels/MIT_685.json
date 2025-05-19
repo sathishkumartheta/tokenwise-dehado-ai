@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gavin Krishna",
+        "Coordinate": [
+            891,
+            432,
+            1339,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abeer Krishna",
+        "Coordinate": [
+            895,
+            531,
+            1351,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-09-1967",
+        "Coordinate": [
+            906,
+            635,
+            1187,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            898,
+            727,
+            1186,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            834,
+            1219,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1807,
+            829,
+            1984,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1851,
+            938,
+            2071,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            923,
+            936,
+            1050,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Krishnamurthy Group",
+        "Coordinate": [
+            981,
+            1039,
+            2090,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Ramaswamy Group",
+        "Coordinate": [
+            986,
+            1150,
+            2094,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "025, Kulkarni Ganj, New Delhi 707760",
+        "Coordinate": [
+            884,
+            1311,
+            2213,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39/87, Rana Marg, Barasat 877210",
+        "Coordinate": [
+            890,
+            1557,
+            2107,
+            1709
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9455957801",
+        "Coordinate": [
+            1877,
+            1804,
+            2250,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9311020317",
+        "Coordinate": [
+            908,
+            1809,
+            1293,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Bengali",
+        "Coordinate": [
+            914,
+            1945,
+            1825,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hamsini Gokhale - 8029241801",
+        "Coordinate": [
+            963,
+            2052,
+            1995,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charles Bahri - 8695483525",
+        "Coordinate": [
+            983,
+            2179,
+            1922,
+            2288
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "827000000000.0",
+        "Coordinate": [
+            583,
+            2385,
+            1152,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            598,
+            2477,
+            835,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-08-2025",
+        "Coordinate": [
+            609,
+            2569,
+            949,
+            2659
+        ]
+    }
+]

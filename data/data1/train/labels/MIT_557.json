@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onveer Walia",
+        "Coordinate": [
+            948,
+            484,
+            1646,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/16/1965",
+        "Coordinate": [
+            941,
+            581,
+            1459,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            943,
+            679,
+            1318,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            956,
+            770,
+            1362,
+            863
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1914,
+            845,
+            2118,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            953,
+            2165,
+            1044
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            986,
+            867,
+            1275,
+            989
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Raja Group",
+        "Coordinate": [
+            1024,
+            1052,
+            2076,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Vaidya Inc",
+        "Coordinate": [
+            1168,
+            1153,
+            2074,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 388, Kalita Zila, Haldia 184714",
+        "Coordinate": [
+            951,
+            1278,
+            2224,
+            1485
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "014, Kohli Circle, Latur-401127",
+        "Coordinate": [
+            947,
+            1513,
+            2294,
+            1665
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9727186775",
+        "Coordinate": [
+            1913,
+            1763,
+            2290,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9596334254",
+        "Coordinate": [
+            963,
+            1773,
+            1424,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Gujarati, Telugu",
+        "Coordinate": [
+            959,
+            1911,
+            2258,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sarthak Ramachandran - 7993068843",
+        "Coordinate": [
+            1023,
+            2005,
+            2383,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rohan Agarwal - 7933711563",
+        "Coordinate": [
+            1009,
+            2120,
+            2187,
+            2256
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "721000000000.0",
+        "Coordinate": [
+            684,
+            2324,
+            1279,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            699,
+            2417,
+            1096,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/21/2023",
+        "Coordinate": [
+            682,
+            2504,
+            1135,
+            2611
+        ]
+    }
+]

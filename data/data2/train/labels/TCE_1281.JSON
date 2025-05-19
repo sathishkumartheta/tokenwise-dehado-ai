@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mugdha Choudhary",
+        "Coordinate": [
+            928,
+            468,
+            1646,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aadi Choudhary",
+        "Coordinate": [
+            920,
+            562,
+            1612,
+            666
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/7/1979",
+        "Coordinate": [
+            923,
+            666,
+            1311,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            925,
+            753,
+            1503,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            848,
+            1269,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1753,
+            843,
+            2053,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1006,
+            947,
+            1111,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1789,
+            939,
+            2162,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Vig  Devan and Bala",
+        "Coordinate": [
+            1056,
+            1034,
+            2303,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Lala-Pall",
+        "Coordinate": [
+            1059,
+            1138,
+            1996,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "00/983, Talwar Street, Bhiwani-293972",
+        "Coordinate": [
+            910,
+            1269,
+            1883,
+            1449
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 565, Shetty Marg, Khandwa 127944",
+        "Coordinate": [
+            917,
+            1486,
+            1821,
+            1689
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9764252762",
+        "Coordinate": [
+            899,
+            1771,
+            1327,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8085644672",
+        "Coordinate": [
+            1822,
+            1760,
+            2291,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi, Tamil, Malayalam",
+        "Coordinate": [
+            904,
+            1903,
+            2188,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gunbir Kari - 8152213233",
+        "Coordinate": [
+            1005,
+            2004,
+            2074,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ijaya Seshadri - 8946027212",
+        "Coordinate": [
+            963,
+            2121,
+            2138,
+            2244
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            703,
+            2411,
+            958,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/23/2023",
+        "Coordinate": [
+            668,
+            2501,
+            1128,
+            2586
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pooja Karpe",
+        "Coordinate": [
+            925,
+            398,
+            1305,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Karpe",
+        "Coordinate": [
+            939,
+            494,
+            1365,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/17/2004",
+        "Coordinate": [
+            972,
+            593,
+            1297,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            991,
+            686,
+            1265,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1005,
+            793,
+            1220,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1810,
+            786,
+            2031,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1909,
+            894,
+            2134,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            996,
+            902,
+            1112,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pandey  Tailor and Dayal",
+        "Coordinate": [
+            1011,
+            982,
+            2294,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Shah Inc",
+        "Coordinate": [
+            1025,
+            1101,
+            1896,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "007, Nori Road, Warangal-387129",
+        "Coordinate": [
+            907,
+            1224,
+            2062,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 52, Narula Nagar, Siliguri 060480",
+        "Coordinate": [
+            926,
+            1474,
+            2301,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7873588498",
+        "Coordinate": [
+            1880,
+            1752,
+            2315,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9925615547",
+        "Coordinate": [
+            945,
+            1753,
+            1386,
+            1849
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Hindi",
+        "Coordinate": [
+            933,
+            1893,
+            1738,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qabil Lala - 9400174193",
+        "Coordinate": [
+            966,
+            1998,
+            1782,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omya Parmer - 7182484091",
+        "Coordinate": [
+            972,
+            2126,
+            1911,
+            2229
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "458000000000.0",
+        "Coordinate": [
+            642,
+            2330,
+            1257,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            653,
+            2430,
+            958,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2024",
+        "Coordinate": [
+            676,
+            2523,
+            1059,
+            2608
+        ]
+    }
+]

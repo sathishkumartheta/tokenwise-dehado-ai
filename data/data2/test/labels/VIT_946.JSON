@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Praneel Sharma",
+        "Coordinate": [
+            887,
+            435,
+            1380,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekavir Sharma",
+        "Coordinate": [
+            885,
+            535,
+            1345,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1982",
+        "Coordinate": [
+            892,
+            637,
+            1207,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            887,
+            735,
+            1205,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            837,
+            1180,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1792,
+            830,
+            2017,
+            905
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            895,
+            937,
+            1075,
+            1012
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            932,
+            2092,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Yadav-Prabhakar",
+        "Coordinate": [
+            992,
+            1027,
+            1942,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Gera  Handa and Mutti",
+        "Coordinate": [
+            985,
+            1140,
+            2150,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 934, Kapoor Zila, Mathura-542471",
+        "Coordinate": [
+            890,
+            1280,
+            2235,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 82, Bhatti Street, Buxar 171907",
+        "Coordinate": [
+            892,
+            1542,
+            2145,
+            1680
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9608092566",
+        "Coordinate": [
+            885,
+            1812,
+            1310,
+            1909
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9762491992",
+        "Coordinate": [
+            1852,
+            1809,
+            2305,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Marathi, Bengali",
+        "Coordinate": [
+            892,
+            1942,
+            1962,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Radhika Shan - 7738895851",
+        "Coordinate": [
+            942,
+            2057,
+            1797,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Prisha Hora - 9788555091",
+        "Coordinate": [
+            960,
+            2192,
+            1802,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "391063000000",
+        "Coordinate": [
+            607,
+            2390,
+            1130,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            599,
+            2490,
+            867,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/17/2025",
+        "Coordinate": [
+            567,
+            2577,
+            935,
+            2657
+        ]
+    }
+]

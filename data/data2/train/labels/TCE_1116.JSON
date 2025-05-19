@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ethan Nayak",
+        "Coordinate": [
+            942,
+            457,
+            1501,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daksh Nayak",
+        "Coordinate": [
+            926,
+            556,
+            1509,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/23/1973",
+        "Coordinate": [
+            981,
+            656,
+            1422,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            961,
+            765,
+            1315,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            845,
+            1289,
+            954
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            842,
+            1994,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1012,
+            954,
+            1155,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1863,
+            938,
+            2148,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Gera-Anne",
+        "Coordinate": [
+            1008,
+            1046,
+            2098,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sidhu-Sastry",
+        "Coordinate": [
+            1047,
+            1146,
+            2140,
+            1284
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/03, Kala, Silchar-207539",
+        "Coordinate": [
+            1025,
+            1301,
+            2174,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "93/828, Chacko, Pondicherry 739848",
+        "Coordinate": [
+            960,
+            1504,
+            2282,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7973147919",
+        "Coordinate": [
+            912,
+            1771,
+            1343,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7877631450",
+        "Coordinate": [
+            1849,
+            1757,
+            2282,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil",
+        "Coordinate": [
+            935,
+            1898,
+            1473,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harinakshi Apte - 7163029035",
+        "Coordinate": [
+            999,
+            1996,
+            2199,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Balhaar Raman - 9334116382",
+        "Coordinate": [
+            1030,
+            2123,
+            2261,
+            2231
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            670,
+            2416,
+            978,
+            2496
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/24/2022",
+        "Coordinate": [
+            682,
+            2497,
+            1128,
+            2594
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "3/14/2024",
+        "Coordinate": [
+            630,
+            2498,
+            1008,
+            2595
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            632,
+            2420,
+            994,
+            2519
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gagan Seth - 9240914102",
+        "Coordinate": [
+            972,
+            2148,
+            1676,
+            2255
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Abeer Bhavsar - 7343361866",
+        "Coordinate": [
+            1002,
+            2024,
+            1814,
+            2111
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Telugu, Malayalam",
+        "Coordinate": [
+            942,
+            1940,
+            2086,
+            2003
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8674331319",
+        "Coordinate": [
+            1700,
+            1810,
+            2108,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7964100631",
+        "Coordinate": [
+            902,
+            1788,
+            1292,
+            1909
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 51, Date, Vasai-Virar 286348",
+        "Coordinate": [
+            944,
+            1580,
+            1988,
+            1725
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90/61, Kibe Circle, Firozabad-511809",
+        "Coordinate": [
+            890,
+            1310,
+            2030,
+            1453
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Reddy-Om",
+        "Coordinate": [
+            1002,
+            1166,
+            1622,
+            1241
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Saini  Chawla and Sur",
+        "Coordinate": [
+            994,
+            1066,
+            1918,
+            1155
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            965,
+            2118,
+            1022
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1776,
+            874,
+            2074,
+            941
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            990,
+            984,
+            1100,
+            1037
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            905,
+            1224,
+            946
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            926,
+            792,
+            1168,
+            853
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/7/1998",
+        "Coordinate": [
+            920,
+            702,
+            1184,
+            761
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Gunbir Sood",
+        "Coordinate": [
+            920,
+            508,
+            1398,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Sood",
+        "Coordinate": [
+            916,
+            590,
+            1300,
+            673
+        ]
+    }
+]

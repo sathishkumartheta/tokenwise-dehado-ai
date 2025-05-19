@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balendra Boase",
+        "Coordinate": [
+            916,
+            470,
+            1447,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Boase",
+        "Coordinate": [
+            930,
+            567,
+            1495,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/30/1969",
+        "Coordinate": [
+            943,
+            650,
+            1324,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            936,
+            767,
+            1268,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            854,
+            1146,
+            941
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            937,
+            951,
+            1058,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1806,
+            841,
+            1996,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            944,
+            2109,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kari Group",
+        "Coordinate": [
+            1047,
+            1037,
+            1914,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Golla Ltd",
+        "Coordinate": [
+            1040,
+            1144,
+            1850,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "71, Soman Marg, Mehsana-224102",
+        "Coordinate": [
+            917,
+            1291,
+            2122,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 083, Jhaveri Nagar, Surat-431938",
+        "Coordinate": [
+            913,
+            1497,
+            2303,
+            1599
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9367885258",
+        "Coordinate": [
+            920,
+            1784,
+            1301,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali",
+        "Coordinate": [
+            913,
+            1914,
+            1474,
+            1991
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8147387606",
+        "Coordinate": [
+            1863,
+            1760,
+            2274,
+            1868
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekalinga Narayan - 7904210597",
+        "Coordinate": [
+            1023,
+            2014,
+            2162,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gautam Biswas - 7826647947",
+        "Coordinate": [
+            976,
+            2127,
+            2207,
+            2236
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            633,
+            2414,
+            868,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/18/2025",
+        "Coordinate": [
+            680,
+            2504,
+            1066,
+            2596
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagat Wason",
+        "Coordinate": [
+            869,
+            434,
+            1460,
+            546
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tejas Wason",
+        "Coordinate": [
+            927,
+            548,
+            1435,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/6/1982",
+        "Coordinate": [
+            889,
+            633,
+            1253,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            871,
+            731,
+            1293,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            840,
+            1224,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            838,
+            2020,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            902,
+            958,
+            1103,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1799,
+            938,
+            2122,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Oak  Babu and Bandi",
+        "Coordinate": [
+            956,
+            1059,
+            2321,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chana  Pillai and Pal",
+        "Coordinate": [
+            949,
+            1170,
+            2298,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/39, Guha Path, Kanpur-941270",
+        "Coordinate": [
+            874,
+            1393,
+            2367,
+            1536
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 853, Banerjee Marg, Deoghar-720203",
+        "Coordinate": [
+            891,
+            1669,
+            2480,
+            1821
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9819983326",
+        "Coordinate": [
+            887,
+            1850,
+            1360,
+            1946
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9266925139",
+        "Coordinate": [
+            1500,
+            1852,
+            2013,
+            1948
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Marathi",
+        "Coordinate": [
+            878,
+            1944,
+            2026,
+            2060
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Bhavsar - 9578418745",
+        "Coordinate": [
+            936,
+            2075,
+            2196,
+            2182
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Advay Sane - 9368678191",
+        "Coordinate": [
+            896,
+            2236,
+            2095,
+            2323
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "781783000000",
+        "Coordinate": [
+            584,
+            2410,
+            1192,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            579,
+            2483,
+            1339,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/10/2022",
+        "Coordinate": [
+            579,
+            2597,
+            1121,
+            2668
+        ]
+    }
+]

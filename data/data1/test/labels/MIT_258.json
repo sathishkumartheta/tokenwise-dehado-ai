@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yachana Kant",
+        "Coordinate": [
+            894,
+            395,
+            1442,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Teerth Kant",
+        "Coordinate": [
+            885,
+            494,
+            1362,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/14/2004",
+        "Coordinate": [
+            894,
+            595,
+            1282,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            909,
+            689,
+            1265,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            913,
+            788,
+            1136,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1768,
+            781,
+            2029,
+            860
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            884,
+            2101,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            914,
+            889,
+            1024,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chawla-Sura",
+        "Coordinate": [
+            978,
+            977,
+            1964,
+            1079
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Prashad  Venkataraman and Raja",
+        "Coordinate": [
+            951,
+            1083,
+            2316,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19/11, Patel Ganj, Singrauli 577980",
+        "Coordinate": [
+            905,
+            1221,
+            2286,
+            1372
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/920, Chaudhary Path, Haridwar-745553",
+        "Coordinate": [
+            888,
+            1469,
+            2204,
+            1655
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7440441645",
+        "Coordinate": [
+            1856,
+            1743,
+            2328,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8732692852",
+        "Coordinate": [
+            890,
+            1754,
+            1336,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English",
+        "Coordinate": [
+            896,
+            1888,
+            1472,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanaya Batta - 9134886300",
+        "Coordinate": [
+            954,
+            1996,
+            1986,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tara Lall - 8811914045",
+        "Coordinate": [
+            960,
+            2118,
+            1872,
+            2215
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "996000000000.0",
+        "Coordinate": [
+            601,
+            2327,
+            1111,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            600,
+            2423,
+            920,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-10-2025",
+        "Coordinate": [
+            611,
+            2515,
+            1017,
+            2599
+        ]
+    }
+]

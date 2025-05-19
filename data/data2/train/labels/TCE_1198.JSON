@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanay Cherian",
+        "Coordinate": [
+            914,
+            456,
+            1630,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fariq Cherian",
+        "Coordinate": [
+            921,
+            566,
+            1577,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/8/1978",
+        "Coordinate": [
+            942,
+            680,
+            1369,
+            776
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            919,
+            767,
+            1311,
+            865
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1843,
+            873,
+            2109,
+            960
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            938,
+            2162,
+            1056
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            846,
+            1282,
+            960
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            953,
+            941,
+            1086,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Shenoy  Sen and Mangat",
+        "Coordinate": [
+            984,
+            1040,
+            2302,
+            1175
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Tiwari  Borah and Muni",
+        "Coordinate": [
+            960,
+            1153,
+            2315,
+            1279
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81/275, Chana Marg, Durg 867325",
+        "Coordinate": [
+            917,
+            1313,
+            2310,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "10/62, Sharma Road, Munger-693865",
+        "Coordinate": [
+            923,
+            1522,
+            2313,
+            1677
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7838518751",
+        "Coordinate": [
+            914,
+            1774,
+            1342,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8619249267",
+        "Coordinate": [
+            1823,
+            1768,
+            2264,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali",
+        "Coordinate": [
+            967,
+            1906,
+            1605,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Qabil Bal - 8926531195",
+        "Coordinate": [
+            985,
+            2017,
+            1926,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adya Choudhry - 8522583004",
+        "Coordinate": [
+            1000,
+            2131,
+            2122,
+            2260
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            625,
+            2413,
+            1554,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2023",
+        "Coordinate": [
+            627,
+            2505,
+            1120,
+            2634
+        ]
+    }
+]

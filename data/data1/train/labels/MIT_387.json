@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Thomas Bir",
+        "Coordinate": [
+            876,
+            399,
+            1272,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Bir",
+        "Coordinate": [
+            867,
+            502,
+            1229,
+            593
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-09-2004",
+        "Coordinate": [
+            878,
+            598,
+            1210,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            860,
+            694,
+            1178,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            869,
+            809,
+            1084,
+            912
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1773,
+            782,
+            1946,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            885,
+            2048,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            989,
+            906,
+            1126,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shan-Patla",
+        "Coordinate": [
+            991,
+            983,
+            1767,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sarma Group",
+        "Coordinate": [
+            988,
+            1095,
+            1853,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/53, Ghose Nagar, Uluberia-012398",
+        "Coordinate": [
+            882,
+            1276,
+            2193,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "303, Deep Road, Warangal 719017",
+        "Coordinate": [
+            884,
+            1482,
+            2101,
+            1636
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7516686737",
+        "Coordinate": [
+            1847,
+            1746,
+            2215,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8440863024",
+        "Coordinate": [
+            868,
+            1754,
+            1277,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Hindi",
+        "Coordinate": [
+            893,
+            1885,
+            1595,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nihal Deo - 7710380356",
+        "Coordinate": [
+            957,
+            2002,
+            1898,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charles Prakash - 9624464062",
+        "Coordinate": [
+            956,
+            2127,
+            1905,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "410000000000.0",
+        "Coordinate": [
+            589,
+            2336,
+            1132,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            612,
+            2420,
+            878,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/31/2024",
+        "Coordinate": [
+            564,
+            2511,
+            981,
+            2600
+        ]
+    }
+]

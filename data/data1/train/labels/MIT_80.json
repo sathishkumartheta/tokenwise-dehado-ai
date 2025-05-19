@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai Comar",
+        "Coordinate": [
+            880,
+            400,
+            1152,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Reyansh Comar",
+        "Coordinate": [
+            887,
+            497,
+            1286,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/13/1976",
+        "Coordinate": [
+            887,
+            591,
+            1156,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            889,
+            688,
+            1112,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            795,
+            1101,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1777,
+            783,
+            1973,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            891,
+            2062,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            888,
+            894,
+            970,
+            967
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mandal  Bakshi and Varughese",
+        "Coordinate": [
+            958,
+            979,
+            2056,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Varkey-Trivedi",
+        "Coordinate": [
+            970,
+            1097,
+            1656,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 435, Butala Circle, Rourkela-133613",
+        "Coordinate": [
+            890,
+            1275,
+            1981,
+            1404
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "20/750, Borah Zila, Mangalore-819346",
+        "Coordinate": [
+            889,
+            1488,
+            1899,
+            1640
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9117922655",
+        "Coordinate": [
+            1860,
+            1745,
+            2189,
+            1833
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9078180334",
+        "Coordinate": [
+            887,
+            1751,
+            1213,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Gujarati, Hindi",
+        "Coordinate": [
+            891,
+            1883,
+            1795,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Shravya Ravel - 7528875610",
+        "Coordinate": [
+            958,
+            1999,
+            1694,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Diya Badal - 9756413274",
+        "Coordinate": [
+            974,
+            2125,
+            1675,
+            2223
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "354000000000.0",
+        "Coordinate": [
+            586,
+            2331,
+            977,
+            2413
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WQGPJ5202F",
+        "Coordinate": [
+            1625,
+            2337,
+            2011,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            609,
+            2423,
+            892,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/30/2024",
+        "Coordinate": [
+            599,
+            2514,
+            864,
+            2595
+        ]
+    }
+]

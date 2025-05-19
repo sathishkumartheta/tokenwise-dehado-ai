@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hiral Kalla",
+        "Coordinate": [
+            890,
+            394,
+            1275,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Champak Kalla",
+        "Coordinate": [
+            911,
+            494,
+            1435,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-09-1960",
+        "Coordinate": [
+            914,
+            594,
+            1236,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            691,
+            1226,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            790,
+            1185,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1845,
+            788,
+            2087,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            897,
+            2092,
+            987
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            906,
+            894,
+            1032,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sodhi-Doctor",
+        "Coordinate": [
+            1007,
+            987,
+            1907,
+            1099
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Nazareth-Hora",
+        "Coordinate": [
+            994,
+            1105,
+            2007,
+            1217
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24, Mall Circle, Jhansi 976627",
+        "Coordinate": [
+            884,
+            1271,
+            1977,
+            1409
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 157, Mann, Noida 367042",
+        "Coordinate": [
+            892,
+            1506,
+            2017,
+            1644
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9067563257",
+        "Coordinate": [
+            1859,
+            1754,
+            2291,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9724768482",
+        "Coordinate": [
+            869,
+            1772,
+            1291,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Gujarati",
+        "Coordinate": [
+            892,
+            1891,
+            1702,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Deepa Sanghvi - 8138955612",
+        "Coordinate": [
+            973,
+            2003,
+            1975,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kai Wagle - 7677454476",
+        "Coordinate": [
+            990,
+            2132,
+            1952,
+            2240
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "737000000000.0",
+        "Coordinate": [
+            582,
+            2336,
+            1051,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            600,
+            2426,
+            833,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-01-2025",
+        "Coordinate": [
+            613,
+            2517,
+            1011,
+            2601
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Keya Babu",
+        "Coordinate": [
+            878,
+            433,
+            1212,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Manan Babu",
+        "Coordinate": [
+            886,
+            529,
+            1351,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-08-1985",
+        "Coordinate": [
+            908,
+            633,
+            1242,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            887,
+            733,
+            1351,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            875,
+            846,
+            1160,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1897,
+            837,
+            2164,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1895,
+            945,
+            2120,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            926,
+            945,
+            1066,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chauhan Group",
+        "Coordinate": [
+            1042,
+            1044,
+            2040,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Ramesh and Sons",
+        "Coordinate": [
+            1058,
+            1151,
+            2189,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "649, Varma Nagar, Panchkula 911634",
+        "Coordinate": [
+            884,
+            1296,
+            2125,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "101, Sabharwal Marg, Gandhinagar-228455",
+        "Coordinate": [
+            898,
+            1541,
+            2097,
+            1774
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9427494453",
+        "Coordinate": [
+            1872,
+            1802,
+            2301,
+            1907
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8172583824",
+        "Coordinate": [
+            888,
+            1815,
+            1342,
+            1936
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Bengali",
+        "Coordinate": [
+            890,
+            1947,
+            1857,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Elijah Mannan - 7119035738",
+        "Coordinate": [
+            956,
+            2053,
+            1843,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Garima Setty - 8321741740",
+        "Coordinate": [
+            961,
+            2188,
+            1908,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "755000000000.0",
+        "Coordinate": [
+            592,
+            2389,
+            1159,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            579,
+            2480,
+            873,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-12-2024",
+        "Coordinate": [
+            589,
+            2578,
+            1024,
+            2669
+        ]
+    }
+]

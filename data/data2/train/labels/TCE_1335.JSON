@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oeshi Sathe",
+        "Coordinate": [
+            914,
+            474,
+            1416,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Sathe",
+        "Coordinate": [
+            902,
+            576,
+            1388,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/12/1971",
+        "Coordinate": [
+            920,
+            664,
+            1330,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            900,
+            758,
+            1292,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            865,
+            1236,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            852,
+            2050,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1818,
+            950,
+            2122,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            900,
+            943,
+            1024,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Joshi  Kata and Nayar",
+        "Coordinate": [
+            967,
+            1034,
+            2259,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sanghvi  Deshpande and Kala",
+        "Coordinate": [
+            980,
+            1158,
+            2336,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23/422, Mittal Marg, Pune 442305",
+        "Coordinate": [
+            900,
+            1278,
+            2126,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 77, Arora Marg, Moradabad-517434",
+        "Coordinate": [
+            904,
+            1556,
+            2298,
+            1685
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7980351979",
+        "Coordinate": [
+            922,
+            1782,
+            1328,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8685214914",
+        "Coordinate": [
+            1825,
+            1782,
+            2224,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Bengali, English",
+        "Coordinate": [
+            916,
+            1915,
+            2222,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jeet Bala - 9742870530",
+        "Coordinate": [
+            954,
+            2014,
+            1804,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wahab Yadav - 9111051578",
+        "Coordinate": [
+            950,
+            2166,
+            2010,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            614,
+            2410,
+            942,
+            2485
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/21/2025",
+        "Coordinate": [
+            610,
+            2504,
+            1012,
+            2591
+        ]
+    }
+]

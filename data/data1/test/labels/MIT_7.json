@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harsh Lalla",
+        "Coordinate": [
+            884,
+            407,
+            1236,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayyan Lalla",
+        "Coordinate": [
+            888,
+            516,
+            1226,
+            609
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/26/1992",
+        "Coordinate": [
+            888,
+            613,
+            1186,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            904,
+            700,
+            1157,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            811,
+            1142,
+            901
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1841,
+            785,
+            1993,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            912,
+            2025,
+            1007
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            927,
+            910,
+            1051,
+            989
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Behl-Chanda",
+        "Coordinate": [
+            984,
+            991,
+            1706,
+            1101
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sampath  Malhotra and Basu",
+        "Coordinate": [
+            981,
+            1108,
+            2126,
+            1222
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "427, Sane Circle, Gorakhpur 280598",
+        "Coordinate": [
+            889,
+            1249,
+            1913,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "045, Parmar Nagar, Kulti-586923",
+        "Coordinate": [
+            877,
+            1474,
+            1846,
+            1602
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9575082752",
+        "Coordinate": [
+            1847,
+            1748,
+            2249,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7709357713",
+        "Coordinate": [
+            889,
+            1752,
+            1272,
+            1844
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English",
+        "Coordinate": [
+            878,
+            1893,
+            1342,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Peter Sachar - 8754911623",
+        "Coordinate": [
+            971,
+            2004,
+            1701,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Praneel Natarajan - 9588788290",
+        "Coordinate": [
+            973,
+            2127,
+            1855,
+            2237
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CGCVB7093Z",
+        "Coordinate": [
+            1654,
+            2338,
+            2068,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            606,
+            2436,
+            794,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/25/2024",
+        "Coordinate": [
+            612,
+            2522,
+            917,
+            2603
+        ]
+    }
+]

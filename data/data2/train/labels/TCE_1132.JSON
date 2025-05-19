@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oviya Sharaf",
+        "Coordinate": [
+            900,
+            468,
+            1337,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishwar Sharaf",
+        "Coordinate": [
+            890,
+            560,
+            1411,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/29/1960",
+        "Coordinate": [
+            903,
+            658,
+            1283,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            911,
+            759,
+            1226,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            857,
+            1208,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1727,
+            845,
+            1995,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            961,
+            2061,
+            1042
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            945,
+            960,
+            1096,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chaudry  Thaman and Batra",
+        "Coordinate": [
+            985,
+            1049,
+            2271,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Talwar  Deshmukh and Nazareth",
+        "Coordinate": [
+            999,
+            1156,
+            2292,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "022, Gole Chowk, Serampore 152723",
+        "Coordinate": [
+            886,
+            1264,
+            2166,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/416, Kaur Marg, Erode 759727",
+        "Coordinate": [
+            897,
+            1510,
+            2171,
+            1629
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8422849097",
+        "Coordinate": [
+            886,
+            1762,
+            1313,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8382660416",
+        "Coordinate": [
+            1796,
+            1779,
+            2228,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            894,
+            1903,
+            1460,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unnati Choudhary - 7273990811",
+        "Coordinate": [
+            958,
+            2002,
+            2115,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nikita Bala - 9210033777",
+        "Coordinate": [
+            953,
+            2145,
+            2033,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            619,
+            2417,
+            866,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/10/2025",
+        "Coordinate": [
+            598,
+            2505,
+            1020,
+            2600
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Parth Sagar",
+        "Coordinate": [
+            906,
+            400,
+            1320,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kabir Sagar",
+        "Coordinate": [
+            923,
+            500,
+            1308,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-03-1987",
+        "Coordinate": [
+            942,
+            598,
+            1249,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            944,
+            696,
+            1279,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            917,
+            805,
+            1125,
+            896
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1779,
+            793,
+            1968,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            902,
+            2073,
+            995
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            969,
+            905,
+            1106,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Deep-Rama",
+        "Coordinate": [
+            941,
+            998,
+            1727,
+            1107
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Raval PLC",
+        "Coordinate": [
+            954,
+            1114,
+            1707,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "41/858, Bandi, Jalgaon 729108",
+        "Coordinate": [
+            893,
+            1253,
+            1968,
+            1392
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 786, Mannan Nagar, Bharatpur 605033",
+        "Coordinate": [
+            882,
+            1486,
+            2317,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8506606664",
+        "Coordinate": [
+            1837,
+            1756,
+            2242,
+            1863
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9465669340",
+        "Coordinate": [
+            862,
+            1760,
+            1282,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Marathi",
+        "Coordinate": [
+            881,
+            1900,
+            1710,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amara Sandal - 8752784757",
+        "Coordinate": [
+            943,
+            2011,
+            1929,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siddharth Bala - 8513481019",
+        "Coordinate": [
+            949,
+            2132,
+            1956,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "677000000000.0",
+        "Coordinate": [
+            570,
+            2342,
+            1101,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            584,
+            2433,
+            913,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/14/2022",
+        "Coordinate": [
+            585,
+            2526,
+            977,
+            2613
+        ]
+    }
+]

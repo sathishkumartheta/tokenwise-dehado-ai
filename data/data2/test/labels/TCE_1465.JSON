@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daksha Sura",
+        "Coordinate": [
+            896,
+            480,
+            1508,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hitesh Sura",
+        "Coordinate": [
+            921,
+            565,
+            1491,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/17/1998",
+        "Coordinate": [
+            896,
+            657,
+            1391,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            875,
+            749,
+            1543,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            931,
+            864,
+            1235,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1734,
+            838,
+            1992,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            920,
+            2144,
+            1048
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            891,
+            909,
+            1079,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kanda-Vaidya",
+        "Coordinate": [
+            976,
+            1039,
+            1752,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Handa-Aurora",
+        "Coordinate": [
+            991,
+            1158,
+            2216,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "84/660, Bal, Bathinda-490333",
+        "Coordinate": [
+            901,
+            1288,
+            2320,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36/05, Divan Chowk, Hospet 115676",
+        "Coordinate": [
+            903,
+            1488,
+            2196,
+            1736
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7491104458",
+        "Coordinate": [
+            901,
+            1762,
+            1359,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            906,
+            1882,
+            1664,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wazir Thakkar - 8060571049",
+        "Coordinate": [
+            946,
+            2012,
+            2208,
+            2119
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            610,
+            2401,
+            927,
+            2526
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagrati Wali - 9026247075",
+        "Coordinate": [
+            942,
+            2112,
+            2272,
+            2238
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/20/2023",
+        "Coordinate": [
+            625,
+            2481,
+            1199,
+            2606
+        ]
+    }
+]

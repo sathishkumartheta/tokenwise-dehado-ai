@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Kara",
+        "Coordinate": [
+            917,
+            452,
+            1289,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Arin Kara",
+        "Coordinate": [
+            927,
+            548,
+            1301,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-06-1978",
+        "Coordinate": [
+            930,
+            646,
+            1273,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            925,
+            741,
+            1514,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            849,
+            1281,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1849,
+            828,
+            2140,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            938,
+            2183,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            925,
+            951,
+            1036,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dey PLC",
+        "Coordinate": [
+            1002,
+            1045,
+            1779,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Ramanathan-Gour",
+        "Coordinate": [
+            1006,
+            1147,
+            2222,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "174, Dewan Street, Indore 167821",
+        "Coordinate": [
+            937,
+            1294,
+            2270,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26/69, Soman Ganj, Tenali 250313",
+        "Coordinate": [
+            946,
+            1531,
+            2307,
+            1666
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7973009833",
+        "Coordinate": [
+            1900,
+            1788,
+            2378,
+            1877
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7243627513",
+        "Coordinate": [
+            927,
+            1809,
+            1372,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, English, Tamil",
+        "Coordinate": [
+            929,
+            1939,
+            2094,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xiti Bath - 9778089630",
+        "Coordinate": [
+            1036,
+            2048,
+            1983,
+            2147
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishita Amble - 8005239009",
+        "Coordinate": [
+            1027,
+            2178,
+            2133,
+            2281
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "514000000000.0",
+        "Coordinate": [
+            638,
+            2392,
+            1189,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            646,
+            2486,
+            958,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/16/2024",
+        "Coordinate": [
+            656,
+            2580,
+            1092,
+            2668
+        ]
+    }
+]

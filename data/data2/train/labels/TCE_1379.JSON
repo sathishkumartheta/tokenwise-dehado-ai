@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Omisha Peri",
+        "Coordinate": [
+            920,
+            466,
+            1366,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ethan Peri",
+        "Coordinate": [
+            920,
+            571,
+            1302,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/10/2000",
+        "Coordinate": [
+            940,
+            676,
+            1314,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            955,
+            760,
+            1318,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            865,
+            1238,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1735,
+            846,
+            2022,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            941,
+            2062,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            985,
+            950,
+            1154,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Anand and Sons",
+        "Coordinate": [
+            1010,
+            1061,
+            2050,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Gara-Bahri",
+        "Coordinate": [
+            995,
+            1171,
+            2002,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08/392, Sagar Street, Delhi 078371",
+        "Coordinate": [
+            960,
+            1271,
+            2306,
+            1398
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "946, Din Zila, Unnao-233160",
+        "Coordinate": [
+            909,
+            1511,
+            2062,
+            1606
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8948007301",
+        "Coordinate": [
+            920,
+            1766,
+            1386,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7860058681",
+        "Coordinate": [
+            1830,
+            1786,
+            2278,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Tamil",
+        "Coordinate": [
+            945,
+            1906,
+            1842,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charan Zacharia - 8016244695",
+        "Coordinate": [
+            1015,
+            2021,
+            2162,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kamya Rau - 8756155080",
+        "Coordinate": [
+            1010,
+            2136,
+            2034,
+            2230
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            649,
+            2396,
+            1354,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/27/2024",
+        "Coordinate": [
+            700,
+            2501,
+            1114,
+            2602
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Waida Ahuja",
+        "Coordinate": [
+            879,
+            393,
+            1429,
+            505
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Ahuja",
+        "Coordinate": [
+            907,
+            507,
+            1460,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/24/1979",
+        "Coordinate": [
+            943,
+            598,
+            1294,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            934,
+            694,
+            1284,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            797,
+            1237,
+            897
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1799,
+            792,
+            2065,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            894,
+            2110,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            961,
+            903,
+            1081,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Saini-Yohannan",
+        "Coordinate": [
+            990,
+            980,
+            2175,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kannan  Sura and Kanda",
+        "Coordinate": [
+            1000,
+            1102,
+            2383,
+            1212
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06, Ravel Path, Bhind 980699",
+        "Coordinate": [
+            878,
+            1229,
+            2138,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62/720, Raghavan Road, Rajpur Sonarpur 556464",
+        "Coordinate": [
+            901,
+            1495,
+            2147,
+            1714
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7353814924",
+        "Coordinate": [
+            1664,
+            1809,
+            2207,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8361868909",
+        "Coordinate": [
+            873,
+            1754,
+            1305,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Gujarati, English",
+        "Coordinate": [
+            893,
+            1895,
+            2191,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upma Bahl - 8952113713",
+        "Coordinate": [
+            955,
+            2005,
+            1947,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Inaya Kapur - 9600756928",
+        "Coordinate": [
+            926,
+            2128,
+            2028,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "350000000000.0",
+        "Coordinate": [
+            609,
+            2330,
+            1218,
+            2420
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            601,
+            2425,
+            1009,
+            2524
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/21/2025",
+        "Coordinate": [
+            673,
+            2520,
+            1105,
+            2615
+        ]
+    }
+]

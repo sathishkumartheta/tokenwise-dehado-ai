@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warhi Kulkarni",
+        "Coordinate": [
+            879,
+            398,
+            1376,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mitesh Kulkarni",
+        "Coordinate": [
+            886,
+            501,
+            1391,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/19/1998",
+        "Coordinate": [
+            888,
+            594,
+            1229,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            894,
+            687,
+            1214,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            917,
+            793,
+            1143,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1777,
+            784,
+            2010,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            893,
+            2056,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            916,
+            903,
+            1068,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Rao-Devi",
+        "Coordinate": [
+            968,
+            990,
+            1694,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Dani  Karpe and Sekhon",
+        "Coordinate": [
+            960,
+            1103,
+            2170,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "865, Ben Circle, Pali-127961",
+        "Coordinate": [
+            890,
+            1271,
+            1848,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "519, Rajagopalan Nagar, Srikakulam 902770",
+        "Coordinate": [
+            882,
+            1500,
+            2301,
+            1658
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9576046552",
+        "Coordinate": [
+            1848,
+            1748,
+            2252,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9523835015",
+        "Coordinate": [
+            876,
+            1755,
+            1299,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Malayalam, Hindi",
+        "Coordinate": [
+            890,
+            1892,
+            2029,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zarna Mangal - 9050503233",
+        "Coordinate": [
+            941,
+            2011,
+            1937,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bahadurjit Uppal - 8935020657",
+        "Coordinate": [
+            928,
+            2134,
+            1977,
+            2255
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XDNGB9234U",
+        "Coordinate": [
+            1657,
+            2335,
+            2144,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            581,
+            2424,
+            940,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/22/2025",
+        "Coordinate": [
+            581,
+            2515,
+            991,
+            2602
+        ]
+    }
+]

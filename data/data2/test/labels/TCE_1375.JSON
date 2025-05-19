@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girish Sathe",
+        "Coordinate": [
+            920,
+            455,
+            1414,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samaksh Sathe",
+        "Coordinate": [
+            915,
+            561,
+            1378,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/7/1991",
+        "Coordinate": [
+            915,
+            651,
+            1210,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            900,
+            751,
+            1410,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            855,
+            1242,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            846,
+            1998,
+            941
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            900,
+            940,
+            1098,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            945,
+            2082,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Baral and Sons",
+        "Coordinate": [
+            1005,
+            1031,
+            2018,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Savant-Das",
+        "Coordinate": [
+            1010,
+            1131,
+            1990,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50/123, Subramanian Path, Akola 949708",
+        "Coordinate": [
+            940,
+            1281,
+            2206,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 626, Pillay Street, Tenali-414877",
+        "Coordinate": [
+            930,
+            1481,
+            2398,
+            1609
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8056028824",
+        "Coordinate": [
+            885,
+            1766,
+            1378,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8538001701",
+        "Coordinate": [
+            1775,
+            1761,
+            2250,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Tamil",
+        "Coordinate": [
+            955,
+            1901,
+            1710,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaaya Nigam - 9591576340",
+        "Coordinate": [
+            989,
+            2000,
+            1957,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Thaker - 7393021332",
+        "Coordinate": [
+            970,
+            2120,
+            1990,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            639,
+            2411,
+            917,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/28/2022",
+        "Coordinate": [
+            625,
+            2501,
+            1082,
+            2613
+        ]
+    }
+]

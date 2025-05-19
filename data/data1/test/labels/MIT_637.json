@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Girish Savant",
+        "Coordinate": [
+            882,
+            428,
+            1413,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Max Savant",
+        "Coordinate": [
+            889,
+            527,
+            1345,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/25/1989",
+        "Coordinate": [
+            898,
+            631,
+            1269,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            904,
+            726,
+            1441,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            931,
+            832,
+            1168,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1860,
+            832,
+            2049,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            935,
+            2137,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            905,
+            940,
+            1015,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Chana-Wadhwa",
+        "Coordinate": [
+            966,
+            1039,
+            1964,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Thakkar  Khalsa and Saxena",
+        "Coordinate": [
+            960,
+            1145,
+            2372,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 50, Rau, Tadipatri 806250",
+        "Coordinate": [
+            895,
+            1278,
+            2056,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 899, Mand Marg, Narasaraopet-434354",
+        "Coordinate": [
+            897,
+            1533,
+            2375,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7299006089",
+        "Coordinate": [
+            1866,
+            1800,
+            2321,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9156556844",
+        "Coordinate": [
+            894,
+            1806,
+            1323,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            893,
+            1940,
+            1501,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Forum Goel - 9368338412",
+        "Coordinate": [
+            954,
+            2049,
+            1962,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachit Chaudry - 7329627724",
+        "Coordinate": [
+            950,
+            2187,
+            2161,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "331000000000.0",
+        "Coordinate": [
+            602,
+            2385,
+            1119,
+            2477
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DUILT1701N",
+        "Coordinate": [
+            1646,
+            2388,
+            2105,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            599,
+            2476,
+            863,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/20/2024",
+        "Coordinate": [
+            598,
+            2569,
+            989,
+            2661
+        ]
+    }
+]

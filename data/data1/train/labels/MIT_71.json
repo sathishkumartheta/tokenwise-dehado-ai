@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Indrajit Pant",
+        "Coordinate": [
+            884,
+            391,
+            1351,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaac Pant",
+        "Coordinate": [
+            892,
+            492,
+            1229,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/21/1980",
+        "Coordinate": [
+            902,
+            590,
+            1230,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            914,
+            682,
+            1214,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            786,
+            1136,
+            886
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1801,
+            787,
+            1983,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            894,
+            2077,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            946,
+            893,
+            1076,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Narula-Prabhu",
+        "Coordinate": [
+            964,
+            980,
+            1841,
+            1078
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Menon-Sheth",
+        "Coordinate": [
+            965,
+            1092,
+            1821,
+            1196
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 999, Sodhi Zila, Orai 684602",
+        "Coordinate": [
+            896,
+            1225,
+            2062,
+            1366
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 69, Dhar Chowk, Bokaro-752500",
+        "Coordinate": [
+            886,
+            1491,
+            2113,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9326965114",
+        "Coordinate": [
+            1854,
+            1754,
+            2211,
+            1849
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7198094244",
+        "Coordinate": [
+            894,
+            1758,
+            1293,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Bengali, Gujarati",
+        "Coordinate": [
+            906,
+            1888,
+            2037,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anusha Kadakia - 9891414951",
+        "Coordinate": [
+            962,
+            2001,
+            1908,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan Suri - 8804669522",
+        "Coordinate": [
+            987,
+            2127,
+            1866,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "441000000000.0",
+        "Coordinate": [
+            602,
+            2333,
+            1006,
+            2411
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DHJHF7944J",
+        "Coordinate": [
+            1630,
+            2333,
+            2082,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            602,
+            2423,
+            1240,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/13/2025",
+        "Coordinate": [
+            613,
+            2514,
+            993,
+            2602
+        ]
+    }
+]

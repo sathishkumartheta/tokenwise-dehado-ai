@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sanaya Majumdar",
+        "Coordinate": [
+            880,
+            394,
+            1478,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Majumdar",
+        "Coordinate": [
+            875,
+            496,
+            1485,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/24/1974",
+        "Coordinate": [
+            918,
+            596,
+            1267,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            936,
+            693,
+            1256,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            931,
+            797,
+            1213,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1852,
+            791,
+            2094,
+            890
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1882,
+            901,
+            2135,
+            995
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            959,
+            899,
+            1103,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Basu LLC",
+        "Coordinate": [
+            1012,
+            988,
+            1773,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Deol and Sons",
+        "Coordinate": [
+            1022,
+            1104,
+            2003,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26, Kumer Circle, Mumbai-204713",
+        "Coordinate": [
+            902,
+            1241,
+            2152,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/175, Pradhan, Rampur-582984",
+        "Coordinate": [
+            879,
+            1493,
+            2083,
+            1644
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9038931895",
+        "Coordinate": [
+            1887,
+            1751,
+            2272,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8984784793",
+        "Coordinate": [
+            886,
+            1759,
+            1309,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati",
+        "Coordinate": [
+            898,
+            1892,
+            1624,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upkaar Bains - 9272099459",
+        "Coordinate": [
+            959,
+            2004,
+            1893,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vasudha Magar - 9520928279",
+        "Coordinate": [
+            963,
+            2126,
+            2033,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "966000000000.0",
+        "Coordinate": [
+            592,
+            2324,
+            1075,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            615,
+            2423,
+            845,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2022",
+        "Coordinate": [
+            602,
+            2520,
+            999,
+            2617
+        ]
+    }
+]

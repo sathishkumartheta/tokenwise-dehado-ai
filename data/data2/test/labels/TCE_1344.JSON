@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anirudh Basak",
+        "Coordinate": [
+            940,
+            500,
+            1658,
+            601
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekalinga Basak",
+        "Coordinate": [
+            940,
+            618,
+            1602,
+            691
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/16/1989",
+        "Coordinate": [
+            926,
+            704,
+            1404,
+            783
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            942,
+            796,
+            1256,
+            873
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            902,
+            1260,
+            973
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1821,
+            884,
+            2050,
+            971
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            1002,
+            2124,
+            1091
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            936,
+            982,
+            1122,
+            1069
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Chander Group",
+        "Coordinate": [
+            1014,
+            1068,
+            2110,
+            1173
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Loke Inc",
+        "Coordinate": [
+            994,
+            1180,
+            1900,
+            1285
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 290, Vig Path, Jabalpur 626313",
+        "Coordinate": [
+            918,
+            1316,
+            2300,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07, Biswas Circle, Naihati 193852",
+        "Coordinate": [
+            916,
+            1550,
+            2354,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9148153215",
+        "Coordinate": [
+            918,
+            1812,
+            1362,
+            1903
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9288280972",
+        "Coordinate": [
+            1836,
+            1821,
+            2296,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Kannada, Malayalam",
+        "Coordinate": [
+            921,
+            1940,
+            2394,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojas Kamdar - 7876570893",
+        "Coordinate": [
+            988,
+            2034,
+            2094,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dominic Mukhopadhyay - 8034245211",
+        "Coordinate": [
+            964,
+            2170,
+            2288,
+            2307
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            637,
+            2434,
+            1005,
+            2525
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/28/2023",
+        "Coordinate": [
+            650,
+            2540,
+            1166,
+            2621
+        ]
+    }
+]

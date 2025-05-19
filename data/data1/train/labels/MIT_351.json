@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Keya Pingle",
+        "Coordinate": [
+            892,
+            409,
+            1298,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kai Pingle",
+        "Coordinate": [
+            899,
+            517,
+            1260,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-05-1986",
+        "Coordinate": [
+            912,
+            611,
+            1226,
+            702
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            900,
+            710,
+            1064,
+            802
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            810,
+            1197,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1788,
+            797,
+            2054,
+            894
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            905,
+            2132,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            921,
+            913,
+            1031,
+            1001
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at De-Gour",
+        "Coordinate": [
+            1017,
+            1009,
+            1754,
+            1114
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Nayar-Mann",
+        "Coordinate": [
+            1028,
+            1126,
+            1883,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "59, Palan, Meerut 622122",
+        "Coordinate": [
+            947,
+            1244,
+            1926,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67, Mukhopadhyay Chowk, Guntur 916011",
+        "Coordinate": [
+            893,
+            1486,
+            2276,
+            1625
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9704562554",
+        "Coordinate": [
+            1858,
+            1767,
+            2277,
+            1879
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7548005310",
+        "Coordinate": [
+            905,
+            1780,
+            1300,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            911,
+            1912,
+            1570,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Avni Chaudhry - 9691224325",
+        "Coordinate": [
+            985,
+            2018,
+            2007,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kashish Thakur - 8499203692",
+        "Coordinate": [
+            998,
+            2144,
+            2088,
+            2257
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "456000000000.0",
+        "Coordinate": [
+            623,
+            2356,
+            1102,
+            2442
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            636,
+            2444,
+            1122,
+            2542
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "02-03-2025",
+        "Coordinate": [
+            635,
+            2536,
+            1033,
+            2639
+        ]
+    }
+]

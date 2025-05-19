@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oni Borra",
+        "Coordinate": [
+            895,
+            423,
+            1306,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frederick Borra",
+        "Coordinate": [
+            890,
+            523,
+            1537,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/5/1970",
+        "Coordinate": [
+            895,
+            636,
+            1383,
+            713
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            885,
+            716,
+            1270,
+            816
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            826,
+            1280,
+            921
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1807,
+            829,
+            2230,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            885,
+            934,
+            1054,
+            1021
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            934,
+            2274,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Mannan-Saini",
+        "Coordinate": [
+            977,
+            1024,
+            2192,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Behl-Butala",
+        "Coordinate": [
+            998,
+            1147,
+            2107,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "279, Mahal Street, Khammam-396749",
+        "Coordinate": [
+            885,
+            1273,
+            2107,
+            1514
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 385, Barad Road, Mumbai 841591",
+        "Coordinate": [
+            895,
+            1519,
+            2143,
+            1740
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9051299768",
+        "Coordinate": [
+            893,
+            1819,
+            1350,
+            1917
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7478797571",
+        "Coordinate": [
+            1524,
+            1858,
+            2058,
+            1943
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            885,
+            1945,
+            1873,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Barkha Dhar - 7939716047",
+        "Coordinate": [
+            977,
+            2066,
+            2312,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaja Singhal - 8798157493",
+        "Coordinate": [
+            967,
+            2189,
+            2251,
+            2323
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            603,
+            2456,
+            1006,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/9/2023",
+        "Coordinate": [
+            608,
+            2569,
+            1149,
+            2656
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CBVKH5593F",
+        "Coordinate": [
+            1635,
+            2379,
+            2307,
+            2477
+        ]
+    }
+]

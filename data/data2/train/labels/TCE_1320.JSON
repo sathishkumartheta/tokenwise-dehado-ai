@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balvan Deo",
+        "Coordinate": [
+            906,
+            468,
+            1362,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Deo",
+        "Coordinate": [
+            964,
+            580,
+            1350,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/20/1982",
+        "Coordinate": [
+            952,
+            660,
+            1320,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            932,
+            762,
+            1522,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            856,
+            1274,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1722,
+            854,
+            1930,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            982,
+            944,
+            1126,
+            1017
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1796,
+            966,
+            2106,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bhakta  Seshadri and Padmanabhan",
+        "Coordinate": [
+            968,
+            1050,
+            2388,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Lanka  Hayre and Dada",
+        "Coordinate": [
+            986,
+            1150,
+            2214,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "40, Hegde Circle, Darbhanga-340288",
+        "Coordinate": [
+            904,
+            1268,
+            2086,
+            1453
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "91/08, Sethi Chowk, Unnao 663579",
+        "Coordinate": [
+            900,
+            1520,
+            2244,
+            1619
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9446082161",
+        "Coordinate": [
+            892,
+            1786,
+            1316,
+            1849
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7668063234",
+        "Coordinate": [
+            1816,
+            1794,
+            2280,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, Hindi, Marathi",
+        "Coordinate": [
+            916,
+            1899,
+            2146,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Robert Tripathi - 9276055093",
+        "Coordinate": [
+            974,
+            2012,
+            2116,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Panini Venkatesh - 7694754517",
+        "Coordinate": [
+            964,
+            2152,
+            2208,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            642,
+            2424,
+            1010,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/4/2023",
+        "Coordinate": [
+            652,
+            2510,
+            1052,
+            2585
+        ]
+    }
+]

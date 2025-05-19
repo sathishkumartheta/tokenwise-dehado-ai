@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amruta Bakshi",
+        "Coordinate": [
+            947,
+            467,
+            1586,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frado Bakshi",
+        "Coordinate": [
+            1010,
+            564,
+            1589,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/21/1976",
+        "Coordinate": [
+            973,
+            660,
+            1388,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            930,
+            754,
+            1090,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            970,
+            857,
+            1282,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1046,
+            940,
+            1220,
+            1038
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1896,
+            844,
+            2159,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1920,
+            940,
+            2173,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bains Inc",
+        "Coordinate": [
+            996,
+            1050,
+            2028,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sengupta Group",
+        "Coordinate": [
+            1023,
+            1154,
+            2308,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62, Prabhakar Path, Tinsukia-441128",
+        "Coordinate": [
+            926,
+            1301,
+            2255,
+            1489
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "172, Kulkarni Chowk, Solapur 047891",
+        "Coordinate": [
+            933,
+            1544,
+            2250,
+            1743
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8267029749",
+        "Coordinate": [
+            916,
+            1783,
+            1380,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7990176265",
+        "Coordinate": [
+            1683,
+            1814,
+            2124,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Telugu, Tamil",
+        "Coordinate": [
+            976,
+            1901,
+            2215,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rachana Srinivasan - 8762241433",
+        "Coordinate": [
+            1043,
+            2030,
+            2463,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rajeshri Boase - 8426687897",
+        "Coordinate": [
+            1060,
+            2150,
+            2437,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            747,
+            2420,
+            1122,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/18/2022",
+        "Coordinate": [
+            723,
+            2514,
+            1260,
+            2595
+        ]
+    }
+]

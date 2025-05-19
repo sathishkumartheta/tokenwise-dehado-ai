@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Radhika Murty",
+        "Coordinate": [
+            882,
+            421,
+            1365,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vihaan Murty",
+        "Coordinate": [
+            905,
+            526,
+            1330,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-11-2004",
+        "Coordinate": [
+            912,
+            626,
+            1265,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            911,
+            726,
+            1054,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            899,
+            833,
+            1129,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1835,
+            813,
+            2089,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            927,
+            2114,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            939,
+            930,
+            1098,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Mani and Sons",
+        "Coordinate": [
+            1002,
+            1034,
+            1844,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chakraborty Group",
+        "Coordinate": [
+            984,
+            1139,
+            1979,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 659, Bath Zila, Bally-364364",
+        "Coordinate": [
+            924,
+            1269,
+            2214,
+            1436
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "296, Chander, Siliguri 007227",
+        "Coordinate": [
+            913,
+            1521,
+            1948,
+            1672
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8181616710",
+        "Coordinate": [
+            1872,
+            1793,
+            2226,
+            1890
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8998293190",
+        "Coordinate": [
+            892,
+            1801,
+            1314,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Malayalam",
+        "Coordinate": [
+            974,
+            1931,
+            1901,
+            2039
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xiti Khare - 8417381403",
+        "Coordinate": [
+            955,
+            2045,
+            1976,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Naksh Shenoy - 7252046132",
+        "Coordinate": [
+            958,
+            2184,
+            2194,
+            2309
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            601,
+            2461,
+            896,
+            2554
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/26/2022",
+        "Coordinate": [
+            600,
+            2560,
+            1099,
+            2658
+        ]
+    }
+]

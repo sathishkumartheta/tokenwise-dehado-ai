@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gautami Nagi",
+        "Coordinate": [
+            960,
+            474,
+            1557,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Nagi",
+        "Coordinate": [
+            956,
+            570,
+            1578,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/14/1976",
+        "Coordinate": [
+            993,
+            667,
+            1378,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            966,
+            757,
+            1266,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            986,
+            860,
+            1309,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1980,
+            850,
+            2245,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1980,
+            941,
+            2245,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1053,
+            950,
+            1184,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Naik-Oak",
+        "Coordinate": [
+            1040,
+            1054,
+            1987,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Murty LLC",
+        "Coordinate": [
+            1040,
+            1160,
+            2043,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "604, Tailor Ganj, Baranagar 088486",
+        "Coordinate": [
+            946,
+            1314,
+            2250,
+            1500
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 14, Dube Road, Dhanbad 933757",
+        "Coordinate": [
+            926,
+            1540,
+            2304,
+            1739
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9703930099",
+        "Coordinate": [
+            963,
+            1794,
+            1410,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9472454084",
+        "Coordinate": [
+            1813,
+            1814,
+            2296,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            976,
+            1917,
+            1754,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Narain - 8548174114",
+        "Coordinate": [
+            1006,
+            2030,
+            2309,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anay Wadhwa - 8505670684",
+        "Coordinate": [
+            1033,
+            2154,
+            2258,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            733,
+            2424,
+            1064,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/6/2023",
+        "Coordinate": [
+            726,
+            2514,
+            1173,
+            2601
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekapad Mallick",
+        "Coordinate": [
+            901,
+            392,
+            1539,
+            498
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dalbir Mallick",
+        "Coordinate": [
+            905,
+            497,
+            1493,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/24/1983",
+        "Coordinate": [
+            920,
+            595,
+            1278,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            928,
+            690,
+            1242,
+            788
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            795,
+            1254,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1831,
+            790,
+            2027,
+            892
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1907,
+            896,
+            2183,
+            989
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            945,
+            899,
+            1103,
+            986
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kapadia Ltd",
+        "Coordinate": [
+            980,
+            985,
+            1887,
+            1102
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Narain and Sons",
+        "Coordinate": [
+            963,
+            1108,
+            2115,
+            1218
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81, Barad Path, Salem 380032",
+        "Coordinate": [
+            902,
+            1222,
+            2122,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/727, Taneja Street, Mira-Bhayandar-183061",
+        "Coordinate": [
+            898,
+            1467,
+            2252,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9712780634",
+        "Coordinate": [
+            1892,
+            1749,
+            2306,
+            1857
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9388515923",
+        "Coordinate": [
+            889,
+            1753,
+            1325,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Tamil, Telugu",
+        "Coordinate": [
+            910,
+            1880,
+            2072,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sathvik Gokhale - 7553843453",
+        "Coordinate": [
+            966,
+            2002,
+            2153,
+            2120
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omya Lall - 8798812745",
+        "Coordinate": [
+            1001,
+            2134,
+            1943,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "931000000000.0",
+        "Coordinate": [
+            600,
+            2326,
+            1164,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            611,
+            2423,
+            876,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2022",
+        "Coordinate": [
+            635,
+            2512,
+            1031,
+            2603
+        ]
+    }
+]

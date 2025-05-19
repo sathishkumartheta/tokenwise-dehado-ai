@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Triveni Sundaram",
+        "Coordinate": [
+            923,
+            460,
+            1395,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gautam Sundaram",
+        "Coordinate": [
+            920,
+            571,
+            1382,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/1973",
+        "Coordinate": [
+            916,
+            651,
+            1219,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            917,
+            750,
+            1307,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            837,
+            1198,
+            960
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            916,
+            937,
+            1095,
+            1060
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1734,
+            823,
+            1947,
+            916
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Barad-Saraf",
+        "Coordinate": [
+            965,
+            1035,
+            1686,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sarraf  Taneja and Dixit",
+        "Coordinate": [
+            990,
+            1149,
+            1971,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "38/668, Sunder, Raiganj-421808",
+        "Coordinate": [
+            924,
+            1257,
+            1841,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "98, Iyengar Street, Gangtok-342056",
+        "Coordinate": [
+            922,
+            1503,
+            1989,
+            1610
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8953199593",
+        "Coordinate": [
+            911,
+            1765,
+            1278,
+            1859
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9160625683",
+        "Coordinate": [
+            1829,
+            1770,
+            2223,
+            1844
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yadavi Bajaj - 9915252236",
+        "Coordinate": [
+            980,
+            2007,
+            1770,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udarsh Parmer - 7136033371",
+        "Coordinate": [
+            977,
+            2111,
+            1851,
+            2208
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            597,
+            2419,
+            948,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/24/2024",
+        "Coordinate": [
+            613,
+            2506,
+            1024,
+            2595
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Kannada",
+        "Coordinate": [
+            930,
+            1910,
+            1558,
+            1983
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            946,
+            2100,
+            1027
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "445363000000",
+        "Coordinate": [
+            635,
+            2336,
+            834,
+            2401
+        ]
+    }
+]

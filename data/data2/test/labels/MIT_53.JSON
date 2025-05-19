@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachita Andra",
+        "Coordinate": [
+            817,
+            370,
+            1215,
+            466
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Xavier Andra",
+        "Coordinate": [
+            817,
+            467,
+            1197,
+            558
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/12/1968",
+        "Coordinate": [
+            807,
+            575,
+            1077,
+            664
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            815,
+            667,
+            1113,
+            756
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            810,
+            790,
+            1037,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1685,
+            755,
+            1881,
+            854
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1745,
+            883,
+            1929,
+            968
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            817,
+            883,
+            965,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Rajagopalan PLC",
+        "Coordinate": [
+            862,
+            972,
+            1679,
+            1062
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Talwar  Rege and Swamy",
+        "Coordinate": [
+            880,
+            1078,
+            1917,
+            1190
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "21, Balasubramanian, Jalna-438427",
+        "Coordinate": [
+            810,
+            1200,
+            1841,
+            1310
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14/85, Barman Circle, Bongaigaon-613407",
+        "Coordinate": [
+            810,
+            1448,
+            1965,
+            1574
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7392364389",
+        "Coordinate": [
+            817,
+            1720,
+            1199,
+            1822
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7665860512",
+        "Coordinate": [
+            1767,
+            1725,
+            2141,
+            1818
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            815,
+            1878,
+            1371,
+            1968
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ijaya Chahal - 8659176568",
+        "Coordinate": [
+            852,
+            1967,
+            1679,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jacob Khalsa - 7680210858",
+        "Coordinate": [
+            877,
+            2097,
+            1669,
+            2218
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "681171000000",
+        "Coordinate": [
+            517,
+            2308,
+            993,
+            2396
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            507,
+            2398,
+            803,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/10/2025",
+        "Coordinate": [
+            507,
+            2502,
+            899,
+            2606
+        ]
+    }
+]

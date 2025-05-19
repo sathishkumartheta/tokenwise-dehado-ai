@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Banjeet Chadha",
+        "Coordinate": [
+            922,
+            524,
+            1506,
+            617
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Chadha",
+        "Coordinate": [
+            912,
+            620,
+            1424,
+            735
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/31/1968",
+        "Coordinate": [
+            904,
+            754,
+            1222,
+            803
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            918,
+            818,
+            1418,
+            903
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            935,
+            914,
+            1111,
+            1019
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1848,
+            895,
+            2002,
+            974
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            996,
+            2086,
+            1087
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            980,
+            1020,
+            1052,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Vora  Mody and Johal",
+        "Coordinate": [
+            1094,
+            1098,
+            2208,
+            1213
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Gupta  Nagarajan and Atwal",
+        "Coordinate": [
+            1004,
+            1216,
+            2310,
+            1345
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "53, Rama Street, Orai-320130",
+        "Coordinate": [
+            964,
+            1380,
+            1974,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "323, Ramanathan, Navi Mumbai-641151",
+        "Coordinate": [
+            982,
+            1604,
+            2224,
+            1719
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8421687748",
+        "Coordinate": [
+            912,
+            1806,
+            1294,
+            1917
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8472846936",
+        "Coordinate": [
+            1862,
+            1814,
+            2302,
+            1925
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Hindi, Gujarati",
+        "Coordinate": [
+            906,
+            1962,
+            1996,
+            2067
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaaya Krishnan - 9786502737",
+        "Coordinate": [
+            1000,
+            2074,
+            2148,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gauri Din - 9300528709",
+        "Coordinate": [
+            990,
+            2210,
+            1940,
+            2315
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            638,
+            2444,
+            974,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2025",
+        "Coordinate": [
+            618,
+            2556,
+            970,
+            2625
+        ]
+    }
+]

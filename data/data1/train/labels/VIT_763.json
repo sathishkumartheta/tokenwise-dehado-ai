@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kabir Parikh",
+        "Coordinate": [
+            890,
+            432,
+            1329,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Parikh",
+        "Coordinate": [
+            895,
+            529,
+            1415,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1995",
+        "Coordinate": [
+            891,
+            637,
+            1259,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            876,
+            729,
+            1221,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            834,
+            1314,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1789,
+            835,
+            1993,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            942,
+            2134,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            947,
+            943,
+            1072,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Thaman  Malhotra and Wagle",
+        "Coordinate": [
+            963,
+            1048,
+            2340,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Narayan-Sur",
+        "Coordinate": [
+            957,
+            1150,
+            1963,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 49, Ravel Marg, Kolkata-236604",
+        "Coordinate": [
+            889,
+            1288,
+            2336,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 208, Agarwal Zila, Junagadh-825289",
+        "Coordinate": [
+            889,
+            1549,
+            2373,
+            1708
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8686477410",
+        "Coordinate": [
+            1653,
+            1853,
+            2138,
+            1945
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9699041246",
+        "Coordinate": [
+            891,
+            1815,
+            1362,
+            1938
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            878,
+            1958,
+            1687,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aayush Mohan - 8804202654",
+        "Coordinate": [
+            936,
+            2066,
+            2186,
+            2179
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yatin Patla - 7732716111",
+        "Coordinate": [
+            930,
+            2188,
+            2148,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "904000000000.0",
+        "Coordinate": [
+            604,
+            2389,
+            1283,
+            2484
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TGPEA9182F",
+        "Coordinate": [
+            1648,
+            2391,
+            2241,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            600,
+            2487,
+            870,
+            2579
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-09-2024",
+        "Coordinate": [
+            588,
+            2580,
+            1005,
+            2666
+        ]
+    }
+]

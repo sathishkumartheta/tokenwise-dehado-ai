@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rachita Kade",
+        "Coordinate": [
+            920,
+            473,
+            1487,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Warinder Kade",
+        "Coordinate": [
+            944,
+            567,
+            1596,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/24/2005",
+        "Coordinate": [
+            950,
+            661,
+            1364,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            749,
+            1136,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            957,
+            853,
+            1197,
+            957
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            823,
+            2103,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            965,
+            960,
+            1158,
+            1034
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            956,
+            2173,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Golla  Deshmukh and Sharaf",
+        "Coordinate": [
+            998,
+            1037,
+            2282,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Wagle  Karpe and Goswami",
+        "Coordinate": [
+            1000,
+            1146,
+            2306,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 32, Loyal Road, Pallavaram 965776",
+        "Coordinate": [
+            916,
+            1284,
+            2266,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "959, Chaudhry Street, Bhusawal 124534",
+        "Coordinate": [
+            906,
+            1514,
+            2280,
+            1748
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7412622610",
+        "Coordinate": [
+            944,
+            1783,
+            1371,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8616515648",
+        "Coordinate": [
+            1840,
+            1758,
+            2286,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Telugu, Hindi",
+        "Coordinate": [
+            899,
+            1887,
+            2150,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advika Bhatti - 7497149976",
+        "Coordinate": [
+            1012,
+            2006,
+            2203,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nidra Bandi - 8381134374",
+        "Coordinate": [
+            1022,
+            2132,
+            2187,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            638,
+            2410,
+            1387,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/27/2023",
+        "Coordinate": [
+            670,
+            2503,
+            1220,
+            2600
+        ]
+    }
+]

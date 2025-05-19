@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashoda Lata",
+        "Coordinate": [
+            952,
+            424,
+            1471,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rushil Lata",
+        "Coordinate": [
+            971,
+            528,
+            1451,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/21/1992",
+        "Coordinate": [
+            970,
+            632,
+            1322,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            986,
+            729,
+            1294,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            991,
+            833,
+            1275,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            810,
+            2030,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1889,
+            921,
+            2114,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Ganguly LLC",
+        "Coordinate": [
+            1031,
+            1018,
+            1869,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Kalita-Nagar",
+        "Coordinate": [
+            1042,
+            1129,
+            1952,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/82, Goswami Street, Bangalore 825624",
+        "Coordinate": [
+            959,
+            1254,
+            2303,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "63/94, Arya Street, Gulbarga-341499",
+        "Coordinate": [
+            955,
+            1502,
+            2308,
+            1659
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7095904500",
+        "Coordinate": [
+            1936,
+            1770,
+            2360,
+            1868
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7025908586",
+        "Coordinate": [
+            959,
+            1781,
+            1411,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Hindi, Malayalam",
+        "Coordinate": [
+            958,
+            1919,
+            2085,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advay Arya - 8751243700",
+        "Coordinate": [
+            1028,
+            2028,
+            1912,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meera Garde - 7816117840",
+        "Coordinate": [
+            1035,
+            2156,
+            1926,
+            2266
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "251000000000.0",
+        "Coordinate": [
+            677,
+            2369,
+            1210,
+            2454
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            695,
+            2465,
+            950,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-09-2024",
+        "Coordinate": [
+            692,
+            2561,
+            1095,
+            2657
+        ]
+    }
+]

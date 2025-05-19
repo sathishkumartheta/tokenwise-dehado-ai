@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mahika Choudhry",
+        "Coordinate": [
+            930,
+            480,
+            1510,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Choudhry",
+        "Coordinate": [
+            926,
+            570,
+            1666,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/5/1986",
+        "Coordinate": [
+            918,
+            688,
+            1258,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            938,
+            766,
+            1120,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            864,
+            1266,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            858,
+            2042,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            952,
+            2100,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1032,
+            961,
+            1142,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Kakar and Sons",
+        "Coordinate": [
+            984,
+            1054,
+            1940,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mitra  Bail and Ratta",
+        "Coordinate": [
+            997,
+            1168,
+            2204,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24, Rau Chowk, Khora -726850",
+        "Coordinate": [
+            920,
+            1308,
+            2022,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "843, Pant Circle, Indore 692450",
+        "Coordinate": [
+            912,
+            1544,
+            2104,
+            1671
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8493933963",
+        "Coordinate": [
+            908,
+            1784,
+            1316,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7642281445",
+        "Coordinate": [
+            1856,
+            1776,
+            2274,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, English",
+        "Coordinate": [
+            918,
+            1908,
+            1614,
+            1977
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dhruv Loke - 9217109914",
+        "Coordinate": [
+            982,
+            2014,
+            1802,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayita Thakur - 7504878235",
+        "Coordinate": [
+            970,
+            2140,
+            1968,
+            2229
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            642,
+            2422,
+            945,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/2/2025",
+        "Coordinate": [
+            657,
+            2506,
+            1007,
+            2579
+        ]
+    }
+]

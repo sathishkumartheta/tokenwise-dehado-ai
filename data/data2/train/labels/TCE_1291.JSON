@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sneha Iyer",
+        "Coordinate": [
+            902,
+            474,
+            1265,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Iyer",
+        "Coordinate": [
+            902,
+            565,
+            1209,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/28/1978",
+        "Coordinate": [
+            894,
+            661,
+            1227,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            920,
+            754,
+            1247,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            864,
+            1178,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1762,
+            837,
+            2034,
+            923
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            939,
+            957,
+            1038,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            947,
+            2069,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Palla  Hari and Saini",
+        "Coordinate": [
+            981,
+            1036,
+            2083,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Arya LLC",
+        "Coordinate": [
+            977,
+            1154,
+            1669,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "899, Shanker Street, Sonipat-445890",
+        "Coordinate": [
+            925,
+            1288,
+            1635,
+            1460
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 74, Virk, Karimnagar 024938",
+        "Coordinate": [
+            923,
+            1555,
+            2178,
+            1677
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8562634461",
+        "Coordinate": [
+            904,
+            1785,
+            1336,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8250655597",
+        "Coordinate": [
+            1839,
+            1768,
+            2265,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English",
+        "Coordinate": [
+            923,
+            1904,
+            1391,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raksha Jain - 7016227816",
+        "Coordinate": [
+            977,
+            2006,
+            1801,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeet Naidu - 9438570331",
+        "Coordinate": [
+            965,
+            2136,
+            1844,
+            2237
+        ]
+    }
+]

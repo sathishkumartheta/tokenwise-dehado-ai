@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yasti Sur",
+        "Coordinate": [
+            907,
+            428,
+            1333,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Sur",
+        "Coordinate": [
+            917,
+            535,
+            1533,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/23/2006",
+        "Coordinate": [
+            937,
+            635,
+            1320,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            955,
+            748,
+            1177,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            945,
+            835,
+            1175,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1772,
+            825,
+            2109,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            937,
+            2133,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1007,
+            955,
+            1109,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Batra  Bera and Chana",
+        "Coordinate": [
+            992,
+            1043,
+            2301,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Arya-Shroff",
+        "Coordinate": [
+            992,
+            1143,
+            1893,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/576, Khatri Zila, Gopalpur 841423",
+        "Coordinate": [
+            905,
+            1265,
+            2401,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "833, Gara Chowk, Secunderabad 798130",
+        "Coordinate": [
+            907,
+            1543,
+            2363,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8572669567",
+        "Coordinate": [
+            885,
+            1797,
+            1359,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8631981934",
+        "Coordinate": [
+            1862,
+            1795,
+            2353,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Telugu, Bengali",
+        "Coordinate": [
+            887,
+            1935,
+            2117,
+            2055
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oeshi Nanda - 8000740150",
+        "Coordinate": [
+            1000,
+            2058,
+            2065,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anusha Shan - 9138010046",
+        "Coordinate": [
+            962,
+            2188,
+            2063,
+            2313
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "PFVOH5071B",
+        "Coordinate": [
+            1712,
+            2395,
+            2235,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            647,
+            2478,
+            971,
+            2593
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/12/2024",
+        "Coordinate": [
+            703,
+            2591,
+            1140,
+            2685
+        ]
+    }
+]

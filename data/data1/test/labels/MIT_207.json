@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balvan Garde",
+        "Coordinate": [
+            899,
+            391,
+            1265,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Garde",
+        "Coordinate": [
+            925,
+            493,
+            1301,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/30/1999",
+        "Coordinate": [
+            934,
+            594,
+            1215,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            936,
+            688,
+            1315,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            936,
+            797,
+            1170,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1852,
+            775,
+            2016,
+            860
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1872,
+            881,
+            2070,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            964,
+            900,
+            1061,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Som-Agarwal",
+        "Coordinate": [
+            984,
+            981,
+            1719,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Kota-Sodhi",
+        "Coordinate": [
+            1020,
+            1105,
+            1657,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 943, Thakur Circle, Siliguri 145775",
+        "Coordinate": [
+            906,
+            1230,
+            2095,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 57, Pandit Nagar, Thoothukudi 148026",
+        "Coordinate": [
+            912,
+            1474,
+            2175,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7432405216",
+        "Coordinate": [
+            1889,
+            1742,
+            2253,
+            1843
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9482883175",
+        "Coordinate": [
+            916,
+            1761,
+            1281,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Kannada, Gujarati",
+        "Coordinate": [
+            936,
+            1879,
+            1889,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lucky Parikh - 8140922283",
+        "Coordinate": [
+            989,
+            1997,
+            1767,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azaan Konda - 7099460782",
+        "Coordinate": [
+            1012,
+            2129,
+            1827,
+            2244
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "606000000000.0",
+        "Coordinate": [
+            643,
+            2332,
+            1029,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            667,
+            2423,
+            861,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/20/2023",
+        "Coordinate": [
+            677,
+            2518,
+            976,
+            2600
+        ]
+    }
+]

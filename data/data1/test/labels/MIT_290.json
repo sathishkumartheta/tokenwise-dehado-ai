@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ronith Aggarwal",
+        "Coordinate": [
+            942,
+            422,
+            1478,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bahadurjit Aggarwal",
+        "Coordinate": [
+            953,
+            521,
+            1669,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-06-1972",
+        "Coordinate": [
+            969,
+            623,
+            1267,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            961,
+            722,
+            1299,
+            813
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1001,
+            820,
+            1266,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1816,
+            792,
+            2012,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1887,
+            907,
+            2136,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1009,
+            927,
+            1137,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Talwar-Sha",
+        "Coordinate": [
+            1040,
+            1009,
+            1854,
+            1109
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Malhotra  Vaidya and Salvi",
+        "Coordinate": [
+            1042,
+            1126,
+            2361,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 679, Soni Zila, Munger-122150",
+        "Coordinate": [
+            958,
+            1259,
+            2291,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 18, Loyal Circle, Jalandhar 309001",
+        "Coordinate": [
+            971,
+            1492,
+            2419,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9061769173",
+        "Coordinate": [
+            1956,
+            1757,
+            2316,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9928524127",
+        "Coordinate": [
+            979,
+            1783,
+            1407,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, English, Gujarati",
+        "Coordinate": [
+            972,
+            1915,
+            2170,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aradhana Mane - 7491845991",
+        "Coordinate": [
+            1035,
+            2014,
+            2111,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wridesh Kashyap - 7444635975",
+        "Coordinate": [
+            1055,
+            2144,
+            2105,
+            2262
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JELIJ3444X",
+        "Coordinate": [
+            1729,
+            2338,
+            2135,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            709,
+            2462,
+            950,
+            2549
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-05-2025",
+        "Coordinate": [
+            696,
+            2555,
+            1022,
+            2654
+        ]
+    }
+]

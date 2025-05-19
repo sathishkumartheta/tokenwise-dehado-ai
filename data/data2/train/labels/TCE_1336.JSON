@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daksha Saran",
+        "Coordinate": [
+            898,
+            466,
+            1522,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samesh Saran",
+        "Coordinate": [
+            898,
+            576,
+            1366,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/7/1977",
+        "Coordinate": [
+            912,
+            674,
+            1206,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            906,
+            776,
+            1238,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            908,
+            859,
+            1156,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1720,
+            841,
+            1966,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1776,
+            960,
+            2004,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sankaran-Varughese",
+        "Coordinate": [
+            986,
+            1046,
+            2042,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Doctor Group",
+        "Coordinate": [
+            992,
+            1166,
+            1790,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85/117, Sane Marg, Siliguri-768597",
+        "Coordinate": [
+            942,
+            1282,
+            2178,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 69, Sant Street, Khora -282774",
+        "Coordinate": [
+            890,
+            1510,
+            2252,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8058883465",
+        "Coordinate": [
+            904,
+            1783,
+            1294,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7176939629",
+        "Coordinate": [
+            1840,
+            1785,
+            2264,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Marathi",
+        "Coordinate": [
+            890,
+            1918,
+            1626,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Arunima Goswami - 9331622958",
+        "Coordinate": [
+            960,
+            2020,
+            2020,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bina Munshi - 8436371571",
+        "Coordinate": [
+            958,
+            2144,
+            1954,
+            2233
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            606,
+            2424,
+            840,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/15/2023",
+        "Coordinate": [
+            624,
+            2518,
+            1086,
+            2599
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vansha Sanghvi",
+        "Coordinate": [
+            914,
+            478,
+            1446,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Henry Sanghvi",
+        "Coordinate": [
+            930,
+            582,
+            1572,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/12/1996",
+        "Coordinate": [
+            950,
+            676,
+            1318,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            940,
+            754,
+            1260,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            862,
+            1284,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1754,
+            849,
+            2040,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            996,
+            963,
+            1136,
+            1041
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            968,
+            2104,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Rastogi  Vig and Wagle",
+        "Coordinate": [
+            990,
+            1050,
+            2270,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Pai PLC",
+        "Coordinate": [
+            962,
+            1174,
+            1702,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "868, Radhakrishnan Zila, Bokaro 350799",
+        "Coordinate": [
+            922,
+            1294,
+            2302,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73/52, Virk Zila, Gandhinagar-960334",
+        "Coordinate": [
+            918,
+            1544,
+            2266,
+            1645
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7005069913",
+        "Coordinate": [
+            928,
+            1790,
+            1338,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9684071050",
+        "Coordinate": [
+            1589,
+            1820,
+            2094,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            938,
+            1921,
+            1484,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indali Bhandari - 7617114110",
+        "Coordinate": [
+            960,
+            2018,
+            2018,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ubika Dube - 9227080518",
+        "Coordinate": [
+            966,
+            2132,
+            2150,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            680,
+            2420,
+            946,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/24/2024",
+        "Coordinate": [
+            688,
+            2508,
+            1114,
+            2603
+        ]
+    }
+]

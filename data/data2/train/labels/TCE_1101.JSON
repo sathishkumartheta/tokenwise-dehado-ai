@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gavin Garg",
+        "Coordinate": [
+            897,
+            477,
+            1402,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Garg",
+        "Coordinate": [
+            922,
+            582,
+            1408,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/23/1998",
+        "Coordinate": [
+            905,
+            660,
+            1299,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            909,
+            760,
+            1208,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            918,
+            854,
+            1217,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1717,
+            854,
+            1928,
+            920
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            922,
+            953,
+            1084,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            951,
+            2076,
+            1019
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Parekh and Sons",
+        "Coordinate": [
+            983,
+            1047,
+            1943,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Contractor  Agrawal and Mahal",
+        "Coordinate": [
+            983,
+            1149,
+            2306,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "54/791, Bawa Ganj, Unnao-990251",
+        "Coordinate": [
+            942,
+            1274,
+            2217,
+            1388
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22/798, Patel Street, Aurangabad 594326",
+        "Coordinate": [
+            918,
+            1518,
+            2131,
+            1746
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9342440543",
+        "Coordinate": [
+            901,
+            1783,
+            1347,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7018678796",
+        "Coordinate": [
+            1825,
+            1779,
+            2250,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            926,
+            1906,
+            1621,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vincent Gokhale - 8357771742",
+        "Coordinate": [
+            967,
+            2014,
+            2017,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chandani Bawa - 9401234224",
+        "Coordinate": [
+            985,
+            2133,
+            2036,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            647,
+            2422,
+            993,
+            2496
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/1/2023",
+        "Coordinate": [
+            639,
+            2512,
+            1044,
+            2584
+        ]
+    }
+]

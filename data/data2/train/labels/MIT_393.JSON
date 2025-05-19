@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "9/3/2025",
+        "Coordinate": [
+            705,
+            2505,
+            1212,
+            2600
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            702,
+            2417,
+            1130,
+            2485
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "724413000000",
+        "Coordinate": [
+            672,
+            2315,
+            1395,
+            2400
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rishi Randhawa - 9085660464",
+        "Coordinate": [
+            1145,
+            2095,
+            2317,
+            2212
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ronith Edwin - 8570349587",
+        "Coordinate": [
+            1145,
+            1972,
+            2380,
+            2095
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Telugu, Hindi",
+        "Coordinate": [
+            957,
+            1832,
+            2160,
+            1975
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9950313570",
+        "Coordinate": [
+            952,
+            1727,
+            1415,
+            1845
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8885827530",
+        "Coordinate": [
+            1930,
+            1675,
+            2450,
+            1797
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "28/318, Bhandari Nagar, Bhiwani 602000",
+        "Coordinate": [
+            942,
+            1482,
+            2255,
+            1667
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "31/47, Choudhury Circle, Chittoor-269999",
+        "Coordinate": [
+            927,
+            1240,
+            2147,
+            1422
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bath LLC",
+        "Coordinate": [
+            1022,
+            1070,
+            2010,
+            1175
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Mody Ltd",
+        "Coordinate": [
+            992,
+            932,
+            2037,
+            1087
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            960,
+            877,
+            1110,
+            962
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1892,
+            840,
+            2195,
+            947
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1787,
+            697,
+            2110,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            945,
+            780,
+            1195,
+            885
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            947,
+            662,
+            1365,
+            780
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/12/1971",
+        "Coordinate": [
+            900,
+            567,
+            1350,
+            657
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gopal Borde",
+        "Coordinate": [
+            922,
+            445,
+            1415,
+            562
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemal Borde",
+        "Coordinate": [
+            885,
+            365,
+            1405,
+            465
+        ]
+    }
+]

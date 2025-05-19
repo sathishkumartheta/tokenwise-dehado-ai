@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sai Radhakrishnan",
+        "Coordinate": [
+            895,
+            391,
+            1635,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Radhakrishnan",
+        "Coordinate": [
+            887,
+            492,
+            1734,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-06-1987",
+        "Coordinate": [
+            934,
+            594,
+            1224,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            978,
+            698,
+            1150,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            792,
+            1229,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1857,
+            784,
+            2113,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            895,
+            2114,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            952,
+            896,
+            1086,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bora  Kalita and Aurora",
+        "Coordinate": [
+            959,
+            980,
+            2298,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Subramaniam  Sandhu and Chaudhari",
+        "Coordinate": [
+            951,
+            1106,
+            2321,
+            1229
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "59/51, Handa Road, Silchar-394840",
+        "Coordinate": [
+            910,
+            1247,
+            2319,
+            1386
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30, Varkey Nagar, Ghaziabad 610168",
+        "Coordinate": [
+            931,
+            1482,
+            2155,
+            1691
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8858690731",
+        "Coordinate": [
+            1884,
+            1748,
+            2291,
+            1836
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8802439664",
+        "Coordinate": [
+            913,
+            1758,
+            1325,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali",
+        "Coordinate": [
+            914,
+            1891,
+            1461,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Falan Bumb - 8148569908",
+        "Coordinate": [
+            969,
+            1997,
+            1836,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurika Bal - 8754759792",
+        "Coordinate": [
+            966,
+            2120,
+            1940,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "516000000000.0",
+        "Coordinate": [
+            617,
+            2336,
+            1145,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            625,
+            2429,
+            982,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/26/2024",
+        "Coordinate": [
+            650,
+            2519,
+            1016,
+            2636
+        ]
+    }
+]

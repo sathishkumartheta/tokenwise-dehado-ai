@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chanchal Rajan",
+        "Coordinate": [
+            924,
+            474,
+            1832,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faris Rajan",
+        "Coordinate": [
+            922,
+            570,
+            1612,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/19/1963",
+        "Coordinate": [
+            920,
+            664,
+            1542,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            910,
+            772,
+            1424,
+            853
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            872,
+            1332,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1754,
+            846,
+            2106,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            951,
+            2212,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1016,
+            956,
+            1164,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ravel LLC",
+        "Coordinate": [
+            1002,
+            1058,
+            2072,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Mody Ltd",
+        "Coordinate": [
+            1010,
+            1172,
+            2116,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "965, Iyer Road, Surat 577103",
+        "Coordinate": [
+            928,
+            1298,
+            2184,
+            1481
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59, Barman Marg, Motihari 979358",
+        "Coordinate": [
+            956,
+            1532,
+            2306,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8432666094",
+        "Coordinate": [
+            906,
+            1807,
+            1380,
+            1900
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9429833977",
+        "Coordinate": [
+            1504,
+            1818,
+            2060,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Malayalam, Tamil",
+        "Coordinate": [
+            914,
+            1919,
+            2386,
+            2022
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samar Kumer - 8970230362",
+        "Coordinate": [
+            982,
+            2024,
+            2114,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raghav Chaudhry - 8480463239",
+        "Coordinate": [
+            950,
+            2134,
+            2308,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            634,
+            2420,
+            958,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/13/2024",
+        "Coordinate": [
+            686,
+            2522,
+            1196,
+            2601
+        ]
+    }
+]

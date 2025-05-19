@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshit Mody",
+        "Coordinate": [
+            892,
+            477,
+            1412,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Mody",
+        "Coordinate": [
+            922,
+            577,
+            1405,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/18/2004",
+        "Coordinate": [
+            925,
+            657,
+            1315,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            950,
+            765,
+            1132,
+            860
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            850,
+            1160,
+            975
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1787,
+            839,
+            1997,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            935,
+            2080,
+            1050
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            970,
+            965,
+            1152,
+            1052
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Pillai  Reddy and Tandon",
+        "Coordinate": [
+            982,
+            1062,
+            2237,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bawa-Rai",
+        "Coordinate": [
+            990,
+            1152,
+            1815,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 44, Kanda Path, Bathinda-466886",
+        "Coordinate": [
+            905,
+            1287,
+            2277,
+            1442
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/348, Pandit Ganj, Kozhikode 736648",
+        "Coordinate": [
+            894,
+            1497,
+            2227,
+            1720
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8039923508",
+        "Coordinate": [
+            885,
+            1780,
+            1340,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8043294860",
+        "Coordinate": [
+            1830,
+            1785,
+            2302,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Telugu",
+        "Coordinate": [
+            885,
+            1912,
+            1922,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wridesh Dube - 7235645476",
+        "Coordinate": [
+            945,
+            2015,
+            2080,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Triveni Solanki - 7431368680",
+        "Coordinate": [
+            980,
+            2132,
+            2137,
+            2247
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "795391000000",
+        "Coordinate": [
+            622,
+            2337,
+            1175,
+            2402
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            607,
+            2395,
+            895,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/25/2023",
+        "Coordinate": [
+            597,
+            2497,
+            1062,
+            2577
+        ]
+    }
+]

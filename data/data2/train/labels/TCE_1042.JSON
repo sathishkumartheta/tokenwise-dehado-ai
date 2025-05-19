@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daniel Modi",
+        "Coordinate": [
+            920,
+            476,
+            1390,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Modi",
+        "Coordinate": [
+            972,
+            590,
+            1430,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/20/1981",
+        "Coordinate": [
+            936,
+            668,
+            1230,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            956,
+            754,
+            1240,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            938,
+            864,
+            1230,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1788,
+            838,
+            1980,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            940,
+            2090,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            998,
+            960,
+            1092,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Korpal Group",
+        "Coordinate": [
+            984,
+            1054,
+            1916,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Palla  Gola and Bahri",
+        "Coordinate": [
+            1016,
+            1158,
+            2178,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "91, Saran Road, Nadiad 157337",
+        "Coordinate": [
+            892,
+            1302,
+            2120,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 913, Bora Road, Guna-090719",
+        "Coordinate": [
+            950,
+            1560,
+            2116,
+            1655
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8235584823",
+        "Coordinate": [
+            926,
+            1797,
+            1356,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8114249453",
+        "Coordinate": [
+            1784,
+            1800,
+            2214,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Gujarati, Marathi",
+        "Coordinate": [
+            955,
+            1900,
+            2250,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasatika Chaudry - 8858630228",
+        "Coordinate": [
+            990,
+            2018,
+            1998,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemani Chaudry - 7460021960",
+        "Coordinate": [
+            990,
+            2152,
+            1980,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            668,
+            2424,
+            1020,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/18/2023",
+        "Coordinate": [
+            722,
+            2522,
+            1114,
+            2593
+        ]
+    }
+]

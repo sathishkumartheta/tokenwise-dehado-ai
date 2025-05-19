@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yachana Sinha",
+        "Coordinate": [
+            910,
+            471,
+            1476,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oscar Sinha",
+        "Coordinate": [
+            910,
+            567,
+            1390,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1999",
+        "Coordinate": [
+            918,
+            661,
+            1274,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            918,
+            757,
+            1469,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            854,
+            1243,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1755,
+            856,
+            2025,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            947,
+            2095,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            918,
+            961,
+            1106,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Buch and Sons",
+        "Coordinate": [
+            975,
+            1046,
+            1973,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Dayal  Dayal and Dubey",
+        "Coordinate": [
+            975,
+            1171,
+            2229,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "370, Nagi Road, Shimoga 850749",
+        "Coordinate": [
+            910,
+            1296,
+            2143,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "928, Hegde Street, Adoni 493826",
+        "Coordinate": [
+            911,
+            1537,
+            2127,
+            1696
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8063042446",
+        "Coordinate": [
+            898,
+            1775,
+            1345,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9005353214",
+        "Coordinate": [
+            1840,
+            1775,
+            2277,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Hindi, Gujarati",
+        "Coordinate": [
+            907,
+            1928,
+            1973,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gagan Khare - 7834156950",
+        "Coordinate": [
+            975,
+            2039,
+            1898,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anirudh Kamdar - 7288504517",
+        "Coordinate": [
+            964,
+            2152,
+            1998,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            623,
+            2430,
+            877,
+            2547
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2022",
+        "Coordinate": [
+            623,
+            2521,
+            936,
+            2630
+        ]
+    }
+]

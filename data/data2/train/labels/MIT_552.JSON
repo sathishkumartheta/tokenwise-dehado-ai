@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pahal Roy",
+        "Coordinate": [
+            877,
+            455,
+            1237,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gagan Roy",
+        "Coordinate": [
+            917,
+            565,
+            1333,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/28/1968",
+        "Coordinate": [
+            910,
+            668,
+            1265,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            927,
+            755,
+            1103,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            860,
+            1191,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            828,
+            2043,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            952,
+            963,
+            1069,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            945,
+            2119,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Agate  Lata and Bhagat",
+        "Coordinate": [
+            1005,
+            1050,
+            2275,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Ravel-Khosla",
+        "Coordinate": [
+            1047,
+            1158,
+            2059,
+            1275
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 35, Sheth, Amravati 011547",
+        "Coordinate": [
+            907,
+            1300,
+            2125,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 94, Bora Ganj, Jorhat-225578",
+        "Coordinate": [
+            917,
+            1585,
+            2347,
+            1717
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9726162629",
+        "Coordinate": [
+            910,
+            1807,
+            1307,
+            1923
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8353631629",
+        "Coordinate": [
+            1885,
+            1795,
+            2287,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Telugu, Kannada",
+        "Coordinate": [
+            912,
+            1945,
+            1871,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nandini Kumar - 7056773095",
+        "Coordinate": [
+            997,
+            2065,
+            1993,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udant Oommen - 7314926359",
+        "Coordinate": [
+            1015,
+            2178,
+            2215,
+            2291
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TENQA1318A",
+        "Coordinate": [
+            1697,
+            2363,
+            2135,
+            2459
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            720,
+            2478,
+            1035,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/27/2024",
+        "Coordinate": [
+            810,
+            2580,
+            1235,
+            2679
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sudiksha Biswas",
+        "Coordinate": [
+            890,
+            475,
+            1526,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Biswas",
+        "Coordinate": [
+            915,
+            566,
+            1518,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/29/1990",
+        "Coordinate": [
+            895,
+            676,
+            1238,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            910,
+            751,
+            1430,
+            821
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1740,
+            856,
+            2038,
+            937
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            835,
+            1238,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            955,
+            956,
+            1130,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            955,
+            2054,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Nadig  Mittal and Pillai",
+        "Coordinate": [
+            970,
+            1041,
+            2182,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Shanker  Bhavsar and Chacko",
+        "Coordinate": [
+            970,
+            1151,
+            2286,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 94, Bobal Road, Nellore-145183",
+        "Coordinate": [
+            909,
+            1281,
+            2310,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "181, Solanki Marg, Barasat 561007",
+        "Coordinate": [
+            894,
+            1526,
+            2194,
+            1629
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8177648475",
+        "Coordinate": [
+            905,
+            1786,
+            1378,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7552823024",
+        "Coordinate": [
+            1850,
+            1761,
+            2306,
+            1849
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati",
+        "Coordinate": [
+            970,
+            1901,
+            1586,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lajita Vala - 8774219500",
+        "Coordinate": [
+            974,
+            2141,
+            2001,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            659,
+            2410,
+            1026,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/6/2024",
+        "Coordinate": [
+            655,
+            2501,
+            962,
+            2589
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rachana Bhatia - 7629166918",
+        "Coordinate": [
+            980,
+            2011,
+            2106,
+            2097
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Imaran Sood",
+        "Coordinate": [
+            872,
+            437,
+            1313,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayush Sood",
+        "Coordinate": [
+            886,
+            540,
+            1308,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/30/2006",
+        "Coordinate": [
+            891,
+            639,
+            1262,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            737,
+            1165,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            876,
+            838,
+            1074,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            842,
+            1916,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1806,
+            946,
+            2036,
+            1047
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            891,
+            948,
+            1009,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhatti Ltd",
+        "Coordinate": [
+            954,
+            1047,
+            1692,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Shenoy  Maharaj and Halder",
+        "Coordinate": [
+            965,
+            1156,
+            2289,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 60, Kaul Chowk, Udaipur 737339",
+        "Coordinate": [
+            902,
+            1279,
+            2189,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 014, Garg, Sangli-Miraj & Kupwad-892240",
+        "Coordinate": [
+            891,
+            1537,
+            2382,
+            1696
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8210845912",
+        "Coordinate": [
+            879,
+            1811,
+            1304,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali",
+        "Coordinate": [
+            895,
+            1951,
+            1584,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojasvi Brahmbhatt - 7595436539",
+        "Coordinate": [
+            935,
+            2078,
+            2176,
+            2200
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lakshmi Natt - 8488036195",
+        "Coordinate": [
+            942,
+            2204,
+            1972,
+            2331
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WGXQF9982U",
+        "Coordinate": [
+            1650,
+            2398,
+            2253,
+            2499
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            592,
+            2488,
+            849,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/17/2023",
+        "Coordinate": [
+            589,
+            2585,
+            1005,
+            2673
+        ]
+    }
+]

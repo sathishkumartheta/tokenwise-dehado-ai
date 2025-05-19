@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekiya Khalsa",
+        "Coordinate": [
+            890,
+            407,
+            1437,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Khalsa",
+        "Coordinate": [
+            898,
+            516,
+            1400,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-10-1961",
+        "Coordinate": [
+            908,
+            621,
+            1238,
+            714
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            900,
+            721,
+            1265,
+            809
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            817,
+            1243,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1787,
+            802,
+            2072,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            909,
+            2169,
+            1007
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            909,
+            922,
+            1017,
+            1008
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Pillay-Sibal",
+        "Coordinate": [
+            970,
+            1014,
+            2073,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Dayal  Chadha and Bhatti",
+        "Coordinate": [
+            985,
+            1130,
+            2367,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/669, Dass Zila, Srinagar 785289",
+        "Coordinate": [
+            899,
+            1327,
+            2286,
+            1481
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "80, Vasa Zila, Avadi-253584",
+        "Coordinate": [
+            894,
+            1629,
+            1998,
+            1763
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9099580222",
+        "Coordinate": [
+            1872,
+            1756,
+            2322,
+            1862
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9624234443",
+        "Coordinate": [
+            900,
+            1781,
+            1340,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Gujarati, English",
+        "Coordinate": [
+            894,
+            1912,
+            2355,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zashil Hegde - 8347507994",
+        "Coordinate": [
+            954,
+            2019,
+            2005,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeremiah Mitter - 7385391978",
+        "Coordinate": [
+            972,
+            2138,
+            2160,
+            2254
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RLJYL5674L",
+        "Coordinate": [
+            1661,
+            2336,
+            2154,
+            2442
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            606,
+            2448,
+            998,
+            2542
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/30/2022",
+        "Coordinate": [
+            615,
+            2543,
+            1071,
+            2643
+        ]
+    }
+]

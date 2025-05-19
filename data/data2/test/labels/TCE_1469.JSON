@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Parth Kumar",
+        "Coordinate": [
+            905,
+            460,
+            1338,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Kumar",
+        "Coordinate": [
+            890,
+            571,
+            1366,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/12/1982",
+        "Coordinate": [
+            910,
+            676,
+            1274,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            905,
+            750,
+            1198,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            895,
+            846,
+            1118,
+            918
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            900,
+            946,
+            1042,
+            1010
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            821,
+            1994,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            945,
+            2050,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chad  Chahal and Som",
+        "Coordinate": [
+            955,
+            1046,
+            2062,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Minhas  Golla and Dugar",
+        "Coordinate": [
+            960,
+            1150,
+            2166,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58/31, Garg Ganj, Etawah-034097",
+        "Coordinate": [
+            889,
+            1270,
+            2134,
+            1374
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Karnik Road, Ulhasnagar 481873",
+        "Coordinate": [
+            890,
+            1501,
+            2290,
+            1594
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9538352948",
+        "Coordinate": [
+            870,
+            1765,
+            1330,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9097627564",
+        "Coordinate": [
+            1810,
+            1786,
+            2254,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Telugu",
+        "Coordinate": [
+            885,
+            1895,
+            1710,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Varenya Murthy - 7621935027",
+        "Coordinate": [
+            930,
+            2006,
+            2014,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Varenya Sankaran - 9669455600",
+        "Coordinate": [
+            945,
+            2131,
+            2034,
+            2218
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            590,
+            2406,
+            814,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/3/2024",
+        "Coordinate": [
+            595,
+            2505,
+            922,
+            2590
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Madhavi Varma",
+        "Coordinate": [
+            876,
+            426,
+            1352,
+            523
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anay Varma",
+        "Coordinate": [
+            887,
+            524,
+            1293,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/15/1972",
+        "Coordinate": [
+            879,
+            629,
+            1263,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            891,
+            729,
+            1172,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            827,
+            1152,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            807,
+            1969,
+            897
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            918,
+            2051,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            882,
+            945,
+            990,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Prakash-Seshadri",
+        "Coordinate": [
+            977,
+            1016,
+            1808,
+            1124
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Pandey  Sahni and Grewal",
+        "Coordinate": [
+            983,
+            1137,
+            2128,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "916, Purohit Circle, Kolkata 506943",
+        "Coordinate": [
+            881,
+            1282,
+            2044,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 010, Dhingra Road, Guntakal 493549",
+        "Coordinate": [
+            896,
+            1499,
+            2337,
+            1648
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9323246076",
+        "Coordinate": [
+            1864,
+            1791,
+            2314,
+            1889
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8302338225",
+        "Coordinate": [
+            902,
+            1803,
+            1367,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            910,
+            1935,
+            1442,
+            2034
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishwar Agarwal - 7721320210",
+        "Coordinate": [
+            975,
+            2036,
+            2021,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekavir Tiwari - 7041925508",
+        "Coordinate": [
+            977,
+            2174,
+            2012,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "951000000000.0",
+        "Coordinate": [
+            594,
+            2377,
+            1106,
+            2465
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "AEGTJ6310S",
+        "Coordinate": [
+            1689,
+            2373,
+            2221,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            606,
+            2474,
+            858,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/28/2024",
+        "Coordinate": [
+            610,
+            2569,
+            1008,
+            2654
+        ]
+    }
+]

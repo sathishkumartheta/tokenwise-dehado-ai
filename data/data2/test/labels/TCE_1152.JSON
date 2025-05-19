@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Forum Ravi",
+        "Coordinate": [
+            920,
+            471,
+            1366,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Ravi",
+        "Coordinate": [
+            913,
+            571,
+            1287,
+            664
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/24/1963",
+        "Coordinate": [
+            938,
+            662,
+            1291,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            938,
+            741,
+            1106,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            941,
+            840,
+            1169,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1766,
+            857,
+            2022,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            944,
+            2103,
+            1056
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            965,
+            951,
+            1117,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mishra  Sem and Chacko",
+        "Coordinate": [
+            1010,
+            1045,
+            2212,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Agarwal  Deep and Kota",
+        "Coordinate": [
+            1005,
+            1151,
+            2273,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/732, Seth Path, Kolhapur-230348",
+        "Coordinate": [
+            928,
+            1297,
+            2228,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43, Savant Zila, Vijayawada 463118",
+        "Coordinate": [
+            933,
+            1551,
+            2125,
+            1700
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7201234283",
+        "Coordinate": [
+            926,
+            1786,
+            1317,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9066764775",
+        "Coordinate": [
+            1835,
+            1778,
+            2248,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Kannada",
+        "Coordinate": [
+            913,
+            1904,
+            2007,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Suhani Babu - 8239365966",
+        "Coordinate": [
+            997,
+            2018,
+            1945,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warda Warrior - 7366661205",
+        "Coordinate": [
+            1007,
+            2139,
+            2115,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            629,
+            2426,
+            870,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/28/2024",
+        "Coordinate": [
+            619,
+            2515,
+            1050,
+            2607
+        ]
+    }
+]

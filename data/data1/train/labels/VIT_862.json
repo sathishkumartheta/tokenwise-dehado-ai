@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rajeshri Bhattacharyya",
+        "Coordinate": [
+            879,
+            431,
+            2250,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Bhattacharyya",
+        "Coordinate": [
+            925,
+            530,
+            1834,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-10-1965",
+        "Coordinate": [
+            930,
+            635,
+            1250,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            940,
+            730,
+            1297,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            832,
+            1222,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1794,
+            828,
+            2075,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            941,
+            2119,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            937,
+            942,
+            1081,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Palan-Saran",
+        "Coordinate": [
+            1001,
+            1040,
+            1955,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Doshi Ltd",
+        "Coordinate": [
+            1009,
+            1146,
+            1827,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76/419, Pal Road, Bokaro 199010",
+        "Coordinate": [
+            920,
+            1284,
+            2162,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "349, Dhillon Street, Shivpuri-085942",
+        "Coordinate": [
+            931,
+            1544,
+            2333,
+            1705
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8680659243",
+        "Coordinate": [
+            1863,
+            1805,
+            2255,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9993532898",
+        "Coordinate": [
+            884,
+            1805,
+            1317,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            911,
+            1944,
+            1501,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashawini Gera - 7178905119",
+        "Coordinate": [
+            985,
+            2046,
+            2041,
+            2162
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jalsa Prabhakar - 9085769144",
+        "Coordinate": [
+            999,
+            2182,
+            2122,
+            2301
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "239000000000.0",
+        "Coordinate": [
+            607,
+            2387,
+            1133,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            619,
+            2478,
+            1056,
+            2576
+        ]
+    }
+]

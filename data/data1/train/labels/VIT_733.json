@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekaraj Halder",
+        "Coordinate": [
+            882,
+            422,
+            1657,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Halder",
+        "Coordinate": [
+            885,
+            523,
+            1653,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-02-1987",
+        "Coordinate": [
+            883,
+            619,
+            1409,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            879,
+            717,
+            1571,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            816,
+            1306,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            818,
+            2091,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            922,
+            2191,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            914,
+            927,
+            1064,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Agarwal LLC",
+        "Coordinate": [
+            945,
+            1029,
+            2152,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Grover Group",
+        "Coordinate": [
+            931,
+            1141,
+            2200,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/12, Raman Nagar, Bilaspur-250796",
+        "Coordinate": [
+            861,
+            1280,
+            2123,
+            1528
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/00, Mangal Zila, Alwar-246073",
+        "Coordinate": [
+            859,
+            1548,
+            2175,
+            1788
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9424939788",
+        "Coordinate": [
+            1715,
+            1841,
+            2317,
+            1935
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8985129186",
+        "Coordinate": [
+            874,
+            1792,
+            1346,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Kannada, Bengali",
+        "Coordinate": [
+            873,
+            1928,
+            2268,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omkaar Koshy - 8120862707",
+        "Coordinate": [
+            901,
+            2043,
+            2244,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekansh Pandya - 7072495341",
+        "Coordinate": [
+            898,
+            2181,
+            2303,
+            2318
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EEOXH5145N",
+        "Coordinate": [
+            1615,
+            2373,
+            2303,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            583,
+            2454,
+            1100,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/26/2022",
+        "Coordinate": [
+            580,
+            2553,
+            1212,
+            2658
+        ]
+    }
+]

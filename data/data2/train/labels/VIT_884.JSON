@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Unnati Boase",
+        "Coordinate": [
+            899,
+            442,
+            1375,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wriddhish Boase",
+        "Coordinate": [
+            917,
+            537,
+            1532,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1974",
+        "Coordinate": [
+            896,
+            641,
+            1252,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            904,
+            729,
+            1444,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            923,
+            838,
+            1157,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1747,
+            843,
+            2010,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            942,
+            2087,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            904,
+            945,
+            1050,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Seth Group",
+        "Coordinate": [
+            987,
+            1046,
+            1774,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bakshi-Sagar",
+        "Coordinate": [
+            1016,
+            1157,
+            1920,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "13/689, Bawa, Karimnagar-416984",
+        "Coordinate": [
+            907,
+            1282,
+            2161,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33, Prabhu Chowk, Guwahati-535777",
+        "Coordinate": [
+            929,
+            1545,
+            2332,
+            1702
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8939570177",
+        "Coordinate": [
+            891,
+            1818,
+            1340,
+            1915
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9447670744",
+        "Coordinate": [
+            1875,
+            1814,
+            2323,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Tamil",
+        "Coordinate": [
+            899,
+            1949,
+            1592,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janaki Devi - 8578763581",
+        "Coordinate": [
+            1005,
+            2066,
+            1907,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harinakshi Tiwari - 9849603145",
+        "Coordinate": [
+            987,
+            2183,
+            2202,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "849350000000",
+        "Coordinate": [
+            588,
+            2395,
+            1098,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            586,
+            2488,
+            1332,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/26/2023",
+        "Coordinate": [
+            625,
+            2589,
+            1026,
+            2667
+        ]
+    }
+]

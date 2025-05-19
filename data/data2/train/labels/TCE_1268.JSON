@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Gupta",
+        "Coordinate": [
+            928,
+            470,
+            1314,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Gupta",
+        "Coordinate": [
+            918,
+            567,
+            1463,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/22/1960",
+        "Coordinate": [
+            903,
+            653,
+            1233,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            921,
+            755,
+            1220,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            849,
+            1257,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1765,
+            844,
+            2005,
+            933
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            980,
+            945,
+            1086,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            943,
+            2082,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sane-Chaudhary",
+        "Coordinate": [
+            1002,
+            1042,
+            1985,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Karan  Chokshi and Brahmbhatt",
+        "Coordinate": [
+            1015,
+            1146,
+            2290,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23, Singh Marg, Sasaram 135221",
+        "Coordinate": [
+            921,
+            1292,
+            2102,
+            1438
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 890, Kalita, Guna 993330",
+        "Coordinate": [
+            923,
+            1515,
+            2027,
+            1624
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9561201037",
+        "Coordinate": [
+            918,
+            1775,
+            1342,
+            1866
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9812195552",
+        "Coordinate": [
+            1864,
+            1753,
+            2282,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Bengali, Malayalam",
+        "Coordinate": [
+            931,
+            1899,
+            2126,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raghav Varty - 7554034334",
+        "Coordinate": [
+            980,
+            2008,
+            1985,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pahal Bail - 8857973850",
+        "Coordinate": [
+            1002,
+            2136,
+            2050,
+            2240
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            661,
+            2416,
+            1064,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/20/2023",
+        "Coordinate": [
+            651,
+            2505,
+            1054,
+            2594
+        ]
+    }
+]

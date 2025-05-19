@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gauri Date",
+        "Coordinate": [
+            897,
+            390,
+            1234,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Date",
+        "Coordinate": [
+            906,
+            488,
+            1320,
+            582
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-03-1981",
+        "Coordinate": [
+            912,
+            592,
+            1210,
+            679
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            912,
+            692,
+            1050,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            922,
+            794,
+            1108,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1764,
+            780,
+            1979,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            882,
+            2036,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            921,
+            896,
+            1037,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Karpe Ltd",
+        "Coordinate": [
+            965,
+            985,
+            1674,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sant  Krishna and Tripathi",
+        "Coordinate": [
+            976,
+            1096,
+            2023,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 95, Vala, Guwahati 578870",
+        "Coordinate": [
+            879,
+            1228,
+            1996,
+            1354
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 23, Ratti Circle, Pali-382097",
+        "Coordinate": [
+            883,
+            1475,
+            2109,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8479153122",
+        "Coordinate": [
+            1844,
+            1743,
+            2263,
+            1846
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9234219775",
+        "Coordinate": [
+            877,
+            1754,
+            1283,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada",
+        "Coordinate": [
+            894,
+            1890,
+            1491,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lajita Brahmbhatt - 8487373217",
+        "Coordinate": [
+            937,
+            1996,
+            2068,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Triya Talwar - 7540429001",
+        "Coordinate": [
+            967,
+            2126,
+            1916,
+            2230
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "509000000000.0",
+        "Coordinate": [
+            603,
+            2328,
+            1128,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            613,
+            2419,
+            943,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-05-2024",
+        "Coordinate": [
+            614,
+            2511,
+            1032,
+            2603
+        ]
+    }
+]

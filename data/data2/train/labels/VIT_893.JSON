@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lavanya Nayar",
+        "Coordinate": [
+            880,
+            450,
+            1440,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Nayar",
+        "Coordinate": [
+            871,
+            575,
+            1368,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/6/1966",
+        "Coordinate": [
+            876,
+            663,
+            1202,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            883,
+            759,
+            997,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            865,
+            1150,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1807,
+            847,
+            2041,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            883,
+            970,
+            990,
+            1044
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            948,
+            2088,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chopra Ltd",
+        "Coordinate": [
+            979,
+            1055,
+            1821,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Rai-Garde",
+        "Coordinate": [
+            986,
+            1177,
+            1841,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 289, Kumar Ganj, Katihar 092053",
+        "Coordinate": [
+            889,
+            1320,
+            2220,
+            1439
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 456, Sandhu Circle, Khora -019233",
+        "Coordinate": [
+            890,
+            1547,
+            2223,
+            1671
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7991552171",
+        "Coordinate": [
+            889,
+            1844,
+            1240,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9742977351",
+        "Coordinate": [
+            1879,
+            1814,
+            2286,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            896,
+            1962,
+            1435,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Diya Deol - 9221500353",
+        "Coordinate": [
+            952,
+            2063,
+            1709,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Akshay Magar - 9007159037",
+        "Coordinate": [
+            952,
+            2196,
+            1924,
+            2299
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "316999000000",
+        "Coordinate": [
+            596,
+            2411,
+            1146,
+            2492
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            568,
+            2499,
+            890,
+            2580
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/14/2023",
+        "Coordinate": [
+            595,
+            2589,
+            954,
+            2672
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarna Bawa",
+        "Coordinate": [
+            904,
+            484,
+            1362,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aditya Bawa",
+        "Coordinate": [
+            900,
+            570,
+            1384,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/26/1976",
+        "Coordinate": [
+            916,
+            676,
+            1306,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            912,
+            768,
+            1458,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            877,
+            1200,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            865,
+            2046,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            957,
+            2132,
+            1055
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            914,
+            954,
+            1038,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Boase-Manne",
+        "Coordinate": [
+            1008,
+            1052,
+            2014,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Saraf Ltd",
+        "Coordinate": [
+            1012,
+            1190,
+            1926,
+            1281
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "59/00, Sawhney Ganj, Hosur 146391",
+        "Coordinate": [
+            920,
+            1274,
+            2250,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42, Sinha Ganj, Amroha 231470",
+        "Coordinate": [
+            912,
+            1518,
+            2088,
+            1607
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8531246777",
+        "Coordinate": [
+            910,
+            1804,
+            1334,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9694198351",
+        "Coordinate": [
+            1844,
+            1784,
+            2250,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Telugu",
+        "Coordinate": [
+            912,
+            1918,
+            1794,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Madhav Ramesh - 8409495569",
+        "Coordinate": [
+            984,
+            2028,
+            2030,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kamala Ray - 9770878210",
+        "Coordinate": [
+            972,
+            2156,
+            2018,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            630,
+            2418,
+            1104,
+            2523
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/23/2025",
+        "Coordinate": [
+            632,
+            2522,
+            1090,
+            2585
+        ]
+    }
+]

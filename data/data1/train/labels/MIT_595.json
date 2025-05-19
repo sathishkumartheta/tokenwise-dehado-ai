@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gautami Narula",
+        "Coordinate": [
+            882,
+            431,
+            1440,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Quincy Narula",
+        "Coordinate": [
+            880,
+            525,
+            1346,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/13/1970",
+        "Coordinate": [
+            893,
+            632,
+            1229,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            903,
+            734,
+            1207,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            832,
+            1116,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1853,
+            829,
+            2101,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            938,
+            2128,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            918,
+            938,
+            1037,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Konda  Gaba and Deol",
+        "Coordinate": [
+            966,
+            1038,
+            2213,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bava  Nair and Thakur",
+        "Coordinate": [
+            959,
+            1143,
+            2251,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "74/354, Mohan Nagar, Machilipatnam-539501",
+        "Coordinate": [
+            902,
+            1267,
+            2298,
+            1471
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 25, Toor Path, Bokaro 788826",
+        "Coordinate": [
+            914,
+            1565,
+            2263,
+            1725
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9876235637",
+        "Coordinate": [
+            1863,
+            1805,
+            2307,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9839071839",
+        "Coordinate": [
+            910,
+            1800,
+            1343,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, Tamil, English",
+        "Coordinate": [
+            888,
+            1937,
+            2164,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Timothy Butala - 7000007992",
+        "Coordinate": [
+            925,
+            2045,
+            2013,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anya Wali - 9842126422",
+        "Coordinate": [
+            962,
+            2178,
+            1915,
+            2293
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "304000000000.0",
+        "Coordinate": [
+            593,
+            2387,
+            1112,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            593,
+            2479,
+            851,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2023",
+        "Coordinate": [
+            601,
+            2571,
+            990,
+            2660
+        ]
+    }
+]

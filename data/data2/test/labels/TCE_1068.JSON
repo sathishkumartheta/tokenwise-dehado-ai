@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "David Aggarwal",
+        "Coordinate": [
+            898,
+            464,
+            1840,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bachittar Aggarwal",
+        "Coordinate": [
+            938,
+            588,
+            2042,
+            699
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/8/1975",
+        "Coordinate": [
+            952,
+            690,
+            1476,
+            767
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            926,
+            774,
+            1492,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            860,
+            1328,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            944,
+            982,
+            1134,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kalla Inc",
+        "Coordinate": [
+            1012,
+            1070,
+            2172,
+            1169
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Atwal  Mand and Amble",
+        "Coordinate": [
+            968,
+            1186,
+            2438,
+            1275
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65, More Circle, Aligarh 056502",
+        "Coordinate": [
+            950,
+            1288,
+            2380,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/90, Nair, Asansol 990463",
+        "Coordinate": [
+            914,
+            1516,
+            2112,
+            1719
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9591778210",
+        "Coordinate": [
+            942,
+            1774,
+            1358,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9771636512",
+        "Coordinate": [
+            1472,
+            1830,
+            2066,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            920,
+            1930,
+            1898,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekansh Choudhury - 7025176522",
+        "Coordinate": [
+            946,
+            2028,
+            2302,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Osha Loke - 9952593543",
+        "Coordinate": [
+            950,
+            2162,
+            2122,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            630,
+            2438,
+            1146,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2022",
+        "Coordinate": [
+            654,
+            2542,
+            1264,
+            2605
+        ]
+    }
+]

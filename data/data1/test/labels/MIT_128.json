@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wazir Vohra",
+        "Coordinate": [
+            862,
+            430,
+            1331,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Vohra",
+        "Coordinate": [
+            870,
+            527,
+            1380,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/28/1963",
+        "Coordinate": [
+            872,
+            631,
+            1276,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            864,
+            727,
+            1502,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            860,
+            833,
+            1233,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1733,
+            827,
+            1934,
+            914
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            936,
+            2115,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            877,
+            942,
+            991,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Prashad  Chakrabarti and Ahuja",
+        "Coordinate": [
+            953,
+            1027,
+            2331,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mahajan-Sachdeva",
+        "Coordinate": [
+            949,
+            1145,
+            2286,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "92/326, Swaminathan Road, Barasat-787300",
+        "Coordinate": [
+            899,
+            1260,
+            2349,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Sahni Road, Pallavaram-014719",
+        "Coordinate": [
+            920,
+            1519,
+            2327,
+            1717
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9250721664",
+        "Coordinate": [
+            1849,
+            1801,
+            2307,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7543587795",
+        "Coordinate": [
+            882,
+            1798,
+            1365,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            872,
+            1938,
+            1517,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasana Sarin - 7851387961",
+        "Coordinate": [
+            951,
+            2039,
+            2164,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vamakshi Dar - 7616027024",
+        "Coordinate": [
+            960,
+            2180,
+            2273,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "994000000000.0",
+        "Coordinate": [
+            583,
+            2381,
+            1216,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            563,
+            2477,
+            840,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-06-2022",
+        "Coordinate": [
+            591,
+            2569,
+            1086,
+            2661
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Frado Pathak",
+        "Coordinate": [
+            894,
+            437,
+            1420,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jacob Pathak",
+        "Coordinate": [
+            926,
+            547,
+            1462,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/1971",
+        "Coordinate": [
+            930,
+            646,
+            1356,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            951,
+            745,
+            1144,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            844,
+            1292,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1837,
+            815,
+            2046,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1873,
+            921,
+            2214,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            958,
+            943,
+            1099,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Hegde Ltd",
+        "Coordinate": [
+            1000,
+            1034,
+            1922,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Bose  Ram and Virk",
+        "Coordinate": [
+            1028,
+            1136,
+            2296,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "603, Chadha Circle, Sambalpur 907894",
+        "Coordinate": [
+            919,
+            1272,
+            2312,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "20, Bajaj Nagar, Bikaner-410707",
+        "Coordinate": [
+            903,
+            1518,
+            2194,
+            1679
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7615094331",
+        "Coordinate": [
+            1907,
+            1781,
+            2370,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7615793116",
+        "Coordinate": [
+            912,
+            1792,
+            1388,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Kannada",
+        "Coordinate": [
+            928,
+            1930,
+            2043,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Radha Khurana - 8897579391",
+        "Coordinate": [
+            986,
+            2035,
+            2194,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janya Bala - 8620056940",
+        "Coordinate": [
+            1007,
+            2167,
+            2092,
+            2273
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "412000000000.0",
+        "Coordinate": [
+            648,
+            2383,
+            1308,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            629,
+            2481,
+            972,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/25/2025",
+        "Coordinate": [
+            642,
+            2567,
+            1113,
+            2662
+        ]
+    }
+]

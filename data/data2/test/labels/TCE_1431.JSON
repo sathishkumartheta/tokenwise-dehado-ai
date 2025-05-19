@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samar Boase",
+        "Coordinate": [
+            894,
+            491,
+            1393,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanay Boase",
+        "Coordinate": [
+            914,
+            576,
+            1297,
+            670
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            861,
+            1205,
+            950
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/11/1990",
+        "Coordinate": [
+            909,
+            662,
+            1213,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            889,
+            762,
+            1217,
+            838
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            934,
+            957,
+            1065,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            847,
+            2025,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            937,
+            2041,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sule  Chahal and Ray",
+        "Coordinate": [
+            954,
+            1042,
+            2049,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bora-Venkataraman",
+        "Coordinate": [
+            964,
+            1157,
+            2037,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "04, Chahal, Dharmavaram 632280",
+        "Coordinate": [
+            869,
+            1273,
+            2104,
+            1387
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "80/13, Sunder Road, Kalyan-Dombivli-738667",
+        "Coordinate": [
+            874,
+            1503,
+            2193,
+            1744
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9191252465",
+        "Coordinate": [
+            1549,
+            1809,
+            1917,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7091143684",
+        "Coordinate": [
+            869,
+            1789,
+            1277,
+            1876
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            889,
+            1919,
+            1437,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekansh Sankar - 7658941299",
+        "Coordinate": [
+            939,
+            2004,
+            1949,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shaurya Sawhney - 9727490914",
+        "Coordinate": [
+            944,
+            2114,
+            2129,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            585,
+            2404,
+            945,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/10/2023",
+        "Coordinate": [
+            650,
+            2510,
+            1061,
+            2590
+        ]
+    }
+]

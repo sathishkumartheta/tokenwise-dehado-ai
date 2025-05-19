@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kevin Deol",
+        "Coordinate": [
+            898,
+            400,
+            1279,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Deol",
+        "Coordinate": [
+            917,
+            507,
+            1353,
+            599
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-07-2000",
+        "Coordinate": [
+            929,
+            605,
+            1253,
+            688
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            930,
+            702,
+            1103,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            925,
+            805,
+            1144,
+            906
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            790,
+            1944,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            894,
+            2051,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            961,
+            907,
+            1086,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Nair-Bhandari",
+        "Coordinate": [
+            1001,
+            986,
+            1802,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Anne  Parekh and Kanda",
+        "Coordinate": [
+            1006,
+            1109,
+            2120,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 08, Cherian, Bardhaman 735439",
+        "Coordinate": [
+            965,
+            1255,
+            2281,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36, Divan Path, Tiruchirappalli-272239",
+        "Coordinate": [
+            974,
+            1478,
+            2304,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9751385374",
+        "Coordinate": [
+            1891,
+            1751,
+            2282,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7819222593",
+        "Coordinate": [
+            890,
+            1754,
+            1315,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Telugu, Kannada",
+        "Coordinate": [
+            931,
+            1888,
+            1960,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Manda - 9849605960",
+        "Coordinate": [
+            987,
+            2011,
+            1911,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayita Gaba - 9687043048",
+        "Coordinate": [
+            979,
+            2137,
+            1909,
+            2259
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "333000000000.0",
+        "Coordinate": [
+            639,
+            2333,
+            1129,
+            2424
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EWFRC0648Z",
+        "Coordinate": [
+            1665,
+            2340,
+            2130,
+            2452
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            684,
+            2426,
+            883,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-03-2025",
+        "Coordinate": [
+            679,
+            2519,
+            1084,
+            2610
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chavvi Rege",
+        "Coordinate": [
+            880,
+            436,
+            1423,
+            533
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rushil Rege",
+        "Coordinate": [
+            875,
+            540,
+            1361,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/14/1992",
+        "Coordinate": [
+            876,
+            638,
+            1238,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            878,
+            740,
+            1044,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            869,
+            846,
+            1093,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1737,
+            833,
+            1995,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            943,
+            2059,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            870,
+            948,
+            1000,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Pandey-Divan",
+        "Coordinate": [
+            951,
+            1042,
+            2046,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Acharya-Sarma",
+        "Coordinate": [
+            943,
+            1157,
+            2109,
+            1276
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97, Sarna Zila, Kakinada 064272",
+        "Coordinate": [
+            883,
+            1307,
+            2308,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "881, Ray Chowk, Sikar 270254",
+        "Coordinate": [
+            886,
+            1566,
+            2327,
+            1715
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9070904627",
+        "Coordinate": [
+            1860,
+            1802,
+            2347,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7674357751",
+        "Coordinate": [
+            881,
+            1814,
+            1358,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English, Tamil",
+        "Coordinate": [
+            879,
+            1951,
+            1752,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekbal Randhawa - 7735072272",
+        "Coordinate": [
+            948,
+            2062,
+            2269,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekalinga Nagar - 9948941217",
+        "Coordinate": [
+            949,
+            2187,
+            2233,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QFAYL9094P",
+        "Coordinate": [
+            1624,
+            2391,
+            2228,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            599,
+            2488,
+            856,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/14/2023",
+        "Coordinate": [
+            577,
+            2583,
+            1028,
+            2672
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harita Khanna",
+        "Coordinate": [
+            913,
+            419,
+            1523,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatresh Khanna",
+        "Coordinate": [
+            903,
+            527,
+            1551,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-01-1976",
+        "Coordinate": [
+            936,
+            634,
+            1261,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            960,
+            731,
+            1327,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            953,
+            830,
+            1189,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1816,
+            795,
+            2084,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            909,
+            2120,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1061,
+            932,
+            1177,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Deo-Sinha",
+        "Coordinate": [
+            1008,
+            1024,
+            1898,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Prabhakar-Sathe",
+        "Coordinate": [
+            1017,
+            1136,
+            2053,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "991, Narula Zila, Gudivada-443183",
+        "Coordinate": [
+            904,
+            1292,
+            2274,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95, Chad Ganj, Sangli-Miraj & Kupwad 711506",
+        "Coordinate": [
+            903,
+            1543,
+            2325,
+            1720
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8840848683",
+        "Coordinate": [
+            1883,
+            1802,
+            2331,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8075996671",
+        "Coordinate": [
+            924,
+            1794,
+            1402,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Telugu, Kannada",
+        "Coordinate": [
+            943,
+            1923,
+            2248,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishwar Sibal - 7198959315",
+        "Coordinate": [
+            995,
+            2053,
+            2055,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi Nori - 7934354155",
+        "Coordinate": [
+            1008,
+            2178,
+            2081,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "652000000000.0",
+        "Coordinate": [
+            665,
+            2370,
+            1304,
+            2481
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UIYMC1137D",
+        "Coordinate": [
+            1719,
+            2345,
+            2242,
+            2460
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            699,
+            2469,
+            989,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/18/2025",
+        "Coordinate": [
+            712,
+            2555,
+            1277,
+            2670
+        ]
+    }
+]

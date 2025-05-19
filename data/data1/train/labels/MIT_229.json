@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charles Sandal",
+        "Coordinate": [
+            899,
+            392,
+            1550,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balvan Sandal",
+        "Coordinate": [
+            907,
+            496,
+            1533,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/20/1984",
+        "Coordinate": [
+            914,
+            595,
+            1373,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            906,
+            691,
+            1238,
+            785
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            797,
+            1230,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1820,
+            789,
+            2025,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1925,
+            896,
+            2215,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            936,
+            903,
+            1066,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Arya and Sons",
+        "Coordinate": [
+            973,
+            980,
+            2022,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dara  Ganesan and Hora",
+        "Coordinate": [
+            957,
+            1108,
+            2303,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 672, Sur Circle, Motihari-604164",
+        "Coordinate": [
+            911,
+            1270,
+            1849,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59/22, Virk Road, Srikakulam 894773",
+        "Coordinate": [
+            899,
+            1501,
+            2030,
+            1722
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7847982198",
+        "Coordinate": [
+            1856,
+            1756,
+            2312,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8431721739",
+        "Coordinate": [
+            893,
+            1762,
+            1334,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, English, Tamil",
+        "Coordinate": [
+            896,
+            1891,
+            2289,
+            2008
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Gala - 8911365893",
+        "Coordinate": [
+            940,
+            2003,
+            2101,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Advaith Nadkarni - 8534265869",
+        "Coordinate": [
+            952,
+            2124,
+            2148,
+            2229
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "KXZKA2008B",
+        "Coordinate": [
+            1625,
+            2338,
+            2196,
+            2429
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            597,
+            2421,
+            824,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-11-2022",
+        "Coordinate": [
+            598,
+            2516,
+            1016,
+            2605
+        ]
+    }
+]

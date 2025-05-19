@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarush Prashad",
+        "Coordinate": [
+            939,
+            394,
+            1476,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Prashad",
+        "Coordinate": [
+            934,
+            496,
+            1439,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1992",
+        "Coordinate": [
+            953,
+            592,
+            1339,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            957,
+            688,
+            1234,
+            771
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            794,
+            1233,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            788,
+            1990,
+            864
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            896,
+            2102,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            940,
+            897,
+            1051,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Nazareth-Sanghvi",
+        "Coordinate": [
+            990,
+            987,
+            1970,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Prabhakar-Oza",
+        "Coordinate": [
+            1000,
+            1107,
+            2022,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 66, Bhandari, Bathinda 076209",
+        "Coordinate": [
+            904,
+            1246,
+            2220,
+            1370
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35/797, Sachdev Circle, Delhi 050573",
+        "Coordinate": [
+            913,
+            1484,
+            2249,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7702723717",
+        "Coordinate": [
+            1894,
+            1748,
+            2295,
+            1825
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8240678768",
+        "Coordinate": [
+            904,
+            1751,
+            1292,
+            1847
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Tamil",
+        "Coordinate": [
+            921,
+            1891,
+            1800,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mugdha Bumb - 7113266616",
+        "Coordinate": [
+            965,
+            1999,
+            1886,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Priya Soni - 9699244386",
+        "Coordinate": [
+            973,
+            2121,
+            1821,
+            2210
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HRPNG6692B",
+        "Coordinate": [
+            1655,
+            2333,
+            2088,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            637,
+            2423,
+            866,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-02-2025",
+        "Coordinate": [
+            617,
+            2515,
+            996,
+            2592
+        ]
+    }
+]

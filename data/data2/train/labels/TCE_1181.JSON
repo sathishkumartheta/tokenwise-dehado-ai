@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Shan",
+        "Coordinate": [
+            918,
+            454,
+            1369,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandresh Shan",
+        "Coordinate": [
+            912,
+            550,
+            1591,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/7/2006",
+        "Coordinate": [
+            899,
+            641,
+            1326,
+            766
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            955,
+            762,
+            1303,
+            862
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            990,
+            850,
+            1226,
+            969
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            834,
+            2089,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1002,
+            959,
+            1152,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1819,
+            936,
+            2143,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Devan-Sharma",
+        "Coordinate": [
+            1024,
+            1041,
+            2067,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Doctor-Mahajan",
+        "Coordinate": [
+            1002,
+            1150,
+            2182,
+            1295
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06/300, Wali Chowk, Dhule-891787",
+        "Coordinate": [
+            942,
+            1338,
+            2299,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39, Borde Street, Ambala-816269",
+        "Coordinate": [
+            928,
+            1525,
+            2280,
+            1665
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7855665926",
+        "Coordinate": [
+            924,
+            1784,
+            1371,
+            1892
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9599286873",
+        "Coordinate": [
+            1849,
+            1769,
+            2274,
+            1894
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, English",
+        "Coordinate": [
+            922,
+            1903,
+            2192,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raksha Kannan - 8773344123",
+        "Coordinate": [
+            975,
+            2003,
+            2221,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jackson Bava - 8801745414",
+        "Coordinate": [
+            979,
+            2145,
+            2128,
+            2260
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "962234000000",
+        "Coordinate": [
+            674,
+            2332,
+            1283,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            669,
+            2426,
+            1139,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/23/2022",
+        "Coordinate": [
+            674,
+            2516,
+            1199,
+            2629
+        ]
+    }
+]

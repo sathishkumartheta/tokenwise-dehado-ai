@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Benjamin Dani",
+        "Coordinate": [
+            914,
+            829,
+            1414,
+            923
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Dani",
+        "Coordinate": [
+            931,
+            939,
+            1317,
+            1008
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/22/1961",
+        "Coordinate": [
+            914,
+            1034,
+            1300,
+            1113
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            919,
+            1114,
+            1190,
+            1208
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            970,
+            1219,
+            1180,
+            1318
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1734,
+            1195,
+            1878,
+            1274
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            966,
+            1314,
+            1141,
+            1382
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            1295,
+            2029,
+            1384
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Badami-Cheema",
+        "Coordinate": [
+            997,
+            1393,
+            1822,
+            1489
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Badami  Nazareth and Vyas",
+        "Coordinate": [
+            1000,
+            1488,
+            2207,
+            1613
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "67/92, Gopal Marg, Sonipat-576150",
+        "Coordinate": [
+            934,
+            1636,
+            2019,
+            1777
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 98, Wason Road, Hazaribagh-186830",
+        "Coordinate": [
+            919,
+            1902,
+            2188,
+            2065
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7479262693",
+        "Coordinate": [
+            936,
+            2137,
+            1241,
+            2218
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7943233767",
+        "Coordinate": [
+            1846,
+            2115,
+            2183,
+            2191
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati",
+        "Coordinate": [
+            922,
+            2254,
+            1439,
+            2370
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samarth Mammen - 7485129913",
+        "Coordinate": [
+            966,
+            2361,
+            1871,
+            2450
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Naveen Tandon - 7490219369",
+        "Coordinate": [
+            978,
+            2483,
+            1888,
+            2589
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            634,
+            2766,
+            919,
+            2843
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/18/2024",
+        "Coordinate": [
+            668,
+            2856,
+            1022,
+            2931
+        ]
+    }
+]

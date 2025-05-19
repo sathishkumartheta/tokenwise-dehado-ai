@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanmayi Narula",
+        "Coordinate": [
+            932,
+            470,
+            1614,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Narula",
+        "Coordinate": [
+            924,
+            582,
+            1626,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/9/1995",
+        "Coordinate": [
+            962,
+            660,
+            1472,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1000,
+            758,
+            1198,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            838,
+            1316,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1843,
+            836,
+            2206,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1002,
+            951,
+            1232,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1882,
+            964,
+            2148,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Tata  Goel and Loyal",
+        "Coordinate": [
+            1048,
+            1054,
+            2324,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Mital-Ramachandran",
+        "Coordinate": [
+            1026,
+            1150,
+            2374,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "842, Gera Nagar, Farrukhabad-909811",
+        "Coordinate": [
+            926,
+            1288,
+            2292,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 215, Devi Zila, Vijayawada-684054",
+        "Coordinate": [
+            920,
+            1524,
+            2298,
+            1691
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8105109235",
+        "Coordinate": [
+            894,
+            1774,
+            1354,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9484360340",
+        "Coordinate": [
+            1840,
+            1765,
+            2378,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Marathi, Telugu",
+        "Coordinate": [
+            899,
+            1912,
+            2310,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lipika Narula - 9843077866",
+        "Coordinate": [
+            998,
+            2014,
+            2258,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Victor Suresh - 7702090647",
+        "Coordinate": [
+            1074,
+            2154,
+            2302,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            626,
+            2420,
+            1032,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/4/2025",
+        "Coordinate": [
+            634,
+            2524,
+            1014,
+            2599
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chatura Dar",
+        "Coordinate": [
+            898,
+            414,
+            1270,
+            506
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Dar",
+        "Coordinate": [
+            906,
+            524,
+            1334,
+            594
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/6/1977",
+        "Coordinate": [
+            906,
+            616,
+            1262,
+            702
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            899,
+            722,
+            1044,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            890,
+            814,
+            1104,
+            900
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            902,
+            920,
+            1012,
+            994
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1798,
+            804,
+            2000,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            912,
+            2064,
+            992
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Natarajan  De and Bumb",
+        "Coordinate": [
+            956,
+            1010,
+            2158,
+            1102
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Som  Chokshi and Raghavan",
+        "Coordinate": [
+            977,
+            1130,
+            2270,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "641, Saha Chowk, Jehanabad 059483",
+        "Coordinate": [
+            908,
+            1244,
+            2278,
+            1366
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "01/68, Chhabra Nagar, Mau-609643",
+        "Coordinate": [
+            886,
+            1510,
+            2228,
+            1626
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8744596547",
+        "Coordinate": [
+            896,
+            1784,
+            1310,
+            1866
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Tamil, Kannada",
+        "Coordinate": [
+            904,
+            1928,
+            2062,
+            2024
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7950961349",
+        "Coordinate": [
+            1872,
+            1786,
+            2270,
+            1870
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Januja Hayre - 9800383807",
+        "Coordinate": [
+            972,
+            2036,
+            1958,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Waida Johal - 7984861118",
+        "Coordinate": [
+            968,
+            2162,
+            1938,
+            2262
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SIVXL3691D",
+        "Coordinate": [
+            1654,
+            2378,
+            2092,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            606,
+            2460,
+            854,
+            2546
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/23/2024",
+        "Coordinate": [
+            604,
+            2560,
+            1012,
+            2630
+        ]
+    }
+]

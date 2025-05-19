@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Keya D\u2019Alia",
+        "Coordinate": [
+            899,
+            476,
+            1337,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandresh D\u2019Alia",
+        "Coordinate": [
+            899,
+            587,
+            1509,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/5/2005",
+        "Coordinate": [
+            910,
+            656,
+            1242,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            900,
+            761,
+            1390,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            883,
+            846,
+            1178,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1757,
+            867,
+            2057,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            915,
+            929,
+            1069,
+            1039
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            956,
+            2069,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Rai  Pandey and Mall",
+        "Coordinate": [
+            975,
+            1026,
+            1998,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mand-Zacharia",
+        "Coordinate": [
+            970,
+            1151,
+            1837,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "095, Talwar Street, Orai 072509",
+        "Coordinate": [
+            894,
+            1272,
+            1886,
+            1387
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "30/206, Grewal Circle, Ahmedabad-384528",
+        "Coordinate": [
+            900,
+            1533,
+            2166,
+            1639
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Malayalam, Tamil",
+        "Coordinate": [
+            889,
+            1887,
+            1893,
+            2000
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7589253747",
+        "Coordinate": [
+            895,
+            1762,
+            1342,
+            1880
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8685003085",
+        "Coordinate": [
+            1817,
+            1761,
+            2193,
+            1852
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samuel Krishna - 9758572582",
+        "Coordinate": [
+            922,
+            2011,
+            1849,
+            2112
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            615,
+            2408,
+            913,
+            2492
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yoshita Nadig - 9228212183",
+        "Coordinate": [
+            949,
+            2142,
+            1802,
+            2232
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/23/2024",
+        "Coordinate": [
+            585,
+            2488,
+            950,
+            2608
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gaurav Konda",
+        "Coordinate": [
+            886,
+            438,
+            1314,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ryan Konda",
+        "Coordinate": [
+            884,
+            538,
+            1234,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/23/1997",
+        "Coordinate": [
+            891,
+            640,
+            1196,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            901,
+            735,
+            1192,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            842,
+            1156,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            829,
+            1932,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1845,
+            941,
+            2028,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            907,
+            948,
+            1004,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Dhar-Samra",
+        "Coordinate": [
+            970,
+            1044,
+            1718,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Badal  Gour and Gour",
+        "Coordinate": [
+            969,
+            1151,
+            1993,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75/50, Chawla Marg, Medininagar-670151",
+        "Coordinate": [
+            886,
+            1275,
+            2110,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 393, More Road, Berhampore-972162",
+        "Coordinate": [
+            879,
+            1528,
+            2222,
+            1656
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8961392441",
+        "Coordinate": [
+            1855,
+            1806,
+            2219,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9689108144",
+        "Coordinate": [
+            888,
+            1802,
+            1250,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Bengali",
+        "Coordinate": [
+            890,
+            1948,
+            1472,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rishi Khanna - 9021105257",
+        "Coordinate": [
+            951,
+            2055,
+            1758,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Elijah Dugar - 8665473824",
+        "Coordinate": [
+            948,
+            2185,
+            1784,
+            2299
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "771000000000.0",
+        "Coordinate": [
+            586,
+            2398,
+            998,
+            2475
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YUWBH5962R",
+        "Coordinate": [
+            1645,
+            2388,
+            2035,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            603,
+            2488,
+            804,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-10-2024",
+        "Coordinate": [
+            598,
+            2577,
+            900,
+            2664
+        ]
+    }
+]

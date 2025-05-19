@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Prisha Dey",
+        "Coordinate": [
+            872,
+            392,
+            1228,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naksh Dey",
+        "Coordinate": [
+            872,
+            487,
+            1220,
+            579
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/23/1966",
+        "Coordinate": [
+            883,
+            589,
+            1204,
+            664
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            888,
+            682,
+            1383,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            876,
+            790,
+            1066,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1824,
+            783,
+            2061,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            888,
+            2054,
+            966
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            882,
+            892,
+            961,
+            966
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at D\u2019Alia-Thakkar",
+        "Coordinate": [
+            973,
+            981,
+            1921,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Suresh-Pillay",
+        "Coordinate": [
+            967,
+            1103,
+            1825,
+            1205
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 050, Batta Circle, Aizawl 477447",
+        "Coordinate": [
+            856,
+            1261,
+            2126,
+            1385
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35/247, Merchant Circle, Surendranagar Dudhrej-594973",
+        "Coordinate": [
+            870,
+            1478,
+            2157,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9741194401",
+        "Coordinate": [
+            1878,
+            1748,
+            2289,
+            1822
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9197063639",
+        "Coordinate": [
+            871,
+            1755,
+            1306,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Kannada, Gujarati",
+        "Coordinate": [
+            873,
+            1878,
+            2187,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bimala Jani - 7789241744",
+        "Coordinate": [
+            952,
+            1996,
+            1948,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gauri Kashyap - 7604672139",
+        "Coordinate": [
+            947,
+            2122,
+            2003,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "649000000000.0",
+        "Coordinate": [
+            580,
+            2330,
+            1047,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            586,
+            2421,
+            811,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/29/2022",
+        "Coordinate": [
+            576,
+            2514,
+            961,
+            2594
+        ]
+    }
+]

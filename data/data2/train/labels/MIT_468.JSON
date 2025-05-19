@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Robert Madan",
+        "Coordinate": [
+            910,
+            470,
+            1400,
+            546
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abeer Madan",
+        "Coordinate": [
+            907,
+            578,
+            1382,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/29/1979",
+        "Coordinate": [
+            928,
+            660,
+            1334,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            920,
+            760,
+            1456,
+            824
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            855,
+            1944,
+            938
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            967,
+            865,
+            1218,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            950,
+            963,
+            1088,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            945,
+            2096,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Basak-Shetty",
+        "Coordinate": [
+            995,
+            1060,
+            1902,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Pandya Group",
+        "Coordinate": [
+            1012,
+            1175,
+            1901,
+            1278
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09/57, Krishnamurthy Ganj, Naihati-260294",
+        "Coordinate": [
+            917,
+            1305,
+            1840,
+            1508
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/158, Dey, Saharsa 907342",
+        "Coordinate": [
+            979,
+            1570,
+            2086,
+            1716
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7209700751",
+        "Coordinate": [
+            947,
+            1828,
+            1348,
+            1918
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8836466882",
+        "Coordinate": [
+            1902,
+            1820,
+            2292,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Kannada, Hindi",
+        "Coordinate": [
+            967,
+            1963,
+            1838,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Utkarsh Char - 7550918271",
+        "Coordinate": [
+            1010,
+            2075,
+            1902,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tripti Sinha - 9940724234",
+        "Coordinate": [
+            1005,
+            2200,
+            1952,
+            2290
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MRYYA7337A",
+        "Coordinate": [
+            1680,
+            2400,
+            2216,
+            2494
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            710,
+            2500,
+            1118,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/26/2024",
+        "Coordinate": [
+            742,
+            2595,
+            1120,
+            2672
+        ]
+    }
+]

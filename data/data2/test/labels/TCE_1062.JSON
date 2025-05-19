@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pranit Walla",
+        "Coordinate": [
+            926,
+            466,
+            1344,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Henry Walla",
+        "Coordinate": [
+            900,
+            558,
+            1336,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/22/1995",
+        "Coordinate": [
+            910,
+            674,
+            1324,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            920,
+            760,
+            1248,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            958,
+            862,
+            1200,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            836,
+            1976,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            954,
+            2038,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            932,
+            960,
+            1060,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chacko-Sankar",
+        "Coordinate": [
+            1008,
+            1066,
+            1918,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Murty Group",
+        "Coordinate": [
+            988,
+            1160,
+            1956,
+            1287
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44, Roy Marg, Nangloi Jat 329010",
+        "Coordinate": [
+            916,
+            1334,
+            2202,
+            1475
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Chaudhari Zila, Hajipur-101460",
+        "Coordinate": [
+            919,
+            1576,
+            2216,
+            1763
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7272606088",
+        "Coordinate": [
+            942,
+            1804,
+            1368,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9491356337",
+        "Coordinate": [
+            1810,
+            1776,
+            2308,
+            1881
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Telugu",
+        "Coordinate": [
+            976,
+            1908,
+            2010,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rayaan Prabhakar - 9145667866",
+        "Coordinate": [
+            978,
+            2020,
+            2178,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Geetika Ranganathan - 8574273228",
+        "Coordinate": [
+            958,
+            2144,
+            2266,
+            2275
+        ]
+    }
+]

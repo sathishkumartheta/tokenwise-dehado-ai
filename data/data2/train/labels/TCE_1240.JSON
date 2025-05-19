@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alka Ratta",
+        "Coordinate": [
+            937,
+            474,
+            1288,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Finn Ratta",
+        "Coordinate": [
+            926,
+            597,
+            1269,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/19/1987",
+        "Coordinate": [
+            940,
+            684,
+            1243,
+            767
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            963,
+            777,
+            1242,
+            860
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            963,
+            873,
+            1218,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            983,
+            971,
+            1085,
+            1047
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1826,
+            853,
+            2066,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            961,
+            2096,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Golla  Chanda and Puri",
+        "Coordinate": [
+            1026,
+            1060,
+            2178,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Madan  Singh and Gole",
+        "Coordinate": [
+            1017,
+            1167,
+            2128,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 631, Bir Road, Gudivada 443295",
+        "Coordinate": [
+            952,
+            1301,
+            2280,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "56/864, Ramesh Street, Pallavaram 472731",
+        "Coordinate": [
+            939,
+            1547,
+            2232,
+            1708
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7960938557",
+        "Coordinate": [
+            933,
+            1794,
+            1378,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9798154226",
+        "Coordinate": [
+            1729,
+            1814,
+            2171,
+            1913
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            1010,
+            1920,
+            1749,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Balhaar Saraf - 9684150236",
+        "Coordinate": [
+            1040,
+            2034,
+            2168,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Loke - 9519591095",
+        "Coordinate": [
+            1030,
+            2157,
+            2107,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            673,
+            2424,
+            877,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/5/2025",
+        "Coordinate": [
+            650,
+            2521,
+            979,
+            2614
+        ]
+    }
+]

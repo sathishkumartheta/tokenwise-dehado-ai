@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anika Bhavsar",
+        "Coordinate": [
+            917,
+            468,
+            1447,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Max Bhavsar",
+        "Coordinate": [
+            912,
+            557,
+            1365,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/18/1985",
+        "Coordinate": [
+            905,
+            665,
+            1200,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            912,
+            747,
+            1221,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            841,
+            1213,
+            942
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            910,
+            957,
+            1029,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1697,
+            838,
+            1978,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            944,
+            2050,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Varma Group",
+        "Coordinate": [
+            987,
+            1030,
+            1795,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Gade Group",
+        "Coordinate": [
+            1005,
+            1144,
+            1824,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 67, Kashyap Circle, Farrukhabad-425088",
+        "Coordinate": [
+            896,
+            1279,
+            2217,
+            1476
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "439, Sankaran Marg, Sultan Pur Majra-323724",
+        "Coordinate": [
+            902,
+            1527,
+            2222,
+            1737
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7751458357",
+        "Coordinate": [
+            904,
+            1771,
+            1321,
+            1885
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7223941701",
+        "Coordinate": [
+            1821,
+            1763,
+            2234,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English, Bengali, Kannada",
+        "Coordinate": [
+            897,
+            1903,
+            1941,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Noah Chadha - 9663111175",
+        "Coordinate": [
+            989,
+            2013,
+            1808,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vihaan Devi - 8141695579",
+        "Coordinate": [
+            998,
+            2129,
+            1819,
+            2260
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            614,
+            2398,
+            925,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/6/2023",
+        "Coordinate": [
+            606,
+            2504,
+            997,
+            2578
+        ]
+    }
+]

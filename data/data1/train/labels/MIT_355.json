@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Falak Yadav",
+        "Coordinate": [
+            877,
+            396,
+            1267,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Yadav",
+        "Coordinate": [
+            894,
+            499,
+            1326,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-04-1993",
+        "Coordinate": [
+            898,
+            599,
+            1199,
+            687
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            901,
+            697,
+            1150,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            804,
+            1173,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1747,
+            784,
+            1972,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            901,
+            2039,
+            988
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            918,
+            902,
+            1023,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kumer  Yohannan and Raju",
+        "Coordinate": [
+            942,
+            988,
+            2077,
+            1102
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sandal  Wable and Varkey",
+        "Coordinate": [
+            955,
+            1105,
+            2113,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 57, Deol, Vasai-Virar-724630",
+        "Coordinate": [
+            898,
+            1285,
+            2094,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/423, Kara Circle, Ujjain 391218",
+        "Coordinate": [
+            903,
+            1505,
+            1953,
+            1647
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8686201548",
+        "Coordinate": [
+            1850,
+            1759,
+            2227,
+            1872
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8342359263",
+        "Coordinate": [
+            896,
+            1770,
+            1263,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Marathi",
+        "Coordinate": [
+            902,
+            1896,
+            1683,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Ramanathan - 9991429248",
+        "Coordinate": [
+            931,
+            2011,
+            2054,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shivansh Gera - 8482520959",
+        "Coordinate": [
+            934,
+            2142,
+            1839,
+            2252
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "575000000000.0",
+        "Coordinate": [
+            604,
+            2341,
+            1085,
+            2427
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            611,
+            2434,
+            876,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/13/2022",
+        "Coordinate": [
+            642,
+            2521,
+            1023,
+            2599
+        ]
+    }
+]

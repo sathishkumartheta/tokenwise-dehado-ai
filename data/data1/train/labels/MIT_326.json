@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anya Chandra",
+        "Coordinate": [
+            874,
+            394,
+            1411,
+            483
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanveer Chandra",
+        "Coordinate": [
+            870,
+            492,
+            1585,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/23/1978",
+        "Coordinate": [
+            886,
+            592,
+            1232,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            888,
+            684,
+            1240,
+            767
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            785,
+            1197,
+            868
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1759,
+            783,
+            2002,
+            861
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            885,
+            2116,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            894,
+            891,
+            1003,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bera-Khalsa",
+        "Coordinate": [
+            947,
+            978,
+            1906,
+            1080
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Jayaraman-Krishna",
+        "Coordinate": [
+            931,
+            1086,
+            2176,
+            1198
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81, Sheth Street, Anand 210217",
+        "Coordinate": [
+            898,
+            1213,
+            2058,
+            1333
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/862, Oak, Medininagar-363831",
+        "Coordinate": [
+            896,
+            1469,
+            2205,
+            1592
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7196359741",
+        "Coordinate": [
+            1875,
+            1750,
+            2284,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8102063608",
+        "Coordinate": [
+            892,
+            1752,
+            1319,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Telugu",
+        "Coordinate": [
+            873,
+            1888,
+            1694,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eiravati Rege - 8610688559",
+        "Coordinate": [
+            970,
+            1995,
+            2109,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hamsini Karnik - 7590865666",
+        "Coordinate": [
+            971,
+            2122,
+            2150,
+            2227
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "761000000000.0",
+        "Coordinate": [
+            604,
+            2332,
+            1170,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            600,
+            2420,
+            953,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2025",
+        "Coordinate": [
+            595,
+            2513,
+            1074,
+            2598
+        ]
+    }
+]

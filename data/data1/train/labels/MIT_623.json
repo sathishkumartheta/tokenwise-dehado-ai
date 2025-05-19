@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fitan Keer",
+        "Coordinate": [
+            885,
+            438,
+            1268,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Tanish Keer",
+        "Coordinate": [
+            883,
+            546,
+            1352,
+            642
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/18/1993",
+        "Coordinate": [
+            908,
+            642,
+            1268,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            914,
+            744,
+            1083,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            844,
+            1220,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            829,
+            1974,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            937,
+            2142,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            920,
+            941,
+            1044,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Jhaveri  Suresh and Hayre",
+        "Coordinate": [
+            966,
+            1033,
+            2382,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Hans-Dhillon",
+        "Coordinate": [
+            963,
+            1138,
+            1955,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 436, Sarna Road, Kadapa-664867",
+        "Coordinate": [
+            891,
+            1263,
+            2182,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37, De Zila, Silchar 175529",
+        "Coordinate": [
+            883,
+            1528,
+            2017,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7029455411",
+        "Coordinate": [
+            1849,
+            1802,
+            2304,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7678077116",
+        "Coordinate": [
+            873,
+            1807,
+            1309,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Marathi, Kannada",
+        "Coordinate": [
+            884,
+            1942,
+            2167,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasana Ratta - 7012370038",
+        "Coordinate": [
+            922,
+            2048,
+            2058,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Lad - 9792101239",
+        "Coordinate": [
+            934,
+            2175,
+            2069,
+            2291
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JOHXF5375Q",
+        "Coordinate": [
+            1632,
+            2388,
+            2144,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            596,
+            2480,
+            822,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-06-2023",
+        "Coordinate": [
+            622,
+            2571,
+            1077,
+            2662
+        ]
+    }
+]

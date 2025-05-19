@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Kaul",
+        "Coordinate": [
+            921,
+            480,
+            1334,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Liam Kaul",
+        "Coordinate": [
+            911,
+            571,
+            1407,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/1/1978",
+        "Coordinate": [
+            918,
+            670,
+            1300,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            911,
+            772,
+            1286,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            905,
+            851,
+            1232,
+            949
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            926,
+            949,
+            1144,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1820,
+            840,
+            2141,
+            936
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1833,
+            949,
+            2152,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sidhu-Grover",
+        "Coordinate": [
+            961,
+            1039,
+            2028,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Saha-Issac",
+        "Coordinate": [
+            1008,
+            1142,
+            2083,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 51, Shroff Path, Chandrapur-330434",
+        "Coordinate": [
+            941,
+            1270,
+            1923,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 98, Dhar Circle, Hazaribagh 443373",
+        "Coordinate": [
+            916,
+            1511,
+            2004,
+            1738
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9468681555",
+        "Coordinate": [
+            921,
+            1781,
+            1365,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9398868869",
+        "Coordinate": [
+            1872,
+            1771,
+            2388,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Bengali, Gujarati",
+        "Coordinate": [
+            903,
+            1900,
+            2304,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Apte - 9300739071",
+        "Coordinate": [
+            969,
+            2001,
+            2100,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ansh Karan - 8370399942",
+        "Coordinate": [
+            981,
+            2127,
+            2145,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            652,
+            2420,
+            1130,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/4/2024",
+        "Coordinate": [
+            651,
+            2512,
+            1117,
+            2619
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eta Dua",
+        "Coordinate": [
+            964,
+            472,
+            1386,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Karan Dua",
+        "Coordinate": [
+            935,
+            560,
+            1558,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1997",
+        "Coordinate": [
+            967,
+            662,
+            1479,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            934,
+            750,
+            1372,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            939,
+            845,
+            1307,
+            956
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1727,
+            838,
+            2106,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            975,
+            954,
+            1134,
+            1035
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1809,
+            947,
+            2207,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bansal  Chana and Mitra",
+        "Coordinate": [
+            988,
+            1042,
+            2316,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Ram-Zachariah",
+        "Coordinate": [
+            990,
+            1153,
+            2151,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "915, Ramanathan, Danapur-681403",
+        "Coordinate": [
+            920,
+            1269,
+            1817,
+            1479
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 45, Sama Ganj, Tezpur 263345",
+        "Coordinate": [
+            922,
+            1511,
+            1933,
+            1759
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7344468047",
+        "Coordinate": [
+            926,
+            1787,
+            1389,
+            1903
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8948442006",
+        "Coordinate": [
+            1836,
+            1772,
+            2275,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Gujarati, Malayalam",
+        "Coordinate": [
+            930,
+            1911,
+            2299,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dalbir Toor - 9748489934",
+        "Coordinate": [
+            986,
+            2004,
+            2098,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekbal Som - 7788183155",
+        "Coordinate": [
+            988,
+            2138,
+            2085,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            662,
+            2417,
+            1160,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/27/2025",
+        "Coordinate": [
+            662,
+            2505,
+            1177,
+            2595
+        ]
+    }
+]

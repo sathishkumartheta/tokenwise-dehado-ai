@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aadi Toor",
+        "Coordinate": [
+            900,
+            396,
+            1235,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranveer Toor",
+        "Coordinate": [
+            914,
+            495,
+            1357,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/13/1971",
+        "Coordinate": [
+            916,
+            593,
+            1227,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            911,
+            688,
+            1215,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            788,
+            1112,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1764,
+            782,
+            1929,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            889,
+            2064,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            911,
+            895,
+            1042,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Patla PLC",
+        "Coordinate": [
+            950,
+            984,
+            1742,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Nagi Ltd",
+        "Coordinate": [
+            971,
+            1099,
+            1726,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "878, Mandal Street, Alappuzha 118102",
+        "Coordinate": [
+            903,
+            1214,
+            2228,
+            1339
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "173, Balay Zila, Unnao-053910",
+        "Coordinate": [
+            894,
+            1472,
+            2045,
+            1600
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7805288288",
+        "Coordinate": [
+            1889,
+            1747,
+            2263,
+            1840
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9770812195",
+        "Coordinate": [
+            906,
+            1752,
+            1283,
+            1836
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Gujarati",
+        "Coordinate": [
+            915,
+            1890,
+            1706,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vyanjana Buch - 9509621893",
+        "Coordinate": [
+            959,
+            2001,
+            1986,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darsh Patel - 7250662207",
+        "Coordinate": [
+            959,
+            2130,
+            1844,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "787000000000.0",
+        "Coordinate": [
+            617,
+            2333,
+            1095,
+            2410
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            626,
+            2428,
+            886,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/25/2023",
+        "Coordinate": [
+            615,
+            2519,
+            998,
+            2601
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advaith Gulati",
+        "Coordinate": [
+            887,
+            445,
+            1359,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gopal Gulati",
+        "Coordinate": [
+            874,
+            546,
+            1355,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/21/1989",
+        "Coordinate": [
+            893,
+            652,
+            1214,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            905,
+            750,
+            1184,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            852,
+            1186,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1752,
+            838,
+            1948,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            951,
+            2083,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            920,
+            950,
+            1036,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Ramanathan LLC",
+        "Coordinate": [
+            963,
+            1049,
+            1962,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Gala  Muni and Ghose",
+        "Coordinate": [
+            948,
+            1157,
+            2261,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 741, Sarkar Road, Gopalpur-261353",
+        "Coordinate": [
+            902,
+            1333,
+            2348,
+            1499
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 55, Chadha Marg, Asansol 213841",
+        "Coordinate": [
+            904,
+            1590,
+            2321,
+            1779
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8114073871",
+        "Coordinate": [
+            1873,
+            1814,
+            2302,
+            1924
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9642416726",
+        "Coordinate": [
+            888,
+            1834,
+            1325,
+            1943
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Bengali",
+        "Coordinate": [
+            886,
+            1964,
+            1768,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Bora - 7502935217",
+        "Coordinate": [
+            967,
+            2070,
+            2168,
+            2183
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Indira Mahajan - 8285945075",
+        "Coordinate": [
+            959,
+            2194,
+            2237,
+            2319
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TGJXJ1051O",
+        "Coordinate": [
+            1643,
+            2403,
+            2039,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            604,
+            2495,
+            822,
+            2578
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ijaya D\u2019Alia",
+        "Coordinate": [
+            905,
+            393,
+            1422,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qarin D\u2019Alia",
+        "Coordinate": [
+            904,
+            496,
+            1469,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/29/1967",
+        "Coordinate": [
+            926,
+            594,
+            1346,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            691,
+            1258,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            926,
+            790,
+            1222,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1797,
+            789,
+            2099,
+            873
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            897,
+            2173,
+            985
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            971,
+            905,
+            1128,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Rai-Agarwal",
+        "Coordinate": [
+            965,
+            988,
+            1978,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Bhatia-Wason",
+        "Coordinate": [
+            996,
+            1104,
+            2081,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "55, Venkatesh Street, Aligarh-087524",
+        "Coordinate": [
+            890,
+            1277,
+            2145,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/942, Nagarajan Nagar, Ambala-497374",
+        "Coordinate": [
+            941,
+            1490,
+            2041,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7581465871",
+        "Coordinate": [
+            1585,
+            1810,
+            2054,
+            1888
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7520980200",
+        "Coordinate": [
+            880,
+            1763,
+            1309,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Bengali",
+        "Coordinate": [
+            897,
+            1899,
+            1778,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daniel Nath - 9221239938",
+        "Coordinate": [
+            924,
+            2006,
+            1998,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shivansh Kar - 8724524929",
+        "Coordinate": [
+            965,
+            2134,
+            2266,
+            2257
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "863914000000",
+        "Coordinate": [
+            593,
+            2336,
+            1224,
+            2414
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EVGZT8039I",
+        "Coordinate": [
+            1636,
+            2338,
+            2153,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            635,
+            2424,
+            996,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/4/2024",
+        "Coordinate": [
+            639,
+            2516,
+            1074,
+            2600
+        ]
+    }
+]

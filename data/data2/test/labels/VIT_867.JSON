@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ayush Korpal",
+        "Coordinate": [
+            891,
+            444,
+            1416,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Korpal",
+        "Coordinate": [
+            888,
+            533,
+            1498,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/14/2003",
+        "Coordinate": [
+            900,
+            624,
+            1239,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            886,
+            735,
+            1058,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            905,
+            836,
+            1120,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1794,
+            844,
+            2028,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            950,
+            1029,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            950,
+            2147,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Arora LLC",
+        "Coordinate": [
+            982,
+            1048,
+            1870,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Nath-Sagar",
+        "Coordinate": [
+            1036,
+            1150,
+            1969,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09/694, Dey Zila, Imphal-888990",
+        "Coordinate": [
+            915,
+            1283,
+            2236,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "11/07, Mandal Zila, Kurnool-036808",
+        "Coordinate": [
+            923,
+            1535,
+            2273,
+            1720
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9920406458",
+        "Coordinate": [
+            891,
+            1811,
+            1352,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7154970799",
+        "Coordinate": [
+            1880,
+            1816,
+            2352,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Malayalam, English",
+        "Coordinate": [
+            908,
+            1952,
+            2334,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashasvi Mangat - 8968836499",
+        "Coordinate": [
+            984,
+            2070,
+            2206,
+            2184
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anita Kadakia - 8140540699",
+        "Coordinate": [
+            982,
+            2196,
+            2097,
+            2297
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "836252000000",
+        "Coordinate": [
+            587,
+            2399,
+            1140,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            609,
+            2487,
+            898,
+            2581
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/25/2025",
+        "Coordinate": [
+            589,
+            2591,
+            1034,
+            2675
+        ]
+    }
+]

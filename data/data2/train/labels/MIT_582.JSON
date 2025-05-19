@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Diya Chaudry",
+        "Coordinate": [
+            862,
+            435,
+            1377,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Dev Chaudry",
+        "Coordinate": [
+            907,
+            552,
+            1400,
+            682
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/12/1980",
+        "Coordinate": [
+            887,
+            655,
+            1277,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            920,
+            747,
+            1247,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            847,
+            1192,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            837,
+            2055,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            935,
+            2085,
+            1057
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            930,
+            979,
+            1075,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dhar-Modi",
+        "Coordinate": [
+            969,
+            1065,
+            2002,
+            1172
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sunder  Rout and Kakar",
+        "Coordinate": [
+            957,
+            1167,
+            2297,
+            1280
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 341, Chander Road, Coimbatore 181405",
+        "Coordinate": [
+            895,
+            1312,
+            2290,
+            1540
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "517, Agate, Bijapur 085609",
+        "Coordinate": [
+            917,
+            1570,
+            2112,
+            1700
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8124402222",
+        "Coordinate": [
+            875,
+            1822,
+            1367,
+            1929
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8148136130",
+        "Coordinate": [
+            1762,
+            1880,
+            2247,
+            1965
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Gujarati",
+        "Coordinate": [
+            890,
+            1972,
+            1935,
+            2075
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Champak Raju - 8681256601",
+        "Coordinate": [
+            980,
+            2070,
+            2157,
+            2182
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harish Minhas - 7448310094",
+        "Coordinate": [
+            972,
+            2200,
+            2145,
+            2327
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GLAYL9583X",
+        "Coordinate": [
+            1617,
+            2397,
+            2200,
+            2520
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            597,
+            2490,
+            1027,
+            2592
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/5/2023",
+        "Coordinate": [
+            607,
+            2587,
+            1087,
+            2687
+        ]
+    }
+]

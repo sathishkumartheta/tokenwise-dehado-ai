@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vanya Ben",
+        "Coordinate": [
+            924,
+            462,
+            1294,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udant Ben",
+        "Coordinate": [
+            940,
+            564,
+            1330,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/21/1976",
+        "Coordinate": [
+            944,
+            654,
+            1300,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            936,
+            764,
+            1236,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            856,
+            1290,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1778,
+            844,
+            2076,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            954,
+            944,
+            1148,
+            1025
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            942,
+            2118,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Pillai  Lal and Rau",
+        "Coordinate": [
+            1008,
+            1036,
+            2166,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Parsa and Sons",
+        "Coordinate": [
+            998,
+            1166,
+            1998,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "213, Aggarwal Ganj, Kottayam 892880",
+        "Coordinate": [
+            932,
+            1264,
+            2320,
+            1389
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "55/76, Kamdar, Anand-707991",
+        "Coordinate": [
+            925,
+            1522,
+            2128,
+            1647
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9925950823",
+        "Coordinate": [
+            938,
+            1778,
+            1366,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7512572896",
+        "Coordinate": [
+            1860,
+            1781,
+            2308,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English, Hindi, Marathi",
+        "Coordinate": [
+            942,
+            1902,
+            2082,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Omisha Datta - 7443105697",
+        "Coordinate": [
+            987,
+            2016,
+            2094,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Fiyaz Pal - 7049805347",
+        "Coordinate": [
+            1037,
+            2144,
+            2072,
+            2265
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            670,
+            2436,
+            980,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/17/2024",
+        "Coordinate": [
+            660,
+            2492,
+            1114,
+            2613
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wridesh Nori",
+        "Coordinate": [
+            889,
+            438,
+            1365,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Nori",
+        "Coordinate": [
+            892,
+            535,
+            1355,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-08-1984",
+        "Coordinate": [
+            903,
+            637,
+            1268,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            885,
+            730,
+            1453,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            837,
+            1278,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1838,
+            832,
+            2078,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            944,
+            2110,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            916,
+            942,
+            1051,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Thakur-Bhatia",
+        "Coordinate": [
+            962,
+            1041,
+            1828,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mahal  Vora and Gera",
+        "Coordinate": [
+            973,
+            1148,
+            1906,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "712, Guha Marg, Aizawl 293781",
+        "Coordinate": [
+            886,
+            1301,
+            2084,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72, Kota Chowk, Bhatpara-277674",
+        "Coordinate": [
+            887,
+            1519,
+            2179,
+            1663
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7704442449",
+        "Coordinate": [
+            1842,
+            1812,
+            2240,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9586017620",
+        "Coordinate": [
+            877,
+            1813,
+            1312,
+            1921
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu",
+        "Coordinate": [
+            883,
+            1949,
+            1414,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gautami Toor - 9742327661",
+        "Coordinate": [
+            932,
+            2058,
+            1932,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Brinda Rajan - 8345402304",
+        "Coordinate": [
+            930,
+            2194,
+            1962,
+            2318
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "COPBB5221Z",
+        "Coordinate": [
+            1620,
+            2392,
+            2019,
+            2487
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            581,
+            2483,
+            1117,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2024",
+        "Coordinate": [
+            574,
+            2573,
+            964,
+            2663
+        ]
+    }
+]

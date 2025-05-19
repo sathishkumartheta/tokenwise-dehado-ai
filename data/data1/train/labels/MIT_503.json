@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavani Magar",
+        "Coordinate": [
+            871,
+            395,
+            1554,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Magar",
+        "Coordinate": [
+            877,
+            497,
+            1434,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-02-1963",
+        "Coordinate": [
+            894,
+            592,
+            1273,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            884,
+            689,
+            1297,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            873,
+            795,
+            1269,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            786,
+            2105,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            895,
+            2189,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            886,
+            893,
+            1027,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Ravi-Rajan",
+        "Coordinate": [
+            923,
+            980,
+            2195,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Oak  Borra and Kala",
+        "Coordinate": [
+            949,
+            1090,
+            2179,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "14/83, Mukherjee Chowk, Imphal 803090",
+        "Coordinate": [
+            881,
+            1222,
+            2055,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "56/47, Sur Zila, Jamalpur 019027",
+        "Coordinate": [
+            886,
+            1472,
+            2170,
+            1697
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7060659104",
+        "Coordinate": [
+            1842,
+            1751,
+            2282,
+            1861
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8228179524",
+        "Coordinate": [
+            880,
+            1754,
+            1353,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            866,
+            1898,
+            1656,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nidhi Vyas - 8689024848",
+        "Coordinate": [
+            920,
+            1999,
+            2168,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Veda Chauhan - 9877061979",
+        "Coordinate": [
+            937,
+            2121,
+            2233,
+            2233
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "489000000000.0",
+        "Coordinate": [
+            564,
+            2331,
+            1261,
+            2426
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CYZCH1427S",
+        "Coordinate": [
+            1605,
+            2337,
+            2237,
+            2437
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            580,
+            2429,
+            1016,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-09-2023",
+        "Coordinate": [
+            585,
+            2517,
+            1035,
+            2608
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nandini Butala",
+        "Coordinate": [
+            953,
+            385,
+            1664,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Neel Butala",
+        "Coordinate": [
+            977,
+            487,
+            1605,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/16/1974",
+        "Coordinate": [
+            1012,
+            592,
+            1476,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            1030,
+            685,
+            1477,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            787,
+            1285,
+            874
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1867,
+            788,
+            2166,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1903,
+            896,
+            2217,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1001,
+            887,
+            1179,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Baria-Korpal",
+        "Coordinate": [
+            976,
+            987,
+            2182,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Dubey  Mahal and Bal",
+        "Coordinate": [
+            977,
+            1105,
+            2333,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33/373, Arora Street, Latur-977688",
+        "Coordinate": [
+            1020,
+            1248,
+            2091,
+            1456
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "896, Ram, Bharatpur-655358",
+        "Coordinate": [
+            1048,
+            1531,
+            2331,
+            1666
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7245117435",
+        "Coordinate": [
+            1869,
+            1748,
+            2337,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8908690913",
+        "Coordinate": [
+            933,
+            1760,
+            1372,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            1007,
+            1891,
+            1791,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faraj Desai - 9961933400",
+        "Coordinate": [
+            979,
+            2004,
+            2115,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yatin Yohannan - 9758960182",
+        "Coordinate": [
+            1005,
+            2125,
+            2291,
+            2239
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "811000000000.0",
+        "Coordinate": [
+            629,
+            2331,
+            1258,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            638,
+            2422,
+            986,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/20/2024",
+        "Coordinate": [
+            641,
+            2519,
+            1108,
+            2606
+        ]
+    }
+]

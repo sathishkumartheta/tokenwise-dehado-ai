@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vasana Sami",
+        "Coordinate": [
+            891,
+            462,
+            1363,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qadim Sami",
+        "Coordinate": [
+            896,
+            562,
+            1414,
+            683
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/20/1963",
+        "Coordinate": [
+            900,
+            663,
+            1231,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            748,
+            1207,
+            868
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            846,
+            1199,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1690,
+            850,
+            2016,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            896,
+            959,
+            1087,
+            1048
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1766,
+            965,
+            2092,
+            1068
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dhingra-Sule",
+        "Coordinate": [
+            966,
+            1044,
+            1939,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Tata  Munshi and Kanda",
+        "Coordinate": [
+            974,
+            1148,
+            2224,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "365, Saran Path, Rampur-493001",
+        "Coordinate": [
+            903,
+            1275,
+            2035,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "824, Khanna Nagar, Bhimavaram 283436",
+        "Coordinate": [
+            914,
+            1514,
+            2220,
+            1639
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8248938717",
+        "Coordinate": [
+            865,
+            1782,
+            1315,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9770981786",
+        "Coordinate": [
+            1795,
+            1770,
+            2159,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi",
+        "Coordinate": [
+            875,
+            1910,
+            1515,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charita Pingle - 8441910595",
+        "Coordinate": [
+            943,
+            2019,
+            1852,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Panini Iyer - 7133688654",
+        "Coordinate": [
+            931,
+            2154,
+            1920,
+            2261
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            604,
+            2411,
+            911,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/20/2023",
+        "Coordinate": [
+            635,
+            2513,
+            1059,
+            2618
+        ]
+    }
+]

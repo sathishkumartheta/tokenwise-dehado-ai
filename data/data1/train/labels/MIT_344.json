@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urvashi Dara",
+        "Coordinate": [
+            898,
+            385,
+            1416,
+            474
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Dara",
+        "Coordinate": [
+            902,
+            490,
+            1453,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-02-1985",
+        "Coordinate": [
+            929,
+            589,
+            1265,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            936,
+            684,
+            1319,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            782,
+            1246,
+            871
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1863,
+            781,
+            2174,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            889,
+            2183,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            981,
+            886,
+            1122,
+            964
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Master  Chaudry and Roy",
+        "Coordinate": [
+            980,
+            974,
+            2301,
+            1080
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chaudhary-Dixit",
+        "Coordinate": [
+            999,
+            1090,
+            2050,
+            1190
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 07, Lata Chowk, Muzaffarpur-562389",
+        "Coordinate": [
+            909,
+            1211,
+            2308,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "70/14, Sankar Street, Indore 708782",
+        "Coordinate": [
+            898,
+            1466,
+            2111,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8191647314",
+        "Coordinate": [
+            1878,
+            1740,
+            2284,
+            1828
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7121666743",
+        "Coordinate": [
+            899,
+            1748,
+            1345,
+            1848
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            880,
+            1884,
+            1474,
+            1978
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurav Roy - 7209435040",
+        "Coordinate": [
+            1002,
+            1985,
+            2022,
+            2083
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan Bala - 9185684578",
+        "Coordinate": [
+            997,
+            2109,
+            2047,
+            2205
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "856000000000.0",
+        "Coordinate": [
+            625,
+            2323,
+            1159,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            639,
+            2420,
+            908,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/24/2025",
+        "Coordinate": [
+            670,
+            2509,
+            1128,
+            2594
+        ]
+    }
+]

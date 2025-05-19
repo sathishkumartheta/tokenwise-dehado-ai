@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jonathan Goda",
+        "Coordinate": [
+            894,
+            394,
+            1332,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Benjamin Goda",
+        "Coordinate": [
+            900,
+            495,
+            1358,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/19/1968",
+        "Coordinate": [
+            900,
+            595,
+            1206,
+            685
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            692,
+            1157,
+            795
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            803,
+            1153,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1816,
+            777,
+            1983,
+            859
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            887,
+            2084,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            917,
+            901,
+            1030,
+            983
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Mahal Group",
+        "Coordinate": [
+            1016,
+            982,
+            1762,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Misra Ltd",
+        "Coordinate": [
+            991,
+            1095,
+            1772,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34/20, Sangha Zila, Bihar Sharif-356778",
+        "Coordinate": [
+            895,
+            1237,
+            2305,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 96, Issac Nagar, Adoni-550272",
+        "Coordinate": [
+            891,
+            1471,
+            2228,
+            1627
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9906808741",
+        "Coordinate": [
+            1860,
+            1744,
+            2236,
+            1831
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9855373053",
+        "Coordinate": [
+            894,
+            1747,
+            1311,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Gujarati, Bengali",
+        "Coordinate": [
+            896,
+            1884,
+            2019,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Edhitha Comar - 9159991090",
+        "Coordinate": [
+            950,
+            2004,
+            1871,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adya Verma - 9324038246",
+        "Coordinate": [
+            963,
+            2129,
+            1838,
+            2231
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "351000000000.0",
+        "Coordinate": [
+            595,
+            2328,
+            1067,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            591,
+            2423,
+            866,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-03-2025",
+        "Coordinate": [
+            595,
+            2514,
+            962,
+            2611
+        ]
+    }
+]

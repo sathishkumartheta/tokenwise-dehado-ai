@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemal Brahmbhatt",
+        "Coordinate": [
+            882,
+            428,
+            1792,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samaksh Brahmbhatt",
+        "Coordinate": [
+            892,
+            524,
+            1912,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/9/1999",
+        "Coordinate": [
+            922,
+            630,
+            1348,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            944,
+            736,
+            1194,
+            816
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            892,
+            826,
+            1186,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            896,
+            932,
+            1130,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dewan-Dhingra",
+        "Coordinate": [
+            976,
+            1024,
+            2082,
+            1134
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            818,
+            2068,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1784,
+            932,
+            2142,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dhar LLC",
+        "Coordinate": [
+            958,
+            1134,
+            1834,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 875, Ramakrishnan Chowk, Unnao-572245",
+        "Coordinate": [
+            880,
+            1282,
+            2092,
+            1502
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07, Kalita, Ichalkaranji-833783",
+        "Coordinate": [
+            918,
+            1540,
+            2332,
+            1662
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9567407819",
+        "Coordinate": [
+            904,
+            1828,
+            1340,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Gujarati, Kannada",
+        "Coordinate": [
+            930,
+            1939,
+            2174,
+            2043
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8119088364",
+        "Coordinate": [
+            1858,
+            1802,
+            2312,
+            1924
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Isaiah Pandey - 9902557309",
+        "Coordinate": [
+            968,
+            2050,
+            2086,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lopa Sachdeva - 9390625431",
+        "Coordinate": [
+            970,
+            2180,
+            2140,
+            2302
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "287212000000",
+        "Coordinate": [
+            592,
+            2388,
+            1022,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            568,
+            2476,
+            904,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/16/2025",
+        "Coordinate": [
+            590,
+            2568,
+            1050,
+            2658
+        ]
+    }
+]

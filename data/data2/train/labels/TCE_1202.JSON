@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Akshay Doctor",
+        "Coordinate": [
+            936,
+            471,
+            1428,
+            578
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Doctor",
+        "Coordinate": [
+            943,
+            584,
+            1471,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/21/2000",
+        "Coordinate": [
+            983,
+            664,
+            1372,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            983,
+            757,
+            1140,
+            863
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            957,
+            857,
+            1258,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1749,
+            837,
+            1974,
+            924
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1010,
+            951,
+            1119,
+            1039
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            931,
+            2084,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Desai-Taneja",
+        "Coordinate": [
+            1026,
+            1051,
+            1980,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Arora Inc",
+        "Coordinate": [
+            1053,
+            1150,
+            1932,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52, Soman Zila, Serampore-589884",
+        "Coordinate": [
+            987,
+            1277,
+            2194,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/38, Ramanathan Nagar, Aligarh-579557",
+        "Coordinate": [
+            957,
+            1524,
+            2306,
+            1653
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7074872959",
+        "Coordinate": [
+            917,
+            1784,
+            1330,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9184583910",
+        "Coordinate": [
+            1817,
+            1770,
+            2258,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Malayalam, Tamil",
+        "Coordinate": [
+            983,
+            1907,
+            2119,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dominic Oommen - 8572529972",
+        "Coordinate": [
+            1016,
+            2010,
+            2090,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siya Singh - 8014749829",
+        "Coordinate": [
+            1043,
+            2127,
+            1951,
+            2236
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            677,
+            2417,
+            898,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/23/2024",
+        "Coordinate": [
+            663,
+            2507,
+            1058,
+            2604
+        ]
+    }
+]

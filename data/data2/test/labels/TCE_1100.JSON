@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aahana Sengupta",
+        "Coordinate": [
+            926,
+            492,
+            1618,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Sengupta",
+        "Coordinate": [
+            942,
+            572,
+            1590,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/21/1980",
+        "Coordinate": [
+            938,
+            680,
+            1362,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            946,
+            764,
+            1540,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            950,
+            870,
+            1250,
+            963
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            988,
+            977,
+            1146,
+            1067
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1782,
+            848,
+            2052,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1869,
+            962,
+            2186,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Tak-Deshpande",
+        "Coordinate": [
+            1097,
+            1074,
+            2276,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dara  Nagy and Seshadri",
+        "Coordinate": [
+            1057,
+            1170,
+            2314,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25, Chawla Nagar, Malegaon 043771",
+        "Coordinate": [
+            960,
+            1316,
+            2306,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/48, Dayal Road, Bhiwandi 283056",
+        "Coordinate": [
+            918,
+            1552,
+            2242,
+            1719
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7553473585",
+        "Coordinate": [
+            908,
+            1817,
+            1380,
+            1888
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8546193231",
+        "Coordinate": [
+            1842,
+            1792,
+            2240,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, Marathi, Bengali",
+        "Coordinate": [
+            977,
+            1922,
+            2308,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charan Batta - 8198370471",
+        "Coordinate": [
+            1058,
+            2028,
+            2170,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ansh Som - 9122065935",
+        "Coordinate": [
+            1042,
+            2164,
+            1986,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            666,
+            2444,
+            1006,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/11/2023",
+        "Coordinate": [
+            724,
+            2522,
+            1146,
+            2601
+        ]
+    }
+]

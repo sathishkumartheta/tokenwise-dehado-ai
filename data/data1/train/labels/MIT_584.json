@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wishi Ranganathan",
+        "Coordinate": [
+            883,
+            418,
+            1536,
+            513
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Ranganathan",
+        "Coordinate": [
+            892,
+            511,
+            1521,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/14/1965",
+        "Coordinate": [
+            895,
+            623,
+            1247,
+            709
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            891,
+            721,
+            1290,
+            814
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            889,
+            824,
+            1145,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1861,
+            818,
+            2148,
+            919
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            927,
+            2086,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bansal  Bumb and Bala",
+        "Coordinate": [
+            951,
+            1023,
+            2387,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Ravi  Natarajan and Merchant",
+        "Coordinate": [
+            939,
+            1134,
+            2383,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "536, Rama Nagar, Jaipur-474867",
+        "Coordinate": [
+            894,
+            1269,
+            2206,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "98/948, Varughese Road, Bhind 361007",
+        "Coordinate": [
+            899,
+            1512,
+            2362,
+            1673
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7511244717",
+        "Coordinate": [
+            1865,
+            1790,
+            2317,
+            1891
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8105674545",
+        "Coordinate": [
+            881,
+            1793,
+            1343,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Kannada, English",
+        "Coordinate": [
+            879,
+            1928,
+            2329,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aayush Bora - 9599240862",
+        "Coordinate": [
+            917,
+            2035,
+            2044,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedika Kapadia - 9736453181",
+        "Coordinate": [
+            949,
+            2170,
+            2116,
+            2301
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BZXKH3655L",
+        "Coordinate": [
+            1624,
+            2375,
+            2112,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            579,
+            2463,
+            790,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2024",
+        "Coordinate": [
+            581,
+            2561,
+            947,
+            2647
+        ]
+    }
+]

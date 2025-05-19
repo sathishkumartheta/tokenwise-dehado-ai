@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dipta Wason",
+        "Coordinate": [
+            880,
+            402,
+            1302,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hardik Wason",
+        "Coordinate": [
+            895,
+            501,
+            1369,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "05-03-1992",
+        "Coordinate": [
+            909,
+            600,
+            1202,
+            689
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            909,
+            699,
+            1244,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            805,
+            1204,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1763,
+            790,
+            2000,
+            880
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            899,
+            2047,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            955,
+            904,
+            1127,
+            992
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Karan-Baria",
+        "Coordinate": [
+            987,
+            993,
+            1881,
+            1105
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saini-Cherian",
+        "Coordinate": [
+            999,
+            1115,
+            1958,
+            1230
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 80, Peri Circle, Kirari Suleman Nagar 024432",
+        "Coordinate": [
+            898,
+            1265,
+            2169,
+            1500
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "216, Barad, Madanapalle-857467",
+        "Coordinate": [
+            914,
+            1505,
+            2102,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9929027039",
+        "Coordinate": [
+            1877,
+            1755,
+            2304,
+            1863
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7378979945",
+        "Coordinate": [
+            907,
+            1769,
+            1348,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi, Tamil",
+        "Coordinate": [
+            914,
+            1903,
+            1701,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lopa Savant - 7945120360",
+        "Coordinate": [
+            948,
+            2007,
+            1909,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dominic Sarkar - 8871393055",
+        "Coordinate": [
+            942,
+            2136,
+            2015,
+            2253
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "819000000000.0",
+        "Coordinate": [
+            651,
+            2342,
+            1096,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            658,
+            2432,
+            964,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/20/2022",
+        "Coordinate": [
+            703,
+            2534,
+            1102,
+            2643
+        ]
+    }
+]

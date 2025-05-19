@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Hora",
+        "Coordinate": [
+            883,
+            393,
+            1361,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Hora",
+        "Coordinate": [
+            878,
+            497,
+            1197,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/28/1974",
+        "Coordinate": [
+            881,
+            588,
+            1170,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            883,
+            688,
+            1282,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            788,
+            1132,
+            871
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1766,
+            783,
+            1938,
+            859
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1826,
+            890,
+            2053,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            899,
+            889,
+            1011,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ravel Ltd",
+        "Coordinate": [
+            953,
+            983,
+            1617,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Kara-Baral",
+        "Coordinate": [
+            934,
+            1098,
+            1660,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11/987, Ramachandran Path, Surendranagar Dudhrej-880023",
+        "Coordinate": [
+            871,
+            1216,
+            2148,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "15/61, Datta Circle, Sambalpur 577449",
+        "Coordinate": [
+            875,
+            1476,
+            2054,
+            1599
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7509944447",
+        "Coordinate": [
+            1849,
+            1752,
+            2194,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9462418824",
+        "Coordinate": [
+            873,
+            1748,
+            1230,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, Tamil, English",
+        "Coordinate": [
+            871,
+            1884,
+            1889,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojasvi Aggarwal - 9244265278",
+        "Coordinate": [
+            924,
+            1998,
+            1811,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manya Pillai - 7331654812",
+        "Coordinate": [
+            927,
+            2119,
+            1703,
+            2207
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "588000000000.0",
+        "Coordinate": [
+            580,
+            2330,
+            931,
+            2412
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "IWOHF2964E",
+        "Coordinate": [
+            1613,
+            2335,
+            1959,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            579,
+            2419,
+            831,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-11-2023",
+        "Coordinate": [
+            579,
+            2509,
+            860,
+            2592
+        ]
+    }
+]

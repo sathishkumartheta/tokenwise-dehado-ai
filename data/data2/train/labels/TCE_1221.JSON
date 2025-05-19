@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jeevika Prakash",
+        "Coordinate": [
+            936,
+            470,
+            1535,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandran Prakash",
+        "Coordinate": [
+            953,
+            564,
+            1655,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/2/1984",
+        "Coordinate": [
+            960,
+            660,
+            1351,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            963,
+            757,
+            1351,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            986,
+            857,
+            1268,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1903,
+            850,
+            2183,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1926,
+            943,
+            2175,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1070,
+            956,
+            1191,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Mishra Inc",
+        "Coordinate": [
+            1103,
+            1050,
+            2143,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Prabhakar  Mishra and Bhandari",
+        "Coordinate": [
+            986,
+            1157,
+            2468,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "96/56, Krishna Nagar, Phusro 449569",
+        "Coordinate": [
+            950,
+            1277,
+            1917,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 56, Dyal Zila, Jalna-015229",
+        "Coordinate": [
+            936,
+            1544,
+            2426,
+            1636
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9910346169",
+        "Coordinate": [
+            966,
+            1774,
+            1372,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8796179994",
+        "Coordinate": [
+            1743,
+            1814,
+            2202,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati",
+        "Coordinate": [
+            937,
+            1911,
+            1618,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaaya Bakshi - 9513178440",
+        "Coordinate": [
+            1023,
+            2010,
+            2308,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishanvi Bal - 8511540319",
+        "Coordinate": [
+            1036,
+            2144,
+            2220,
+            2234
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            713,
+            2414,
+            1119,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/8/2024",
+        "Coordinate": [
+            703,
+            2504,
+            1196,
+            2588
+        ]
+    }
+]

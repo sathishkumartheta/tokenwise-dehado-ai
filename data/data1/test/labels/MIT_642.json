@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaitanya Bhattacharyya",
+        "Coordinate": [
+            905,
+            432,
+            1751,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekavir Bhattacharyya",
+        "Coordinate": [
+            901,
+            529,
+            1583,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/27/1962",
+        "Coordinate": [
+            928,
+            635,
+            1288,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            942,
+            725,
+            1436,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            940,
+            838,
+            1204,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1744,
+            826,
+            1903,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            933,
+            2069,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1003,
+            941,
+            1190,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sami Inc",
+        "Coordinate": [
+            1012,
+            1043,
+            1733,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Das  Ravel and Mahal",
+        "Coordinate": [
+            1012,
+            1142,
+            2189,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 46, Borra Nagar, Kota 083469",
+        "Coordinate": [
+            896,
+            1280,
+            2278,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 95, Raval Nagar, Gudivada 806274",
+        "Coordinate": [
+            920,
+            1535,
+            2342,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7505084144",
+        "Coordinate": [
+            1875,
+            1803,
+            2296,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9438188749",
+        "Coordinate": [
+            919,
+            1807,
+            1351,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Gujarati, Telugu",
+        "Coordinate": [
+            896,
+            1942,
+            1983,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mitali Sankaran - 9227883217",
+        "Coordinate": [
+            1005,
+            2050,
+            2097,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ijaya Baria - 7431609289",
+        "Coordinate": [
+            1014,
+            2182,
+            2026,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "983000000000.0",
+        "Coordinate": [
+            615,
+            2382,
+            1116,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            638,
+            2484,
+            857,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2025",
+        "Coordinate": [
+            634,
+            2574,
+            1020,
+            2663
+        ]
+    }
+]

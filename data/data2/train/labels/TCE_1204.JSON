@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Meera Bhardwaj",
+        "Coordinate": [
+            913,
+            474,
+            1586,
+            580
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Bhardwaj",
+        "Coordinate": [
+            930,
+            577,
+            1688,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/19/1962",
+        "Coordinate": [
+            923,
+            659,
+            1324,
+            774
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            940,
+            747,
+            1288,
+            873
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            866,
+            1239,
+            968
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            918,
+            946,
+            1101,
+            1046
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1797,
+            848,
+            2087,
+            964
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            955,
+            2133,
+            1057
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Dalal Inc",
+        "Coordinate": [
+            1011,
+            1043,
+            1861,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Chaudhuri  Rajagopal and Gopal",
+        "Coordinate": [
+            949,
+            1162,
+            2302,
+            1300
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "67/27, Khare Circle, Akola-637319",
+        "Coordinate": [
+            914,
+            1303,
+            2274,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 36, Tella, Cuttack-067897",
+        "Coordinate": [
+            914,
+            1524,
+            2147,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8346414107",
+        "Coordinate": [
+            897,
+            1776,
+            1317,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9928194544",
+        "Coordinate": [
+            1833,
+            1749,
+            2296,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Bengali",
+        "Coordinate": [
+            941,
+            1909,
+            2059,
+            2035
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pahal Shanker - 8422199708",
+        "Coordinate": [
+            989,
+            2015,
+            2108,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kamala Sami - 7897986463",
+        "Coordinate": [
+            989,
+            2143,
+            2037,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            631,
+            2403,
+            1200,
+            2514
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/17/2025",
+        "Coordinate": [
+            640,
+            2492,
+            1143,
+            2600
+        ]
+    }
+]

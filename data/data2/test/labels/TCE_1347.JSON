@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Utkarsh Deshmukh",
+        "Coordinate": [
+            912,
+            480,
+            1676,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Deshmukh",
+        "Coordinate": [
+            900,
+            572,
+            1474,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/9/1989",
+        "Coordinate": [
+            936,
+            676,
+            1278,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            922,
+            748,
+            1286,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            914,
+            860,
+            1150,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1704,
+            850,
+            1958,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            952,
+            2098,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            940,
+            943,
+            1126,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kaur-Narayanan",
+        "Coordinate": [
+            974,
+            1042,
+            2062,
+            1117
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kade-Chander",
+        "Coordinate": [
+            956,
+            1160,
+            1994,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 869, Choudhry Circle, Malegaon-859293",
+        "Coordinate": [
+            904,
+            1268,
+            2116,
+            1449
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 49, Dugar Street, Haridwar 616611",
+        "Coordinate": [
+            900,
+            1510,
+            2038,
+            1699
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9353886880",
+        "Coordinate": [
+            898,
+            1782,
+            1326,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7127916710",
+        "Coordinate": [
+            1832,
+            1772,
+            2256,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Kannada, English",
+        "Coordinate": [
+            886,
+            1906,
+            2112,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ubika Bansal - 8402891211",
+        "Coordinate": [
+            942,
+            2013,
+            1930,
+            2081
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Girik Bahri - 7456321960",
+        "Coordinate": [
+            942,
+            2124,
+            1918,
+            2227
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            604,
+            2404,
+            966,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/10/2023",
+        "Coordinate": [
+            608,
+            2472,
+            986,
+            2567
+        ]
+    }
+]

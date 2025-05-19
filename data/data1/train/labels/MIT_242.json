@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarav Walia",
+        "Coordinate": [
+            900,
+            395,
+            1291,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Oliver Walia",
+        "Coordinate": [
+            908,
+            494,
+            1312,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/25/1990",
+        "Coordinate": [
+            920,
+            595,
+            1265,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            925,
+            692,
+            1409,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            937,
+            796,
+            1220,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1846,
+            791,
+            2016,
+            886
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1870,
+            896,
+            2140,
+            991
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            896,
+            902,
+            996,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Gera  Chaudhari and Rajagopal",
+        "Coordinate": [
+            962,
+            981,
+            2233,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sahota  Sahota and Roy",
+        "Coordinate": [
+            936,
+            1109,
+            2074,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32/99, Buch Circle, Lucknow-932971",
+        "Coordinate": [
+            892,
+            1240,
+            2127,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "96/883, Shankar Street, Mathura 735241",
+        "Coordinate": [
+            893,
+            1513,
+            2219,
+            1666
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8963937799",
+        "Coordinate": [
+            1903,
+            1754,
+            2320,
+            1853
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8014705103",
+        "Coordinate": [
+            920,
+            1760,
+            1322,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, English, Telugu",
+        "Coordinate": [
+            905,
+            1892,
+            1890,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samuel Shenoy - 8805077003",
+        "Coordinate": [
+            964,
+            2009,
+            1864,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yash Sawhney - 8820796700",
+        "Coordinate": [
+            977,
+            2135,
+            1904,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "232000000000.0",
+        "Coordinate": [
+            584,
+            2336,
+            1094,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            593,
+            2420,
+            960,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/24/2023",
+        "Coordinate": [
+            628,
+            2517,
+            1000,
+            2606
+        ]
+    }
+]

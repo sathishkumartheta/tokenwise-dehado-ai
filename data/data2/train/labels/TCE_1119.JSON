@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ati Dani",
+        "Coordinate": [
+            907,
+            470,
+            1194,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faris Dani",
+        "Coordinate": [
+            916,
+            578,
+            1240,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/1/1982",
+        "Coordinate": [
+            943,
+            675,
+            1211,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            907,
+            749,
+            1198,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            862,
+            1148,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            987,
+            953,
+            1130,
+            1049
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1698,
+            846,
+            1989,
+            952
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1801,
+            956,
+            2055,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Krishnan Ltd",
+        "Coordinate": [
+            1024,
+            1046,
+            1807,
+            1158
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sankaran Ltd",
+        "Coordinate": [
+            1050,
+            1145,
+            1848,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "93, Bhatia Chowk, Fatehpur 644031",
+        "Coordinate": [
+            936,
+            1306,
+            2209,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "119, Narayanan Road, Bokaro 555321",
+        "Coordinate": [
+            940,
+            1550,
+            2217,
+            1726
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8830730397",
+        "Coordinate": [
+            909,
+            1787,
+            1358,
+            1904
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9219293578",
+        "Coordinate": [
+            1693,
+            1820,
+            2129,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Hindi, Malayalam",
+        "Coordinate": [
+            977,
+            1929,
+            2236,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekta Pandey - 7897579907",
+        "Coordinate": [
+            982,
+            2043,
+            1934,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aadi Dube - 7416869549",
+        "Coordinate": [
+            993,
+            2130,
+            1875,
+            2263
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            716,
+            2432,
+            957,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/24/2025",
+        "Coordinate": [
+            669,
+            2521,
+            1124,
+            2606
+        ]
+    }
+]

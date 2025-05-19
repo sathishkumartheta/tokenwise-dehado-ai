@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pushti Sethi",
+        "Coordinate": [
+            890,
+            478,
+            1506,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayaan Sethi",
+        "Coordinate": [
+            938,
+            566,
+            1482,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/30/1984",
+        "Coordinate": [
+            918,
+            664,
+            1454,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            926,
+            768,
+            1256,
+            871
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            934,
+            868,
+            1240,
+            963
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1780,
+            842,
+            2054,
+            963
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            953,
+            2156,
+            1071
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            944,
+            962,
+            1168,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Golla Inc",
+        "Coordinate": [
+            1012,
+            1076,
+            2048,
+            1173
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Korpal  Puri and Bose",
+        "Coordinate": [
+            988,
+            1162,
+            2296,
+            1289
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 446, Chokshi Road, Sangli-Miraj & Kupwad-103675",
+        "Coordinate": [
+            922,
+            1298,
+            2262,
+            1503
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "32/89, Baral Road, Mysore 130370",
+        "Coordinate": [
+            940,
+            1536,
+            2226,
+            1773
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8020090269",
+        "Coordinate": [
+            902,
+            1800,
+            1368,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9965471912",
+        "Coordinate": [
+            1838,
+            1786,
+            2276,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Telugu, Gujarati",
+        "Coordinate": [
+            916,
+            1932,
+            1984,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harrison Wadhwa - 8747769472",
+        "Coordinate": [
+            982,
+            2038,
+            2278,
+            2141
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nisha Shanker - 8082658196",
+        "Coordinate": [
+            1000,
+            2164,
+            2200,
+            2275
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            622,
+            2440,
+            1030,
+            2527
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/30/2024",
+        "Coordinate": [
+            662,
+            2528,
+            1188,
+            2627
+        ]
+    }
+]

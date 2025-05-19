@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Xavier Dutta",
+        "Coordinate": [
+            882,
+            443,
+            1274,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Dutta",
+        "Coordinate": [
+            895,
+            552,
+            1312,
+            620
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/28/1995",
+        "Coordinate": [
+            890,
+            638,
+            1198,
+            710
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            862,
+            737,
+            1024,
+            816
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            873,
+            833,
+            1134,
+            921
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1770,
+            820,
+            1950,
+            908
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1790,
+            941,
+            2005,
+            1011
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            882,
+            945,
+            985,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sundaram-Mani",
+        "Coordinate": [
+            967,
+            1048,
+            1935,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Raju-Kibe",
+        "Coordinate": [
+            956,
+            1132,
+            1669,
+            1246
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 72, Balan Circle, Howrah 634741",
+        "Coordinate": [
+            893,
+            1325,
+            2058,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "022, Aurora Ganj, Phusro 573368",
+        "Coordinate": [
+            886,
+            1522,
+            2020,
+            1658
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9081709116",
+        "Coordinate": [
+            893,
+            1827,
+            1206,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9360420646",
+        "Coordinate": [
+            1843,
+            1803,
+            2286,
+            1895
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            899,
+            1937,
+            1323,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yachana Srinivasan - 7902000908",
+        "Coordinate": [
+            963,
+            2033,
+            2064,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemangini Sengupta - 9634809460",
+        "Coordinate": [
+            950,
+            2187,
+            2163,
+            2295
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "614806000000",
+        "Coordinate": [
+            594,
+            2393,
+            1022,
+            2457
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            577,
+            2481,
+            939,
+            2549
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/30/2024",
+        "Coordinate": [
+            574,
+            2562,
+            925,
+            2646
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ubika Agarwal",
+        "Coordinate": [
+            911,
+            476,
+            1656,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Brijesh Agarwal",
+        "Coordinate": [
+            945,
+            569,
+            1763,
+            683
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/14/1990",
+        "Coordinate": [
+            913,
+            662,
+            1547,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            939,
+            748,
+            1803,
+            856
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            984,
+            856,
+            1347,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            997,
+            953,
+            1243,
+            1045
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1852,
+            847,
+            2267,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1861,
+            942,
+            2217,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sem  Ghose and Saha",
+        "Coordinate": [
+            1018,
+            1045,
+            2313,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Nayak-Tiwari",
+        "Coordinate": [
+            1027,
+            1147,
+            2267,
+            1301
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "613, Lad Path, Bidhannagar 182332",
+        "Coordinate": [
+            911,
+            1282,
+            2291,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "530, Rastogi Road, Tirupati 718533",
+        "Coordinate": [
+            907,
+            1513,
+            2304,
+            1763
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7211787576",
+        "Coordinate": [
+            911,
+            1774,
+            1366,
+            1913
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9945413701",
+        "Coordinate": [
+            1503,
+            1823,
+            2110,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Kannada",
+        "Coordinate": [
+            929,
+            1909,
+            2199,
+            2021
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Faras Oak - 9052840988",
+        "Coordinate": [
+            1049,
+            2001,
+            2303,
+            2134
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chakrika Tripathi - 7455774732",
+        "Coordinate": [
+            1062,
+            2143,
+            2296,
+            2272
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            674,
+            2413,
+            1141,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/14/2022",
+        "Coordinate": [
+            717,
+            2521,
+            1283,
+            2641
+        ]
+    }
+]

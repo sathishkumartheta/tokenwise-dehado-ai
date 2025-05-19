@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zayyan Dugal",
+        "Coordinate": [
+            888,
+            422,
+            1386,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nachiket Dugal",
+        "Coordinate": [
+            887,
+            522,
+            1426,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/22/1979",
+        "Coordinate": [
+            896,
+            625,
+            1332,
+            716
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            894,
+            722,
+            1485,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            820,
+            1213,
+            918
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1750,
+            815,
+            1963,
+            894
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            923,
+            2112,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            915,
+            930,
+            1037,
+            1018
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Sankar-Ramanathan",
+        "Coordinate": [
+            1005,
+            1030,
+            2281,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at More-Kapadia",
+        "Coordinate": [
+            1010,
+            1140,
+            2252,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/386, Dutt Circle, Pune-592562",
+        "Coordinate": [
+            921,
+            1268,
+            2369,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "69, Kade Street, Khammam-273468",
+        "Coordinate": [
+            946,
+            1531,
+            2254,
+            1769
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8621022152",
+        "Coordinate": [
+            1897,
+            1794,
+            2349,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9273900262",
+        "Coordinate": [
+            895,
+            1802,
+            1366,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Kannada, Bengali",
+        "Coordinate": [
+            909,
+            1929,
+            2350,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urvashi Bhakta - 7657045327",
+        "Coordinate": [
+            995,
+            2037,
+            2278,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Unni Goel - 9520852564",
+        "Coordinate": [
+            1031,
+            2179,
+            2108,
+            2307
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LUQFF4464L",
+        "Coordinate": [
+            1650,
+            2376,
+            2285,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            589,
+            2466,
+            1081,
+            2553
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-06-2023",
+        "Coordinate": [
+            626,
+            2558,
+            1189,
+            2656
+        ]
+    }
+]

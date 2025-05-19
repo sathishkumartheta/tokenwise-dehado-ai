@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavna Kamdar",
+        "Coordinate": [
+            891,
+            437,
+            1410,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Baljiwan Kamdar",
+        "Coordinate": [
+            912,
+            537,
+            1442,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-01-1995",
+        "Coordinate": [
+            899,
+            639,
+            1213,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            920,
+            734,
+            1209,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            839,
+            1167,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1777,
+            831,
+            2018,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            942,
+            2114,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            920,
+            943,
+            1034,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Hans-Mani",
+        "Coordinate": [
+            988,
+            1044,
+            1750,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Guha LLC",
+        "Coordinate": [
+            998,
+            1157,
+            1673,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "82, Dash Marg, Moradabad-762073",
+        "Coordinate": [
+            907,
+            1290,
+            2170,
+            1436
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73/54, Mand Zila, Karnal 473116",
+        "Coordinate": [
+            920,
+            1542,
+            2038,
+            1685
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9150350538",
+        "Coordinate": [
+            1871,
+            1809,
+            2291,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9057835673",
+        "Coordinate": [
+            897,
+            1815,
+            1285,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            909,
+            1953,
+            1457,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Patrick Ravel - 7145867693",
+        "Coordinate": [
+            1013,
+            2062,
+            1886,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vihaan Solanki - 7979074170",
+        "Coordinate": [
+            1012,
+            2186,
+            1927,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "332000000000.0",
+        "Coordinate": [
+            589,
+            2394,
+            1058,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            628,
+            2488,
+            891,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-12-2024",
+        "Coordinate": [
+            627,
+            2578,
+            1001,
+            2666
+        ]
+    }
+]

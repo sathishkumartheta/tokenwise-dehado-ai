@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bishakha Barman",
+        "Coordinate": [
+            883,
+            409,
+            1493,
+            502
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laksh Barman",
+        "Coordinate": [
+            883,
+            508,
+            1410,
+            602
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-08-1983",
+        "Coordinate": [
+            892,
+            608,
+            1175,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            881,
+            709,
+            1130,
+            798
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            812,
+            1150,
+            904
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1849,
+            815,
+            2068,
+            894
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            918,
+            2095,
+            1001
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            890,
+            915,
+            978,
+            997
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Raja  Garg and Mody",
+        "Coordinate": [
+            948,
+            1010,
+            1974,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Madan  Sahni and Goswami",
+        "Coordinate": [
+            942,
+            1128,
+            2318,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 656, Kalla Marg, Madanapalle-508243",
+        "Coordinate": [
+            880,
+            1236,
+            2257,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "538, Malhotra Zila, Noida-755984",
+        "Coordinate": [
+            877,
+            1496,
+            2142,
+            1618
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9333014543",
+        "Coordinate": [
+            1849,
+            1782,
+            2284,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9322016521",
+        "Coordinate": [
+            872,
+            1777,
+            1301,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil",
+        "Coordinate": [
+            875,
+            1923,
+            1370,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anusha Dutta - 9829091782",
+        "Coordinate": [
+            943,
+            2024,
+            1955,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lohit Mandal - 8583168705",
+        "Coordinate": [
+            946,
+            2151,
+            1979,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "910000000000.0",
+        "Coordinate": [
+            575,
+            2364,
+            1085,
+            2440
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            581,
+            2452,
+            774,
+            2528
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-05-2022",
+        "Coordinate": [
+            576,
+            2543,
+            925,
+            2634
+        ]
+    }
+]

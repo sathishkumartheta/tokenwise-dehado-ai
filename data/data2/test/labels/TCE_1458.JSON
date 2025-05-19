@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Pavani Nagy",
+        "Coordinate": [
+            900,
+            465,
+            1406,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Nagy",
+        "Coordinate": [
+            905,
+            575,
+            1478,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/23/1994",
+        "Coordinate": [
+            890,
+            651,
+            1226,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            895,
+            755,
+            1226,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            915,
+            861,
+            1254,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            831,
+            2090,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            950,
+            2102,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            915,
+            945,
+            1026,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Naik Group",
+        "Coordinate": [
+            990,
+            1036,
+            1866,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Choudhary and Sons",
+        "Coordinate": [
+            945,
+            1135,
+            2166,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "037, Pal Ganj, Kalyan-Dombivli 334016",
+        "Coordinate": [
+            900,
+            1266,
+            2130,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "50/60, Karnik, Panchkula 986585",
+        "Coordinate": [
+            895,
+            1511,
+            2154,
+            1622
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9834533699",
+        "Coordinate": [
+            900,
+            1766,
+            1282,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7010758641",
+        "Coordinate": [
+            1830,
+            1776,
+            2210,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati",
+        "Coordinate": [
+            900,
+            1906,
+            1526,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ansh De - 7854826415",
+        "Coordinate": [
+            925,
+            2001,
+            1794,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavya Rattan - 9421525312",
+        "Coordinate": [
+            945,
+            2116,
+            2078,
+            2226
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            610,
+            2401,
+            1350,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2025",
+        "Coordinate": [
+            590,
+            2496,
+            938,
+            2606
+        ]
+    }
+]

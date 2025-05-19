@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Edhitha Vaidya",
+        "Coordinate": [
+            895,
+            466,
+            1378,
+            590
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Vaidya",
+        "Coordinate": [
+            890,
+            591,
+            1394,
+            686
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/13/1995",
+        "Coordinate": [
+            905,
+            686,
+            1198,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            761,
+            1234,
+            878
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            876,
+            1190,
+            962
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            831,
+            1998,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            956,
+            2066,
+            1058
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            945,
+            961,
+            1078,
+            1058
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Sanghvi  Shroff and Madan",
+        "Coordinate": [
+            985,
+            1081,
+            2286,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Rajagopalan Inc",
+        "Coordinate": [
+            960,
+            1176,
+            2066,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "628, Sarna Zila, Chennai 094718",
+        "Coordinate": [
+            895,
+            1306,
+            2022,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "95/131, Dara, Ujjain 730746",
+        "Coordinate": [
+            910,
+            1535,
+            2022,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8015658926",
+        "Coordinate": [
+            1865,
+            1776,
+            2266,
+            1894
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8140864187",
+        "Coordinate": [
+            910,
+            1776,
+            1338,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            895,
+            1926,
+            1546,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Samarth Yohannan - 7065481367",
+        "Coordinate": [
+            960,
+            2020,
+            2046,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaman Ramachandran - 7118948164",
+        "Coordinate": [
+            990,
+            2125,
+            2126,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            640,
+            2421,
+            1086,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/19/2023",
+        "Coordinate": [
+            665,
+            2506,
+            1070,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Forum Bhakta",
+        "Coordinate": [
+            952,
+            497,
+            1452,
+            607
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gavin Bhakta",
+        "Coordinate": [
+            955,
+            607,
+            1447,
+            725
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/20/1975",
+        "Coordinate": [
+            967,
+            675,
+            1355,
+            792
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            970,
+            807,
+            1272,
+            905
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            960,
+            902,
+            1252,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1852,
+            895,
+            2137,
+            1015
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            1012,
+            2202,
+            1130
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            980,
+            1032,
+            1147,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kata-Balasubramanian",
+        "Coordinate": [
+            1010,
+            1065,
+            2240,
+            1212
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sundaram  Sandhu and Sangha",
+        "Coordinate": [
+            1020,
+            1205,
+            2440,
+            1350
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "96/29, Bandi Circle, Rewa 017530",
+        "Coordinate": [
+            920,
+            1312,
+            2145,
+            1482
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "18, Nath Marg, Jamnagar-043474",
+        "Coordinate": [
+            952,
+            1577,
+            2230,
+            1800
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8683610666",
+        "Coordinate": [
+            935,
+            1845,
+            1372,
+            1960
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9888535798",
+        "Coordinate": [
+            1890,
+            1864,
+            2322,
+            1969
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Bengali, Telugu",
+        "Coordinate": [
+            917,
+            1995,
+            2137,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nihal Nadkarni - 8804890654",
+        "Coordinate": [
+            1010,
+            2092,
+            2192,
+            2240
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Elijah Hari - 7533776829",
+        "Coordinate": [
+            1015,
+            2225,
+            2052,
+            2357
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "486337000000",
+        "Coordinate": [
+            640,
+            2442,
+            1195,
+            2520
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DPPQB5025K",
+        "Coordinate": [
+            1690,
+            2445,
+            2195,
+            2557
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/6/2022",
+        "Coordinate": [
+            627,
+            2632,
+            1075,
+            2715
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            610,
+            2530,
+            927,
+            2650
+        ]
+    }
+]

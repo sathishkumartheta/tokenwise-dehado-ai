@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qasim Chatterjee",
+        "Coordinate": [
+            905,
+            476,
+            1553,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daksh Chatterjee",
+        "Coordinate": [
+            925,
+            576,
+            1545,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/27/1959",
+        "Coordinate": [
+            935,
+            665,
+            1337,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            975,
+            751,
+            1329,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            866,
+            1289,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1000,
+            961,
+            1157,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1784,
+            846,
+            1976,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            945,
+            2105,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sandhu  Seth and Balasubramanian",
+        "Coordinate": [
+            975,
+            1051,
+            2317,
+            1131
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Goel  Minhas and Bhatt",
+        "Coordinate": [
+            985,
+            1141,
+            2225,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "93/47, Sethi Circle, Vijayanagaram 974679",
+        "Coordinate": [
+            885,
+            1266,
+            2213,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "72/178, Borah Street, Karawal Nagar-068464",
+        "Coordinate": [
+            925,
+            1501,
+            2125,
+            1731
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9793278581",
+        "Coordinate": [
+            905,
+            1776,
+            1353,
+            1847
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7345568001",
+        "Coordinate": [
+            1805,
+            1756,
+            2305,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English, Telugu, Hindi",
+        "Coordinate": [
+            925,
+            1901,
+            2165,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xalak Kota - 8295612797",
+        "Coordinate": [
+            975,
+            2020,
+            2005,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jasmit Sathe - 9569731406",
+        "Coordinate": [
+            975,
+            2126,
+            2037,
+            2203
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            655,
+            2411,
+            1013,
+            2471
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/2/2024",
+        "Coordinate": [
+            670,
+            2491,
+            1121,
+            2579
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chaitaly Bhavsar",
+        "Coordinate": [
+            919,
+            464,
+            1411,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeet Bhavsar",
+        "Coordinate": [
+            915,
+            575,
+            1289,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1977",
+        "Coordinate": [
+            940,
+            668,
+            1192,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            926,
+            761,
+            1061,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            850,
+            1217,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1867,
+            841,
+            2113,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            930,
+            959,
+            1050,
+            1040
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            945,
+            2111,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Memon PLC",
+        "Coordinate": [
+            1025,
+            1042,
+            1776,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Devi Group",
+        "Coordinate": [
+            1027,
+            1145,
+            1797,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 83, Ghosh Path, Mathura-968856",
+        "Coordinate": [
+            940,
+            1282,
+            2255,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "45/68, Sarna Road, Medininagar 195799",
+        "Coordinate": [
+            949,
+            1502,
+            2179,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9114819195",
+        "Coordinate": [
+            962,
+            1772,
+            1327,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7967409567",
+        "Coordinate": [
+            1924,
+            1753,
+            2270,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil",
+        "Coordinate": [
+            972,
+            1903,
+            1417,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ganga Chawla - 7044090405",
+        "Coordinate": [
+            1014,
+            2006,
+            1972,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yagnesh Krishnan - 7312864662",
+        "Coordinate": [
+            1000,
+            2128,
+            2057,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            679,
+            2422,
+            841,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/5/2022",
+        "Coordinate": [
+            656,
+            2502,
+            945,
+            2584
+        ]
+    }
+]

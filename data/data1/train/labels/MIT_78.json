@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Turvi Walla",
+        "Coordinate": [
+            875,
+            397,
+            1284,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Walla",
+        "Coordinate": [
+            884,
+            506,
+            1253,
+            596
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/25/1988",
+        "Coordinate": [
+            902,
+            599,
+            1263,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            885,
+            696,
+            1399,
+            801
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            874,
+            805,
+            1127,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1787,
+            789,
+            2029,
+            885
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            905,
+            2079,
+            992
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            870,
+            898,
+            971,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Virk Inc",
+        "Coordinate": [
+            971,
+            985,
+            1649,
+            1086
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Raj and Sons",
+        "Coordinate": [
+            991,
+            1104,
+            1882,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "424, Dhingra Road, Sagar 805719",
+        "Coordinate": [
+            881,
+            1280,
+            2052,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "840, Ram Marg, Satara-043973",
+        "Coordinate": [
+            893,
+            1537,
+            1943,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9352184398",
+        "Coordinate": [
+            1853,
+            1741,
+            2265,
+            1829
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8430607097",
+        "Coordinate": [
+            882,
+            1757,
+            1287,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi",
+        "Coordinate": [
+            884,
+            1898,
+            1373,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ronith Hari - 8513620044",
+        "Coordinate": [
+            966,
+            2018,
+            1799,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Saumya Goel - 9336049624",
+        "Coordinate": [
+            1014,
+            2142,
+            1822,
+            2255
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "754000000000.0",
+        "Coordinate": [
+            579,
+            2333,
+            1054,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            579,
+            2433,
+            832,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/23/2025",
+        "Coordinate": [
+            583,
+            2523,
+            943,
+            2607
+        ]
+    }
+]

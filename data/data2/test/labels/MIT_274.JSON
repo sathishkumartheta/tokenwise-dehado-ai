@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Azad Tak",
+        "Coordinate": [
+            882,
+            332,
+            1265,
+            418
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Orinder Tak",
+        "Coordinate": [
+            872,
+            449,
+            1296,
+            527
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/8/1963",
+        "Coordinate": [
+            839,
+            549,
+            1281,
+            637
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            822,
+            634,
+            1262,
+            746
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            837,
+            758,
+            1181,
+            846
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1752,
+            708,
+            1961,
+            825
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            834,
+            2130,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            884,
+            837,
+            1084,
+            934
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sani  Buch and Sehgal",
+        "Coordinate": [
+            948,
+            946,
+            2187,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chakrabarti LLC",
+        "Coordinate": [
+            927,
+            1051,
+            1997,
+            1146
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45/75, Prabhakar Chowk, Dewas 583392",
+        "Coordinate": [
+            875,
+            1165,
+            2349,
+            1307
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "77, Rau Path, Madhyamgram 226602",
+        "Coordinate": [
+            891,
+            1429,
+            2256,
+            1562
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7581544674",
+        "Coordinate": [
+            1838,
+            1714,
+            2330,
+            1802
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9694919955",
+        "Coordinate": [
+            898,
+            1709,
+            1357,
+            1823
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            865,
+            1850,
+            1571,
+            1952
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshmi Dixit - 7899277060",
+        "Coordinate": [
+            932,
+            1964,
+            1940,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jasmit Atwal - 8597526207",
+        "Coordinate": [
+            922,
+            2087,
+            1907,
+            2180
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "786053000000",
+        "Coordinate": [
+            568,
+            2294,
+            1141,
+            2377
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            551,
+            2387,
+            898,
+            2461
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/26/2023",
+        "Coordinate": [
+            556,
+            2473,
+            1084,
+            2556
+        ]
+    }
+]

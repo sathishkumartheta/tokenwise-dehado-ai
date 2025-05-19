@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dominic Chander",
+        "Coordinate": [
+            865,
+            433,
+            1633,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vivaan Chander",
+        "Coordinate": [
+            894,
+            530,
+            1595,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-10-1965",
+        "Coordinate": [
+            896,
+            637,
+            1308,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            885,
+            730,
+            1322,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            830,
+            1283,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1832,
+            826,
+            2071,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            939,
+            2118,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Mukherjee-Shroff",
+        "Coordinate": [
+            963,
+            1038,
+            2239,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Kata-Kapur",
+        "Coordinate": [
+            972,
+            1145,
+            2097,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 62, Nair Path, Morbi-171577",
+        "Coordinate": [
+            890,
+            1282,
+            2373,
+            1449
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 99, Trivedi Street, Machilipatnam-581487",
+        "Coordinate": [
+            876,
+            1526,
+            2346,
+            1748
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7612286397",
+        "Coordinate": [
+            1878,
+            1804,
+            2331,
+            1925
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7622898736",
+        "Coordinate": [
+            883,
+            1814,
+            1361,
+            1941
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Telugu",
+        "Coordinate": [
+            885,
+            1945,
+            1903,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Odika Khare - 9184267597",
+        "Coordinate": [
+            928,
+            2044,
+            2094,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nathan Subramaniam - 7406665044",
+        "Coordinate": [
+            929,
+            2180,
+            2350,
+            2304
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "449000000000.0",
+        "Coordinate": [
+            590,
+            2394,
+            1223,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            571,
+            2487,
+            903,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/22/2022",
+        "Coordinate": [
+            573,
+            2575,
+            1029,
+            2669
+        ]
+    }
+]

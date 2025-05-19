@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Brinda Bal",
+        "Coordinate": [
+            876,
+            421,
+            1278,
+            510
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Bal",
+        "Coordinate": [
+            886,
+            519,
+            1334,
+            618
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/27/1965",
+        "Coordinate": [
+            884,
+            623,
+            1309,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            904,
+            724,
+            1209,
+            815
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            825,
+            1191,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1816,
+            814,
+            2123,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1875,
+            927,
+            2175,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            922,
+            928,
+            1106,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Krishnamurthy Group",
+        "Coordinate": [
+            969,
+            1022,
+            2345,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Khare-Sridhar",
+        "Coordinate": [
+            960,
+            1135,
+            2105,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 30, Luthra Zila, Ahmedabad-696106",
+        "Coordinate": [
+            942,
+            1268,
+            2251,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/912, Venkataraman Zila, Khora -650614",
+        "Coordinate": [
+            877,
+            1501,
+            2313,
+            1722
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9835212286",
+        "Coordinate": [
+            1866,
+            1794,
+            2298,
+            1891
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9185026971",
+        "Coordinate": [
+            865,
+            1797,
+            1337,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Bengali, Tamil",
+        "Coordinate": [
+            864,
+            1928,
+            2190,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Fiyaz Palla - 9420501564",
+        "Coordinate": [
+            892,
+            2033,
+            2011,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harsh Chokshi - 7377804819",
+        "Coordinate": [
+            934,
+            2168,
+            2040,
+            2285
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XQBBP1208Q",
+        "Coordinate": [
+            1649,
+            2372,
+            2178,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            611,
+            2467,
+            955,
+            2549
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-12-2022",
+        "Coordinate": [
+            571,
+            2558,
+            995,
+            2646
+        ]
+    }
+]

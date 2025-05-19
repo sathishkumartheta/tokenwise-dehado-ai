@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Kota",
+        "Coordinate": [
+            892,
+            426,
+            1354,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nihal Kota",
+        "Coordinate": [
+            926,
+            527,
+            1368,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/15/1988",
+        "Coordinate": [
+            925,
+            627,
+            1310,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            952,
+            722,
+            1520,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            983,
+            826,
+            1259,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1801,
+            832,
+            2102,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            939,
+            2184,
+            1032
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1006,
+            932,
+            1157,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kapadia  Dixit and Ahluwalia",
+        "Coordinate": [
+            967,
+            1038,
+            2239,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Basu-Baria",
+        "Coordinate": [
+            988,
+            1147,
+            1923,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86, Chaudhari Chowk, Shimla-180632",
+        "Coordinate": [
+            917,
+            1272,
+            2346,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "107, Edwin Road, Aurangabad 772625",
+        "Coordinate": [
+            905,
+            1531,
+            2348,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7256263565",
+        "Coordinate": [
+            1860,
+            1805,
+            2335,
+            1918
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9599429824",
+        "Coordinate": [
+            874,
+            1799,
+            1345,
+            1917
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Hindi, Bengali",
+        "Coordinate": [
+            921,
+            1941,
+            2253,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarav Bobal - 9698867733",
+        "Coordinate": [
+            946,
+            2050,
+            2104,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurangi Wali - 7126259642",
+        "Coordinate": [
+            942,
+            2180,
+            2168,
+            2304
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DXNCP3095A",
+        "Coordinate": [
+            1643,
+            2390,
+            2218,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            674,
+            2472,
+            1025,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/17/2023",
+        "Coordinate": [
+            663,
+            2566,
+            1113,
+            2661
+        ]
+    }
+]

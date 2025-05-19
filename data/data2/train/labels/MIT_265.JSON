@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Atharv Saraf",
+        "Coordinate": [
+            888,
+            404,
+            1380,
+            491
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurav Saraf",
+        "Coordinate": [
+            891,
+            503,
+            1397,
+            591
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/10/1993",
+        "Coordinate": [
+            912,
+            598,
+            1338,
+            684
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            908,
+            692,
+            1061,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            899,
+            788,
+            1136,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            777,
+            1925,
+            847
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            886,
+            2085,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            888,
+            894,
+            998,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Basu-Kala",
+        "Coordinate": [
+            956,
+            983,
+            1740,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Shankar and Sons",
+        "Coordinate": [
+            942,
+            1098,
+            2020,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 373, Aurora, Eluru-140352",
+        "Coordinate": [
+            909,
+            1217,
+            2034,
+            1322
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 60, Dhar Street, Rampur-943460",
+        "Coordinate": [
+            861,
+            1463,
+            2252,
+            1581
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9766075933",
+        "Coordinate": [
+            1844,
+            1743,
+            2325,
+            1838
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8784810300",
+        "Coordinate": [
+            884,
+            1744,
+            1341,
+            1823
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            883,
+            1895,
+            1393,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Odika Purohit - 9978358158",
+        "Coordinate": [
+            931,
+            1992,
+            1966,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ranveer Sura - 9324710502",
+        "Coordinate": [
+            930,
+            2114,
+            2062,
+            2214
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "983604000000",
+        "Coordinate": [
+            585,
+            2326,
+            1160,
+            2406
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            586,
+            2417,
+            864,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/20/2023",
+        "Coordinate": [
+            618,
+            2511,
+            1087,
+            2596
+        ]
+    }
+]

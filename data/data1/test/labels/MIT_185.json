@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Oliver Modi",
+        "Coordinate": [
+            892,
+            391,
+            1297,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Daksh Modi",
+        "Coordinate": [
+            899,
+            491,
+            1324,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-01-1965",
+        "Coordinate": [
+            895,
+            588,
+            1222,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            899,
+            682,
+            1241,
+            773
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            783,
+            1197,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1815,
+            784,
+            2013,
+            875
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            891,
+            2108,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            913,
+            890,
+            1043,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Arya  De and Narula",
+        "Coordinate": [
+            966,
+            979,
+            2175,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Pathak-Wadhwa",
+        "Coordinate": [
+            962,
+            1097,
+            2024,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/961, De Zila, Kalyan-Dombivli 371189",
+        "Coordinate": [
+            884,
+            1217,
+            2145,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "73/820, Handa Street, Jamalpur 855716",
+        "Coordinate": [
+            880,
+            1495,
+            1775,
+            1718
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7239389680",
+        "Coordinate": [
+            1849,
+            1747,
+            2319,
+            1848
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9153107229",
+        "Coordinate": [
+            872,
+            1752,
+            1326,
+            1853
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi",
+        "Coordinate": [
+            893,
+            1890,
+            1456,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasudha Saini - 9977855153",
+        "Coordinate": [
+            927,
+            1997,
+            2028,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ojas Mahal - 7589089576",
+        "Coordinate": [
+            961,
+            2121,
+            1951,
+            2224
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "317000000000.0",
+        "Coordinate": [
+            592,
+            2324,
+            1132,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            598,
+            2418,
+            1093,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/27/2023",
+        "Coordinate": [
+            582,
+            2510,
+            1047,
+            2599
+        ]
+    }
+]

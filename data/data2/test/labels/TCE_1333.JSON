@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "11/7/2022",
+        "Coordinate": [
+            648,
+            2502,
+            1120,
+            2599
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            636,
+            2422,
+            932,
+            2515
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hiral Arya - 7921909414",
+        "Coordinate": [
+            966,
+            2134,
+            2016,
+            2253
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarna Subramaniam - 8833595224",
+        "Coordinate": [
+            962,
+            1982,
+            2188,
+            2089
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8655192690",
+        "Coordinate": [
+            1820,
+            1768,
+            2272,
+            1881
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7983964285",
+        "Coordinate": [
+            904,
+            1793,
+            1286,
+            1890
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 945, Bose Ganj, Kolhapur 365327",
+        "Coordinate": [
+            894,
+            1522,
+            2298,
+            1657
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/849, Bal Chowk, Bhatpara-977663",
+        "Coordinate": [
+            906,
+            1302,
+            2286,
+            1437
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chaudhary-Ahluwalia",
+        "Coordinate": [
+            973,
+            1180,
+            2110,
+            1255
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Chandra  Baral and Chatterjee",
+        "Coordinate": [
+            970,
+            1070,
+            2156,
+            1153
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1774,
+            970,
+            2074,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            908,
+            967,
+            1074,
+            1043
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            864,
+            1230,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1736,
+            856,
+            2062,
+            947
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            918,
+            752,
+            1434,
+            833
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/4/1967",
+        "Coordinate": [
+            910,
+            660,
+            1296,
+            747
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Garg",
+        "Coordinate": [
+            902,
+            582,
+            1428,
+            665
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Zinal Garg",
+        "Coordinate": [
+            910,
+            502,
+            1414,
+            581
+        ]
+    }
+]

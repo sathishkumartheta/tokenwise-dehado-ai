@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekantika Vyas",
+        "Coordinate": [
+            882,
+            396,
+            1416,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Timothy Vyas",
+        "Coordinate": [
+            877,
+            492,
+            1367,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/23/2006",
+        "Coordinate": [
+            888,
+            592,
+            1252,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            896,
+            686,
+            1206,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            894,
+            790,
+            1146,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            780,
+            2019,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1807,
+            886,
+            2082,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            895,
+            894,
+            995,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Thakur-Parmar",
+        "Coordinate": [
+            948,
+            983,
+            1924,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Pandya-Sane",
+        "Coordinate": [
+            948,
+            1096,
+            1898,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "70, Bala Circle, Hubli\u2013Dharwad-943985",
+        "Coordinate": [
+            876,
+            1223,
+            2278,
+            1358
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 626, Shere Nagar, Meerut-041591",
+        "Coordinate": [
+            865,
+            1472,
+            2268,
+            1622
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9714649518",
+        "Coordinate": [
+            1849,
+            1739,
+            2250,
+            1833
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7128158489",
+        "Coordinate": [
+            879,
+            1750,
+            1280,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Bengali",
+        "Coordinate": [
+            873,
+            1890,
+            1757,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasatika Narula - 8056807033",
+        "Coordinate": [
+            936,
+            1999,
+            2123,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Vaidya - 7849555550",
+        "Coordinate": [
+            943,
+            2124,
+            2136,
+            2250
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RHJNP0693C",
+        "Coordinate": [
+            1619,
+            2326,
+            2050,
+            2411
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            599,
+            2426,
+            834,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-03-2025",
+        "Coordinate": [
+            601,
+            2517,
+            937,
+            2597
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshmi Ben",
+        "Coordinate": [
+            897,
+            474,
+            1379,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Ben",
+        "Coordinate": [
+            887,
+            559,
+            1334,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/16/1995",
+        "Coordinate": [
+            903,
+            663,
+            1306,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            905,
+            752,
+            1263,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            856,
+            1158,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            922,
+            961,
+            1045,
+            1022
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1775,
+            844,
+            2050,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1798,
+            955,
+            2096,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sarkar-Parikh",
+        "Coordinate": [
+            963,
+            1033,
+            2061,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Patla  Brar and Sinha",
+        "Coordinate": [
+            971,
+            1148,
+            2266,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50/44, Dey Road, Guntakal 455491",
+        "Coordinate": [
+            907,
+            1306,
+            2229,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 179, Memon Road, Mira-Bhayandar-832995",
+        "Coordinate": [
+            899,
+            1548,
+            2174,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8817426812",
+        "Coordinate": [
+            891,
+            1782,
+            1301,
+            1870
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7473020401",
+        "Coordinate": [
+            1843,
+            1786,
+            2290,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Telugu, Gujarati",
+        "Coordinate": [
+            881,
+            1911,
+            2057,
+            2005
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chaman Dugal - 8599916109",
+        "Coordinate": [
+            949,
+            2007,
+            2108,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nirja Kanda - 8325879302",
+        "Coordinate": [
+            947,
+            2130,
+            2198,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            635,
+            2410,
+            996,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/21/2023",
+        "Coordinate": [
+            626,
+            2506,
+            1082,
+            2582
+        ]
+    }
+]

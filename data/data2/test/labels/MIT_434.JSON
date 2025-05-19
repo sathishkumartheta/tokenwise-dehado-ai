@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Edhitha Luthra",
+        "Coordinate": [
+            908,
+            401,
+            1502,
+            501
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krishna Luthra",
+        "Coordinate": [
+            896,
+            511,
+            1552,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/24/1965",
+        "Coordinate": [
+            915,
+            594,
+            1326,
+            696
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            929,
+            718,
+            1265,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            789,
+            1298,
+            889
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            917,
+            903,
+            1055,
+            991
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            720,
+            2099,
+            813
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1871,
+            827,
+            2185,
+            927
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bhandari Group",
+        "Coordinate": [
+            1048,
+            941,
+            2123,
+            1084
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Ramaswamy-Munshi",
+        "Coordinate": [
+            991,
+            1058,
+            2354,
+            1186
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 237, Hora Marg, Ongole-495421",
+        "Coordinate": [
+            963,
+            1212,
+            2406,
+            1360
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8749820107",
+        "Coordinate": [
+            970,
+            1467,
+            2261,
+            1609
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7929606259",
+        "Coordinate": [
+            974,
+            1759,
+            1441,
+            1861
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "941, Jani, Tiruvottiyur 922671",
+        "Coordinate": [
+            1983,
+            1690,
+            2404,
+            1804
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati, Marathi",
+        "Coordinate": [
+            977,
+            1880,
+            2007,
+            1983
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Subramaniam - 8033651669",
+        "Coordinate": [
+            1060,
+            1961,
+            2337,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vincent Rattan - 7032712562",
+        "Coordinate": [
+            1062,
+            2116,
+            2275,
+            2242
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GMEYF4561D",
+        "Coordinate": [
+            1762,
+            2282,
+            2242,
+            2394
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            713,
+            2439,
+            1072,
+            2523
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/4/2023",
+        "Coordinate": [
+            677,
+            2537,
+            1222,
+            2641
+        ]
+    }
+]

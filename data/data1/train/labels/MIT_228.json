@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Darika Sethi",
+        "Coordinate": [
+            873,
+            393,
+            1373,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Isaac Sethi",
+        "Coordinate": [
+            876,
+            490,
+            1340,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/25/1998",
+        "Coordinate": [
+            889,
+            592,
+            1254,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            893,
+            690,
+            1078,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            788,
+            1199,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1897,
+            782,
+            2130,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1900,
+            893,
+            2154,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            901,
+            892,
+            1019,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ranganathan and Sons",
+        "Coordinate": [
+            989,
+            978,
+            2207,
+            1098
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Pingle-Sood",
+        "Coordinate": [
+            1000,
+            1101,
+            1872,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 21, Gara Zila, Unnao 126978",
+        "Coordinate": [
+            886,
+            1232,
+            1995,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46, Nazareth Road, Vadodara-996043",
+        "Coordinate": [
+            891,
+            1477,
+            2023,
+            1697
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7332789352",
+        "Coordinate": [
+            1878,
+            1742,
+            2292,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9262959299",
+        "Coordinate": [
+            895,
+            1755,
+            1344,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada",
+        "Coordinate": [
+            878,
+            1890,
+            1395,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Xalak Munshi - 7566104509",
+        "Coordinate": [
+            923,
+            1992,
+            1969,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekanta Shenoy - 9967992715",
+        "Coordinate": [
+            945,
+            2123,
+            2001,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "968000000000.0",
+        "Coordinate": [
+            587,
+            2331,
+            1080,
+            2415
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "YESJG1022R",
+        "Coordinate": [
+            1627,
+            2332,
+            2095,
+            2419
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            593,
+            2425,
+            1228,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2025",
+        "Coordinate": [
+            597,
+            2512,
+            1000,
+            2597
+        ]
+    }
+]

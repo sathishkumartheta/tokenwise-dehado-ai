@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rohan Dutta",
+        "Coordinate": [
+            884,
+            438,
+            1341,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Dutta",
+        "Coordinate": [
+            890,
+            530,
+            1368,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-01-2005",
+        "Coordinate": [
+            893,
+            635,
+            1220,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            890,
+            728,
+            1236,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            899,
+            833,
+            1185,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1801,
+            828,
+            1986,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            939,
+            2093,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            912,
+            942,
+            1081,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Varma  Mander and Hayre",
+        "Coordinate": [
+            960,
+            1039,
+            2265,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sankar  Pal and Sandal",
+        "Coordinate": [
+            984,
+            1143,
+            2239,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 204, Sunder Circle, Ludhiana-653476",
+        "Coordinate": [
+            895,
+            1275,
+            2219,
+            1469
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 42, Contractor Chowk, Sagar 314595",
+        "Coordinate": [
+            889,
+            1532,
+            2161,
+            1759
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8920636370",
+        "Coordinate": [
+            1868,
+            1804,
+            2307,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7980410366",
+        "Coordinate": [
+            884,
+            1812,
+            1293,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu",
+        "Coordinate": [
+            910,
+            1947,
+            1381,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Alexander Behl - 9751964141",
+        "Coordinate": [
+            963,
+            2050,
+            2002,
+            2160
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanav Badami - 9728269083",
+        "Coordinate": [
+            968,
+            2182,
+            2118,
+            2291
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "996000000000.0",
+        "Coordinate": [
+            592,
+            2397,
+            1163,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            603,
+            2483,
+            985,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-11-2022",
+        "Coordinate": [
+            613,
+            2579,
+            990,
+            2670
+        ]
+    }
+]

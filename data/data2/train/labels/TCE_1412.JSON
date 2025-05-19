@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tara Bail",
+        "Coordinate": [
+            926,
+            486,
+            1439,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Bail",
+        "Coordinate": [
+            924,
+            581,
+            1443,
+            676
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/1964",
+        "Coordinate": [
+            933,
+            645,
+            1323,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            941,
+            762,
+            1459,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            867,
+            1282,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            937,
+            967,
+            1110,
+            1044
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1759,
+            856,
+            1982,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            964,
+            2078,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bhatti-Shanker",
+        "Coordinate": [
+            972,
+            1040,
+            2049,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Korpal  Kothari and Ramachandran",
+        "Coordinate": [
+            989,
+            1149,
+            2337,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "933, Chand Circle, Tiruvottiyur 975152",
+        "Coordinate": [
+            918,
+            1282,
+            2294,
+            1393
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/25, Raja Nagar, Aurangabad-223709",
+        "Coordinate": [
+            894,
+            1513,
+            2255,
+            1698
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9960363787",
+        "Coordinate": [
+            921,
+            1773,
+            1351,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8038219142",
+        "Coordinate": [
+            1574,
+            1817,
+            1979,
+            1910
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, English, Kannada",
+        "Coordinate": [
+            928,
+            1914,
+            1948,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Wazir Cheema - 7010426318",
+        "Coordinate": [
+            965,
+            2025,
+            2058,
+            2130
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Raman - 9068116602",
+        "Coordinate": [
+            957,
+            2142,
+            2043,
+            2238
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            658,
+            2414,
+            1002,
+            2499
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/19/2024",
+        "Coordinate": [
+            632,
+            2515,
+            1066,
+            2611
+        ]
+    }
+]

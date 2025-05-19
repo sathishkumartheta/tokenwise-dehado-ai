@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Banjeet Vig",
+        "Coordinate": [
+            887,
+            435,
+            1251,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shaurya Vig",
+        "Coordinate": [
+            895,
+            534,
+            1263,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/26/1976",
+        "Coordinate": [
+            896,
+            638,
+            1184,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            897,
+            735,
+            1286,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            886,
+            836,
+            1073,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1761,
+            832,
+            1916,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1823,
+            937,
+            2011,
+            1019
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            894,
+            942,
+            1003,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Dixit-Sant",
+        "Coordinate": [
+            963,
+            1033,
+            1617,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Master LLC",
+        "Coordinate": [
+            962,
+            1142,
+            1605,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "49/867, Contractor Zila, Kochi-703325",
+        "Coordinate": [
+            891,
+            1280,
+            1957,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/307, Desai Ganj, Gandhinagar-899749",
+        "Coordinate": [
+            888,
+            1535,
+            2039,
+            1678
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8853649547",
+        "Coordinate": [
+            1876,
+            1803,
+            2203,
+            1887
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9294908184",
+        "Coordinate": [
+            903,
+            1803,
+            1209,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Tamil",
+        "Coordinate": [
+            889,
+            1946,
+            1640,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanay Bhandari - 9811871866",
+        "Coordinate": [
+            966,
+            2057,
+            1755,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedant Varghese - 8076119396",
+        "Coordinate": [
+            977,
+            2185,
+            1766,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "754000000000.0",
+        "Coordinate": [
+            610,
+            2390,
+            983,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            616,
+            2479,
+            877,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2025",
+        "Coordinate": [
+            605,
+            2574,
+            890,
+            2656
+        ]
+    }
+]

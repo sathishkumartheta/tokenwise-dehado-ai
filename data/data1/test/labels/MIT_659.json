@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alexander Sane",
+        "Coordinate": [
+            874,
+            438,
+            1402,
+            545
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kiaan Sane",
+        "Coordinate": [
+            880,
+            544,
+            1267,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-06-1962",
+        "Coordinate": [
+            883,
+            648,
+            1219,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            888,
+            748,
+            1164,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            851,
+            1185,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1817,
+            842,
+            2013,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            951,
+            2073,
+            1052
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            917,
+            947,
+            1029,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Banik-Sha",
+        "Coordinate": [
+            967,
+            1052,
+            1741,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Jayaraman  Yogi and Mitra",
+        "Coordinate": [
+            976,
+            1155,
+            2229,
+            1286
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/34, Panchal Circle, Kakinada-540449",
+        "Coordinate": [
+            876,
+            1302,
+            2300,
+            1450
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "809, Gulati Nagar, Bidhannagar-643167",
+        "Coordinate": [
+            888,
+            1541,
+            2280,
+            1694
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9726778522",
+        "Coordinate": [
+            1876,
+            1809,
+            2311,
+            1927
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9949706309",
+        "Coordinate": [
+            894,
+            1806,
+            1362,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Bengali, Kannada",
+        "Coordinate": [
+            881,
+            1951,
+            2224,
+            2059
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yadavi Loke - 8943628986",
+        "Coordinate": [
+            976,
+            2065,
+            1965,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amara Barman - 9036063131",
+        "Coordinate": [
+            961,
+            2193,
+            2033,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FXOKL4359H",
+        "Coordinate": [
+            1630,
+            2395,
+            2094,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            576,
+            2483,
+            843,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-03-2023",
+        "Coordinate": [
+            620,
+            2582,
+            1003,
+            2676
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hema Ahuja",
+        "Coordinate": [
+            889,
+            462,
+            1360,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gautam Ahuja",
+        "Coordinate": [
+            894,
+            562,
+            1412,
+            682
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/8/2003",
+        "Coordinate": [
+            898,
+            662,
+            1229,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            898,
+            747,
+            1205,
+            867
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            904,
+            846,
+            1125,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1742,
+            846,
+            2068,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            894,
+            958,
+            1085,
+            1047
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            960,
+            2128,
+            1063
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Chanda LLC",
+        "Coordinate": [
+            964,
+            1043,
+            1763,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ganesan  Chaudhuri and Arya",
+        "Coordinate": [
+            972,
+            1147,
+            2220,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "492, Choudhury Nagar, Ahmednagar-973098",
+        "Coordinate": [
+            901,
+            1274,
+            2115,
+            1513
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 72, Gulati Chowk, Kota 584563",
+        "Coordinate": [
+            912,
+            1512,
+            2216,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8837515008",
+        "Coordinate": [
+            863,
+            1780,
+            1312,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8918998225",
+        "Coordinate": [
+            1604,
+            1805,
+            2059,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Telugu, Bengali",
+        "Coordinate": [
+            873,
+            1908,
+            2034,
+            2010
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zashil Pal - 7285831871",
+        "Coordinate": [
+            941,
+            2018,
+            1848,
+            2131
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abhimanyu Parsa - 8331368607",
+        "Coordinate": [
+            930,
+            2152,
+            1916,
+            2259
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            603,
+            2409,
+            910,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/6/2023",
+        "Coordinate": [
+            634,
+            2511,
+            1057,
+            2616
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rushil Aurora",
+        "Coordinate": [
+            874,
+            396,
+            1294,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekbal Aurora",
+        "Coordinate": [
+            884,
+            492,
+            1323,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/14/1982",
+        "Coordinate": [
+            893,
+            598,
+            1192,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            897,
+            694,
+            1153,
+            774
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            793,
+            1145,
+            876
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1789,
+            782,
+            1957,
+            849
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            890,
+            2092,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            941,
+            896,
+            1083,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kala PLC",
+        "Coordinate": [
+            985,
+            983,
+            1594,
+            1078
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Butala-Dhar",
+        "Coordinate": [
+            986,
+            1093,
+            1718,
+            1194
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 77, Prashad Street, Dhule 655132",
+        "Coordinate": [
+            898,
+            1270,
+            2191,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 794, Bajwa Circle, Gopalpur-598516",
+        "Coordinate": [
+            886,
+            1498,
+            2289,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9570822701",
+        "Coordinate": [
+            1881,
+            1743,
+            2296,
+            1825
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7078632448",
+        "Coordinate": [
+            891,
+            1753,
+            1338,
+            1842
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Hindi, Telugu",
+        "Coordinate": [
+            886,
+            1886,
+            1838,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Karan Cherian - 7771970236",
+        "Coordinate": [
+            969,
+            2000,
+            1981,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Indrajit Nagarajan - 8576105269",
+        "Coordinate": [
+            973,
+            2122,
+            2177,
+            2219
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "980000000000.0",
+        "Coordinate": [
+            590,
+            2332,
+            1085,
+            2416
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            614,
+            2424,
+            1249,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/15/2024",
+        "Coordinate": [
+            650,
+            2513,
+            979,
+            2587
+        ]
+    }
+]

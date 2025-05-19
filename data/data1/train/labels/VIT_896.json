@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ati Pal",
+        "Coordinate": [
+            875,
+            438,
+            1127,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nakul Pal",
+        "Coordinate": [
+            884,
+            543,
+            1260,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/28/1977",
+        "Coordinate": [
+            873,
+            646,
+            1221,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            867,
+            744,
+            1046,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            875,
+            844,
+            1130,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1783,
+            832,
+            2016,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            941,
+            2092,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            874,
+            946,
+            993,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Panchal-Brahmbhatt",
+        "Coordinate": [
+            953,
+            1037,
+            2113,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bhargava Group",
+        "Coordinate": [
+            951,
+            1147,
+            2057,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 195, Sha, Gandhidham 530315",
+        "Coordinate": [
+            873,
+            1289,
+            2023,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 39, Madan Road, Motihari 540092",
+        "Coordinate": [
+            873,
+            1527,
+            2259,
+            1661
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9977829774",
+        "Coordinate": [
+            1857,
+            1801,
+            2242,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9788644189",
+        "Coordinate": [
+            870,
+            1803,
+            1273,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu",
+        "Coordinate": [
+            879,
+            1950,
+            1350,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hritik Pant - 7299055570",
+        "Coordinate": [
+            945,
+            2054,
+            1828,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urmi Taneja - 7156406491",
+        "Coordinate": [
+            944,
+            2181,
+            1830,
+            2283
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "525000000000.0",
+        "Coordinate": [
+            577,
+            2392,
+            1114,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            582,
+            2483,
+            904,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-05-2025",
+        "Coordinate": [
+            585,
+            2580,
+            951,
+            2670
+        ]
+    }
+]

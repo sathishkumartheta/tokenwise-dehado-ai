@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 263, Bhalla Chowk, Kumbakonam 330225",
+        "Coordinate": [
+            894,
+            1550,
+            2138,
+            1748
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9072600859",
+        "Coordinate": [
+            1888,
+            1806,
+            2356,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7318207195",
+        "Coordinate": [
+            892,
+            1818,
+            1356,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Marathi, Hindi",
+        "Coordinate": [
+            880,
+            1958,
+            1894,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unni Ram - 9513228788",
+        "Coordinate": [
+            962,
+            2048,
+            1954,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rajeshri Walia - 8167727916",
+        "Coordinate": [
+            966,
+            2188,
+            2148,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TKJMH6505N",
+        "Coordinate": [
+            1634,
+            2384,
+            2212,
+            2494
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            582,
+            2492,
+            1002,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/21/2023",
+        "Coordinate": [
+            600,
+            2592,
+            1122,
+            2660
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekalinga Padmanabhan",
+        "Coordinate": [
+            884,
+            444,
+            1766,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeremiah Padmanabhan",
+        "Coordinate": [
+            882,
+            548,
+            1790,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/31/2001",
+        "Coordinate": [
+            878,
+            636,
+            1294,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            894,
+            734,
+            1068,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            878,
+            830,
+            1108,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            908,
+            939,
+            1054,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Wagle  Khosla and Borde",
+        "Coordinate": [
+            948,
+            1042,
+            2276,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Joshi and Sons",
+        "Coordinate": [
+            957,
+            1160,
+            2066,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 037, Trivedi Street, Pimpri-Chinchwad 972957",
+        "Coordinate": [
+            890,
+            1268,
+            2154,
+            1470
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1798,
+            832,
+            1994,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            938,
+            2116,
+            1026
+        ]
+    }
+]

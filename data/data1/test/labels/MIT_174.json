@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Gunbir Dhar",
+        "Coordinate": [
+            883,
+            390,
+            1293,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayyan Dhar",
+        "Coordinate": [
+            898,
+            490,
+            1308,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/26/1961",
+        "Coordinate": [
+            897,
+            587,
+            1213,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            897,
+            683,
+            1152,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            781,
+            1128,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1722,
+            781,
+            1899,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            888,
+            2066,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            926,
+            887,
+            1034,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Tank Inc",
+        "Coordinate": [
+            994,
+            984,
+            1698,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Sibal-Ganguly",
+        "Coordinate": [
+            992,
+            1095,
+            1898,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "83, Kakar Ganj, Hubli\u2013Dharwad-602564",
+        "Coordinate": [
+            906,
+            1244,
+            2316,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/287, Natarajan Zila, Ramgarh-566863",
+        "Coordinate": [
+            893,
+            1472,
+            2326,
+            1651
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8848619185",
+        "Coordinate": [
+            1841,
+            1758,
+            2258,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9204271719",
+        "Coordinate": [
+            892,
+            1752,
+            1347,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu",
+        "Coordinate": [
+            884,
+            1885,
+            1432,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aashi D\u2019Alia - 7747769762",
+        "Coordinate": [
+            951,
+            2002,
+            1985,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gagan Choudhury - 8129501811",
+        "Coordinate": [
+            963,
+            2125,
+            2074,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "723000000000.0",
+        "Coordinate": [
+            601,
+            2328,
+            1113,
+            2417
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VCJRH1493J",
+        "Coordinate": [
+            1634,
+            2330,
+            2102,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            598,
+            2418,
+            961,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/18/2024",
+        "Coordinate": [
+            611,
+            2515,
+            995,
+            2615
+        ]
+    }
+]

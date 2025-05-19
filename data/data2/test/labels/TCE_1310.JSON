@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedant Krishnan",
+        "Coordinate": [
+            890,
+            470,
+            1588,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charles Krishnan",
+        "Coordinate": [
+            926,
+            586,
+            1608,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/23/1996",
+        "Coordinate": [
+            934,
+            678,
+            1332,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            892,
+            754,
+            1304,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            860,
+            1266,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1814,
+            862,
+            2004,
+            947
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1799,
+            970,
+            2116,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            948,
+            964,
+            1084,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sagar  Devan and Swaminathan",
+        "Coordinate": [
+            968,
+            1052,
+            2232,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Pandit  Suri and Char",
+        "Coordinate": [
+            982,
+            1160,
+            2208,
+            1237
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "30/755, Ray Chowk, Nadiad-841300",
+        "Coordinate": [
+            892,
+            1294,
+            2246,
+            1417
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "064, Gokhale Marg, Bidar-729836",
+        "Coordinate": [
+            898,
+            1552,
+            2150,
+            1739
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8898666689",
+        "Coordinate": [
+            890,
+            1775,
+            1312,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9792641970",
+        "Coordinate": [
+            1834,
+            1784,
+            2292,
+            1867
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Kannada",
+        "Coordinate": [
+            904,
+            1937,
+            1822,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dalaja Butala - 9215783575",
+        "Coordinate": [
+            960,
+            2038,
+            2118,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pratyush Thakur - 9839811921",
+        "Coordinate": [
+            948,
+            2156,
+            2154,
+            2239
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            631,
+            2430,
+            1082,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/2/2025",
+        "Coordinate": [
+            634,
+            2526,
+            1104,
+            2587
+        ]
+    }
+]

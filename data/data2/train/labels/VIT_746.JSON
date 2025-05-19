@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bina Koshy",
+        "Coordinate": [
+            874,
+            432,
+            1389,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fariq Koshy",
+        "Coordinate": [
+            874,
+            537,
+            1454,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/4/1987",
+        "Coordinate": [
+            880,
+            659,
+            1235,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            884,
+            736,
+            1428,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            823,
+            1192,
+            939
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1758,
+            843,
+            2083,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1799,
+            949,
+            2128,
+            1046
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            880,
+            959,
+            983,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Varma-Mammen",
+        "Coordinate": [
+            951,
+            1044,
+            1931,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Anne-Hans",
+        "Coordinate": [
+            951,
+            1146,
+            1854,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02/94, Kar Nagar, Karimnagar-531324",
+        "Coordinate": [
+            882,
+            1320,
+            2351,
+            1460
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "75/671, Oommen, Kulti 568780",
+        "Coordinate": [
+            888,
+            1566,
+            2095,
+            1738
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9869825303",
+        "Coordinate": [
+            902,
+            1827,
+            1342,
+            1929
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8955372826",
+        "Coordinate": [
+            1860,
+            1829,
+            2324,
+            1902
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati",
+        "Coordinate": [
+            880,
+            1945,
+            1547,
+            2071
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekalinga Dass - 8649231732",
+        "Coordinate": [
+            945,
+            2079,
+            2126,
+            2192
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Forum Doshi - 8685075893",
+        "Coordinate": [
+            953,
+            2227,
+            2065,
+            2332
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "757992000000",
+        "Coordinate": [
+            576,
+            2412,
+            1253,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            586,
+            2487,
+            1336,
+            2580
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/2/2025",
+        "Coordinate": [
+            596,
+            2582,
+            1075,
+            2673
+        ]
+    }
+]

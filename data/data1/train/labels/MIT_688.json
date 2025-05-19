@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Daksha Hayre",
+        "Coordinate": [
+            870,
+            436,
+            1279,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girindra Hayre",
+        "Coordinate": [
+            876,
+            537,
+            1313,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-04-1961",
+        "Coordinate": [
+            877,
+            642,
+            1138,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            876,
+            735,
+            1314,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            841,
+            1128,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1789,
+            838,
+            2003,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            942,
+            2032,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            897,
+            945,
+            1042,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Narang  Bhavsar and Panchal",
+        "Coordinate": [
+            967,
+            1045,
+            2158,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Char-Sachdev",
+        "Coordinate": [
+            969,
+            1155,
+            1829,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 109, Tank Marg, Tiruvottiyur-363659",
+        "Coordinate": [
+            892,
+            1290,
+            2243,
+            1441
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "04/173, Dhar Chowk, Patiala 267870",
+        "Coordinate": [
+            884,
+            1531,
+            1959,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9957650097",
+        "Coordinate": [
+            866,
+            1808,
+            1237,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, English, Tamil",
+        "Coordinate": [
+            878,
+            1946,
+            1745,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Orinder Kalita - 9295342506",
+        "Coordinate": [
+            979,
+            2054,
+            1849,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Logan Varty - 9617214286",
+        "Coordinate": [
+            968,
+            2190,
+            1752,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "500000000000.0",
+        "Coordinate": [
+            596,
+            2395,
+            1123,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            590,
+            2483,
+            838,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/16/2023",
+        "Coordinate": [
+            605,
+            2577,
+            921,
+            2666
+        ]
+    }
+]

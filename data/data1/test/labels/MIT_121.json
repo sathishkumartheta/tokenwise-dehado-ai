@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dhriti Wagle",
+        "Coordinate": [
+            885,
+            430,
+            1281,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Champak Wagle",
+        "Coordinate": [
+            878,
+            528,
+            1436,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-10-2001",
+        "Coordinate": [
+            882,
+            635,
+            1280,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            881,
+            727,
+            1192,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            830,
+            1218,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1808,
+            827,
+            2073,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            938,
+            2112,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            921,
+            934,
+            1064,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Zacharia-Tripathi",
+        "Coordinate": [
+            1016,
+            1038,
+            2225,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Shetty Ltd",
+        "Coordinate": [
+            1004,
+            1147,
+            1966,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 312, Tank Chowk, Kozhikode-054364",
+        "Coordinate": [
+            874,
+            1289,
+            2365,
+            1444
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 108, Dugar Street, Shivpuri 137995",
+        "Coordinate": [
+            886,
+            1543,
+            2303,
+            1706
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8346220503",
+        "Coordinate": [
+            1848,
+            1800,
+            2279,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9045760459",
+        "Coordinate": [
+            879,
+            1802,
+            1342,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Malayalam, Hindi, English",
+        "Coordinate": [
+            868,
+            1944,
+            2067,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rushil Nanda - 9217882891",
+        "Coordinate": [
+            950,
+            2053,
+            2038,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Imaran Nanda - 9225868811",
+        "Coordinate": [
+            974,
+            2192,
+            2087,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "459000000000.0",
+        "Coordinate": [
+            615,
+            2384,
+            1207,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            598,
+            2473,
+            1019,
+            2569
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2022",
+        "Coordinate": [
+            606,
+            2573,
+            1058,
+            2675
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shravya Narula",
+        "Coordinate": [
+            899,
+            467,
+            1502,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Thomas Narula",
+        "Coordinate": [
+            923,
+            565,
+            1521,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/25/1978",
+        "Coordinate": [
+            901,
+            660,
+            1339,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            909,
+            756,
+            1522,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            848,
+            1282,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1705,
+            856,
+            1952,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            916,
+            954,
+            1100,
+            1039
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            968,
+            2052,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Raj PLC",
+        "Coordinate": [
+            965,
+            1048,
+            1775,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Lad Ltd",
+        "Coordinate": [
+            970,
+            1164,
+            1862,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 646, Dass Street, Mehsana-360539",
+        "Coordinate": [
+            901,
+            1288,
+            2288,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 000, Sinha Chowk, Bhiwandi 637419",
+        "Coordinate": [
+            898,
+            1522,
+            2275,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8892451640",
+        "Coordinate": [
+            891,
+            1774,
+            1349,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7492230841",
+        "Coordinate": [
+            1821,
+            1772,
+            2270,
+            1891
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu",
+        "Coordinate": [
+            889,
+            1909,
+            1571,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Champak Johal - 7739917545",
+        "Coordinate": [
+            948,
+            2007,
+            2131,
+            2139
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Quincy Nadkarni - 8988552901",
+        "Coordinate": [
+            957,
+            2146,
+            2183,
+            2253
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            600,
+            2413,
+            952,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/7/2022",
+        "Coordinate": [
+            619,
+            2495,
+            1058,
+            2594
+        ]
+    }
+]

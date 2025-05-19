@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekanta Behl",
+        "Coordinate": [
+            888,
+            424,
+            1368,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chanakya Behl",
+        "Coordinate": [
+            880,
+            527,
+            1465,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/24/1964",
+        "Coordinate": [
+            884,
+            626,
+            1237,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            889,
+            727,
+            1198,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            826,
+            1194,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1761,
+            816,
+            2040,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            927,
+            2097,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            907,
+            931,
+            1024,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bhat  Merchant and Agarwal",
+        "Coordinate": [
+            965,
+            1031,
+            2364,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Karpe  Upadhyay and Krishna",
+        "Coordinate": [
+            978,
+            1141,
+            2357,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26/01, Sekhon Circle, Fatehpur-334225",
+        "Coordinate": [
+            893,
+            1272,
+            2357,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22/42, Tailor Path, Hospet-774575",
+        "Coordinate": [
+            892,
+            1538,
+            2264,
+            1679
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8410702644",
+        "Coordinate": [
+            1871,
+            1801,
+            2302,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8210355798",
+        "Coordinate": [
+            888,
+            1801,
+            1331,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Hindi, Tamil",
+        "Coordinate": [
+            888,
+            1932,
+            2090,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nitesh Chhabra - 9683345928",
+        "Coordinate": [
+            937,
+            2039,
+            2100,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachit Chander - 9206419266",
+        "Coordinate": [
+            947,
+            2178,
+            2098,
+            2298
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "787000000000.0",
+        "Coordinate": [
+            588,
+            2379,
+            1171,
+            2466
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VOXDB4550P",
+        "Coordinate": [
+            1640,
+            2376,
+            2200,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            588,
+            2474,
+            860,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2022",
+        "Coordinate": [
+            575,
+            2565,
+            1014,
+            2657
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hitesh Kumer",
+        "Coordinate": [
+            910,
+            470,
+            1554,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samar Kumer",
+        "Coordinate": [
+            918,
+            586,
+            1442,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/2/1983",
+        "Coordinate": [
+            972,
+            676,
+            1284,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            922,
+            756,
+            1342,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            950,
+            876,
+            1212,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1868,
+            878,
+            2054,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1902,
+            968,
+            2222,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            964,
+            962,
+            1064,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Shan-Murty",
+        "Coordinate": [
+            1032,
+            1048,
+            1834,
+            1131
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Khatri  Kant and Pal",
+        "Coordinate": [
+            1009,
+            1172,
+            2218,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97/064, Sant Nagar, Hubli\u2013Dharwad-315402",
+        "Coordinate": [
+            943,
+            1274,
+            2216,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83, Sethi Nagar, Kanpur 632703",
+        "Coordinate": [
+            938,
+            1522,
+            2228,
+            1659
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7512962908",
+        "Coordinate": [
+            928,
+            1776,
+            1348,
+            1871
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9743317528",
+        "Coordinate": [
+            1840,
+            1770,
+            2260,
+            1835
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Tamil, English",
+        "Coordinate": [
+            915,
+            1934,
+            2266,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ishwar Krishnan - 9437025471",
+        "Coordinate": [
+            1026,
+            2018,
+            1872,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amol Pal - 8934157391",
+        "Coordinate": [
+            1020,
+            2142,
+            1946,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            662,
+            2426,
+            966,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/26/2024",
+        "Coordinate": [
+            644,
+            2524,
+            1138,
+            2595
+        ]
+    }
+]

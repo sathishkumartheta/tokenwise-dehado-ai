@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashawini Seth",
+        "Coordinate": [
+            879,
+            448,
+            1468,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darpan Seth",
+        "Coordinate": [
+            896,
+            556,
+            1392,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/19/1991",
+        "Coordinate": [
+            891,
+            656,
+            1266,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            890,
+            745,
+            1429,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            861,
+            1117,
+            968
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1737,
+            843,
+            1986,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            948,
+            2083,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            924,
+            966,
+            1027,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kannan Inc",
+        "Coordinate": [
+            1000,
+            1057,
+            1837,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Tandon-Chandra",
+        "Coordinate": [
+            992,
+            1159,
+            1963,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 26, Lanka Zila, Sultan Pur Majra-650441",
+        "Coordinate": [
+            897,
+            1296,
+            2245,
+            1490
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44, Tella Path, Khora  945419",
+        "Coordinate": [
+            890,
+            1571,
+            1812,
+            1708
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8803465059",
+        "Coordinate": [
+            1847,
+            1809,
+            2272,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9735609896",
+        "Coordinate": [
+            883,
+            1824,
+            1327,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            902,
+            1955,
+            1459,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Theodore Sheth - 8154076775",
+        "Coordinate": [
+            960,
+            2055,
+            2119,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aachal Toor - 7835190517",
+        "Coordinate": [
+            968,
+            2190,
+            2067,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "314000000000.0",
+        "Coordinate": [
+            603,
+            2400,
+            1214,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            609,
+            2487,
+            994,
+            2576
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/22/2022",
+        "Coordinate": [
+            610,
+            2581,
+            1144,
+            2670
+        ]
+    }
+]

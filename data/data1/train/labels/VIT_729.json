@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Keya Thakur",
+        "Coordinate": [
+            896,
+            427,
+            1582,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sai Thakur",
+        "Coordinate": [
+            885,
+            528,
+            1473,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/22/2004",
+        "Coordinate": [
+            901,
+            635,
+            1442,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            738,
+            1307,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            882,
+            842,
+            1189,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1796,
+            822,
+            2133,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            932,
+            2221,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            900,
+            942,
+            1124,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Hayre-Wadhwa",
+        "Coordinate": [
+            943,
+            1038,
+            2405,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Rajagopalan-Mangat",
+        "Coordinate": [
+            964,
+            1141,
+            2433,
+            1287
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "739, Kaul Circle, Singrauli 239188",
+        "Coordinate": [
+            872,
+            1329,
+            2232,
+            1528
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "22, Kothari Chowk, Kamarhati-406201",
+        "Coordinate": [
+            896,
+            1535,
+            2416,
+            1788
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8536273644",
+        "Coordinate": [
+            1710,
+            1840,
+            2265,
+            1947
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8925689427",
+        "Coordinate": [
+            877,
+            1810,
+            1367,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            873,
+            1936,
+            1753,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Panini Hayer - 9012331067",
+        "Coordinate": [
+            940,
+            2041,
+            2362,
+            2177
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anamika Bhargava - 7923594616",
+        "Coordinate": [
+            914,
+            2183,
+            2371,
+            2314
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "920000000000.0",
+        "Coordinate": [
+            574,
+            2380,
+            1252,
+            2468
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DRZVH3988Y",
+        "Coordinate": [
+            1625,
+            2380,
+            2310,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            577,
+            2470,
+            1039,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/25/2025",
+        "Coordinate": [
+            576,
+            2567,
+            1197,
+            2671
+        ]
+    }
+]

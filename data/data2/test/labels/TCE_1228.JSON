@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishaan Sabharwal",
+        "Coordinate": [
+            923,
+            470,
+            1746,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yug Sabharwal",
+        "Coordinate": [
+            940,
+            574,
+            1594,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/25/1991",
+        "Coordinate": [
+            950,
+            660,
+            1407,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            956,
+            761,
+            1639,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            970,
+            857,
+            1274,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1943,
+            854,
+            2135,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1043,
+            954,
+            1210,
+            1039
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1953,
+            946,
+            2228,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Aggarwal  Kurian and Chakraborty",
+        "Coordinate": [
+            1030,
+            1054,
+            2437,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Babu PLC",
+        "Coordinate": [
+            1007,
+            1164,
+            1970,
+            1244
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "26/491, Nagy Ganj, Rampur 642527",
+        "Coordinate": [
+            936,
+            1284,
+            2255,
+            1481
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 779, Ahuja Zila, Ahmednagar 256563",
+        "Coordinate": [
+            923,
+            1537,
+            2052,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7759353778",
+        "Coordinate": [
+            927,
+            1807,
+            1386,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8972139759",
+        "Coordinate": [
+            1730,
+            1821,
+            2218,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, Marathi",
+        "Coordinate": [
+            933,
+            1924,
+            1914,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Watika Hora - 7926220109",
+        "Coordinate": [
+            1000,
+            2020,
+            2263,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rehaan Mohanty - 7122175926",
+        "Coordinate": [
+            1010,
+            2154,
+            2322,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            690,
+            2427,
+            1010,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/22/2023",
+        "Coordinate": [
+            716,
+            2524,
+            1191,
+            2595
+        ]
+    }
+]

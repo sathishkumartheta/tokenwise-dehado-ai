@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kamala Nadig",
+        "Coordinate": [
+            903,
+            466,
+            1359,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Nadig",
+        "Coordinate": [
+            914,
+            555,
+            1336,
+            645
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/12/1971",
+        "Coordinate": [
+            955,
+            659,
+            1223,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            963,
+            750,
+            1197,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            852,
+            1223,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1853,
+            848,
+            2085,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            983,
+            951,
+            1158,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1870,
+            942,
+            2093,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Chaudhry Ltd",
+        "Coordinate": [
+            998,
+            1039,
+            1833,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chad-Ramanathan",
+        "Coordinate": [
+            998,
+            1146,
+            1870,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "19/953, Chanda Street, Ozhukarai 842814",
+        "Coordinate": [
+            912,
+            1263,
+            2206,
+            1384
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 941, Sidhu, Shivpuri-301911",
+        "Coordinate": [
+            912,
+            1529,
+            1962,
+            1654
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9943152712",
+        "Coordinate": [
+            916,
+            1786,
+            1312,
+            1864
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8588542861",
+        "Coordinate": [
+            1845,
+            1761,
+            2217,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            922,
+            1905,
+            1500,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anya Kadakia - 7623335905",
+        "Coordinate": [
+            981,
+            2016,
+            1981,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Radhika Sehgal - 7013367319",
+        "Coordinate": [
+            985,
+            2149,
+            1905,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            655,
+            2410,
+            895,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/18/2023",
+        "Coordinate": [
+            641,
+            2494,
+            1020,
+            2576
+        ]
+    }
+]

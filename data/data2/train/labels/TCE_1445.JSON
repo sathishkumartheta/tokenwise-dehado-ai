@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samesh Bhargava",
+        "Coordinate": [
+            891,
+            466,
+            1596,
+            591
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Simon Bhargava",
+        "Coordinate": [
+            891,
+            582,
+            1568,
+            683
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/10/2001",
+        "Coordinate": [
+            931,
+            672,
+            1348,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            936,
+            747,
+            1372,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            911,
+            852,
+            1264,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            885,
+            949,
+            1048,
+            1032
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1738,
+            847,
+            1973,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1778,
+            967,
+            2082,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Krish PLC",
+        "Coordinate": [
+            1012,
+            1067,
+            1814,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Dar Group",
+        "Coordinate": [
+            1003,
+            1162,
+            1870,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "186, Sawhney Marg, Rajpur Sonarpur-756765",
+        "Coordinate": [
+            891,
+            1278,
+            1966,
+            1492
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "787, Palla Circle, Giridih 118972",
+        "Coordinate": [
+            891,
+            1528,
+            2318,
+            1625
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7364818020",
+        "Coordinate": [
+            891,
+            1769,
+            1360,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9066338985",
+        "Coordinate": [
+            1818,
+            1799,
+            2282,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati",
+        "Coordinate": [
+            896,
+            1929,
+            1609,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zilmil Comar - 7772021790",
+        "Coordinate": [
+            981,
+            2014,
+            2090,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Andrew Sant - 8582132829",
+        "Coordinate": [
+            961,
+            2149,
+            2118,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            651,
+            2425,
+            1012,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/19/2023",
+        "Coordinate": [
+            641,
+            2520,
+            1011,
+            2611
+        ]
+    }
+]

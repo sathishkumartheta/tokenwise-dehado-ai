@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kala Kakar",
+        "Coordinate": [
+            906,
+            474,
+            1314,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Avi Kakar",
+        "Coordinate": [
+            914,
+            566,
+            1278,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/7/1961",
+        "Coordinate": [
+            942,
+            672,
+            1336,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            938,
+            774,
+            1072,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            946,
+            854,
+            1246,
+            955
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1782,
+            854,
+            2042,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            944,
+            2112,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            946,
+            964,
+            1030,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Tailor Ltd",
+        "Coordinate": [
+            1012,
+            1038,
+            1814,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Khare-Dewan",
+        "Coordinate": [
+            1012,
+            1162,
+            1904,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "373, Naik Marg, Firozabad-260590",
+        "Coordinate": [
+            907,
+            1266,
+            2188,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "535, Gala Street, Ambarnath 930539",
+        "Coordinate": [
+            926,
+            1522,
+            2208,
+            1625
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9156549523",
+        "Coordinate": [
+            920,
+            1793,
+            1362,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9169165496",
+        "Coordinate": [
+            1866,
+            1786,
+            2282,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Marathi, English",
+        "Coordinate": [
+            912,
+            1905,
+            1928,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ranveer Mody - 9248578781",
+        "Coordinate": [
+            976,
+            2018,
+            2118,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gopal Hayer - 7603832580",
+        "Coordinate": [
+            996,
+            2154,
+            2112,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            658,
+            2420,
+            1358,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/21/2025",
+        "Coordinate": [
+            716,
+            2518,
+            1168,
+            2589
+        ]
+    }
+]

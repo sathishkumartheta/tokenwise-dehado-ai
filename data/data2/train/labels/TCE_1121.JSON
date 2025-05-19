@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vaishnavi Karan",
+        "Coordinate": [
+            912,
+            467,
+            1636,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Timothy Karan",
+        "Coordinate": [
+            909,
+            575,
+            1651,
+            673
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/23/1991",
+        "Coordinate": [
+            913,
+            680,
+            1320,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            916,
+            763,
+            1128,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            857,
+            1279,
+            958
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1729,
+            846,
+            2036,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1788,
+            944,
+            2059,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            922,
+            967,
+            1095,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Vala  Chacko and Batta",
+        "Coordinate": [
+            987,
+            1051,
+            2320,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Trivedi-Pingle",
+        "Coordinate": [
+            968,
+            1152,
+            1931,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "05/42, Sekhon Road, Varanasi 147140",
+        "Coordinate": [
+            905,
+            1290,
+            2151,
+            1454
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "51/56, Dyal, Gudivada-379016",
+        "Coordinate": [
+            905,
+            1541,
+            1993,
+            1658
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8330176706",
+        "Coordinate": [
+            912,
+            1785,
+            1328,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8347705936",
+        "Coordinate": [
+            1825,
+            1769,
+            2242,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Gujarati, Malayalam",
+        "Coordinate": [
+            910,
+            1911,
+            2143,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Akshay Morar - 9387864145",
+        "Coordinate": [
+            967,
+            2017,
+            1942,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Netra Keer - 7165661321",
+        "Coordinate": [
+            973,
+            2133,
+            1896,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            629,
+            2424,
+            1006,
+            2535
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/3/2022",
+        "Coordinate": [
+            629,
+            2514,
+            1058,
+            2614
+        ]
+    }
+]

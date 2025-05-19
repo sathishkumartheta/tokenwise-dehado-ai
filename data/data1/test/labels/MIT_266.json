@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ansh Sen",
+        "Coordinate": [
+            903,
+            406,
+            1226,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Devansh Sen",
+        "Coordinate": [
+            900,
+            509,
+            1376,
+            601
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-09-2004",
+        "Coordinate": [
+            909,
+            604,
+            1267,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            901,
+            699,
+            1207,
+            796
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            807,
+            1228,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1881,
+            790,
+            2096,
+            877
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1879,
+            896,
+            2151,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            924,
+            904,
+            1067,
+            984
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kapoor  Bobal and Contractor",
+        "Coordinate": [
+            972,
+            980,
+            2261,
+            1090
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dutt Group",
+        "Coordinate": [
+            968,
+            1097,
+            1826,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52/46, Yadav Road, Anantapuram 116318",
+        "Coordinate": [
+            902,
+            1229,
+            2277,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "807, Chopra Chowk, Berhampur-621136",
+        "Coordinate": [
+            895,
+            1463,
+            2288,
+            1579
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8802891383",
+        "Coordinate": [
+            1865,
+            1742,
+            2271,
+            1827
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8481499940",
+        "Coordinate": [
+            880,
+            1744,
+            1873,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raksha Dhar - 9934214042",
+        "Coordinate": [
+            952,
+            1996,
+            1867,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Benjamin Thakur - 9418395843",
+        "Coordinate": [
+            954,
+            2125,
+            1990,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "699000000000.0",
+        "Coordinate": [
+            582,
+            2327,
+            1057,
+            2404
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            584,
+            2423,
+            870,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2023",
+        "Coordinate": [
+            576,
+            2508,
+            991,
+            2590
+        ]
+    }
+]

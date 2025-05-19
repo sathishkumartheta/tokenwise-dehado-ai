@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Karan Kota",
+        "Coordinate": [
+            881,
+            389,
+            1274,
+            469
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lakshit Kota",
+        "Coordinate": [
+            899,
+            486,
+            1325,
+            569
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/16/1963",
+        "Coordinate": [
+            912,
+            586,
+            1272,
+            668
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            916,
+            686,
+            1217,
+            767
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            929,
+            785,
+            1164,
+            877
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1840,
+            781,
+            2045,
+            863
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            884,
+            2136,
+            959
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            976,
+            886,
+            1140,
+            968
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Ram  Ramanathan and Gaba",
+        "Coordinate": [
+            969,
+            979,
+            2206,
+            1080
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bumb and Sons",
+        "Coordinate": [
+            978,
+            1097,
+            1913,
+            1194
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08, Peri Nagar, Proddatur 667063",
+        "Coordinate": [
+            891,
+            1227,
+            2044,
+            1332
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 986, Pathak Path, Avadi-440766",
+        "Coordinate": [
+            887,
+            1461,
+            2185,
+            1573
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7063633479",
+        "Coordinate": [
+            1858,
+            1737,
+            2285,
+            1817
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8027113156",
+        "Coordinate": [
+            922,
+            1758,
+            1287,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Telugu",
+        "Coordinate": [
+            887,
+            1885,
+            1670,
+            1978
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Damini Gulati - 7005329166",
+        "Coordinate": [
+            956,
+            1996,
+            1953,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omaja Padmanabhan - 7589906453",
+        "Coordinate": [
+            969,
+            2118,
+            2067,
+            2214
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "251422000000",
+        "Coordinate": [
+            611,
+            2325,
+            1080,
+            2399
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            608,
+            2414,
+            857,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/12/2022",
+        "Coordinate": [
+            601,
+            2512,
+            993,
+            2586
+        ]
+    }
+]

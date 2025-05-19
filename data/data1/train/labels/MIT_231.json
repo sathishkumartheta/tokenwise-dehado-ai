@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradev Din",
+        "Coordinate": [
+            887,
+            408,
+            1378,
+            508
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekbal Din",
+        "Coordinate": [
+            891,
+            511,
+            1229,
+            601
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/16/1970",
+        "Coordinate": [
+            883,
+            608,
+            1226,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            887,
+            710,
+            1229,
+            802
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            931,
+            813,
+            1153,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1762,
+            799,
+            1939,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1809,
+            903,
+            2061,
+            1008
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            989,
+            912,
+            1124,
+            993
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Acharya-Naik",
+        "Coordinate": [
+            952,
+            990,
+            1791,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Ben and Sons",
+        "Coordinate": [
+            942,
+            1115,
+            1841,
+            1220
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75/481, Ramaswamy Ganj, Kharagpur-548581",
+        "Coordinate": [
+            892,
+            1227,
+            2176,
+            1451
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/687, Krishna Chowk, Proddatur-520575",
+        "Coordinate": [
+            873,
+            1478,
+            2317,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7894629586",
+        "Coordinate": [
+            1868,
+            1761,
+            2311,
+            1884
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7485468659",
+        "Coordinate": [
+            888,
+            1765,
+            1337,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Bengali",
+        "Coordinate": [
+            897,
+            1898,
+            1799,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tanay Halder - 7638194502",
+        "Coordinate": [
+            935,
+            2007,
+            1909,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kavya Gola - 9913797465",
+        "Coordinate": [
+            939,
+            2130,
+            1909,
+            2236
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "267000000000.0",
+        "Coordinate": [
+            591,
+            2339,
+            1174,
+            2428
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            600,
+            2432,
+            893,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/16/2025",
+        "Coordinate": [
+            600,
+            2530,
+            1042,
+            2613
+        ]
+    }
+]

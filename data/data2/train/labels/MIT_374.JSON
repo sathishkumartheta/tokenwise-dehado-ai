@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ryan Dhar",
+        "Coordinate": [
+            875,
+            388,
+            1236,
+            471
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Neel Dhar",
+        "Coordinate": [
+            878,
+            485,
+            1197,
+            563
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/1/1984",
+        "Coordinate": [
+            886,
+            582,
+            1160,
+            652
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            887,
+            673,
+            1358,
+            752
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            896,
+            777,
+            1093,
+            862
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1772,
+            773,
+            1932,
+            839
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            882,
+            2062,
+            949
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            889,
+            881,
+            999,
+            957
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Raj  Ranganathan and Mittal",
+        "Coordinate": [
+            937,
+            972,
+            2124,
+            1069
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Gopal-Chowdhury",
+        "Coordinate": [
+            962,
+            1084,
+            1957,
+            1169
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "42, Pillai Ganj, Shimoga-614048",
+        "Coordinate": [
+            886,
+            1205,
+            2045,
+            1318
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "614, More Path, Pimpri-Chinchwad-963731",
+        "Coordinate": [
+            843,
+            1459,
+            2251,
+            1572
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9347041984",
+        "Coordinate": [
+            1848,
+            1743,
+            2256,
+            1832
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8665161478",
+        "Coordinate": [
+            879,
+            1731,
+            1247,
+            1803
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English",
+        "Coordinate": [
+            885,
+            1881,
+            1462,
+            1975
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ayushman Walla - 9611550015",
+        "Coordinate": [
+            945,
+            1989,
+            1978,
+            2094
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warhi Wali - 9904971164",
+        "Coordinate": [
+            962,
+            2116,
+            1860,
+            2204
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "223420000000",
+        "Coordinate": [
+            603,
+            2321,
+            1083,
+            2399
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            606,
+            2417,
+            895,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/7/2022",
+        "Coordinate": [
+            608,
+            2502,
+            985,
+            2579
+        ]
+    }
+]

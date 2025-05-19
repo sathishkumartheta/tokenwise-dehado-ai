@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Barman",
+        "Coordinate": [
+            874,
+            388,
+            1509,
+            487
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Barman",
+        "Coordinate": [
+            876,
+            488,
+            1501,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/26/1992",
+        "Coordinate": [
+            885,
+            589,
+            1333,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            683,
+            1224,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            785,
+            1219,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1764,
+            787,
+            2081,
+            874
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            893,
+            2116,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            895,
+            890,
+            1037,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Zachariah-Khalsa",
+        "Coordinate": [
+            971,
+            979,
+            2219,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Som  Lala and Cherian",
+        "Coordinate": [
+            977,
+            1097,
+            2291,
+            1207
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "027, Arya Path, Mumbai 056619",
+        "Coordinate": [
+            895,
+            1213,
+            2266,
+            1355
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 564, Lal Zila, Bahraich 679087",
+        "Coordinate": [
+            901,
+            1467,
+            2205,
+            1606
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9751042888",
+        "Coordinate": [
+            1855,
+            1749,
+            2339,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8523760433",
+        "Coordinate": [
+            889,
+            1755,
+            1364,
+            1865
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam",
+        "Coordinate": [
+            882,
+            1884,
+            1703,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagat Wali - 7347580388",
+        "Coordinate": [
+            944,
+            1994,
+            2126,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Neel Sachdeva - 8714750073",
+        "Coordinate": [
+            951,
+            2118,
+            2238,
+            2222
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "CSWEP5459F",
+        "Coordinate": [
+            1622,
+            2329,
+            2184,
+            2425
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            589,
+            2413,
+            894,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-01-2024",
+        "Coordinate": [
+            588,
+            2512,
+            1054,
+            2603
+        ]
+    }
+]

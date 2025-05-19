@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Luke Sheth",
+        "Coordinate": [
+            881,
+            390,
+            1407,
+            486
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Elijah Sheth",
+        "Coordinate": [
+            903,
+            488,
+            1421,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1970",
+        "Coordinate": [
+            908,
+            590,
+            1342,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            899,
+            684,
+            1617,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            789,
+            1307,
+            879
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1787,
+            777,
+            2002,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            887,
+            2141,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Nazareth  Sama and Ravel",
+        "Coordinate": [
+            974,
+            976,
+            2305,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Buch and Sons",
+        "Coordinate": [
+            992,
+            1089,
+            2053,
+            1201
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 54, Rana Road, Raiganj 987622",
+        "Coordinate": [
+            938,
+            1225,
+            2151,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/132, Chauhan Marg, Rajkot 800681",
+        "Coordinate": [
+            883,
+            1467,
+            2280,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8369935990",
+        "Coordinate": [
+            1865,
+            1748,
+            2310,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7820892639",
+        "Coordinate": [
+            878,
+            1748,
+            1329,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Marathi",
+        "Coordinate": [
+            912,
+            1879,
+            1922,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adweta Dugal - 9739489479",
+        "Coordinate": [
+            965,
+            1992,
+            2115,
+            2087
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi More - 9896235881",
+        "Coordinate": [
+            972,
+            2111,
+            2003,
+            2213
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "345000000000.0",
+        "Coordinate": [
+            605,
+            2324,
+            1183,
+            2409
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BNMPC2476H",
+        "Coordinate": [
+            1643,
+            2329,
+            2175,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            649,
+            2411,
+            927,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-04-2022",
+        "Coordinate": [
+            635,
+            2509,
+            1034,
+            2595
+        ]
+    }
+]

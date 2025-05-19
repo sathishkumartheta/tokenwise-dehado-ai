@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nikita Ray",
+        "Coordinate": [
+            921,
+            455,
+            1303,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekapad Ray",
+        "Coordinate": [
+            928,
+            551,
+            1315,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-01-1980",
+        "Coordinate": [
+            924,
+            653,
+            1259,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            931,
+            752,
+            1255,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            851,
+            1236,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1805,
+            849,
+            2069,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            956,
+            2134,
+            1052
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            933,
+            952,
+            1049,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sachdev PLC",
+        "Coordinate": [
+            989,
+            1054,
+            1898,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sahota LLC",
+        "Coordinate": [
+            994,
+            1167,
+            1944,
+            1271
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 206, Sem Street, Kumbakonam-935097",
+        "Coordinate": [
+            907,
+            1305,
+            2415,
+            1455
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "42/129, Mitra Zila, Serampore-223477",
+        "Coordinate": [
+            916,
+            1544,
+            2371,
+            1686
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9624770041",
+        "Coordinate": [
+            1879,
+            1810,
+            2306,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8924041736",
+        "Coordinate": [
+            914,
+            1814,
+            1364,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu, English, Kannada",
+        "Coordinate": [
+            903,
+            1948,
+            2222,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavini Pai - 7684537197",
+        "Coordinate": [
+            966,
+            2060,
+            1965,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ubika Devan - 7082638415",
+        "Coordinate": [
+            979,
+            2191,
+            2046,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "304000000000.0",
+        "Coordinate": [
+            616,
+            2390,
+            1167,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            614,
+            2481,
+            985,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/31/2025",
+        "Coordinate": [
+            631,
+            2573,
+            1039,
+            2665
+        ]
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nakul Pall",
+        "Coordinate": [
+            877,
+            420,
+            1397,
+            505
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jagat Pall",
+        "Coordinate": [
+            902,
+            520,
+            1372,
+            612
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/4/1969",
+        "Coordinate": [
+            915,
+            617,
+            1320,
+            705
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            889,
+            720,
+            1099,
+            810
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            822,
+            1297,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1787,
+            830,
+            2045,
+            912
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            940,
+            2252,
+            1012
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            922,
+            937,
+            1057,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bedi-Char",
+        "Coordinate": [
+            1052,
+            1027,
+            2097,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Guha-Grewal",
+        "Coordinate": [
+            1002,
+            1145,
+            2307,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 11, Nigam Marg, Bhusawal-862495",
+        "Coordinate": [
+            902,
+            1270,
+            2315,
+            1480
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "966, Om Nagar, North Dumdum 966471",
+        "Coordinate": [
+            890,
+            1520,
+            2352,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7377053884",
+        "Coordinate": [
+            900,
+            1787,
+            1362,
+            1922
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7141688990",
+        "Coordinate": [
+            1847,
+            1802,
+            2332,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Gujarati, Hindi, Kannada",
+        "Coordinate": [
+            905,
+            1930,
+            2365,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yauvani Chada - 9629798161",
+        "Coordinate": [
+            969,
+            2045,
+            2292,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Krish Aggarwal - 9681984271",
+        "Coordinate": [
+            987,
+            2172,
+            2335,
+            2315
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GETEH4153Y",
+        "Coordinate": [
+            1630,
+            2387,
+            2282,
+            2487
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "310146000000",
+        "Coordinate": [
+            592,
+            2367,
+            1247,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            597,
+            2467,
+            922,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/19/2025",
+        "Coordinate": [
+            605,
+            2567,
+            1175,
+            2647
+        ]
+    }
+]

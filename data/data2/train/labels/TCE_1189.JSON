@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ishaan Narang",
+        "Coordinate": [
+            937,
+            470,
+            1545,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harsh Narang",
+        "Coordinate": [
+            937,
+            575,
+            1526,
+            667
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/14/1961",
+        "Coordinate": [
+            955,
+            672,
+            1364,
+            762
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            956,
+            761,
+            1341,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            960,
+            855,
+            1351,
+            961
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            940,
+            961,
+            1097,
+            1056
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1799,
+            846,
+            2014,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            943,
+            2141,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Natarajan Group",
+        "Coordinate": [
+            1023,
+            1060,
+            2105,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Madan  Dasgupta and Sen",
+        "Coordinate": [
+            996,
+            1166,
+            2358,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "406, Swaminathan, Firozabad-326301",
+        "Coordinate": [
+            924,
+            1277,
+            2303,
+            1428
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "92/29, Jaggi Circle, Gudivada 213370",
+        "Coordinate": [
+            943,
+            1516,
+            2317,
+            1651
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8004666863",
+        "Coordinate": [
+            943,
+            1768,
+            1383,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7577338969",
+        "Coordinate": [
+            1823,
+            1749,
+            2320,
+            1884
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Bengali",
+        "Coordinate": [
+            962,
+            1899,
+            1971,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekanta Barman - 9103934700",
+        "Coordinate": [
+            989,
+            2006,
+            2128,
+            2110
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yoshita Rout - 8498003937",
+        "Coordinate": [
+            993,
+            2147,
+            2100,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            694,
+            2413,
+            1152,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/23/2025",
+        "Coordinate": [
+            651,
+            2503,
+            1287,
+            2629
+        ]
+    }
+]

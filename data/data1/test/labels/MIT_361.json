@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanay Buch",
+        "Coordinate": [
+            887,
+            396,
+            1278,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anthony Buch",
+        "Coordinate": [
+            895,
+            496,
+            1296,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "01-03-1984",
+        "Coordinate": [
+            894,
+            591,
+            1172,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            878,
+            691,
+            1187,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            890,
+            784,
+            1064,
+            881
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1753,
+            785,
+            1932,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            888,
+            2040,
+            979
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            902,
+            894,
+            1010,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sastry Inc",
+        "Coordinate": [
+            960,
+            987,
+            1605,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Deshpande  Iyengar and Bassi",
+        "Coordinate": [
+            963,
+            1097,
+            2211,
+            1224
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 695, Agrawal Nagar, Bardhaman 894854",
+        "Coordinate": [
+            863,
+            1259,
+            2237,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/69, Kala Circle, Hapur-944716",
+        "Coordinate": [
+            875,
+            1482,
+            1883,
+            1616
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7264666656",
+        "Coordinate": [
+            1844,
+            1747,
+            2273,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9894639477",
+        "Coordinate": [
+            873,
+            1756,
+            1323,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Malayalam",
+        "Coordinate": [
+            870,
+            1883,
+            1747,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yutika Dhaliwal - 9642207785",
+        "Coordinate": [
+            922,
+            1997,
+            1944,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samaksh Mukhopadhyay - 7724210985",
+        "Coordinate": [
+            931,
+            2119,
+            2215,
+            2241
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "620000000000.0",
+        "Coordinate": [
+            586,
+            2325,
+            1097,
+            2408
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LNSBT8882K",
+        "Coordinate": [
+            1630,
+            2334,
+            2066,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            567,
+            2421,
+            1398,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/13/2024",
+        "Coordinate": [
+            585,
+            2511,
+            999,
+            2597
+        ]
+    }
+]

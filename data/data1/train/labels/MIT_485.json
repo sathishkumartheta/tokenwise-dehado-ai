@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "George Naik",
+        "Coordinate": [
+            899,
+            433,
+            1423,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Liam Naik",
+        "Coordinate": [
+            916,
+            534,
+            1356,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/17/1969",
+        "Coordinate": [
+            949,
+            632,
+            1330,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            912,
+            729,
+            1525,
+            822
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            829,
+            1198,
+            922
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1796,
+            826,
+            1991,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            930,
+            2124,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            968,
+            932,
+            1112,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Gala  Rama and Minhas",
+        "Coordinate": [
+            974,
+            1026,
+            2378,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ravi-Jha",
+        "Coordinate": [
+            997,
+            1141,
+            1949,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29, Mital, Thrissur-948112",
+        "Coordinate": [
+            902,
+            1270,
+            2094,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49/719, Seth Marg, Bulandshahr-353910",
+        "Coordinate": [
+            918,
+            1525,
+            2275,
+            1737
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9868081411",
+        "Coordinate": [
+            1867,
+            1793,
+            2296,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7942978845",
+        "Coordinate": [
+            891,
+            1789,
+            1358,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            908,
+            1930,
+            1690,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lopa Chokshi - 8547494876",
+        "Coordinate": [
+            944,
+            2036,
+            2104,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Inaya Bala - 9704749913",
+        "Coordinate": [
+            960,
+            2176,
+            2104,
+            2299
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "529000000000.0",
+        "Coordinate": [
+            604,
+            2373,
+            1180,
+            2456
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            615,
+            2466,
+            915,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/16/2022",
+        "Coordinate": [
+            626,
+            2559,
+            1044,
+            2654
+        ]
+    }
+]

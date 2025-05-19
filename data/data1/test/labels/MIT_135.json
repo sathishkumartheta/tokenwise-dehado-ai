@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Siddharth Varma",
+        "Coordinate": [
+            921,
+            432,
+            1554,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Varma",
+        "Coordinate": [
+            930,
+            534,
+            1536,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/19/1977",
+        "Coordinate": [
+            1001,
+            636,
+            1411,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            1011,
+            731,
+            1327,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            976,
+            837,
+            1284,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1843,
+            847,
+            2047,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            945,
+            2115,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            1055,
+            938,
+            1185,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Singh PLC",
+        "Coordinate": [
+            1100,
+            1053,
+            1967,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Nadig Group",
+        "Coordinate": [
+            1108,
+            1158,
+            2124,
+            1288
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17/13, Taneja Path, Rourkela-563718",
+        "Coordinate": [
+            980,
+            1312,
+            2290,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 04, Ratti, Tiruchirappalli-954198",
+        "Coordinate": [
+            944,
+            1570,
+            2305,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9807349193",
+        "Coordinate": [
+            1859,
+            1804,
+            2258,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8002338456",
+        "Coordinate": [
+            922,
+            1811,
+            1319,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam, Kannada, Marathi",
+        "Coordinate": [
+            908,
+            1930,
+            2278,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Prisha Kadakia - 8857880575",
+        "Coordinate": [
+            959,
+            2047,
+            2092,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faraj Mittal - 9995062971",
+        "Coordinate": [
+            974,
+            2184,
+            2102,
+            2307
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "441000000000.0",
+        "Coordinate": [
+            594,
+            2384,
+            1115,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            596,
+            2478,
+            912,
+            2573
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/16/2024",
+        "Coordinate": [
+            586,
+            2572,
+            1041,
+            2662
+        ]
+    }
+]

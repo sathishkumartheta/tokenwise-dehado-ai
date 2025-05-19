@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alka Upadhyay",
+        "Coordinate": [
+            917,
+            417,
+            1601,
+            516
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fiyaz Upadhyay",
+        "Coordinate": [
+            920,
+            523,
+            1753,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/15/2006",
+        "Coordinate": [
+            944,
+            621,
+            1427,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            962,
+            724,
+            1353,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            999,
+            824,
+            1336,
+            917
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1823,
+            818,
+            2155,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1870,
+            924,
+            2197,
+            1014
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1015,
+            923,
+            1143,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Ravi  Tara and Chada",
+        "Coordinate": [
+            1003,
+            1021,
+            2441,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Jhaveri  Raj and Anand",
+        "Coordinate": [
+            977,
+            1132,
+            2480,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "46/92, Prabhakar Nagar, Parbhani 132495",
+        "Coordinate": [
+            946,
+            1252,
+            2119,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 00, Chokshi Zila, Jalna 175808",
+        "Coordinate": [
+            931,
+            1505,
+            2203,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7974723740",
+        "Coordinate": [
+            1900,
+            1776,
+            2400,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9319521618",
+        "Coordinate": [
+            895,
+            1777,
+            1379,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Hindi, Tamil, Kannada",
+        "Coordinate": [
+            907,
+            1917,
+            2378,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tarak Viswanathan - 7302805223",
+        "Coordinate": [
+            959,
+            2021,
+            2410,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavika Kumer - 9095099211",
+        "Coordinate": [
+            969,
+            2149,
+            2367,
+            2256
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "345000000000.0",
+        "Coordinate": [
+            632,
+            2354,
+            1311,
+            2442
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            686,
+            2449,
+            1043,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/27/2022",
+        "Coordinate": [
+            648,
+            2540,
+            1279,
+            2641
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yagnesh Trivedi",
+        "Coordinate": [
+            895,
+            480,
+            1402,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Girindra Trivedi",
+        "Coordinate": [
+            910,
+            581,
+            1458,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/31/1968",
+        "Coordinate": [
+            905,
+            661,
+            1266,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            870,
+            755,
+            1234,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            851,
+            1238,
+            938
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1735,
+            846,
+            1938,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            915,
+            956,
+            1066,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Thaman  Mangal and Naidu",
+        "Coordinate": [
+            970,
+            1046,
+            2302,
+            1154
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1770,
+            946,
+            2090,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Verma Inc",
+        "Coordinate": [
+            965,
+            1176,
+            1770,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/040, Kar Nagar, Hosur-017215",
+        "Coordinate": [
+            900,
+            1306,
+            2114,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/400, Nadkarni Nagar, Kulti 222649",
+        "Coordinate": [
+            915,
+            1521,
+            2178,
+            1734
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8631724746",
+        "Coordinate": [
+            910,
+            1766,
+            1326,
+            1890
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7245744378",
+        "Coordinate": [
+            1814,
+            1776,
+            2254,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Kannada",
+        "Coordinate": [
+            950,
+            1895,
+            1850,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Timothy Dugal - 7383944627",
+        "Coordinate": [
+            1015,
+            2001,
+            2018,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Noah Mishra - 8577641084",
+        "Coordinate": [
+            1050,
+            2125,
+            2082,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            645,
+            2396,
+            990,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/26/2025",
+        "Coordinate": [
+            650,
+            2511,
+            1082,
+            2594
+        ]
+    }
+]

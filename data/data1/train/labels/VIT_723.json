@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Adya Konda",
+        "Coordinate": [
+            905,
+            420,
+            1274,
+            506
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandran Konda",
+        "Coordinate": [
+            896,
+            512,
+            1358,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-12-2004",
+        "Coordinate": [
+            894,
+            620,
+            1227,
+            704
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            913,
+            713,
+            1158,
+            801
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            907,
+            821,
+            1097,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1708,
+            817,
+            1905,
+            894
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1794,
+            921,
+            1976,
+            990
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            910,
+            920,
+            1189,
+            1006
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sunder-Nagarajan",
+        "Coordinate": [
+            970,
+            1017,
+            1800,
+            1118
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Atwal-Amble",
+        "Coordinate": [
+            1000,
+            1134,
+            1750,
+            1227
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "91/765, Ghosh Ganj, Tirupati 438715",
+        "Coordinate": [
+            872,
+            1248,
+            1996,
+            1365
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 74, D\u2019Alia Marg, Kirari Suleman Nagar 870272",
+        "Coordinate": [
+            886,
+            1505,
+            2134,
+            1738
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7835156666",
+        "Coordinate": [
+            1878,
+            1786,
+            2234,
+            1864
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9149122778",
+        "Coordinate": [
+            898,
+            1791,
+            1244,
+            1887
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Telugu, English",
+        "Coordinate": [
+            889,
+            1928,
+            1626,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bachittar Kumar - 9002660664",
+        "Coordinate": [
+            959,
+            2031,
+            1776,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chakradhar Khanna - 8698711746",
+        "Coordinate": [
+            963,
+            2153,
+            2008,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "880000000000.0",
+        "Coordinate": [
+            611,
+            2369,
+            1041,
+            2442
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            600,
+            2464,
+            826,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/27/2023",
+        "Coordinate": [
+            607,
+            2559,
+            990,
+            2638
+        ]
+    }
+]

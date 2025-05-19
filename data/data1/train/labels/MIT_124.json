@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lopa Johal",
+        "Coordinate": [
+            878,
+            431,
+            1208,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Johal",
+        "Coordinate": [
+            876,
+            533,
+            1305,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/18/2001",
+        "Coordinate": [
+            907,
+            635,
+            1211,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            901,
+            729,
+            1390,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            885,
+            842,
+            1169,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            826,
+            2047,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            947,
+            2083,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            962,
+            943,
+            1072,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhakta-Varma",
+        "Coordinate": [
+            964,
+            1044,
+            1955,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Patla  Behl and Choudhry",
+        "Coordinate": [
+            961,
+            1147,
+            2311,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "90, Peri Path, Karaikudi-832538",
+        "Coordinate": [
+            894,
+            1278,
+            2067,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "93/355, Thakur Road, Bally 155778",
+        "Coordinate": [
+            896,
+            1541,
+            2212,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9207262041",
+        "Coordinate": [
+            1862,
+            1799,
+            2241,
+            1878
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7215734720",
+        "Coordinate": [
+            908,
+            1808,
+            1342,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Malayalam",
+        "Coordinate": [
+            894,
+            1938,
+            1489,
+            2041
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upma Wali - 9558614847",
+        "Coordinate": [
+            969,
+            2056,
+            1835,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Siya Pillai - 9656492145",
+        "Coordinate": [
+            961,
+            2190,
+            1861,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "412000000000.0",
+        "Coordinate": [
+            591,
+            2379,
+            1100,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            602,
+            2471,
+            821,
+            2554
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2022",
+        "Coordinate": [
+            601,
+            2565,
+            999,
+            2656
+        ]
+    }
+]

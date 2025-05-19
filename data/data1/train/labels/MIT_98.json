@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lila Wadhwa",
+        "Coordinate": [
+            875,
+            394,
+            1321,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anmol Wadhwa",
+        "Coordinate": [
+            883,
+            489,
+            1390,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-11-1964",
+        "Coordinate": [
+            889,
+            592,
+            1213,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            890,
+            686,
+            1215,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            797,
+            1153,
+            893
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1738,
+            789,
+            1981,
+            887
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            896,
+            2069,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            933,
+            902,
+            1088,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Brahmbhatt-Kalita",
+        "Coordinate": [
+            975,
+            979,
+            2116,
+            1091
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Chatterjee  Chaudhuri and Kashyap",
+        "Coordinate": [
+            969,
+            1093,
+            2258,
+            1221
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "839, Sagar Street, Gangtok-761228",
+        "Coordinate": [
+            893,
+            1258,
+            2224,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "28/975, Nair Path, Haridwar-593983",
+        "Coordinate": [
+            884,
+            1468,
+            2267,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9868001953",
+        "Coordinate": [
+            1856,
+            1743,
+            2308,
+            1839
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8511823775",
+        "Coordinate": [
+            890,
+            1757,
+            1335,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            892,
+            1893,
+            1466,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aachal Parsa - 8591773313",
+        "Coordinate": [
+            963,
+            1997,
+            1994,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sara Ranganathan - 9195067631",
+        "Coordinate": [
+            968,
+            2121,
+            2086,
+            2247
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SEROJ3326J",
+        "Coordinate": [
+            1644,
+            2329,
+            2131,
+            2417
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            635,
+            2422,
+            877,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-02-2025",
+        "Coordinate": [
+            612,
+            2517,
+            1044,
+            2602
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Charvi Sha",
+        "Coordinate": [
+            894,
+            387,
+            1294,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ranveer Sha",
+        "Coordinate": [
+            920,
+            487,
+            1359,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/13/1982",
+        "Coordinate": [
+            938,
+            589,
+            1273,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            913,
+            685,
+            1069,
+            771
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            781,
+            1177,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1756,
+            780,
+            1974,
+            868
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            886,
+            2078,
+            981
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            935,
+            886,
+            1074,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Singh Inc",
+        "Coordinate": [
+            988,
+            985,
+            1710,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mukherjee-Seth",
+        "Coordinate": [
+            965,
+            1093,
+            1953,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 029, Toor Nagar, Coimbatore-749680",
+        "Coordinate": [
+            864,
+            1221,
+            2156,
+            1358
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "87/274, Baral Street, Ghaziabad 612137",
+        "Coordinate": [
+            848,
+            1468,
+            2103,
+            1668
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7123433725",
+        "Coordinate": [
+            1831,
+            1747,
+            2238,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8459840469",
+        "Coordinate": [
+            881,
+            1753,
+            1304,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Malayalam, Marathi",
+        "Coordinate": [
+            860,
+            1883,
+            2136,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zaid Ahluwalia - 9167110267",
+        "Coordinate": [
+            918,
+            1998,
+            1910,
+            2101
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Patrick Puri - 8519227836",
+        "Coordinate": [
+            967,
+            2121,
+            1988,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "489000000000.0",
+        "Coordinate": [
+            592,
+            2328,
+            1050,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            598,
+            2417,
+            863,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/18/2024",
+        "Coordinate": [
+            610,
+            2512,
+            1002,
+            2600
+        ]
+    }
+]

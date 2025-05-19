@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balendra Varughese",
+        "Coordinate": [
+            902,
+            472,
+            1713,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Varughese",
+        "Coordinate": [
+            908,
+            575,
+            1692,
+            688
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/13/2005",
+        "Coordinate": [
+            911,
+            674,
+            1397,
+            764
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            913,
+            758,
+            1275,
+            872
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            914,
+            873,
+            1258,
+            983
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1890,
+            867,
+            2081,
+            964
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            971,
+            2142,
+            1040
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            930,
+            980,
+            1110,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Mani  Raval and Bahri",
+        "Coordinate": [
+            1006,
+            1065,
+            2272,
+            1197
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Randhawa-Doctor",
+        "Coordinate": [
+            1007,
+            1170,
+            2237,
+            1310
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 05, Parmer Marg, Eluru-691343",
+        "Coordinate": [
+            931,
+            1304,
+            2297,
+            1474
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 80, Nagarajan Street, Gulbarga 974760",
+        "Coordinate": [
+            916,
+            1532,
+            2258,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7747008233",
+        "Coordinate": [
+            926,
+            1784,
+            1366,
+            1903
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9723823119",
+        "Coordinate": [
+            1815,
+            1799,
+            2280,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Telugu, English",
+        "Coordinate": [
+            942,
+            1904,
+            2265,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chameli Bhardwaj - 7123337639",
+        "Coordinate": [
+            972,
+            2027,
+            2164,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manan Lata - 9125009582",
+        "Coordinate": [
+            970,
+            2145,
+            2063,
+            2252
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            633,
+            2396,
+            1017,
+            2533
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/2/2025",
+        "Coordinate": [
+            640,
+            2518,
+            1174,
+            2616
+        ]
+    }
+]

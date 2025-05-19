@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Alka Sarna",
+        "Coordinate": [
+            889,
+            430,
+            1430,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balendra Sarna",
+        "Coordinate": [
+            918,
+            528,
+            1629,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/28/1993",
+        "Coordinate": [
+            905,
+            631,
+            1460,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            903,
+            733,
+            1564,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            902,
+            833,
+            1270,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1745,
+            825,
+            2024,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            938,
+            2205,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            937,
+            937,
+            1118,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Bobal-Sant",
+        "Coordinate": [
+            994,
+            1037,
+            2086,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Maharaj  Srivastava and Sule",
+        "Coordinate": [
+            981,
+            1145,
+            2332,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 032, Dara Ganj, Rewa-025461",
+        "Coordinate": [
+            899,
+            1268,
+            2307,
+            1491
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 46, Saini, Ambarnath-441832",
+        "Coordinate": [
+            904,
+            1536,
+            2329,
+            1758
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7964610473",
+        "Coordinate": [
+            1875,
+            1804,
+            2360,
+            1937
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7262617421",
+        "Coordinate": [
+            883,
+            1808,
+            1373,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Tamil",
+        "Coordinate": [
+            898,
+            1939,
+            2122,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurang Khurana - 9571439480",
+        "Coordinate": [
+            962,
+            2043,
+            2347,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Joshua Magar - 7080405438",
+        "Coordinate": [
+            995,
+            2184,
+            2321,
+            2317
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "733000000000.0",
+        "Coordinate": [
+            615,
+            2383,
+            1203,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            603,
+            2477,
+            905,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/24/2023",
+        "Coordinate": [
+            649,
+            2570,
+            1186,
+            2669
+        ]
+    }
+]

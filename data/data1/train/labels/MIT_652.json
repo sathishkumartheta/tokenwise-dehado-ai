@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Taneja",
+        "Coordinate": [
+            881,
+            444,
+            1251,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gaurang Taneja",
+        "Coordinate": [
+            878,
+            548,
+            1442,
+            656
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-03-1992",
+        "Coordinate": [
+            883,
+            649,
+            1178,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            881,
+            754,
+            1202,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            857,
+            1173,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1847,
+            844,
+            2047,
+            941
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            954,
+            2145,
+            1053
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            891,
+            957,
+            992,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Shenoy-Sane",
+        "Coordinate": [
+            991,
+            1052,
+            1896,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Tailor  Soni and Sura",
+        "Coordinate": [
+            997,
+            1158,
+            2154,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 86, Joshi Zila, Hubli\u2013Dharwad 491953",
+        "Coordinate": [
+            887,
+            1285,
+            2301,
+            1414
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "672, Iyer Ganj, Unnao 150011",
+        "Coordinate": [
+            890,
+            1538,
+            1779,
+            1675
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9114825004",
+        "Coordinate": [
+            1871,
+            1805,
+            2249,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9219122770",
+        "Coordinate": [
+            881,
+            1812,
+            1314,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            886,
+            1957,
+            1328,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Udarsh Cherian - 9455964889",
+        "Coordinate": [
+            965,
+            2066,
+            1885,
+            2183
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Darika Vora - 9889606967",
+        "Coordinate": [
+            959,
+            2194,
+            1791,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "561000000000.0",
+        "Coordinate": [
+            604,
+            2403,
+            1053,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            600,
+            2491,
+            987,
+            2584
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-09-2025",
+        "Coordinate": [
+            605,
+            2581,
+            1047,
+            2671
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wahab Bhavsar",
+        "Coordinate": [
+            895,
+            396,
+            1523,
+            493
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarnav Bhavsar",
+        "Coordinate": [
+            905,
+            501,
+            1570,
+            593
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/17/1980",
+        "Coordinate": [
+            923,
+            597,
+            1282,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            950,
+            701,
+            1276,
+            789
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            804,
+            1233,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1832,
+            799,
+            2017,
+            884
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1876,
+            918,
+            2126,
+            989
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1013,
+            904,
+            1177,
+            988
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Guha  Iyengar and Chandra",
+        "Coordinate": [
+            992,
+            993,
+            2376,
+            1111
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Shanker  Narayanan and Chandra",
+        "Coordinate": [
+            1002,
+            1116,
+            2373,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "21/58, Pai Ganj, Nellore 469459",
+        "Coordinate": [
+            899,
+            1271,
+            2017,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/19, Chauhan Street, Parbhani-491289",
+        "Coordinate": [
+            919,
+            1488,
+            2306,
+            1636
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8935144750",
+        "Coordinate": [
+            1889,
+            1746,
+            2315,
+            1841
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8437319538",
+        "Coordinate": [
+            903,
+            1753,
+            1336,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Gujarati, Marathi",
+        "Coordinate": [
+            968,
+            1887,
+            2236,
+            2003
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ganga Malhotra - 8397652421",
+        "Coordinate": [
+            997,
+            2010,
+            2098,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shaurya Ganguly - 9742780862",
+        "Coordinate": [
+            1009,
+            2135,
+            2128,
+            2260
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VEWRG7161R",
+        "Coordinate": [
+            1652,
+            2337,
+            2158,
+            2435
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            615,
+            2418,
+            883,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/16/2023",
+        "Coordinate": [
+            599,
+            2512,
+            1052,
+            2600
+        ]
+    }
+]

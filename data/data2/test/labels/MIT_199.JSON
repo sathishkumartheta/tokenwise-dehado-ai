@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Urmi Kashyap",
+        "Coordinate": [
+            882,
+            400,
+            1448,
+            497
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chandran Kashyap",
+        "Coordinate": [
+            885,
+            505,
+            1652,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/2/1967",
+        "Coordinate": [
+            911,
+            601,
+            1253,
+            686
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            891,
+            698,
+            1056,
+            792
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            889,
+            803,
+            1228,
+            892
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1806,
+            801,
+            2090,
+            898
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1802,
+            915,
+            2122,
+            994
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            942,
+            903,
+            1084,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dani  Ramanathan and Lad",
+        "Coordinate": [
+            944,
+            993,
+            2237,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Dutt  Naidu and Jani",
+        "Coordinate": [
+            925,
+            1107,
+            2176,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 609, Bala Street, Aurangabad 027523",
+        "Coordinate": [
+            886,
+            1242,
+            2134,
+            1359
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "836, Behl Road, Gwalior-091179",
+        "Coordinate": [
+            867,
+            1466,
+            2106,
+            1591
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8092021221",
+        "Coordinate": [
+            1644,
+            1780,
+            2082,
+            1887
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9477258838",
+        "Coordinate": [
+            868,
+            1749,
+            1298,
+            1844
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, English",
+        "Coordinate": [
+            869,
+            1894,
+            1539,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hredhaan Dhar - 9886918001",
+        "Coordinate": [
+            965,
+            2002,
+            2063,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Adweta Gole - 7901573183",
+        "Coordinate": [
+            943,
+            2143,
+            1959,
+            2260
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "535042000000",
+        "Coordinate": [
+            588,
+            2337,
+            1108,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            646,
+            2428,
+            957,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/12/2025",
+        "Coordinate": [
+            609,
+            2524,
+            1036,
+            2613
+        ]
+    }
+]

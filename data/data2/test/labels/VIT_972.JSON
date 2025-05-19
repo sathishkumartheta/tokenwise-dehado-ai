@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wahab Magar",
+        "Coordinate": [
+            890,
+            417,
+            1355,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laban Magar",
+        "Coordinate": [
+            895,
+            507,
+            1342,
+            597
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1969",
+        "Coordinate": [
+            910,
+            615,
+            1245,
+            690
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            915,
+            722,
+            1235,
+            800
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            827,
+            1197,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1795,
+            815,
+            1975,
+            905
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            925,
+            2052,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            962,
+            915,
+            1092,
+            992
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dhillon Inc",
+        "Coordinate": [
+            1005,
+            1020,
+            1885,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mitra and Sons",
+        "Coordinate": [
+            1007,
+            1132,
+            2085,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "819, Kaul Nagar, Raiganj 175102",
+        "Coordinate": [
+            915,
+            1290,
+            2060,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "85/083, Ganguly Ganj, Salem 453513",
+        "Coordinate": [
+            940,
+            1532,
+            2322,
+            1707
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8926876344",
+        "Coordinate": [
+            912,
+            1795,
+            1345,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8712255291",
+        "Coordinate": [
+            1875,
+            1802,
+            2287,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu",
+        "Coordinate": [
+            915,
+            1932,
+            1372,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pooja Jaggi - 9783890224",
+        "Coordinate": [
+            1000,
+            2037,
+            1997,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Umang Bhatti - 8271353003",
+        "Coordinate": [
+            1000,
+            2167,
+            2062,
+            2265
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "869562000000",
+        "Coordinate": [
+            610,
+            2365,
+            1150,
+            2450
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            605,
+            2462,
+            1005,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/15/2024",
+        "Coordinate": [
+            647,
+            2555,
+            1065,
+            2657
+        ]
+    }
+]

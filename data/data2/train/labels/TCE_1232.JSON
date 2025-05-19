@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warda Guha",
+        "Coordinate": [
+            906,
+            471,
+            1316,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayush Guha",
+        "Coordinate": [
+            906,
+            574,
+            1356,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/7/1994",
+        "Coordinate": [
+            917,
+            674,
+            1274,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            916,
+            761,
+            1271,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            950,
+            861,
+            1143,
+            964
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1723,
+            847,
+            1948,
+            940
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            923,
+            964,
+            1028,
+            1031
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            954,
+            1999,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Master Inc",
+        "Coordinate": [
+            963,
+            1054,
+            1860,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Gole-Kapoor",
+        "Coordinate": [
+            983,
+            1167,
+            1908,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45, Prasad Road, Mango-301654",
+        "Coordinate": [
+            903,
+            1290,
+            2004,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 78, Prabhu Zila, Bidar-551728",
+        "Coordinate": [
+            903,
+            1534,
+            2172,
+            1636
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9714642459",
+        "Coordinate": [
+            910,
+            1794,
+            1346,
+            1887
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8830967222",
+        "Coordinate": [
+            1840,
+            1774,
+            2261,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Telugu",
+        "Coordinate": [
+            939,
+            1921,
+            1782,
+            2012
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zashil Dube - 9026813581",
+        "Coordinate": [
+            983,
+            2020,
+            1959,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tarak Saraf - 7589727630",
+        "Coordinate": [
+            993,
+            2157,
+            2058,
+            2262
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            646,
+            2430,
+            852,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/9/2022",
+        "Coordinate": [
+            623,
+            2521,
+            1018,
+            2612
+        ]
+    }
+]

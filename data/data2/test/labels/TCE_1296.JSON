@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Om Pall",
+        "Coordinate": [
+            915,
+            472,
+            1204,
+            552
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jonathan Pall",
+        "Coordinate": [
+            907,
+            576,
+            1429,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/20/1970",
+        "Coordinate": [
+            912,
+            669,
+            1313,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            919,
+            759,
+            1460,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            863,
+            1219,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            843,
+            1961,
+            915
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            915,
+            960,
+            1052,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            955,
+            2105,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Korpal  Pillai and Vala",
+        "Coordinate": [
+            993,
+            1049,
+            2171,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Srinivas  Kumar and Gera",
+        "Coordinate": [
+            999,
+            1156,
+            2289,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/80, Manda Path, Gudivada 898301",
+        "Coordinate": [
+            950,
+            1299,
+            2274,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07/53, Karnik, Gandhinagar-600427",
+        "Coordinate": [
+            935,
+            1540,
+            2181,
+            1660
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9309953834",
+        "Coordinate": [
+            916,
+            1795,
+            1353,
+            1888
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9801424301",
+        "Coordinate": [
+            1850,
+            1773,
+            2265,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Marathi",
+        "Coordinate": [
+            933,
+            1912,
+            1855,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yutika Khatri - 9479951711",
+        "Coordinate": [
+            985,
+            2011,
+            1901,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gautami Manne - 8743939506",
+        "Coordinate": [
+            986,
+            2139,
+            2054,
+            2221
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            638,
+            2431,
+            913,
+            2498
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/9/2023",
+        "Coordinate": [
+            638,
+            2513,
+            1023,
+            2588
+        ]
+    }
+]

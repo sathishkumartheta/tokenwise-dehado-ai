@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            644,
+            2420,
+            928,
+            2489
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/1/2025",
+        "Coordinate": [
+            632,
+            2492,
+            1076,
+            2585
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hemal Madan - 9881882029",
+        "Coordinate": [
+            948,
+            2118,
+            2058,
+            2219
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Fitan Majumdar - 9707853022",
+        "Coordinate": [
+            968,
+            2008,
+            2152,
+            2113
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, English",
+        "Coordinate": [
+            912,
+            1905,
+            1546,
+            2004
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7443740889",
+        "Coordinate": [
+            1656,
+            1813,
+            2146,
+            1904
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9828360815",
+        "Coordinate": [
+            900,
+            1794,
+            1336,
+            1881
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 939, Lala Chowk, Indore-936778",
+        "Coordinate": [
+            913,
+            1522,
+            2270,
+            1689
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "92/424, Garde Zila, Kamarhati 975228",
+        "Coordinate": [
+            902,
+            1290,
+            2268,
+            1499
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Tripathi Ltd",
+        "Coordinate": [
+            988,
+            1176,
+            2152,
+            1273
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Shan and Sons",
+        "Coordinate": [
+            979,
+            1046,
+            2242,
+            1141
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            956,
+            2140,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1746,
+            850,
+            2090,
+            919
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            958,
+            860,
+            1222,
+            939
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            988,
+            958,
+            1106,
+            1013
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            958,
+            766,
+            1326,
+            825
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/6/2005",
+        "Coordinate": [
+            912,
+            660,
+            1290,
+            741
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laban Mody",
+        "Coordinate": [
+            928,
+            576,
+            1420,
+            653
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Jalsa Mody",
+        "Coordinate": [
+            916,
+            488,
+            1404,
+            555
+        ]
+    }
+]

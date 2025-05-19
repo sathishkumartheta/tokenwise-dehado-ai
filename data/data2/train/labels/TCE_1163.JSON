@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanmayi Basu",
+        "Coordinate": [
+            923,
+            474,
+            1492,
+            592
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Basu",
+        "Coordinate": [
+            906,
+            584,
+            1444,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/24/1988",
+        "Coordinate": [
+            932,
+            688,
+            1295,
+            779
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            916,
+            788,
+            1100,
+            871
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            876,
+            1251,
+            971
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            954,
+            978,
+            1084,
+            1078
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1773,
+            864,
+            2030,
+            958
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            960,
+            2108,
+            1056
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Thakur-Nigam",
+        "Coordinate": [
+            965,
+            1061,
+            2143,
+            1165
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sachdev  Sha and Sarraf",
+        "Coordinate": [
+            968,
+            1184,
+            2300,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "24/975, Kadakia Ganj, Ambattur 199932",
+        "Coordinate": [
+            906,
+            1288,
+            1935,
+            1513
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "861, Sarma Path, Mira-Bhayandar-683780",
+        "Coordinate": [
+            918,
+            1536,
+            1991,
+            1760
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9873946699",
+        "Coordinate": [
+            904,
+            1819,
+            1342,
+            1913
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7490451289",
+        "Coordinate": [
+            1661,
+            1848,
+            2218,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, English, Marathi",
+        "Coordinate": [
+            904,
+            1937,
+            2241,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Siya Buch - 8891670169",
+        "Coordinate": [
+            967,
+            2032,
+            1875,
+            2153
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Elijah Sant - 9029242971",
+        "Coordinate": [
+            979,
+            2167,
+            2036,
+            2285
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            658,
+            2450,
+            905,
+            2543
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/14/2023",
+        "Coordinate": [
+            666,
+            2542,
+            1155,
+            2668
+        ]
+    }
+]

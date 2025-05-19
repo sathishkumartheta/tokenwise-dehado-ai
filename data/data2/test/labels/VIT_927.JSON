@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Eshana Sami",
+        "Coordinate": [
+            888,
+            430,
+            1386,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samar Sami",
+        "Coordinate": [
+            878,
+            552,
+            1334,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/26/1989",
+        "Coordinate": [
+            908,
+            646,
+            1330,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            740,
+            1440,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            836,
+            1180,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            894,
+            924,
+            1052,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            820,
+            2048,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            939,
+            2072,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Tripathi-Bal",
+        "Coordinate": [
+            990,
+            1042,
+            1932,
+            1174
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Lanka  Bawa and Munshi",
+        "Coordinate": [
+            988,
+            1176,
+            2316,
+            1310
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "03, Samra Ganj, Tirunelveli-532065",
+        "Coordinate": [
+            902,
+            1310,
+            2356,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "614, Misra Ganj, Dhule 152431",
+        "Coordinate": [
+            902,
+            1536,
+            2194,
+            1688
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8296018848",
+        "Coordinate": [
+            902,
+            1830,
+            1352,
+            1936
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Gujarati",
+        "Coordinate": [
+            908,
+            1944,
+            1930,
+            2050
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8358442016",
+        "Coordinate": [
+            1882,
+            1791,
+            2354,
+            1899
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dhruv Nayak - 7943973068",
+        "Coordinate": [
+            970,
+            2058,
+            2108,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yug Balan - 7449290957",
+        "Coordinate": [
+            1026,
+            2184,
+            2066,
+            2314
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            602,
+            2472,
+            890,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/15/2025",
+        "Coordinate": [
+            640,
+            2574,
+            1088,
+            2674
+        ]
+    }
+]

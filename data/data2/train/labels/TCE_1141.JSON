@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kala Ganesan",
+        "Coordinate": [
+            936,
+            462,
+            1453,
+            556
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Viraj Ganesan",
+        "Coordinate": [
+            930,
+            559,
+            1460,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/4/1984",
+        "Coordinate": [
+            944,
+            657,
+            1280,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            936,
+            754,
+            1400,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            930,
+            847,
+            1256,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1748,
+            835,
+            1993,
+            924
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            946,
+            944,
+            1059,
+            1040
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1785,
+            942,
+            2059,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Butala-Bobal",
+        "Coordinate": [
+            1003,
+            1036,
+            2277,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Nagy  Sandhu and Patla",
+        "Coordinate": [
+            1005,
+            1155,
+            2196,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01, Rajagopal Path, Pali-998180",
+        "Coordinate": [
+            942,
+            1317,
+            2262,
+            1457
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "92, Bath Nagar, Rohtak 316460",
+        "Coordinate": [
+            923,
+            1515,
+            2268,
+            1686
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8205034844",
+        "Coordinate": [
+            884,
+            1781,
+            1343,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7650127355",
+        "Coordinate": [
+            1829,
+            1783,
+            2290,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, Malayalam",
+        "Coordinate": [
+            918,
+            1905,
+            2167,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Neelima More - 9548648762",
+        "Coordinate": [
+            967,
+            2010,
+            1929,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Naveen Khare - 7854381085",
+        "Coordinate": [
+            979,
+            2149,
+            2218,
+            2269
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            621,
+            2407,
+            932,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/27/2023",
+        "Coordinate": [
+            608,
+            2507,
+            1052,
+            2597
+        ]
+    }
+]

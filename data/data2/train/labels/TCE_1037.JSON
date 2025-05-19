@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "11/20/2022",
+        "Coordinate": [
+            648,
+            2518,
+            1032,
+            2597
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            632,
+            2424,
+            964,
+            2515
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rohan Golla - 7612700669",
+        "Coordinate": [
+            1000,
+            2150,
+            1948,
+            2251
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dayamai Raju - 8477403753",
+        "Coordinate": [
+            1028,
+            2058,
+            2000,
+            2137
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Kannada, English, Telugu",
+        "Coordinate": [
+            934,
+            1914,
+            2024,
+            1997
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9743106857",
+        "Coordinate": [
+            1782,
+            1826,
+            2168,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7646498688",
+        "Coordinate": [
+            892,
+            1776,
+            1280,
+            1895
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "81/330, Yogi, Navi Mumbai-523780",
+        "Coordinate": [
+            926,
+            1538,
+            2102,
+            1711
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 32, Chaudhuri Zila, Amaravati 266237",
+        "Coordinate": [
+            950,
+            1320,
+            2214,
+            1481
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Tank-Bobal",
+        "Coordinate": [
+            1034,
+            1164,
+            1804,
+            1257
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Shah Group",
+        "Coordinate": [
+            1004,
+            1058,
+            1662,
+            1135
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1872,
+            960,
+            2128,
+            1025
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1840,
+            846,
+            2098,
+            943
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            932,
+            978,
+            1050,
+            1035
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            856,
+            1236,
+            967
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            940,
+            762,
+            1244,
+            857
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/1961",
+        "Coordinate": [
+            922,
+            680,
+            1314,
+            771
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "David Badami",
+        "Coordinate": [
+            932,
+            580,
+            1388,
+            673
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Badami",
+        "Coordinate": [
+            910,
+            482,
+            1390,
+            569
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fiyaz Dhingra",
+        "Coordinate": [
+            889,
+            388,
+            1325,
+            490
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Darsh Dhingra",
+        "Coordinate": [
+            898,
+            491,
+            1351,
+            588
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/16/1962",
+        "Coordinate": [
+            898,
+            593,
+            1217,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            897,
+            684,
+            1042,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            898,
+            791,
+            1096,
+            895
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1732,
+            778,
+            1909,
+            854
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            884,
+            2037,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            902,
+            894,
+            1018,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Aurora and Sons",
+        "Coordinate": [
+            948,
+            983,
+            1839,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Gill Inc",
+        "Coordinate": [
+            958,
+            1101,
+            1589,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/766, Bath Zila, Danapur 610814",
+        "Coordinate": [
+            880,
+            1243,
+            1960,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "14, Keer Nagar, Imphal-198074",
+        "Coordinate": [
+            876,
+            1493,
+            1855,
+            1634
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9634261663",
+        "Coordinate": [
+            1856,
+            1745,
+            2211,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8595810356",
+        "Coordinate": [
+            873,
+            1754,
+            1245,
+            1854
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Marathi",
+        "Coordinate": [
+            877,
+            1888,
+            1567,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lakshit Hayer - 7298893355",
+        "Coordinate": [
+            924,
+            2007,
+            1731,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Rege - 9729450307",
+        "Coordinate": [
+            942,
+            2141,
+            1782,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "324000000000.0",
+        "Coordinate": [
+            591,
+            2328,
+            1061,
+            2412
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            574,
+            2423,
+            804,
+            2510
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2022",
+        "Coordinate": [
+            583,
+            2515,
+            940,
+            2601
+        ]
+    }
+]

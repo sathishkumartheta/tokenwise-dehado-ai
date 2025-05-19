@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Azad Rastogi",
+        "Coordinate": [
+            886,
+            398,
+            1293,
+            494
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jatin Rastogi",
+        "Coordinate": [
+            880,
+            500,
+            1285,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-09-1995",
+        "Coordinate": [
+            894,
+            598,
+            1132,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            891,
+            701,
+            1008,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            798,
+            1130,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1781,
+            784,
+            1941,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            893,
+            2043,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            897,
+            894,
+            992,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Swaminathan-Sharma",
+        "Coordinate": [
+            954,
+            979,
+            2078,
+            1081
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Baral-Chand",
+        "Coordinate": [
+            954,
+            1093,
+            1765,
+            1196
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 46, Gill, Kulti 967629",
+        "Coordinate": [
+            901,
+            1238,
+            1767,
+            1347
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/248, Bhavsar Road, Kumbakonam 815118",
+        "Coordinate": [
+            873,
+            1462,
+            2299,
+            1587
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8352014246",
+        "Coordinate": [
+            1853,
+            1747,
+            2230,
+            1828
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8076414647",
+        "Coordinate": [
+            880,
+            1742,
+            1253,
+            1818
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi",
+        "Coordinate": [
+            869,
+            1888,
+            1369,
+            1973
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nimrat Seshadri - 8271595694",
+        "Coordinate": [
+            945,
+            1993,
+            1939,
+            2089
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayyan Johal - 9446218853",
+        "Coordinate": [
+            960,
+            2119,
+            1930,
+            2214
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "764000000000.0",
+        "Coordinate": [
+            586,
+            2327,
+            1017,
+            2407
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            596,
+            2419,
+            804,
+            2500
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2025",
+        "Coordinate": [
+            597,
+            2512,
+            945,
+            2592
+        ]
+    }
+]

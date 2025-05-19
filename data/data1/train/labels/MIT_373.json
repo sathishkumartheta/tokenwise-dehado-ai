@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anika Khosla",
+        "Coordinate": [
+            900,
+            398,
+            1412,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balvan Khosla",
+        "Coordinate": [
+            894,
+            498,
+            1446,
+            585
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "09-04-1964",
+        "Coordinate": [
+            922,
+            593,
+            1271,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            901,
+            693,
+            1211,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            801,
+            1264,
+            888
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1838,
+            793,
+            2128,
+            876
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            899,
+            2139,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            917,
+            901,
+            1034,
+            982
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Pau  Wadhwa and Tata",
+        "Coordinate": [
+            974,
+            978,
+            2321,
+            1083
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bala-Prakash",
+        "Coordinate": [
+            965,
+            1097,
+            2073,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "69, Tata Road, Malda 945353",
+        "Coordinate": [
+            888,
+            1243,
+            2106,
+            1371
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/66, Thakkar, Rajkot-342125",
+        "Coordinate": [
+            884,
+            1476,
+            2200,
+            1609
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8216938653",
+        "Coordinate": [
+            1882,
+            1752,
+            2332,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8576321909",
+        "Coordinate": [
+            880,
+            1757,
+            1351,
+            1868
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati",
+        "Coordinate": [
+            876,
+            1890,
+            1682,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kala Bains - 9997977830",
+        "Coordinate": [
+            934,
+            2001,
+            2053,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurangi Mohan - 9081359564",
+        "Coordinate": [
+            970,
+            2124,
+            2248,
+            2234
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "907000000000.0",
+        "Coordinate": [
+            596,
+            2334,
+            1212,
+            2423
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            611,
+            2425,
+            901,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/31/2025",
+        "Coordinate": [
+            609,
+            2517,
+            1041,
+            2602
+        ]
+    }
+]

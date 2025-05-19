@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anamika Tripathi",
+        "Coordinate": [
+            974,
+            432,
+            1626,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Andrew Tripathi",
+        "Coordinate": [
+            992,
+            528,
+            1628,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/18/2004",
+        "Coordinate": [
+            1008,
+            635,
+            1393,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1008,
+            728,
+            1390,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1006,
+            833,
+            1283,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1822,
+            829,
+            2109,
+            922
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            938,
+            2155,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            1037,
+            938,
+            1199,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Joshi  Tandon and Ratti",
+        "Coordinate": [
+            1023,
+            1039,
+            2333,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Shanker  Khalsa and Venkatesh",
+        "Coordinate": [
+            968,
+            1145,
+            2348,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 61, Kala Marg, Panihati-383000",
+        "Coordinate": [
+            905,
+            1266,
+            2332,
+            1394
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "529, Kara Road, Pallavaram 179965",
+        "Coordinate": [
+            924,
+            1539,
+            2346,
+            1680
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8165003975",
+        "Coordinate": [
+            1869,
+            1804,
+            2346,
+            1923
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8937074824",
+        "Coordinate": [
+            912,
+            1805,
+            1343,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Telugu, English",
+        "Coordinate": [
+            928,
+            1939,
+            2173,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Odika Ram - 9514158737",
+        "Coordinate": [
+            976,
+            2047,
+            1905,
+            2157
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yauvani Taneja - 7126918077",
+        "Coordinate": [
+            1008,
+            2181,
+            2138,
+            2305
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "580000000000.0",
+        "Coordinate": [
+            614,
+            2383,
+            1129,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            725,
+            2477,
+            1020,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/25/2025",
+        "Coordinate": [
+            757,
+            2573,
+            1220,
+            2665
+        ]
+    }
+]

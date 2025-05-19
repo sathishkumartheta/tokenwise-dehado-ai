@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Utkarsh Mammen",
+        "Coordinate": [
+            942,
+            488,
+            1810,
+            569
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Omkaar Mammen",
+        "Coordinate": [
+            956,
+            588,
+            1734,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/1/1962",
+        "Coordinate": [
+            954,
+            680,
+            1324,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            948,
+            776,
+            1348,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            948,
+            884,
+            1242,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            946,
+            956,
+            1180,
+            1049
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1748,
+            828,
+            1998,
+            959
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            956,
+            2134,
+            1061
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mandal-Khare",
+        "Coordinate": [
+            1005,
+            1082,
+            2037,
+            1157
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sastry Inc",
+        "Coordinate": [
+            976,
+            1182,
+            2006,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "844, Rout Zila, Burhanpur-624088",
+        "Coordinate": [
+            937,
+            1298,
+            2288,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "63/238, Hayre Zila, Kanpur 741037",
+        "Coordinate": [
+            939,
+            1524,
+            2280,
+            1683
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8372895681",
+        "Coordinate": [
+            906,
+            1784,
+            1376,
+            1897
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8654760449",
+        "Coordinate": [
+            1574,
+            1844,
+            2186,
+            1931
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Kannada, Telugu",
+        "Coordinate": [
+            924,
+            1912,
+            2138,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nathan Gill - 9979936914",
+        "Coordinate": [
+            987,
+            2030,
+            2100,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gaurika Loyal - 8747556970",
+        "Coordinate": [
+            1004,
+            2146,
+            2146,
+            2259
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            666,
+            2432,
+            1128,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/29/2022",
+        "Coordinate": [
+            665,
+            2520,
+            1154,
+            2613
+        ]
+    }
+]

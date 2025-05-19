@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            643,
+            2420,
+            962,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/30/2024",
+        "Coordinate": [
+            630,
+            2511,
+            1047,
+            2604
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil",
+        "Coordinate": [
+            940,
+            1913,
+            1442,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indira Verma - 8299848933",
+        "Coordinate": [
+            996,
+            2014,
+            2028,
+            2116
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Alka Sharaf - 8333363515",
+        "Coordinate": [
+            1007,
+            2134,
+            2090,
+            2236
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9064653276",
+        "Coordinate": [
+            940,
+            1784,
+            1359,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8613823696",
+        "Coordinate": [
+            1856,
+            1764,
+            2292,
+            1863
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 182, Boase Circle, Bhopal-102719",
+        "Coordinate": [
+            930,
+            1527,
+            2293,
+            1628
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "855, Kapoor Marg, Bhusawal-023521",
+        "Coordinate": [
+            943,
+            1304,
+            2287,
+            1418
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Bhatt-Rama",
+        "Coordinate": [
+            1000,
+            1160,
+            1890,
+            1247
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Wadhwa  Mittal and Sharma",
+        "Coordinate": [
+            1003,
+            1037,
+            2284,
+            1143
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Peter Banik",
+        "Coordinate": [
+            930,
+            467,
+            1346,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jacob Banik",
+        "Coordinate": [
+            937,
+            580,
+            1354,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/22/1967",
+        "Coordinate": [
+            913,
+            680,
+            1314,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            923,
+            774,
+            1068,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            877,
+            1221,
+            956
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            970,
+            957,
+            1087,
+            1039
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1810,
+            850,
+            2013,
+            943
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1863,
+            950,
+            2092,
+            1036
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dev Viswanathan",
+        "Coordinate": [
+            960,
+            412,
+            1519,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Logan Viswanathan",
+        "Coordinate": [
+            972,
+            522,
+            1637,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-02-1996",
+        "Coordinate": [
+            991,
+            621,
+            1302,
+            712
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            987,
+            715,
+            1340,
+            813
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            989,
+            821,
+            1306,
+            921
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1854,
+            807,
+            2045,
+            907
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1904,
+            915,
+            2141,
+            1006
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1000,
+            919,
+            1114,
+            1007
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kale  Mody and Ganesh",
+        "Coordinate": [
+            1046,
+            1010,
+            2251,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Raj-Roy",
+        "Coordinate": [
+            1052,
+            1122,
+            1819,
+            1233
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01, Bandi Circle, Bangalore 348015",
+        "Coordinate": [
+            970,
+            1255,
+            2202,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35/866, Chawla Chowk, Khammam-460539",
+        "Coordinate": [
+            977,
+            1487,
+            2408,
+            1615
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7773356464",
+        "Coordinate": [
+            1916,
+            1763,
+            2331,
+            1867
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7148046953",
+        "Coordinate": [
+            969,
+            1768,
+            1365,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            970,
+            1913,
+            1463,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Maya Baria - 7872895603",
+        "Coordinate": [
+            1034,
+            2016,
+            1870,
+            2117
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vedhika Loke - 9162126306",
+        "Coordinate": [
+            1037,
+            2144,
+            1928,
+            2245
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "365000000000.0",
+        "Coordinate": [
+            672,
+            2351,
+            1160,
+            2435
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            675,
+            2441,
+            1046,
+            2527
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/15/2024",
+        "Coordinate": [
+            687,
+            2535,
+            1104,
+            2635
+        ]
+    }
+]

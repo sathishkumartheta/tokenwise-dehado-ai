@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Vedant Peri",
+        "Coordinate": [
+            908,
+            422,
+            1338,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lakshit Peri",
+        "Coordinate": [
+            921,
+            528,
+            1336,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/30/1994",
+        "Coordinate": [
+            925,
+            629,
+            1235,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            935,
+            730,
+            1080,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            919,
+            829,
+            1205,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1850,
+            819,
+            2034,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            920,
+            2116,
+            1016
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            950,
+            933,
+            1094,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Dhaliwal PLC",
+        "Coordinate": [
+            1005,
+            1018,
+            1896,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Issac LLC",
+        "Coordinate": [
+            1003,
+            1136,
+            1877,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "910, Pathak Marg, Mathura-174546",
+        "Coordinate": [
+            909,
+            1295,
+            2194,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 021, Batta Road, Saharanpur-319558",
+        "Coordinate": [
+            895,
+            1514,
+            2312,
+            1653
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7338889228",
+        "Coordinate": [
+            1905,
+            1767,
+            2309,
+            1873
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8971908047",
+        "Coordinate": [
+            919,
+            1791,
+            1347,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi, Telugu",
+        "Coordinate": [
+            923,
+            1919,
+            1833,
+            2022
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Advik Kannan - 8131239193",
+        "Coordinate": [
+            1003,
+            2025,
+            1950,
+            2138
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sudiksha Chaudhry - 8146444600",
+        "Coordinate": [
+            1006,
+            2159,
+            2127,
+            2281
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "900000000000.0",
+        "Coordinate": [
+            676,
+            2357,
+            1131,
+            2443
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            674,
+            2449,
+            1051,
+            2538
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-06-2024",
+        "Coordinate": [
+            683,
+            2543,
+            1021,
+            2630
+        ]
+    }
+]

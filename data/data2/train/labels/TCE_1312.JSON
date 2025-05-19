@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fiyaz Chahal",
+        "Coordinate": [
+            902,
+            454,
+            1326,
+            565
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekansh Chahal",
+        "Coordinate": [
+            906,
+            548,
+            1416,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/13/1977",
+        "Coordinate": [
+            914,
+            656,
+            1284,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            920,
+            740,
+            1194,
+            833
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            838,
+            1238,
+            951
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1689,
+            836,
+            1903,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1766,
+            946,
+            1990,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            909,
+            948,
+            1046,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Issac  Sagar and Palla",
+        "Coordinate": [
+            990,
+            1034,
+            2132,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chandran Inc",
+        "Coordinate": [
+            972,
+            1154,
+            1904,
+            1245
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45, Batta Street, Faridabad 991197",
+        "Coordinate": [
+            884,
+            1258,
+            2150,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "08/51, Bhatnagar Zila, Lucknow 122501",
+        "Coordinate": [
+            920,
+            1508,
+            2172,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9896399677",
+        "Coordinate": [
+            896,
+            1756,
+            1348,
+            1835
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7525555142",
+        "Coordinate": [
+            1812,
+            1776,
+            2228,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, Tamil",
+        "Coordinate": [
+            922,
+            1903,
+            1780,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ojas Thakur - 8865897805",
+        "Coordinate": [
+            992,
+            2026,
+            1866,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Garima Bhasin - 8867330511",
+        "Coordinate": [
+            960,
+            2132,
+            1896,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            608,
+            2396,
+            1318,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/28/2023",
+        "Coordinate": [
+            618,
+            2490,
+            992,
+            2579
+        ]
+    }
+]

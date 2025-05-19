@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nakul Karnik",
+        "Coordinate": [
+            899,
+            395,
+            1354,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Karnik",
+        "Coordinate": [
+            911,
+            494,
+            1452,
+            590
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/17/1967",
+        "Coordinate": [
+            909,
+            592,
+            1203,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            902,
+            687,
+            1210,
+            780
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            793,
+            1209,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            791,
+            1975,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            893,
+            2189,
+            983
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            906,
+            898,
+            1053,
+            981
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Naik  Dixit and Arya",
+        "Coordinate": [
+            979,
+            980,
+            2265,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bora  Kannan and Rajan",
+        "Coordinate": [
+            929,
+            1096,
+            2298,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "08/463, Solanki, Kharagpur-547055",
+        "Coordinate": [
+            903,
+            1216,
+            2312,
+            1347
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "151, Loyal Marg, Solapur 564091",
+        "Coordinate": [
+            884,
+            1471,
+            2179,
+            1613
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7090727497",
+        "Coordinate": [
+            1860,
+            1751,
+            2276,
+            1852
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9283510967",
+        "Coordinate": [
+            886,
+            1752,
+            1346,
+            1846
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi",
+        "Coordinate": [
+            873,
+            1891,
+            1406,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Siddharth Nagi - 9267454440",
+        "Coordinate": [
+            925,
+            1997,
+            2036,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Watika Parmar - 8844398292",
+        "Coordinate": [
+            941,
+            2123,
+            2070,
+            2225
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "732000000000.0",
+        "Coordinate": [
+            601,
+            2335,
+            1057,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            584,
+            2429,
+            1008,
+            2522
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/29/2023",
+        "Coordinate": [
+            590,
+            2521,
+            1018,
+            2599
+        ]
+    }
+]

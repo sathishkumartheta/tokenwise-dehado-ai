@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Indali Mani",
+        "Coordinate": [
+            862,
+            397,
+            1256,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mitesh Mani",
+        "Coordinate": [
+            867,
+            500,
+            1275,
+            589
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/12/1998",
+        "Coordinate": [
+            861,
+            604,
+            1185,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            867,
+            697,
+            1171,
+            783
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            860,
+            804,
+            1136,
+            889
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1707,
+            779,
+            1932,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1768,
+            885,
+            2009,
+            958
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            868,
+            909,
+            954,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Prasad  Kar and Bail",
+        "Coordinate": [
+            912,
+            972,
+            1917,
+            1068
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Ramaswamy Group",
+        "Coordinate": [
+            928,
+            1087,
+            1867,
+            1182
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "550, Dyal Ganj, Hyderabad-736542",
+        "Coordinate": [
+            857,
+            1218,
+            1985,
+            1341
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 17, Kumar Circle, Ballia-292334",
+        "Coordinate": [
+            846,
+            1459,
+            2023,
+            1572
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8411241293",
+        "Coordinate": [
+            1821,
+            1737,
+            2183,
+            1821
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7840264327",
+        "Coordinate": [
+            851,
+            1743,
+            1248,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Marathi",
+        "Coordinate": [
+            849,
+            1885,
+            1349,
+            1972
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girish Boase - 7831531012",
+        "Coordinate": [
+            942,
+            1990,
+            1719,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Azad Baral - 8081953145",
+        "Coordinate": [
+            945,
+            2112,
+            1732,
+            2196
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "540136000000",
+        "Coordinate": [
+            548,
+            2314,
+            988,
+            2385
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            567,
+            2417,
+            790,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/19/2022",
+        "Coordinate": [
+            558,
+            2506,
+            897,
+            2584
+        ]
+    }
+]

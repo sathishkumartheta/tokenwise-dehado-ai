@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Manbir Kaul",
+        "Coordinate": [
+            914,
+            465,
+            1428,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Kaul",
+        "Coordinate": [
+            928,
+            580,
+            1442,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/6/1975",
+        "Coordinate": [
+            913,
+            668,
+            1307,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            769,
+            1370,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            928,
+            863,
+            1289,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1720,
+            855,
+            1925,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            971,
+            964,
+            1134,
+            1043
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            943,
+            2174,
+            1047
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Magar Inc",
+        "Coordinate": [
+            981,
+            1059,
+            2030,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Basu Ltd",
+        "Coordinate": [
+            996,
+            1163,
+            2000,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "15/85, Oza Ganj, Chinsurah 925809",
+        "Coordinate": [
+            930,
+            1284,
+            2195,
+            1485
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "43/73, Kala Ganj, Belgaum 865568",
+        "Coordinate": [
+            913,
+            1556,
+            2274,
+            1755
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8850367366",
+        "Coordinate": [
+            908,
+            1791,
+            1364,
+            1892
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7723854639",
+        "Coordinate": [
+            1818,
+            1773,
+            2315,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Tamil, Hindi",
+        "Coordinate": [
+            928,
+            1917,
+            2313,
+            2006
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Daniel Dugar - 8310244749",
+        "Coordinate": [
+            1011,
+            2013,
+            2199,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aditya Wali - 9973640386",
+        "Coordinate": [
+            1021,
+            2144,
+            2236,
+            2266
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            645,
+            2426,
+            990,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/11/2022",
+        "Coordinate": [
+            663,
+            2512,
+            1101,
+            2609
+        ]
+    }
+]

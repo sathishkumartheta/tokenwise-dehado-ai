@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nimrat Wason",
+        "Coordinate": [
+            878,
+            426,
+            1438,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qabil Wason",
+        "Coordinate": [
+            890,
+            542,
+            1484,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/9/1970",
+        "Coordinate": [
+            898,
+            642,
+            1312,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            876,
+            744,
+            1248,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            898,
+            841,
+            1166,
+            935
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            906,
+            940,
+            1082,
+            1016
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1769,
+            826,
+            2052,
+            896
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            934,
+            2122,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Behl-Dhar",
+        "Coordinate": [
+            986,
+            1030,
+            1892,
+            1128
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Korpal  Nath and Mani",
+        "Coordinate": [
+            990,
+            1152,
+            2272,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "405, Khalsa Path, Machilipatnam-139004",
+        "Coordinate": [
+            894,
+            1256,
+            2318,
+            1458
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "52, Loyal Ganj, Guna 056833",
+        "Coordinate": [
+            898,
+            1526,
+            2156,
+            1670
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8690591721",
+        "Coordinate": [
+            1844,
+            1786,
+            2282,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7552866238",
+        "Coordinate": [
+            896,
+            1808,
+            1292,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Malayalam",
+        "Coordinate": [
+            902,
+            1946,
+            1962,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jasmit Parmar - 7727350500",
+        "Coordinate": [
+            986,
+            2048,
+            2078,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Wriddhish Upadhyay - 7402017400",
+        "Coordinate": [
+            933,
+            2168,
+            2278,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "265648000000",
+        "Coordinate": [
+            580,
+            2376,
+            1184,
+            2458
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            585,
+            2462,
+            925,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/17/2023",
+        "Coordinate": [
+            589,
+            2564,
+            1034,
+            2656
+        ]
+    }
+]

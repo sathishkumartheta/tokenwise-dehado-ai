@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Arjun Salvi",
+        "Coordinate": [
+            908,
+            478,
+            1338,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Salvi",
+        "Coordinate": [
+            937,
+            586,
+            1553,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/1/1984",
+        "Coordinate": [
+            978,
+            680,
+            1350,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            928,
+            764,
+            1158,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            858,
+            1198,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1758,
+            868,
+            2070,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            960,
+            2170,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            990,
+            959,
+            1158,
+            1049
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kadakia-Deshpande",
+        "Coordinate": [
+            1021,
+            1064,
+            2298,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kumar-Taneja",
+        "Coordinate": [
+            996,
+            1158,
+            2062,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "41/240, Hayre Road, Saharsa 835960",
+        "Coordinate": [
+            936,
+            1300,
+            2124,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 820, Sura Circle, Munger 881939",
+        "Coordinate": [
+            918,
+            1522,
+            2200,
+            1749
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7125628497",
+        "Coordinate": [
+            916,
+            1794,
+            1348,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8666789765",
+        "Coordinate": [
+            1808,
+            1782,
+            2254,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati",
+        "Coordinate": [
+            905,
+            1922,
+            1633,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vansha Bumb - 7007967799",
+        "Coordinate": [
+            1004,
+            2036,
+            2094,
+            2123
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashawini Kannan - 7795048227",
+        "Coordinate": [
+            1019,
+            2148,
+            2300,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            652,
+            2442,
+            1046,
+            2519
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/18/2025",
+        "Coordinate": [
+            656,
+            2520,
+            1132,
+            2597
+        ]
+    }
+]

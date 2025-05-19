@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dayita Gopal",
+        "Coordinate": [
+            880,
+            394,
+            1342,
+            485
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Gopal",
+        "Coordinate": [
+            886,
+            493,
+            1423,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10-07-1959",
+        "Coordinate": [
+            914,
+            590,
+            1252,
+            678
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            925,
+            686,
+            1223,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            913,
+            792,
+            1145,
+            883
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            783,
+            2042,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            889,
+            2090,
+            976
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            934,
+            893,
+            1123,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Upadhyay-Singhal",
+        "Coordinate": [
+            943,
+            983,
+            2061,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Gade-Gola",
+        "Coordinate": [
+            948,
+            1098,
+            1817,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "41/758, Hari Street, Ahmednagar 484587",
+        "Coordinate": [
+            894,
+            1248,
+            2326,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39/25, Handa Street, Tirunelveli 925879",
+        "Coordinate": [
+            892,
+            1473,
+            2286,
+            1613
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9186857646",
+        "Coordinate": [
+            1848,
+            1751,
+            2281,
+            1862
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7422026637",
+        "Coordinate": [
+            875,
+            1750,
+            1317,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam, Marathi",
+        "Coordinate": [
+            881,
+            1887,
+            1952,
+            1992
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Amruta Karnik - 8172310716",
+        "Coordinate": [
+            922,
+            1996,
+            1974,
+            2108
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Urmi Mitter - 8500517878",
+        "Coordinate": [
+            942,
+            2127,
+            1932,
+            2234
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MLDAA1631S",
+        "Coordinate": [
+            1622,
+            2335,
+            2037,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            591,
+            2422,
+            857,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/15/2025",
+        "Coordinate": [
+            604,
+            2510,
+            968,
+            2601
+        ]
+    }
+]

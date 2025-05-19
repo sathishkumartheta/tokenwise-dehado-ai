@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Raagini Khalsa",
+        "Coordinate": [
+            883,
+            387,
+            1445,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Khalsa",
+        "Coordinate": [
+            908,
+            486,
+            1436,
+            580
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/19/1960",
+        "Coordinate": [
+            942,
+            588,
+            1310,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            683,
+            1046,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            896,
+            785,
+            1193,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1760,
+            784,
+            2017,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            890,
+            2099,
+            970
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            909,
+            891,
+            1012,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Nadig  Kannan and Garg",
+        "Coordinate": [
+            965,
+            976,
+            2239,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Jani-Badal",
+        "Coordinate": [
+            968,
+            1097,
+            1822,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "94/71, Koshy Zila, Korba-792234",
+        "Coordinate": [
+            891,
+            1228,
+            2162,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "469, Raju, Kakinada 116772",
+        "Coordinate": [
+            892,
+            1474,
+            1974,
+            1602
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8556679663",
+        "Coordinate": [
+            1847,
+            1754,
+            2261,
+            1854
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9559996685",
+        "Coordinate": [
+            886,
+            1750,
+            1297,
+            1846
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali, Hindi, Marathi",
+        "Coordinate": [
+            889,
+            1884,
+            2166,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lajita Bajaj - 9507540100",
+        "Coordinate": [
+            956,
+            1999,
+            1896,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samesh Swamy - 8523484251",
+        "Coordinate": [
+            967,
+            2118,
+            2114,
+            2220
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "MFIDG6447Q",
+        "Coordinate": [
+            1611,
+            2331,
+            2091,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            594,
+            2419,
+            863,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-07-2023",
+        "Coordinate": [
+            595,
+            2509,
+            1012,
+            2590
+        ]
+    }
+]

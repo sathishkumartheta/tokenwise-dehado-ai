@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanas Dhawan",
+        "Coordinate": [
+            870,
+            434,
+            1411,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Theodore Dhawan",
+        "Coordinate": [
+            874,
+            535,
+            1427,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/27/1966",
+        "Coordinate": [
+            877,
+            639,
+            1173,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            879,
+            737,
+            1162,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            871,
+            837,
+            1118,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1846,
+            821,
+            2019,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            930,
+            2076,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            879,
+            948,
+            980,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Karnik  Deo and Dhillon",
+        "Coordinate": [
+            969,
+            1030,
+            2022,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mammen  Bajwa and Edwin",
+        "Coordinate": [
+            975,
+            1141,
+            2252,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "27, Chaudry Marg, Alappuzha-040465",
+        "Coordinate": [
+            880,
+            1264,
+            2111,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 286, Thaman Ganj, Bhilai 502289",
+        "Coordinate": [
+            882,
+            1509,
+            2194,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9318511563",
+        "Coordinate": [
+            1892,
+            1788,
+            2266,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8577067169",
+        "Coordinate": [
+            894,
+            1802,
+            1246,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Hindi",
+        "Coordinate": [
+            884,
+            1936,
+            1719,
+            2035
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Baljiwan Sood - 7299209995",
+        "Coordinate": [
+            977,
+            2044,
+            1896,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Hamsini Parikh - 7286893661",
+        "Coordinate": [
+            983,
+            2178,
+            1922,
+            2288
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VXQMA0696B",
+        "Coordinate": [
+            1645,
+            2373,
+            2042,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            592,
+            2485,
+            967,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/27/2024",
+        "Coordinate": [
+            597,
+            2574,
+            953,
+            2659
+        ]
+    }
+]

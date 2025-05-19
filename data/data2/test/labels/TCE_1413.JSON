@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aashi Chacko",
+        "Coordinate": [
+            923,
+            462,
+            1327,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nitesh Chacko",
+        "Coordinate": [
+            920,
+            572,
+            1406,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/27/2005",
+        "Coordinate": [
+            916,
+            653,
+            1315,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            917,
+            752,
+            1347,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            915,
+            840,
+            1198,
+            963
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            916,
+            940,
+            1095,
+            1063
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1766,
+            834,
+            2120,
+            935
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kant PLC",
+        "Coordinate": [
+            965,
+            1038,
+            1894,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kapur-Gulati",
+        "Coordinate": [
+            982,
+            1157,
+            2091,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 09, Dalal Nagar, Dehri-848936",
+        "Coordinate": [
+            920,
+            1281,
+            2157,
+            1447
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/00, Shroff Marg, Panihati 680606",
+        "Coordinate": [
+            918,
+            1540,
+            2170,
+            1736
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8295075056",
+        "Coordinate": [
+            919,
+            1775,
+            1374,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9076285251",
+        "Coordinate": [
+            1837,
+            1768,
+            2287,
+            1838
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Bhattacharyya - 7766709134",
+        "Coordinate": [
+            980,
+            2014,
+            2307,
+            2100
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Isaac Tailor - 8634364647",
+        "Coordinate": [
+            977,
+            2118,
+            2071,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            681,
+            2428,
+            944,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/14/2022",
+        "Coordinate": [
+            669,
+            2511,
+            1148,
+            2600
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam, Telugu",
+        "Coordinate": [
+            930,
+            1916,
+            2031,
+            2010
+        ]
+    }
+]

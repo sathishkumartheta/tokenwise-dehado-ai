@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maya Raj",
+        "Coordinate": [
+            887,
+            399,
+            1173,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yuvraj Raj",
+        "Coordinate": [
+            889,
+            498,
+            1293,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/14/1965",
+        "Coordinate": [
+            898,
+            597,
+            1213,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            904,
+            696,
+            1045,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            895,
+            796,
+            1145,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1787,
+            786,
+            2015,
+            870
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            895,
+            2079,
+            977
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            899,
+            895,
+            997,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Srinivas  Savant and Radhakrishnan",
+        "Coordinate": [
+            951,
+            981,
+            2289,
+            1100
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Rao PLC",
+        "Coordinate": [
+            964,
+            1109,
+            1590,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "362, Kurian, Chinsurah 509999",
+        "Coordinate": [
+            885,
+            1260,
+            1913,
+            1383
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 089, Oak Circle, Ambattur 835211",
+        "Coordinate": [
+            883,
+            1479,
+            2189,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8045662601",
+        "Coordinate": [
+            1877,
+            1754,
+            2214,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7042579658",
+        "Coordinate": [
+            894,
+            1759,
+            1275,
+            1859
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Kannada, Marathi",
+        "Coordinate": [
+            868,
+            1893,
+            2020,
+            1999
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bina Mani - 7300628632",
+        "Coordinate": [
+            960,
+            2005,
+            1852,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitaly Ramakrishnan - 9348162320",
+        "Coordinate": [
+            948,
+            2123,
+            2089,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "300000000000.0",
+        "Coordinate": [
+            593,
+            2337,
+            1071,
+            2415
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            603,
+            2427,
+            840,
+            2508
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2022",
+        "Coordinate": [
+            598,
+            2520,
+            954,
+            2603
+        ]
+    }
+]

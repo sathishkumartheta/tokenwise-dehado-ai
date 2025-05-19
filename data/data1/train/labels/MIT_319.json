@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Balvan Mukhopadhyay",
+        "Coordinate": [
+            931,
+            421,
+            1630,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balendra Mukhopadhyay",
+        "Coordinate": [
+            933,
+            521,
+            1659,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/15/1967",
+        "Coordinate": [
+            948,
+            630,
+            1273,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            953,
+            724,
+            1282,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            950,
+            825,
+            1249,
+            923
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1818,
+            802,
+            2002,
+            897
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1898,
+            906,
+            2141,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            968,
+            932,
+            1139,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Mangat  Chopra and Zacharia",
+        "Coordinate": [
+            1015,
+            1013,
+            2251,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kara-Kashyap",
+        "Coordinate": [
+            1018,
+            1133,
+            1905,
+            1251
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 09, Reddy Street, Tirunelveli-399821",
+        "Coordinate": [
+            937,
+            1263,
+            2293,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 55, Bose Marg, Rohtak-428860",
+        "Coordinate": [
+            953,
+            1527,
+            2164,
+            1700
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9569814262",
+        "Coordinate": [
+            1925,
+            1765,
+            2297,
+            1870
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9315747895",
+        "Coordinate": [
+            971,
+            1789,
+            1363,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati",
+        "Coordinate": [
+            961,
+            1922,
+            1533,
+            2028
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ansh Nazareth - 9212305292",
+        "Coordinate": [
+            1025,
+            2028,
+            1962,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Waida Rana - 9837646412",
+        "Coordinate": [
+            1029,
+            2156,
+            1939,
+            2269
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "720000000000.0",
+        "Coordinate": [
+            675,
+            2372,
+            1133,
+            2450
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            675,
+            2461,
+            1000,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/18/2023",
+        "Coordinate": [
+            676,
+            2558,
+            1055,
+            2654
+        ]
+    }
+]

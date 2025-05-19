@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakradhar Modi",
+        "Coordinate": [
+            917,
+            471,
+            1530,
+            551
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wyatt Modi",
+        "Coordinate": [
+            940,
+            561,
+            1381,
+            663
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/22/1970",
+        "Coordinate": [
+            930,
+            661,
+            1330,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            930,
+            747,
+            1093,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            854,
+            1194,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            933,
+            953,
+            1066,
+            1044
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1756,
+            840,
+            1940,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            944,
+            2047,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Dass PLC",
+        "Coordinate": [
+            1030,
+            1057,
+            1855,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mander  Narayanan and Iyer",
+        "Coordinate": [
+            980,
+            1164,
+            2301,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "51/644, Aurora Zila, Agartala 085380",
+        "Coordinate": [
+            926,
+            1297,
+            2220,
+            1427
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 796, Barad Zila, Gudivada 591311",
+        "Coordinate": [
+            916,
+            1564,
+            2239,
+            1686
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9808480483",
+        "Coordinate": [
+            916,
+            1777,
+            1348,
+            1862
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8002692552",
+        "Coordinate": [
+            1850,
+            1764,
+            2285,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Kannada",
+        "Coordinate": [
+            923,
+            1910,
+            1778,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anthony Virk - 7061198075",
+        "Coordinate": [
+            983,
+            2017,
+            1946,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zilmil Bose - 7396422624",
+        "Coordinate": [
+            996,
+            2144,
+            2060,
+            2246
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            657,
+            2430,
+            890,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/28/2022",
+        "Coordinate": [
+            650,
+            2517,
+            1031,
+            2600
+        ]
+    }
+]

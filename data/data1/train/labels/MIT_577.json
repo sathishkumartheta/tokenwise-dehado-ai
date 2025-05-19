@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Henry Pandey",
+        "Coordinate": [
+            916,
+            427,
+            1368,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Shivansh Pandey",
+        "Coordinate": [
+            946,
+            529,
+            1435,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/24/1978",
+        "Coordinate": [
+            977,
+            632,
+            1256,
+            719
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            955,
+            731,
+            1178,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            945,
+            835,
+            1155,
+            927
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            825,
+            1958,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            933,
+            2044,
+            1018
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            971,
+            937,
+            1061,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Shukla PLC",
+        "Coordinate": [
+            998,
+            1040,
+            1704,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Balakrishnan PLC",
+        "Coordinate": [
+            1025,
+            1150,
+            1941,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97, Prabhu Circle, Rohtak-498367",
+        "Coordinate": [
+            948,
+            1293,
+            1974,
+            1434
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74, Banik, Nadiad 751857",
+        "Coordinate": [
+            943,
+            1572,
+            1746,
+            1705
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8012096622",
+        "Coordinate": [
+            1869,
+            1804,
+            2286,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7254203349",
+        "Coordinate": [
+            889,
+            1805,
+            1271,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Malayalam, Bengali",
+        "Coordinate": [
+            954,
+            1940,
+            2139,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Frado Sandal - 8318503989",
+        "Coordinate": [
+            1011,
+            2054,
+            1850,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Irya Sankar - 8089751770",
+        "Coordinate": [
+            1061,
+            2180,
+            1966,
+            2296
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "486000000000.0",
+        "Coordinate": [
+            625,
+            2380,
+            1106,
+            2465
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            654,
+            2471,
+            909,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-07-2025",
+        "Coordinate": [
+            660,
+            2565,
+            964,
+            2656
+        ]
+    }
+]

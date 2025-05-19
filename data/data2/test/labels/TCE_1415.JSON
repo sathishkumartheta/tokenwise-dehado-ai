@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nathan Rama",
+        "Coordinate": [
+            906,
+            486,
+            1419,
+            587
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Patrick Rama",
+        "Coordinate": [
+            888,
+            581,
+            1572,
+            679
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/2/1971",
+        "Coordinate": [
+            913,
+            649,
+            1407,
+            771
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            905,
+            757,
+            1498,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            858,
+            1250,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            905,
+            958,
+            1070,
+            1064
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1687,
+            847,
+            1946,
+            948
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1801,
+            947,
+            2114,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Zacharia  Amble and Prasad",
+        "Coordinate": [
+            972,
+            1039,
+            2301,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Barad and Sons",
+        "Coordinate": [
+            989,
+            1149,
+            2070,
+            1240
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 046, Natarajan Nagar, Delhi-199500",
+        "Coordinate": [
+            918,
+            1254,
+            2230,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "46, Sengupta Street, Erode-520593",
+        "Coordinate": [
+            926,
+            1512,
+            2319,
+            1601
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8741139255",
+        "Coordinate": [
+            913,
+            1756,
+            1351,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8701343398",
+        "Coordinate": [
+            1846,
+            1756,
+            2311,
+            1852
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English",
+        "Coordinate": [
+            936,
+            1909,
+            1488,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Adya Brar - 9802736171",
+        "Coordinate": [
+            993,
+            1997,
+            1951,
+            2077
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Widisha Dugar - 9940859086",
+        "Coordinate": [
+            1013,
+            2129,
+            2135,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            682,
+            2417,
+            990,
+            2506
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/24/2025",
+        "Coordinate": [
+            688,
+            2514,
+            1062,
+            2598
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "654822000000",
+        "Coordinate": [
+            655,
+            2346,
+            1320,
+            2409
+        ]
+    }
+]

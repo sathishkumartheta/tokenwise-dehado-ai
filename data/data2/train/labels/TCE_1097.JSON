@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wishi Dar",
+        "Coordinate": [
+            917,
+            487,
+            1389,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Christopher Dar",
+        "Coordinate": [
+            968,
+            564,
+            1520,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/29/2006",
+        "Coordinate": [
+            986,
+            660,
+            1348,
+            735
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            984,
+            754,
+            1354,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            858,
+            1156,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1746,
+            854,
+            2018,
+            923
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            964,
+            946,
+            1098,
+            1027
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            960,
+            2150,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Ganguly  Memon and Chokshi",
+        "Coordinate": [
+            1028,
+            1052,
+            2238,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Vaidya Ltd",
+        "Coordinate": [
+            1010,
+            1164,
+            1782,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 623, Chowdhury Circle, Tirunelveli-516791",
+        "Coordinate": [
+            920,
+            1280,
+            2258,
+            1443
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "19, Anand Marg, Udupi-172923",
+        "Coordinate": [
+            918,
+            1526,
+            2032,
+            1647
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9792419805",
+        "Coordinate": [
+            902,
+            1784,
+            1366,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9499450006",
+        "Coordinate": [
+            1838,
+            1778,
+            2234,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, English, Malayalam",
+        "Coordinate": [
+            952,
+            1918,
+            2070,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Eta Das - 8639576169",
+        "Coordinate": [
+            996,
+            2006,
+            1780,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Shaurya Pathak - 9616251443",
+        "Coordinate": [
+            1000,
+            2124,
+            1968,
+            2243
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            622,
+            2416,
+            1408,
+            2515
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/2/2023",
+        "Coordinate": [
+            656,
+            2524,
+            1124,
+            2597
+        ]
+    }
+]

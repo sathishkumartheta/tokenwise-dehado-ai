@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Liam Misra",
+        "Coordinate": [
+            867,
+            444,
+            1369,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harsh Misra",
+        "Coordinate": [
+            885,
+            540,
+            1378,
+            634
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/2/1997",
+        "Coordinate": [
+            871,
+            641,
+            1229,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            869,
+            734,
+            1211,
+            828
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            892,
+            860,
+            1163,
+            940
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1752,
+            835,
+            1969,
+            915
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            910,
+            947,
+            1070,
+            1038
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            937,
+            2113,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Wadhwa  Devi and Purohit",
+        "Coordinate": [
+            960,
+            1042,
+            2293,
+            1138
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Sekhon  Raval and Mallick",
+        "Coordinate": [
+            933,
+            1145,
+            2291,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66/748, Sandhu Circle, Madanapalle 878639",
+        "Coordinate": [
+            873,
+            1289,
+            2313,
+            1430
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 835, Barad, Phagwara 444742",
+        "Coordinate": [
+            889,
+            1547,
+            2113,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9374685248",
+        "Coordinate": [
+            896,
+            1832,
+            1353,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8204465700",
+        "Coordinate": [
+            1624,
+            1839,
+            2126,
+            1928
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Gujarati",
+        "Coordinate": [
+            883,
+            1962,
+            1752,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chatresh Sethi - 7332236920",
+        "Coordinate": [
+            962,
+            2078,
+            2037,
+            2163
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Janaki Mital - 8470721036",
+        "Coordinate": [
+            978,
+            2181,
+            2044,
+            2302
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "544197000000",
+        "Coordinate": [
+            611,
+            2402,
+            1115,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            609,
+            2491,
+            787,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/5/2022",
+        "Coordinate": [
+            616,
+            2576,
+            1010,
+            2669
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Orinder Patil",
+        "Coordinate": [
+            875,
+            438,
+            1232,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Banjeet Patil",
+        "Coordinate": [
+            875,
+            538,
+            1239,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/29/2005",
+        "Coordinate": [
+            876,
+            634,
+            1179,
+            720
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            875,
+            732,
+            1120,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            881,
+            836,
+            1077,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1879,
+            839,
+            2037,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1850,
+            943,
+            2046,
+            1026
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            924,
+            935,
+            1023,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Balan  Datta and Narula",
+        "Coordinate": [
+            942,
+            1035,
+            1951,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Randhawa Group",
+        "Coordinate": [
+            953,
+            1151,
+            1800,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "06/734, Sahni Chowk, Tiruchirappalli-998632",
+        "Coordinate": [
+            873,
+            1265,
+            2309,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "03/852, Din Road, Eluru 215596",
+        "Coordinate": [
+            881,
+            1526,
+            1961,
+            1654
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9012261833",
+        "Coordinate": [
+            1849,
+            1802,
+            2283,
+            1919
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9740639600",
+        "Coordinate": [
+            884,
+            1803,
+            1296,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Marathi, Kannada",
+        "Coordinate": [
+            867,
+            1942,
+            1999,
+            2043
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Riya Merchant - 9161081032",
+        "Coordinate": [
+            954,
+            2049,
+            1984,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Oeshi Kari - 8444513303",
+        "Coordinate": [
+            955,
+            2184,
+            2000,
+            2302
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "376000000000.0",
+        "Coordinate": [
+            580,
+            2382,
+            1159,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            583,
+            2482,
+            833,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-12-2024",
+        "Coordinate": [
+            585,
+            2575,
+            977,
+            2669
+        ]
+    }
+]

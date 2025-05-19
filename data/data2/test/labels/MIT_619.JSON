@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Matthew Ray",
+        "Coordinate": [
+            880,
+            425,
+            1489,
+            588
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aayush Ray",
+        "Coordinate": [
+            900,
+            530,
+            1381,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/14/1965",
+        "Coordinate": [
+            857,
+            648,
+            1375,
+            756
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            927,
+            760,
+            1379,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            835,
+            1291,
+            964
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1797,
+            828,
+            2057,
+            966
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            935,
+            2241,
+            1056
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            965,
+            950,
+            1139,
+            1054
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Chahal  Comar and Jani",
+        "Coordinate": [
+            977,
+            1065,
+            2337,
+            1190
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Kaul-Lala",
+        "Coordinate": [
+            959,
+            1192,
+            2009,
+            1298
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 339, Sankaran, Surendranagar Dudhrej 861273",
+        "Coordinate": [
+            892,
+            1293,
+            2341,
+            1518
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 120, Chadha Street, Ambala 301494",
+        "Coordinate": [
+            885,
+            1530,
+            2135,
+            1768
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7926045609",
+        "Coordinate": [
+            867,
+            1858,
+            1387,
+            1978
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7151078398",
+        "Coordinate": [
+            1850,
+            1798,
+            2377,
+            1906
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Gujarati",
+        "Coordinate": [
+            892,
+            1958,
+            1615,
+            2080
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nicholas Vora - 9692399627",
+        "Coordinate": [
+            959,
+            2088,
+            2273,
+            2206
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaraj Raghavan - 7271328998",
+        "Coordinate": [
+            947,
+            2220,
+            2345,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "213894000000",
+        "Coordinate": [
+            582,
+            2397,
+            1331,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            637,
+            2490,
+            965,
+            2596
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/30/2023",
+        "Coordinate": [
+            617,
+            2570,
+            1223,
+            2692
+        ]
+    }
+]

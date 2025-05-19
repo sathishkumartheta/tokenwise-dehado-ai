@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nathan Ranganathan",
+        "Coordinate": [
+            892,
+            435,
+            2006,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faqid Ranganathan",
+        "Coordinate": [
+            884,
+            539,
+            1835,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/27/1986",
+        "Coordinate": [
+            883,
+            642,
+            1335,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            884,
+            739,
+            1351,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            887,
+            843,
+            1297,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1773,
+            832,
+            2040,
+            923
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            939,
+            2192,
+            1021
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            899,
+            946,
+            1083,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Murthy Group",
+        "Coordinate": [
+            967,
+            1045,
+            2256,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Banerjee Group",
+        "Coordinate": [
+            951,
+            1152,
+            2289,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "51/517, Sekhon, Aurangabad-784953",
+        "Coordinate": [
+            900,
+            1278,
+            2181,
+            1506
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34, Natt Road, Amritsar 621346",
+        "Coordinate": [
+            884,
+            1561,
+            2342,
+            1719
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7517066284",
+        "Coordinate": [
+            1870,
+            1801,
+            2326,
+            1930
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9213762315",
+        "Coordinate": [
+            891,
+            1825,
+            1340,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, English, Tamil",
+        "Coordinate": [
+            884,
+            1949,
+            2017,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mekhala Malhotra - 8652951665",
+        "Coordinate": [
+            951,
+            2057,
+            2334,
+            2169
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faraj Nagarajan - 7799899747",
+        "Coordinate": [
+            979,
+            2185,
+            2326,
+            2311
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "725000000000.0",
+        "Coordinate": [
+            612,
+            2393,
+            1264,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            603,
+            2486,
+            1014,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/30/2025",
+        "Coordinate": [
+            599,
+            2576,
+            1135,
+            2664
+        ]
+    }
+]

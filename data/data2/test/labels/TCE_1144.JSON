@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ojasvi Andra",
+        "Coordinate": [
+            900,
+            460,
+            1446,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Andra",
+        "Coordinate": [
+            915,
+            565,
+            1483,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/2/1996",
+        "Coordinate": [
+            949,
+            667,
+            1303,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            917,
+            751,
+            1236,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            904,
+            844,
+            1234,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1744,
+            842,
+            2074,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            923,
+            952,
+            1156,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            944,
+            2145,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Chandran and Sons",
+        "Coordinate": [
+            1005,
+            1047,
+            2233,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kapadia Inc",
+        "Coordinate": [
+            1003,
+            1151,
+            2070,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 97, Ghose Marg, Unnao 103751",
+        "Coordinate": [
+            925,
+            1310,
+            2189,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48, Rajagopalan Marg, Jhansi 327860",
+        "Coordinate": [
+            919,
+            1525,
+            2291,
+            1691
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9427320136",
+        "Coordinate": [
+            894,
+            1790,
+            1335,
+            1901
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8988491007",
+        "Coordinate": [
+            1806,
+            1796,
+            2244,
+            1893
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Kannada",
+        "Coordinate": [
+            929,
+            1913,
+            1959,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bimala Sachdev - 7139262934",
+        "Coordinate": [
+            979,
+            2025,
+            2179,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagvi Peri - 9103054050",
+        "Coordinate": [
+            979,
+            2148,
+            1986,
+            2268
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            607,
+            2417,
+            1103,
+            2526
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/5/2023",
+        "Coordinate": [
+            607,
+            2505,
+            1017,
+            2596
+        ]
+    }
+]

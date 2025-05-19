@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jackson Kala",
+        "Coordinate": [
+            874,
+            398,
+            1265,
+            489
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wazir Kala",
+        "Coordinate": [
+            878,
+            494,
+            1216,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/23/1987",
+        "Coordinate": [
+            877,
+            591,
+            1185,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            875,
+            684,
+            1349,
+            777
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            872,
+            780,
+            1131,
+            872
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1792,
+            778,
+            1968,
+            854
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            885,
+            2053,
+            969
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            870,
+            888,
+            959,
+            970
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Om and Sons",
+        "Coordinate": [
+            934,
+            981,
+            1804,
+            1085
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bassi LLC",
+        "Coordinate": [
+            931,
+            1094,
+            1707,
+            1203
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "50, Parsa Street, Barasat 241916",
+        "Coordinate": [
+            868,
+            1230,
+            1914,
+            1355
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "440, Saha, Rajkot 718249",
+        "Coordinate": [
+            867,
+            1472,
+            1749,
+            1593
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7359175405",
+        "Coordinate": [
+            1845,
+            1746,
+            2221,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7631967966",
+        "Coordinate": [
+            873,
+            1749,
+            1227,
+            1837
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English, Telugu",
+        "Coordinate": [
+            866,
+            1885,
+            1624,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarnav Rattan - 7254004564",
+        "Coordinate": [
+            927,
+            1992,
+            1796,
+            2084
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanav Chatterjee - 9727742119",
+        "Coordinate": [
+            929,
+            2118,
+            1900,
+            2217
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "920000000000.0",
+        "Coordinate": [
+            568,
+            2329,
+            989,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            571,
+            2419,
+            790,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/31/2025",
+        "Coordinate": [
+            571,
+            2510,
+            902,
+            2593
+        ]
+    }
+]

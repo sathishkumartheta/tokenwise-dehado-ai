@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Suhani Char",
+        "Coordinate": [
+            882,
+            396,
+            1317,
+            495
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samesh Char",
+        "Coordinate": [
+            886,
+            502,
+            1337,
+            594
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "03-10-1975",
+        "Coordinate": [
+            914,
+            597,
+            1256,
+            683
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            928,
+            687,
+            1094,
+            779
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            803,
+            1193,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1842,
+            789,
+            2101,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1858,
+            897,
+            2111,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            938,
+            894,
+            1102,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Anne  Setty and Rajagopalan",
+        "Coordinate": [
+            956,
+            982,
+            2245,
+            1097
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Sangha-Chaudhuri",
+        "Coordinate": [
+            963,
+            1099,
+            2053,
+            1214
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85, Hans, Kota 919392",
+        "Coordinate": [
+            899,
+            1213,
+            1669,
+            1324
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "79, Grewal Chowk, Durgapur 024968",
+        "Coordinate": [
+            892,
+            1471,
+            2194,
+            1610
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7691047164",
+        "Coordinate": [
+            1881,
+            1744,
+            2291,
+            1842
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7227020796",
+        "Coordinate": [
+            880,
+            1746,
+            1292,
+            1833
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            919,
+            1889,
+            1521,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Deepa Dhingra - 8101624793",
+        "Coordinate": [
+            960,
+            2008,
+            1882,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Upasna More - 9924800561",
+        "Coordinate": [
+            975,
+            2129,
+            1894,
+            2232
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "538000000000.0",
+        "Coordinate": [
+            607,
+            2329,
+            1111,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            621,
+            2422,
+            970,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-08-2025",
+        "Coordinate": [
+            631,
+            2506,
+            1022,
+            2592
+        ]
+    }
+]

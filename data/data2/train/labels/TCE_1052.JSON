@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fiyaz Chaudhuri",
+        "Coordinate": [
+            916,
+            470,
+            1726,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Frado Chaudhuri",
+        "Coordinate": [
+            901,
+            588,
+            1683,
+            659
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/4/1982",
+        "Coordinate": [
+            909,
+            678,
+            1345,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            903,
+            774,
+            1277,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            923,
+            868,
+            1285,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1727,
+            862,
+            2029,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            954,
+            2177,
+            1039
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            943,
+            964,
+            1117,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sant  Bath and Samra",
+        "Coordinate": [
+            979,
+            1052,
+            2279,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Ahluwalia PLC",
+        "Coordinate": [
+            997,
+            1140,
+            2277,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "40/999, Nadig Zila, Barasat 405085",
+        "Coordinate": [
+            931,
+            1278,
+            2267,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "34/742, Ratti, Vijayanagaram 122647",
+        "Coordinate": [
+            919,
+            1548,
+            2291,
+            1751
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7258648156",
+        "Coordinate": [
+            889,
+            1785,
+            1371,
+            1894
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8399725055",
+        "Coordinate": [
+            1495,
+            1812,
+            2085,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            937,
+            1912,
+            1827,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekaja Loke - 8711302537",
+        "Coordinate": [
+            995,
+            2014,
+            2225,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pranav Mangal - 7710026143",
+        "Coordinate": [
+            971,
+            2138,
+            2255,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            647,
+            2402,
+            1007,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/2/2024",
+        "Coordinate": [
+            669,
+            2510,
+            1167,
+            2601
+        ]
+    }
+]

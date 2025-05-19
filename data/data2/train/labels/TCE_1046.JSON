@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavika Subramanian",
+        "Coordinate": [
+            894,
+            464,
+            1608,
+            573
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Liam Subramanian",
+        "Coordinate": [
+            896,
+            558,
+            1570,
+            671
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/28/1992",
+        "Coordinate": [
+            934,
+            680,
+            1320,
+            753
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            910,
+            772,
+            1222,
+            865
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            876,
+            1174,
+            941
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1812,
+            832,
+            2094,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            944,
+            958,
+            1060,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            966,
+            2160,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Goda-Madan",
+        "Coordinate": [
+            1012,
+            1034,
+            1926,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Saxena  Shanker and Pant",
+        "Coordinate": [
+            1028,
+            1146,
+            2224,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 12, Varghese Circle, Junagadh-836766",
+        "Coordinate": [
+            888,
+            1274,
+            2278,
+            1361
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 310, Ganesh Zila, Madurai 387534",
+        "Coordinate": [
+            902,
+            1530,
+            2258,
+            1633
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8865393807",
+        "Coordinate": [
+            914,
+            1804,
+            1368,
+            1893
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9996688004",
+        "Coordinate": [
+            1814,
+            1786,
+            2286,
+            1899
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi, Malayalam",
+        "Coordinate": [
+            922,
+            1910,
+            1790,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ethan Mitra - 8255127941",
+        "Coordinate": [
+            990,
+            2016,
+            2072,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yasti Kala - 8224894726",
+        "Coordinate": [
+            976,
+            2130,
+            1790,
+            2235
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            650,
+            2434,
+            1104,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/9/2025",
+        "Coordinate": [
+            665,
+            2524,
+            1084,
+            2597
+        ]
+    }
+]

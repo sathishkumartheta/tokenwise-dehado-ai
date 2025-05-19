@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ladli Hayre",
+        "Coordinate": [
+            906,
+            502,
+            1518,
+            595
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Atharv Hayre",
+        "Coordinate": [
+            906,
+            608,
+            1560,
+            705
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/3/2000",
+        "Coordinate": [
+            914,
+            702,
+            1394,
+            793
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            908,
+            806,
+            1636,
+            881
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            906,
+            892,
+            1304,
+            971
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1794,
+            878,
+            2122,
+            971
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            982,
+            2206,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sankar and Sons",
+        "Coordinate": [
+            973,
+            1074,
+            2248,
+            1169
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Mandal PLC",
+        "Coordinate": [
+            994,
+            1198,
+            2258,
+            1279
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 152, Seshadri Zila, Panvel-018973",
+        "Coordinate": [
+            898,
+            1292,
+            2066,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 71, Gaba Path, Proddatur-739031",
+        "Coordinate": [
+            912,
+            1538,
+            1986,
+            1721
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8496834788",
+        "Coordinate": [
+            904,
+            1811,
+            1362,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8964165117",
+        "Coordinate": [
+            1514,
+            1842,
+            1996,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, Malayalam, Hindi",
+        "Coordinate": [
+            908,
+            1938,
+            2280,
+            2021
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sanaya Goda - 8873112579",
+        "Coordinate": [
+            952,
+            2068,
+            2166,
+            2159
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashvi Pingle - 8411703846",
+        "Coordinate": [
+            940,
+            2182,
+            2194,
+            2279
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            630,
+            2440,
+            938,
+            2523
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/6/2022",
+        "Coordinate": [
+            640,
+            2534,
+            1222,
+            2625
+        ]
+    }
+]

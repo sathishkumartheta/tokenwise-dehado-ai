@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Narang",
+        "Coordinate": [
+            879,
+            436,
+            1479,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekansh Narang",
+        "Coordinate": [
+            893,
+            539,
+            1498,
+            637
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-01-2007",
+        "Coordinate": [
+            905,
+            639,
+            1278,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            895,
+            739,
+            1085,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            893,
+            843,
+            1129,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            836,
+            1996,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1848,
+            943,
+            2121,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            901,
+            948,
+            1065,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Contractor Ltd",
+        "Coordinate": [
+            1004,
+            1045,
+            1935,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Nayak  Sarma and Ghose",
+        "Coordinate": [
+            1001,
+            1150,
+            2313,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01/947, Talwar Ganj, Aurangabad-263896",
+        "Coordinate": [
+            914,
+            1289,
+            2379,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/79, Srinivas Zila, Bhavnagar 081001",
+        "Coordinate": [
+            923,
+            1539,
+            2347,
+            1678
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7253925567",
+        "Coordinate": [
+            1873,
+            1808,
+            2343,
+            1917
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8412196849",
+        "Coordinate": [
+            912,
+            1812,
+            1354,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            904,
+            1952,
+            1551,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranav Thaman - 8934884707",
+        "Coordinate": [
+            953,
+            2054,
+            2027,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omaja Bhardwaj - 9820675746",
+        "Coordinate": [
+            961,
+            2184,
+            2115,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EJOCF2469H",
+        "Coordinate": [
+            1629,
+            2393,
+            2176,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            586,
+            2491,
+            862,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "09-07-2023",
+        "Coordinate": [
+            594,
+            2579,
+            1015,
+            2663
+        ]
+    }
+]

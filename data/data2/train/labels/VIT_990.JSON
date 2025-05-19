@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Warjas Wadhwa",
+        "Coordinate": [
+            884,
+            442,
+            1406,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yuvraj Wadhwa",
+        "Coordinate": [
+            876,
+            546,
+            1372,
+            648
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/5/1959",
+        "Coordinate": [
+            918,
+            656,
+            1218,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            900,
+            746,
+            1196,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            852,
+            1152,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            954,
+            950,
+            1114,
+            1034
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            854,
+            2020,
+            944
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1868,
+            944,
+            2096,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Varty Inc",
+        "Coordinate": [
+            988,
+            1044,
+            1712,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chahal  Dar and Kashyap",
+        "Coordinate": [
+            1004,
+            1158,
+            2146,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "52/33, Lata Zila, Rourkela-170712",
+        "Coordinate": [
+            940,
+            1312,
+            2090,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "63/38, Baria Chowk, Nellore-208220",
+        "Coordinate": [
+            886,
+            1552,
+            2062,
+            1670
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7138595904",
+        "Coordinate": [
+            906,
+            1824,
+            1286,
+            1938
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9864506047",
+        "Coordinate": [
+            1894,
+            1800,
+            2256,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English",
+        "Coordinate": [
+            956,
+            1950,
+            1458,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Baghyawati Venkataraman - 7001747991",
+        "Coordinate": [
+            988,
+            2072,
+            2208,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "William Nadkarni - 7453489589",
+        "Coordinate": [
+            988,
+            2208,
+            1974,
+            2310
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "790970000000",
+        "Coordinate": [
+            600,
+            2402,
+            1124,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            696,
+            2492,
+            1034,
+            2570
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/23/2023",
+        "Coordinate": [
+            620,
+            2576,
+            996,
+            2670
+        ]
+    }
+]

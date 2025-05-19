@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aayush Sachar",
+        "Coordinate": [
+            910,
+            466,
+            1502,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samarth Sachar",
+        "Coordinate": [
+            910,
+            556,
+            1546,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/5/1992",
+        "Coordinate": [
+            910,
+            666,
+            1306,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            915,
+            760,
+            1286,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            925,
+            856,
+            1210,
+            938
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            920,
+            941,
+            1074,
+            1050
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            846,
+            1958,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1780,
+            961,
+            2050,
+            1058
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Modi-Tella",
+        "Coordinate": [
+            970,
+            1026,
+            1854,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Vaidya PLC",
+        "Coordinate": [
+            970,
+            1151,
+            1882,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "16/368, Dass Road, New Delhi-618913",
+        "Coordinate": [
+            889,
+            1276,
+            2166,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/72, Dhillon Chowk, Suryapet 841476",
+        "Coordinate": [
+            900,
+            1506,
+            2190,
+            1750
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9043419948",
+        "Coordinate": [
+            885,
+            1761,
+            1346,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9751330241",
+        "Coordinate": [
+            1800,
+            1786,
+            2266,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Bengali",
+        "Coordinate": [
+            910,
+            1891,
+            1722,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warjas Upadhyay - 9244114555",
+        "Coordinate": [
+            950,
+            2001,
+            2162,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nakul Ramaswamy - 9567856590",
+        "Coordinate": [
+            930,
+            2126,
+            2266,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            610,
+            2420,
+            1026,
+            2518
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/1/2024",
+        "Coordinate": [
+            625,
+            2506,
+            1070,
+            2614
+        ]
+    }
+]

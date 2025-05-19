@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshit Pandey",
+        "Coordinate": [
+            925,
+            442,
+            1547,
+            525
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onveer Pandey",
+        "Coordinate": [
+            965,
+            520,
+            1630,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/13/2004",
+        "Coordinate": [
+            972,
+            625,
+            1392,
+            737
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            990,
+            727,
+            1395,
+            835
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            835,
+            1320,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1845,
+            832,
+            2122,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1885,
+            950,
+            2207,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1027,
+            934,
+            1267,
+            1037
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Shan-Balan",
+        "Coordinate": [
+            1107,
+            1040,
+            1975,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sharma  Bhat and Soni",
+        "Coordinate": [
+            1117,
+            1125,
+            2195,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 55, Bala Ganj, Madurai-314127",
+        "Coordinate": [
+            972,
+            1307,
+            2352,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "21/29, Parikh Circle, Sultan Pur Majra-405552",
+        "Coordinate": [
+            890,
+            1525,
+            2317,
+            1767
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8062776461",
+        "Coordinate": [
+            925,
+            1815,
+            1400,
+            1945
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8304032561",
+        "Coordinate": [
+            1875,
+            1807,
+            2305,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Kannada",
+        "Coordinate": [
+            967,
+            1947,
+            1932,
+            2044
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Henry Tara - 8375706502",
+        "Coordinate": [
+            1092,
+            2047,
+            2110,
+            2160
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavya Wali - 9661359739",
+        "Coordinate": [
+            1065,
+            2172,
+            2182,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "287801000000",
+        "Coordinate": [
+            632,
+            2382,
+            1287,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            710,
+            2467,
+            955,
+            2577
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/24/2023",
+        "Coordinate": [
+            695,
+            2580,
+            1162,
+            2682
+        ]
+    }
+]

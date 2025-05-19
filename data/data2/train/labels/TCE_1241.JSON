@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Henry Savant",
+        "Coordinate": [
+            920,
+            477,
+            1507,
+            599
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Savant",
+        "Coordinate": [
+            943,
+            574,
+            1424,
+            674
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/3/1978",
+        "Coordinate": [
+            936,
+            661,
+            1301,
+            759
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            956,
+            741,
+            1434,
+            852
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            936,
+            857,
+            1221,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1709,
+            850,
+            1887,
+            945
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            947,
+            957,
+            1240,
+            1046
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1773,
+            957,
+            2037,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Pandya  Soman and Borah",
+        "Coordinate": [
+            960,
+            1061,
+            2155,
+            1164
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Bose  Sarin and Sood",
+        "Coordinate": [
+            973,
+            1160,
+            2133,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "21/421, Mallick Zila, Madhyamgram-366492",
+        "Coordinate": [
+            920,
+            1294,
+            2301,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 383, Manne, Surendranagar Dudhrej 342470",
+        "Coordinate": [
+            916,
+            1567,
+            2309,
+            1697
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8185174544",
+        "Coordinate": [
+            966,
+            1794,
+            1341,
+            1895
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9468145233",
+        "Coordinate": [
+            1573,
+            1807,
+            2002,
+            1892
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Tamil, Hindi",
+        "Coordinate": [
+            956,
+            1903,
+            1978,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chameli Deol - 8811961845",
+        "Coordinate": [
+            986,
+            2030,
+            1898,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Joshua Murty - 8860132241",
+        "Coordinate": [
+            996,
+            2150,
+            1909,
+            2254
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            659,
+            2431,
+            1045,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/13/2025",
+        "Coordinate": [
+            670,
+            2517,
+            1019,
+            2598
+        ]
+    }
+]

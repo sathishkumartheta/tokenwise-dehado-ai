@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Patrick Bhatt",
+        "Coordinate": [
+            868,
+            390,
+            1272,
+            482
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jai Bhatt",
+        "Coordinate": [
+            877,
+            490,
+            1158,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1968",
+        "Coordinate": [
+            878,
+            593,
+            1185,
+            674
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            880,
+            686,
+            1122,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            794,
+            1125,
+            884
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1780,
+            782,
+            1953,
+            865
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            887,
+            2035,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            900,
+            896,
+            1009,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Soman  Bahl and Balay",
+        "Coordinate": [
+            945,
+            977,
+            2044,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Lata Group",
+        "Coordinate": [
+            945,
+            1098,
+            1666,
+            1204
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 459, Bir Nagar, Dhanbad-977140",
+        "Coordinate": [
+            855,
+            1252,
+            2029,
+            1390
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "38/81, Madan, Satna 152049",
+        "Coordinate": [
+            858,
+            1492,
+            1741,
+            1614
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8483341748",
+        "Coordinate": [
+            1846,
+            1743,
+            2230,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8118183491",
+        "Coordinate": [
+            867,
+            1750,
+            1185,
+            1841
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, English",
+        "Coordinate": [
+            863,
+            1882,
+            1576,
+            1986
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chameli Taneja - 8402369678",
+        "Coordinate": [
+            924,
+            1993,
+            1781,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Waida Kapur - 7739418379",
+        "Coordinate": [
+            928,
+            2121,
+            1676,
+            2221
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "776000000000.0",
+        "Coordinate": [
+            573,
+            2329,
+            1022,
+            2409
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            580,
+            2425,
+            772,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/27/2023",
+        "Coordinate": [
+            586,
+            2512,
+            911,
+            2594
+        ]
+    }
+]

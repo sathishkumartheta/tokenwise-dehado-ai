@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yamini Luthra",
+        "Coordinate": [
+            862,
+            423,
+            1720,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samesh Luthra",
+        "Coordinate": [
+            869,
+            524,
+            1666,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/28/1996",
+        "Coordinate": [
+            887,
+            620,
+            1633,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            882,
+            724,
+            1717,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            824,
+            1361,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1833,
+            816,
+            2307,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1891,
+            920,
+            2335,
+            997
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            885,
+            925,
+            1165,
+            1014
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Peri  Bandi and Barad",
+        "Coordinate": [
+            1023,
+            1025,
+            2458,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Subramanian  Pillay and Chowdhury",
+        "Coordinate": [
+            1006,
+            1125,
+            2443,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "847, Brar Circle, Sambalpur-189490",
+        "Coordinate": [
+            907,
+            1267,
+            2404,
+            1486
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "78, Narula Chowk, Nagercoil 420949",
+        "Coordinate": [
+            907,
+            1535,
+            2309,
+            1768
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7345799712",
+        "Coordinate": [
+            1848,
+            1794,
+            2335,
+            1905
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7728598815",
+        "Coordinate": [
+            878,
+            1798,
+            1375,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil",
+        "Coordinate": [
+            867,
+            1932,
+            1905,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darsh Solanki - 7158354965",
+        "Coordinate": [
+            989,
+            2035,
+            2413,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charan Manne - 8170230244",
+        "Coordinate": [
+            966,
+            2166,
+            2374,
+            2263
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "694000000000.0",
+        "Coordinate": [
+            583,
+            2373,
+            1291,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            578,
+            2467,
+            1252,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/28/2025",
+        "Coordinate": [
+            587,
+            2561,
+            1459,
+            2660
+        ]
+    }
+]

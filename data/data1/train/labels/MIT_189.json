@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Isaac Bajwa",
+        "Coordinate": [
+            911,
+            394,
+            1428,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ishaan Bajwa",
+        "Coordinate": [
+            913,
+            490,
+            1473,
+            581
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1988",
+        "Coordinate": [
+            944,
+            591,
+            1303,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            948,
+            688,
+            1321,
+            778
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            959,
+            792,
+            1196,
+            887
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1812,
+            784,
+            1993,
+            861
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            891,
+            2122,
+            974
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            977,
+            898,
+            1106,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Din-Pandit",
+        "Coordinate": [
+            1018,
+            987,
+            1997,
+            1095
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Mangat  Kara and Rajagopalan",
+        "Coordinate": [
+            967,
+            1103,
+            2353,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "131, Parikh Road, Tadepalligudem 151092",
+        "Coordinate": [
+            912,
+            1230,
+            2185,
+            1424
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "59/26, Mitra Street, Karnal-475410",
+        "Coordinate": [
+            901,
+            1480,
+            2268,
+            1624
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8425622727",
+        "Coordinate": [
+            1876,
+            1745,
+            2322,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9623843793",
+        "Coordinate": [
+            917,
+            1755,
+            1357,
+            1861
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Telugu",
+        "Coordinate": [
+            953,
+            1885,
+            1729,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manan Nagarajan - 8624909206",
+        "Coordinate": [
+            949,
+            2001,
+            2069,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Madhavi Sekhon - 8667852131",
+        "Coordinate": [
+            979,
+            2124,
+            2071,
+            2223
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "837000000000.0",
+        "Coordinate": [
+            619,
+            2334,
+            1158,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            660,
+            2426,
+            1042,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/27/2022",
+        "Coordinate": [
+            688,
+            2515,
+            1162,
+            2596
+        ]
+    }
+]

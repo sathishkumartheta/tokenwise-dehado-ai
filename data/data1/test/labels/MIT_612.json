@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Triveni Edwin",
+        "Coordinate": [
+            884,
+            435,
+            1412,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lucky Edwin",
+        "Coordinate": [
+            892,
+            535,
+            1331,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/15/1979",
+        "Coordinate": [
+            899,
+            634,
+            1237,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            901,
+            731,
+            1224,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            894,
+            835,
+            1199,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1737,
+            831,
+            1990,
+            909
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            939,
+            2059,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Pandey-Sahota",
+        "Coordinate": [
+            947,
+            1041,
+            1920,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bhatnagar Inc",
+        "Coordinate": [
+            955,
+            1152,
+            1906,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "807, Grewal Circle, Panvel-661545",
+        "Coordinate": [
+            897,
+            1276,
+            2131,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "35, Nanda Marg, Vijayawada 288252",
+        "Coordinate": [
+            886,
+            1544,
+            2240,
+            1683
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8986516537",
+        "Coordinate": [
+            1846,
+            1806,
+            2249,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9312634561",
+        "Coordinate": [
+            906,
+            1810,
+            1292,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada, Tamil, Marathi",
+        "Coordinate": [
+            882,
+            1947,
+            2102,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Onveer Virk - 9822204936",
+        "Coordinate": [
+            1060,
+            2054,
+            1950,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rachita Barman - 7754068531",
+        "Coordinate": [
+            946,
+            2184,
+            1985,
+            2295
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "LZUAF4740B",
+        "Coordinate": [
+            1632,
+            2395,
+            2057,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            591,
+            2479,
+            937,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/26/2023",
+        "Coordinate": [
+            593,
+            2572,
+            988,
+            2661
+        ]
+    }
+]

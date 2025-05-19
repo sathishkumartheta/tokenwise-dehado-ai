@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "7/16/2023",
+        "Coordinate": [
+            694,
+            2524,
+            1260,
+            2591
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            650,
+            2404,
+            1022,
+            2505
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Atharv Borde - 8174238241",
+        "Coordinate": [
+            996,
+            2124,
+            2286,
+            2235
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rohan Raval - 7287833842",
+        "Coordinate": [
+            987,
+            2012,
+            2286,
+            2109
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil, Gujarati, Telugu",
+        "Coordinate": [
+            932,
+            1916,
+            2280,
+            2011
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7719354126",
+        "Coordinate": [
+            920,
+            1780,
+            1366,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8221626231",
+        "Coordinate": [
+            1862,
+            1766,
+            2284,
+            1867
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 40, Pingle Path, Ajmer-772139",
+        "Coordinate": [
+            918,
+            1514,
+            2298,
+            1669
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09/872, More Circle, Anand 869692",
+        "Coordinate": [
+            926,
+            1280,
+            2184,
+            1483
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Ratti  Loyal and Sachdev",
+        "Coordinate": [
+            1018,
+            1152,
+            2282,
+            1247
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Rama Ltd",
+        "Coordinate": [
+            988,
+            1044,
+            1904,
+            1119
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            958,
+            2204,
+            1025
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1694,
+            850,
+            1958,
+            923
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            950,
+            965,
+            1116,
+            1026
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            934,
+            841,
+            1212,
+            922
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            918,
+            762,
+            1298,
+            841
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/2007",
+        "Coordinate": [
+            918,
+            666,
+            1358,
+            753
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Agrawal",
+        "Coordinate": [
+            960,
+            554,
+            1654,
+            653
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "William Agrawal",
+        "Coordinate": [
+            902,
+            467,
+            1714,
+            541
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chameli Manne",
+        "Coordinate": [
+            927,
+            471,
+            1354,
+            558
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Michael Manne",
+        "Coordinate": [
+            922,
+            563,
+            1408,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/25/2004",
+        "Coordinate": [
+            945,
+            650,
+            1312,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            952,
+            754,
+            1243,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            927,
+            846,
+            1156,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1756,
+            842,
+            1994,
+            924
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            1012,
+            948,
+            1128,
+            1033
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1827,
+            939,
+            2075,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Ramachandran-Prakash",
+        "Coordinate": [
+            1000,
+            1043,
+            2204,
+            1123
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Loyal  Bhargava and Vohra",
+        "Coordinate": [
+            990,
+            1149,
+            2268,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 070, Dada Marg, Bardhaman 223596",
+        "Coordinate": [
+            948,
+            1264,
+            2306,
+            1473
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 85, Ghose Path, Dharmavaram 094436",
+        "Coordinate": [
+            941,
+            1520,
+            2217,
+            1701
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8099394176",
+        "Coordinate": [
+            965,
+            1794,
+            1357,
+            1888
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8249051274",
+        "Coordinate": [
+            1836,
+            1760,
+            2210,
+            1864
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, English, Tamil",
+        "Coordinate": [
+            958,
+            1900,
+            2125,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anika Walla - 8122164443",
+        "Coordinate": [
+            1017,
+            2008,
+            2018,
+            2112
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Megha Bhatti - 9223168049",
+        "Coordinate": [
+            1026,
+            2138,
+            2016,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            688,
+            2420,
+            1010,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/7/2022",
+        "Coordinate": [
+            678,
+            2509,
+            1045,
+            2592
+        ]
+    }
+]

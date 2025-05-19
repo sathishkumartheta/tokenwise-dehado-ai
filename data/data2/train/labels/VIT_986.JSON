@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            850,
+            1168,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            884,
+            953,
+            1022,
+            1033
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Gautami Bala",
+        "Coordinate": [
+            880,
+            432,
+            1334,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Farhan Bala",
+        "Coordinate": [
+            872,
+            538,
+            1338,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/10/1971",
+        "Coordinate": [
+            888,
+            640,
+            1134,
+            726
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            894,
+            738,
+            1168,
+            830
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1790,
+            834,
+            2054,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            942,
+            2080,
+            1020
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ghosh-Choudhary",
+        "Coordinate": [
+            982,
+            1044,
+            1906,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Kapur PLC",
+        "Coordinate": [
+            1009,
+            1156,
+            1749,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "44/62, Radhakrishnan Chowk, North Dumdum 487497",
+        "Coordinate": [
+            882,
+            1292,
+            2230,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "12/954, Khosla Path, Rajahmundry 584999",
+        "Coordinate": [
+            888,
+            1544,
+            2208,
+            1656
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8885181879",
+        "Coordinate": [
+            880,
+            1802,
+            1236,
+            1882
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8219955606",
+        "Coordinate": [
+            1874,
+            1806,
+            2246,
+            1904
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Marathi",
+        "Coordinate": [
+            878,
+            1946,
+            1322,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rachita Palan - 7029915007",
+        "Coordinate": [
+            966,
+            2044,
+            1802,
+            2140
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ijaya Nori - 9545886481",
+        "Coordinate": [
+            948,
+            2180,
+            1780,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "676520000000",
+        "Coordinate": [
+            614,
+            2404,
+            1068,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            588,
+            2474,
+            824,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/25/2022",
+        "Coordinate": [
+            580,
+            2578,
+            930,
+            2668
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "JRYRJ6362K",
+        "Coordinate": [
+            1636,
+            2396,
+            2124,
+            2482
+        ]
+    }
+]

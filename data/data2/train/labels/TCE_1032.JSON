@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yagnesh Prasad",
+        "Coordinate": [
+            938,
+            473,
+            1494,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Laban Prasad",
+        "Coordinate": [
+            938,
+            566,
+            1448,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/6/1974",
+        "Coordinate": [
+            916,
+            676,
+            1350,
+            745
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            930,
+            752,
+            1242,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            928,
+            860,
+            1164,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1778,
+            854,
+            2022,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            940,
+            2066,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            948,
+            942,
+            1128,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Nagy-Keer",
+        "Coordinate": [
+            1002,
+            1042,
+            1780,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Memon-Ramanathan",
+        "Coordinate": [
+            980,
+            1148,
+            2194,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "79, Saxena, Ajmer 226461",
+        "Coordinate": [
+            932,
+            1318,
+            1870,
+            1415
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "002, Apte Chowk, Jaunpur 076976",
+        "Coordinate": [
+            894,
+            1524,
+            2076,
+            1589
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7649602049",
+        "Coordinate": [
+            920,
+            1768,
+            1366,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9438560835",
+        "Coordinate": [
+            1836,
+            1766,
+            2298,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Kannada, Malayalam",
+        "Coordinate": [
+            938,
+            1916,
+            2098,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Balvan Nagar - 9611149306",
+        "Coordinate": [
+            988,
+            2036,
+            1856,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zayyan Parmar - 8867200801",
+        "Coordinate": [
+            1016,
+            2138,
+            2042,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            606,
+            2411,
+            974,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/23/2024",
+        "Coordinate": [
+            624,
+            2506,
+            1108,
+            2605
+        ]
+    }
+]

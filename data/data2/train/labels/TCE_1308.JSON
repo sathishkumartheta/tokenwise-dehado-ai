@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abhiram Trivedi",
+        "Coordinate": [
+            922,
+            484,
+            1558,
+            543
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Trivedi",
+        "Coordinate": [
+            938,
+            578,
+            1536,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/22/1975",
+        "Coordinate": [
+            944,
+            662,
+            1340,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            936,
+            772,
+            1300,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            926,
+            857,
+            1238,
+            928
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            958,
+            972,
+            1140,
+            1025
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1794,
+            857,
+            2016,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1855,
+            966,
+            2152,
+            1017
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Sodhi  Bains and Saran",
+        "Coordinate": [
+            1034,
+            1044,
+            2220,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Lad  Banerjee and Bose",
+        "Coordinate": [
+            986,
+            1152,
+            2258,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 89, Tata Marg, Haldia-769246",
+        "Coordinate": [
+            926,
+            1284,
+            2282,
+            1399
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 99, Choudhury Ganj, Durg 794050",
+        "Coordinate": [
+            914,
+            1546,
+            2286,
+            1641
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9413032432",
+        "Coordinate": [
+            924,
+            1782,
+            1356,
+            1855
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8983517419",
+        "Coordinate": [
+            1816,
+            1780,
+            2262,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Gujarati, Malayalam",
+        "Coordinate": [
+            950,
+            1908,
+            2230,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harshil Nath - 8382133677",
+        "Coordinate": [
+            984,
+            2004,
+            2030,
+            2095
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Agastya Rege - 9630987163",
+        "Coordinate": [
+            1006,
+            2140,
+            2226,
+            2225
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            686,
+            2424,
+            1114,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/22/2022",
+        "Coordinate": [
+            782,
+            2502,
+            1250,
+            2587
+        ]
+    }
+]

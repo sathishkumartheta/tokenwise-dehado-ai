@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Leela Khurana",
+        "Coordinate": [
+            894,
+            425,
+            1497,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Max Khurana",
+        "Coordinate": [
+            923,
+            529,
+            1485,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "02-03-1988",
+        "Coordinate": [
+            928,
+            628,
+            1267,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            893,
+            724,
+            1208,
+            826
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            833,
+            1211,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            824,
+            2051,
+            926
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            937,
+            2124,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            968,
+            937,
+            1130,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Choudhry  Bhasin and Pradhan",
+        "Coordinate": [
+            936,
+            1034,
+            2301,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Tripathi-Pandya",
+        "Coordinate": [
+            965,
+            1143,
+            2094,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "17/490, Nori Chowk, Amaravati 544926",
+        "Coordinate": [
+            925,
+            1268,
+            2324,
+            1411
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 89, Patel Ganj, Navi Mumbai-661106",
+        "Coordinate": [
+            886,
+            1526,
+            2274,
+            1782
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9081009855",
+        "Coordinate": [
+            1866,
+            1800,
+            2332,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7463354987",
+        "Coordinate": [
+            881,
+            1823,
+            1323,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            868,
+            1937,
+            1553,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vamakshi Kala - 8865642130",
+        "Coordinate": [
+            943,
+            2051,
+            2136,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faras Pingle - 7546285051",
+        "Coordinate": [
+            944,
+            2182,
+            2134,
+            2306
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "862000000000.0",
+        "Coordinate": [
+            613,
+            2376,
+            1139,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            638,
+            2475,
+            916,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/31/2022",
+        "Coordinate": [
+            637,
+            2572,
+            1042,
+            2674
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Idika Gade",
+        "Coordinate": [
+            900,
+            430,
+            1337,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qabil Gade",
+        "Coordinate": [
+            922,
+            545,
+            1375,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/12/1970",
+        "Coordinate": [
+            932,
+            635,
+            1307,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            912,
+            720,
+            1192,
+            857
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1775,
+            802,
+            2007,
+            910
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            839,
+            1167,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            935,
+            2057,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            910,
+            934,
+            1075,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ratti  Majumdar and Sawhney",
+        "Coordinate": [
+            977,
+            1042,
+            2287,
+            1185
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Sarma-Sheth",
+        "Coordinate": [
+            987,
+            1152,
+            1845,
+            1297
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "64, Gade Road, Muzaffarpur 707810",
+        "Coordinate": [
+            905,
+            1290,
+            2282,
+            1467
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 244, Andra Circle, Katni 211874",
+        "Coordinate": [
+            877,
+            1545,
+            2182,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9282615940",
+        "Coordinate": [
+            882,
+            1792,
+            1267,
+            1922
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7853382968",
+        "Coordinate": [
+            1850,
+            1799,
+            2247,
+            1904
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Atharv Mammen - 9130000687",
+        "Coordinate": [
+            959,
+            2035,
+            1974,
+            2195
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali",
+        "Coordinate": [
+            890,
+            1945,
+            1517,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaraj Bhagat - 9212157200",
+        "Coordinate": [
+            982,
+            2202,
+            1995,
+            2332
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            582,
+            2462,
+            850,
+            2560
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/22/2022",
+        "Coordinate": [
+            595,
+            2562,
+            952,
+            2652
+        ]
+    }
+]

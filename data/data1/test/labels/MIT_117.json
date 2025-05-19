@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Caleb De",
+        "Coordinate": [
+            884,
+            431,
+            1221,
+            519
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Raghav De",
+        "Coordinate": [
+            888,
+            525,
+            1284,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/28/2003",
+        "Coordinate": [
+            879,
+            627,
+            1253,
+            715
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            878,
+            722,
+            1163,
+            810
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            880,
+            827,
+            1120,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1791,
+            825,
+            1971,
+            911
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1887,
+            932,
+            2128,
+            1022
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            878,
+            935,
+            983,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Goyal  Choudhry and Gour",
+        "Coordinate": [
+            953,
+            1029,
+            2174,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Menon-Sibal",
+        "Coordinate": [
+            973,
+            1140,
+            1798,
+            1238
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 65, Edwin Road, Bally 665044",
+        "Coordinate": [
+            881,
+            1258,
+            2083,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 739, Gokhale Marg, Moradabad-863917",
+        "Coordinate": [
+            876,
+            1515,
+            2273,
+            1629
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7363094951",
+        "Coordinate": [
+            1865,
+            1793,
+            2319,
+            1885
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9507102844",
+        "Coordinate": [
+            881,
+            1797,
+            1327,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Tamil",
+        "Coordinate": [
+            877,
+            1935,
+            1494,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harshil Banerjee - 8520016487",
+        "Coordinate": [
+            933,
+            2038,
+            2038,
+            2145
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekavir Krishna - 9394191129",
+        "Coordinate": [
+            959,
+            2174,
+            2043,
+            2287
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XJWLB8144X",
+        "Coordinate": [
+            1620,
+            2380,
+            2113,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            587,
+            2470,
+            860,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/26/2024",
+        "Coordinate": [
+            584,
+            2565,
+            1003,
+            2656
+        ]
+    }
+]

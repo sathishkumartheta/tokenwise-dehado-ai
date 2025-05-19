@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "2/11/2025",
+        "Coordinate": [
+            602,
+            2510,
+            1058,
+            2581
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            618,
+            2414,
+            932,
+            2485
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Liam Nair - 8365194491",
+        "Coordinate": [
+            951,
+            2140,
+            1959,
+            2243
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Max Saha - 9271171825",
+        "Coordinate": [
+            967,
+            2000,
+            1943,
+            2109
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Tamil, Hindi",
+        "Coordinate": [
+            884,
+            1904,
+            1988,
+            2007
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7993250329",
+        "Coordinate": [
+            1534,
+            1830,
+            2086,
+            1905
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9700267157",
+        "Coordinate": [
+            884,
+            1772,
+            1360,
+            1893
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "19/949, Mahal Ganj, Pudukkottai 615902",
+        "Coordinate": [
+            888,
+            1506,
+            2196,
+            1697
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "97, Babu Marg, Medininagar-466005",
+        "Coordinate": [
+            912,
+            1274,
+            2290,
+            1403
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Yadav-Bassi",
+        "Coordinate": [
+            968,
+            1160,
+            1982,
+            1259
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Khanna-Randhawa",
+        "Coordinate": [
+            950,
+            1048,
+            2164,
+            1153
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1786,
+            952,
+            2088,
+            1037
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1746,
+            863,
+            2038,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            916,
+            946,
+            1110,
+            1029
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            872,
+            1306,
+            949
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            904,
+            764,
+            1298,
+            853
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/5/1976",
+        "Coordinate": [
+            910,
+            670,
+            1294,
+            743
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udant Balay",
+        "Coordinate": [
+            930,
+            582,
+            1434,
+            651
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Yahvi Balay",
+        "Coordinate": [
+            924,
+            478,
+            1394,
+            555
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nandini Choudhary",
+        "Coordinate": [
+            918,
+            470,
+            1610,
+            555
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "William Choudhary",
+        "Coordinate": [
+            946,
+            570,
+            1780,
+            649
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/6/2007",
+        "Coordinate": [
+            962,
+            658,
+            1304,
+            743
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            914,
+            762,
+            1284,
+            825
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            862,
+            1270,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1756,
+            854,
+            2044,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1782,
+            954,
+            2140,
+            1027
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            986,
+            960,
+            1130,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Hari Inc",
+        "Coordinate": [
+            987,
+            1058,
+            1759,
+            1133
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Balakrishnan  Bhatnagar and Sarna",
+        "Coordinate": [
+            998,
+            1164,
+            2284,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86, Sarma Ganj, Salem 893584",
+        "Coordinate": [
+            936,
+            1294,
+            2046,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "05, Chakrabarti Chowk, Erode 656416",
+        "Coordinate": [
+            918,
+            1518,
+            2246,
+            1703
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7952968502",
+        "Coordinate": [
+            928,
+            1778,
+            1362,
+            1859
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8661081351",
+        "Coordinate": [
+            1864,
+            1784,
+            2252,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi",
+        "Coordinate": [
+            918,
+            1908,
+            1590,
+            1987
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Megha Ramakrishnan - 7867261116",
+        "Coordinate": [
+            1020,
+            2004,
+            2234,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanvi Chandran - 9952052163",
+        "Coordinate": [
+            1002,
+            2124,
+            2238,
+            2231
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            670,
+            2418,
+            1140,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/26/2025",
+        "Coordinate": [
+            634,
+            2502,
+            1122,
+            2595
+        ]
+    }
+]

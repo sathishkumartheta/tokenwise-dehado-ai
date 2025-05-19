@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Theodore Buch",
+        "Coordinate": [
+            890,
+            436,
+            1438,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarush Buch",
+        "Coordinate": [
+            898,
+            542,
+            1368,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/31/1986",
+        "Coordinate": [
+            897,
+            643,
+            1285,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            903,
+            743,
+            1229,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            847,
+            1227,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1862,
+            836,
+            2048,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            938,
+            2119,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            912,
+            948,
+            1049,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Yadav and Sons",
+        "Coordinate": [
+            980,
+            1044,
+            1924,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Lata Ltd",
+        "Coordinate": [
+            983,
+            1146,
+            1735,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35, Ghose Marg, Bikaner 700453",
+        "Coordinate": [
+            897,
+            1272,
+            2108,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/302, Kannan Chowk, Tirunelveli 704240",
+        "Coordinate": [
+            913,
+            1535,
+            2340,
+            1674
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7120666737",
+        "Coordinate": [
+            1871,
+            1801,
+            2245,
+            1882
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9351485805",
+        "Coordinate": [
+            882,
+            1806,
+            1285,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati",
+        "Coordinate": [
+            889,
+            1946,
+            1585,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Garima Oommen - 9860412375",
+        "Coordinate": [
+            910,
+            2048,
+            1910,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bina Roy - 8327060906",
+        "Coordinate": [
+            972,
+            2173,
+            1790,
+            2271
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "818000000000.0",
+        "Coordinate": [
+            598,
+            2381,
+            1058,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            597,
+            2484,
+            881,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/30/2024",
+        "Coordinate": [
+            599,
+            2574,
+            977,
+            2663
+        ]
+    }
+]

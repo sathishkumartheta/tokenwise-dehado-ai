@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Adya Kant",
+        "Coordinate": [
+            863,
+            426,
+            1188,
+            524
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Kant",
+        "Coordinate": [
+            865,
+            522,
+            1301,
+            625
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-10-1985",
+        "Coordinate": [
+            866,
+            622,
+            1148,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            861,
+            723,
+            1114,
+            821
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            867,
+            826,
+            1107,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1754,
+            824,
+            2013,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            930,
+            2073,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            870,
+            934,
+            974,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Pandit-Ratti",
+        "Coordinate": [
+            938,
+            1029,
+            1753,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Aggarwal Ltd",
+        "Coordinate": [
+            939,
+            1141,
+            1852,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "22/821, Yohannan Street, Jamshedpur-868278",
+        "Coordinate": [
+            880,
+            1271,
+            2239,
+            1504
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "643, Jha, Hyderabad 596920",
+        "Coordinate": [
+            877,
+            1525,
+            1976,
+            1680
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7847965778",
+        "Coordinate": [
+            1847,
+            1802,
+            2281,
+            1918
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7492662417",
+        "Coordinate": [
+            872,
+            1802,
+            1284,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Hindi, Telugu",
+        "Coordinate": [
+            869,
+            1938,
+            1953,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nandini Ranganathan - 7190965230",
+        "Coordinate": [
+            909,
+            2051,
+            2167,
+            2171
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Anjali Pandey - 7415427565",
+        "Coordinate": [
+            913,
+            2183,
+            1975,
+            2309
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VOKJP4841A",
+        "Coordinate": [
+            1615,
+            2390,
+            2127,
+            2483
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            571,
+            2468,
+            850,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/19/2024",
+        "Coordinate": [
+            576,
+            2566,
+            966,
+            2663
+        ]
+    }
+]

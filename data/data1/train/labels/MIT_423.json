@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sara Dugal",
+        "Coordinate": [
+            906,
+            423,
+            1256,
+            514
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Peter Dugal",
+        "Coordinate": [
+            909,
+            520,
+            1302,
+            614
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-07-2005",
+        "Coordinate": [
+            911,
+            622,
+            1205,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            911,
+            720,
+            1362,
+            809
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            824,
+            1160,
+            913
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            819,
+            1973,
+            896
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1847,
+            925,
+            2066,
+            1004
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            915,
+            924,
+            1044,
+            1007
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Behl  Tripathi and Kuruvilla",
+        "Coordinate": [
+            973,
+            1011,
+            2157,
+            1118
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mane Ltd",
+        "Coordinate": [
+            971,
+            1125,
+            1626,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 01, Jha Zila, Mau-582107",
+        "Coordinate": [
+            902,
+            1241,
+            1815,
+            1346
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "07/27, Bhalla, Bhind-616088",
+        "Coordinate": [
+            889,
+            1498,
+            1734,
+            1607
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7781356727",
+        "Coordinate": [
+            1857,
+            1779,
+            2220,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9147147024",
+        "Coordinate": [
+            889,
+            1774,
+            1245,
+            1858
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Kannada",
+        "Coordinate": [
+            894,
+            1928,
+            1405,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Upma Dubey - 7842031330",
+        "Coordinate": [
+            954,
+            2022,
+            1691,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samaksh Rajagopalan - 8886520694",
+        "Coordinate": [
+            950,
+            2146,
+            1929,
+            2250
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "889000000000.0",
+        "Coordinate": [
+            601,
+            2361,
+            1010,
+            2442
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            593,
+            2456,
+            1134,
+            2541
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/16/2025",
+        "Coordinate": [
+            598,
+            2542,
+            895,
+            2624
+        ]
+    }
+]

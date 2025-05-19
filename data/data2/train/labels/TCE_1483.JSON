@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekaja Behl",
+        "Coordinate": [
+            894,
+            481,
+            1373,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harshil Behl",
+        "Coordinate": [
+            919,
+            566,
+            1309,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/9/1980",
+        "Coordinate": [
+            894,
+            651,
+            1304,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            873,
+            751,
+            1316,
+            866
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            866,
+            1232,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1690,
+            868,
+            1948,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            926,
+            2020,
+            1050
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            889,
+            911,
+            1077,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dara Inc",
+        "Coordinate": [
+            974,
+            1041,
+            1749,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Zachariah-Char",
+        "Coordinate": [
+            969,
+            1136,
+            1928,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "81, Walla Ganj, Latur 386349",
+        "Coordinate": [
+            899,
+            1291,
+            2000,
+            1406
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 24, Hegde, Gorakhpur-417628",
+        "Coordinate": [
+            901,
+            1491,
+            2156,
+            1643
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9612932472",
+        "Coordinate": [
+            1818,
+            1777,
+            2220,
+            1859
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7397834304",
+        "Coordinate": [
+            899,
+            1767,
+            1356,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, English",
+        "Coordinate": [
+            904,
+            1887,
+            1700,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Henry Ahuja - 8575613985",
+        "Coordinate": [
+            944,
+            2017,
+            1865,
+            2123
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            609,
+            2407,
+            925,
+            2532
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/27/2025",
+        "Coordinate": [
+            624,
+            2487,
+            1037,
+            2608
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abeer Bobal - 8046748998",
+        "Coordinate": [
+            940,
+            2117,
+            1784,
+            2236
+        ]
+    }
+]

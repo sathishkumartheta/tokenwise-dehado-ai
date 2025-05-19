@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shivansh Sarkar",
+        "Coordinate": [
+            910,
+            484,
+            1566,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balveer Sarkar",
+        "Coordinate": [
+            922,
+            546,
+            1428,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/15/1962",
+        "Coordinate": [
+            948,
+            664,
+            1272,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            940,
+            752,
+            1076,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            858,
+            1242,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1736,
+            863,
+            2030,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            952,
+            2070,
+            1015
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            944,
+            957,
+            1066,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bedi  Banik and Bahl",
+        "Coordinate": [
+            1026,
+            1044,
+            2102,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Chadha-Das",
+        "Coordinate": [
+            1014,
+            1160,
+            1902,
+            1219
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "47/939, Jhaveri Ganj, Danapur-402696",
+        "Coordinate": [
+            948,
+            1260,
+            2210,
+            1387
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 55, Batta Circle, Ambala-575751",
+        "Coordinate": [
+            939,
+            1530,
+            2182,
+            1679
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9154947234",
+        "Coordinate": [
+            914,
+            1792,
+            1354,
+            1915
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7927236032",
+        "Coordinate": [
+            1825,
+            1788,
+            2230,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Kannada, English",
+        "Coordinate": [
+            916,
+            1902,
+            2080,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Imaran Upadhyay - 8725161756",
+        "Coordinate": [
+            1015,
+            2004,
+            2190,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Laban Hans - 7050679577",
+        "Coordinate": [
+            978,
+            2148,
+            1982,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            640,
+            2436,
+            1056,
+            2497
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/22/2023",
+        "Coordinate": [
+            708,
+            2526,
+            1182,
+            2607
+        ]
+    }
+]

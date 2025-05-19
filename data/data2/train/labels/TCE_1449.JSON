@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemani Pai",
+        "Coordinate": [
+            890,
+            461,
+            1286,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sai Pai",
+        "Coordinate": [
+            895,
+            561,
+            1198,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/17/2006",
+        "Coordinate": [
+            895,
+            661,
+            1266,
+            757
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            895,
+            746,
+            1226,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            876,
+            1198,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1800,
+            855,
+            2106,
+            953
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            895,
+            956,
+            1086,
+            1045
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1760,
+            946,
+            2018,
+            1065
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Pillai Group",
+        "Coordinate": [
+            965,
+            1041,
+            1802,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sami PLC",
+        "Coordinate": [
+            965,
+            1161,
+            1718,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65/045, Ram Marg, Vijayanagaram-853674",
+        "Coordinate": [
+            910,
+            1251,
+            1850,
+            1477
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "71/13, Kaur Marg, Tumkur-133112",
+        "Coordinate": [
+            885,
+            1500,
+            2094,
+            1645
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7448711998",
+        "Coordinate": [
+            860,
+            1776,
+            1362,
+            1865
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9218331093",
+        "Coordinate": [
+            1810,
+            1780,
+            2234,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali",
+        "Coordinate": [
+            870,
+            1896,
+            1402,
+            1989
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Charles Sarkar - 7697018094",
+        "Coordinate": [
+            930,
+            2000,
+            1982,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekaja Mukherjee - 9398020736",
+        "Coordinate": [
+            915,
+            2110,
+            2050,
+            2237
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Thiruvananthapuram",
+        "Coordinate": [
+            600,
+            2391,
+            1370,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/19/2022",
+        "Coordinate": [
+            575,
+            2480,
+            962,
+            2569
+        ]
+    }
+]

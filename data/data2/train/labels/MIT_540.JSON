@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varenya Kohli",
+        "Coordinate": [
+            955,
+            445,
+            1565,
+            582
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Hredhaan Kohli",
+        "Coordinate": [
+            945,
+            555,
+            1545,
+            675
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/14/1996",
+        "Coordinate": [
+            960,
+            647,
+            1325,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            960,
+            757,
+            1252,
+            855
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            972,
+            859,
+            1252,
+            959
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1847,
+            845,
+            2115,
+            940
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            947,
+            2132,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            960,
+            957,
+            1077,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Chana  Kulkarni and Setty",
+        "Coordinate": [
+            1017,
+            1032,
+            2390,
+            1140
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Tella  Nori and Ganesh",
+        "Coordinate": [
+            1040,
+            1170,
+            2304,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 42, Guha Nagar, Medininagar 410238",
+        "Coordinate": [
+            937,
+            1270,
+            2340,
+            1422
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 18, Sachdev Marg, Mehsana-413135",
+        "Coordinate": [
+            955,
+            1527,
+            2417,
+            1632
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8741321080",
+        "Coordinate": [
+            947,
+            1807,
+            1380,
+            1914
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8471498435",
+        "Coordinate": [
+            1922,
+            1810,
+            2392,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi, English, Malayalam",
+        "Coordinate": [
+            957,
+            1945,
+            2205,
+            2037
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashasvi Guha - 7509762180",
+        "Coordinate": [
+            1000,
+            2062,
+            2077,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lohit Pant - 8340390690",
+        "Coordinate": [
+            1067,
+            2180,
+            1609,
+            2295
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NGWNA8854T",
+        "Coordinate": [
+            1680,
+            2382,
+            2315,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bengaluru",
+        "Coordinate": [
+            680,
+            2490,
+            1102,
+            2607
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/4/2023",
+        "Coordinate": [
+            712,
+            2602,
+            1137,
+            2680
+        ]
+    }
+]

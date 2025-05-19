@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sathvik Murty",
+        "Coordinate": [
+            899,
+            476,
+            1555,
+            583
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Raghav Murty",
+        "Coordinate": [
+            941,
+            555,
+            1599,
+            680
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/13/1969",
+        "Coordinate": [
+            928,
+            655,
+            1430,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            912,
+            748,
+            1357,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            935,
+            838,
+            1275,
+            967
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1815,
+            848,
+            2089,
+            967
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1013,
+            975,
+            1183,
+            1060
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1857,
+            955,
+            2195,
+            1058
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bobal-Rana",
+        "Coordinate": [
+            1017,
+            1058,
+            2012,
+            1187
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kunda Group",
+        "Coordinate": [
+            993,
+            1148,
+            2120,
+            1283
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 072, Sheth Road, Munger 531397",
+        "Coordinate": [
+            908,
+            1267,
+            2332,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 76, Kapur Marg, Chittoor-242427",
+        "Coordinate": [
+            925,
+            1534,
+            2302,
+            1705
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7557523265",
+        "Coordinate": [
+            910,
+            1782,
+            1378,
+            1889
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7358516758",
+        "Coordinate": [
+            1849,
+            1775,
+            2294,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Hindi, Malayalam, Tamil",
+        "Coordinate": [
+            920,
+            1910,
+            2232,
+            2015
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ekbal Goda - 7854585765",
+        "Coordinate": [
+            980,
+            1994,
+            2017,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nitara Cherian - 7299127944",
+        "Coordinate": [
+            990,
+            2124,
+            2117,
+            2255
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            621,
+            2402,
+            1008,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/14/2024",
+        "Coordinate": [
+            633,
+            2494,
+            1235,
+            2642
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krisha Ahluwalia",
+        "Coordinate": [
+            932,
+            405,
+            1440,
+            503
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Ahluwalia",
+        "Coordinate": [
+            930,
+            510,
+            1451,
+            606
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/21/1994",
+        "Coordinate": [
+            929,
+            612,
+            1217,
+            695
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            923,
+            713,
+            1148,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            819,
+            1144,
+            898
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1813,
+            793,
+            2013,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            904,
+            2060,
+            996
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            924,
+            916,
+            1013,
+            985
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kibe-Atwal",
+        "Coordinate": [
+            985,
+            986,
+            1599,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Dada Inc",
+        "Coordinate": [
+            989,
+            1108,
+            1560,
+            1210
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "32, Ahuja, Thanjavur-598875",
+        "Coordinate": [
+            909,
+            1250,
+            1804,
+            1373
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "996, Ganesh Road, Ranchi-362027",
+        "Coordinate": [
+            907,
+            1472,
+            1894,
+            1573
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8849463306",
+        "Coordinate": [
+            1874,
+            1761,
+            2214,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8384442778",
+        "Coordinate": [
+            900,
+            1748,
+            1272,
+            1821
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Kannada, Hindi",
+        "Coordinate": [
+            903,
+            1897,
+            1861,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Irya Verma - 9469299630",
+        "Coordinate": [
+            963,
+            1996,
+            1708,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Faras Kumer - 8570349412",
+        "Coordinate": [
+            960,
+            2122,
+            1718,
+            2202
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "829000000000.0",
+        "Coordinate": [
+            597,
+            2328,
+            1047,
+            2403
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            598,
+            2420,
+            791,
+            2501
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/15/2022",
+        "Coordinate": [
+            600,
+            2515,
+            934,
+            2596
+        ]
+    }
+]

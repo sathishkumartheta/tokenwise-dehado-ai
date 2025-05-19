@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bimala Gulati",
+        "Coordinate": [
+            910,
+            460,
+            1390,
+            566
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Alexander Gulati",
+        "Coordinate": [
+            895,
+            576,
+            1470,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/28/1991",
+        "Coordinate": [
+            890,
+            651,
+            1302,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            910,
+            770,
+            1254,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            856,
+            1218,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            900,
+            950,
+            1070,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1730,
+            866,
+            1978,
+            958
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            945,
+            2042,
+            1038
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Mahal  Krishnamurthy and Kothari",
+        "Coordinate": [
+            990,
+            1046,
+            2202,
+            1118
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sundaram PLC",
+        "Coordinate": [
+            967,
+            1154,
+            1886,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "221, Keer Street, Bangalore-228889",
+        "Coordinate": [
+            890,
+            1265,
+            2074,
+            1378
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26/005, Bhat Street, Raipur-841069",
+        "Coordinate": [
+            904,
+            1506,
+            2110,
+            1626
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9182523301",
+        "Coordinate": [
+            900,
+            1771,
+            1358,
+            1874
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7707924271",
+        "Coordinate": [
+            1850,
+            1771,
+            2290,
+            1870
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            925,
+            1911,
+            1610,
+            1990
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Urvi Shere - 7704564476",
+        "Coordinate": [
+            970,
+            2011,
+            1870,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Raghav Dewan - 9780978045",
+        "Coordinate": [
+            985,
+            2130,
+            2006,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            630,
+            2406,
+            890,
+            2494
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/30/2022",
+        "Coordinate": [
+            630,
+            2506,
+            1006,
+            2606
+        ]
+    }
+]

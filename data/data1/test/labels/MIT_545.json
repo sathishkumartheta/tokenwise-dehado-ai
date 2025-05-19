@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Varenya Rastogi",
+        "Coordinate": [
+            959,
+            440,
+            1475,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Onkar Rastogi",
+        "Coordinate": [
+            971,
+            555,
+            1454,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/27/1962",
+        "Coordinate": [
+            959,
+            657,
+            1264,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            989,
+            753,
+            1249,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1009,
+            860,
+            1208,
+            958
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1860,
+            839,
+            2088,
+            949
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1890,
+            957,
+            2109,
+            1053
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1053,
+            958,
+            1189,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Bajaj  Kurian and Chacko",
+        "Coordinate": [
+            1017,
+            1048,
+            2298,
+            1159
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Thakkar  Tiwari and Narayanan",
+        "Coordinate": [
+            1021,
+            1156,
+            2338,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/016, Pandya Path, Guntur-887888",
+        "Coordinate": [
+            1009,
+            1312,
+            2189,
+            1457
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 69, Khanna, Tiruppur-062290",
+        "Coordinate": [
+            976,
+            1556,
+            2136,
+            1707
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8139902261",
+        "Coordinate": [
+            1923,
+            1808,
+            2306,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9158122547",
+        "Coordinate": [
+            952,
+            1811,
+            1352,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Hindi, Telugu",
+        "Coordinate": [
+            957,
+            1947,
+            1814,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Guneet Hari - 8553246406",
+        "Coordinate": [
+            1013,
+            2056,
+            1937,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aditya Mammen - 8662385275",
+        "Coordinate": [
+            1033,
+            2188,
+            2166,
+            2308
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "TIYOP9655G",
+        "Coordinate": [
+            1694,
+            2392,
+            2152,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            650,
+            2467,
+            902,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-12-2023",
+        "Coordinate": [
+            648,
+            2562,
+            1045,
+            2650
+        ]
+    }
+]

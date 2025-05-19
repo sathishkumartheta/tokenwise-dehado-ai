@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Reyansh Kothari",
+        "Coordinate": [
+            910,
+            474,
+            1408,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Kothari",
+        "Coordinate": [
+            906,
+            567,
+            1341,
+            658
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/1988",
+        "Coordinate": [
+            923,
+            664,
+            1232,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            760,
+            1034,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            903,
+            847,
+            1181,
+            943
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1797,
+            837,
+            1976,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1840,
+            934,
+            2101,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            936,
+            950,
+            1045,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Sathe-Hari",
+        "Coordinate": [
+            980,
+            1044,
+            1773,
+            1146
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Kala PLC",
+        "Coordinate": [
+            980,
+            1164,
+            1725,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/338, Shanker, Aizawl-011214",
+        "Coordinate": [
+            930,
+            1277,
+            1960,
+            1380
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "39/39, Edwin Road, Tirunelveli-881565",
+        "Coordinate": [
+            900,
+            1517,
+            2211,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9820810205",
+        "Coordinate": [
+            906,
+            1794,
+            1293,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8390046841",
+        "Coordinate": [
+            1863,
+            1784,
+            2232,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Malayalam, Marathi",
+        "Coordinate": [
+            897,
+            1900,
+            2072,
+            1988
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Akshay Memon - 8672389679",
+        "Coordinate": [
+            973,
+            2004,
+            1936,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Parth Shetty - 9823109804",
+        "Coordinate": [
+            972,
+            2140,
+            1951,
+            2244
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            626,
+            2412,
+            1045,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2025",
+        "Coordinate": [
+            620,
+            2517,
+            944,
+            2607
+        ]
+    }
+]

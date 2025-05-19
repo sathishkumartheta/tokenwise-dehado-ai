@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nakul Chand",
+        "Coordinate": [
+            876,
+            425,
+            1343,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faras Chand",
+        "Coordinate": [
+            880,
+            529,
+            1364,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/22/1973",
+        "Coordinate": [
+            898,
+            633,
+            1333,
+            724
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            881,
+            733,
+            1259,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            836,
+            1213,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1769,
+            835,
+            1975,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1860,
+            933,
+            2133,
+            1024
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            946,
+            935,
+            1126,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bora LLC",
+        "Coordinate": [
+            999,
+            1048,
+            1911,
+            1156
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Chopra-Bhavsar",
+        "Coordinate": [
+            1029,
+            1150,
+            2183,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "20/607, Kota Zila, Ballia 005221",
+        "Coordinate": [
+            893,
+            1282,
+            2213,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "673, Iyengar Path, Bhavnagar 611615",
+        "Coordinate": [
+            899,
+            1521,
+            2367,
+            1683
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7807317115",
+        "Coordinate": [
+            1860,
+            1790,
+            2282,
+            1889
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8796931919",
+        "Coordinate": [
+            891,
+            1799,
+            1366,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Tamil, Kannada, English",
+        "Coordinate": [
+            879,
+            1933,
+            2017,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anamika Dhar - 8136605385",
+        "Coordinate": [
+            986,
+            2038,
+            2057,
+            2148
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Frederick Walla - 9986762985",
+        "Coordinate": [
+            987,
+            2173,
+            2142,
+            2291
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "940000000000.0",
+        "Coordinate": [
+            586,
+            2373,
+            1181,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            603,
+            2472,
+            873,
+            2563
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/17/2025",
+        "Coordinate": [
+            604,
+            2567,
+            1051,
+            2666
+        ]
+    }
+]

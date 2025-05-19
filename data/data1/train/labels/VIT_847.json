@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Amaira Chaudhary",
+        "Coordinate": [
+            889,
+            418,
+            1491,
+            527
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naksh Chaudhary",
+        "Coordinate": [
+            887,
+            522,
+            1499,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/31/1976",
+        "Coordinate": [
+            890,
+            624,
+            1272,
+            717
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            891,
+            722,
+            1210,
+            824
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            874,
+            823,
+            1062,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1807,
+            820,
+            2037,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1817,
+            931,
+            2060,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            883,
+            934,
+            1033,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Kari PLC",
+        "Coordinate": [
+            971,
+            1034,
+            1686,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Sarma Ltd",
+        "Coordinate": [
+            959,
+            1146,
+            1788,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "88/339, Jain Street, Durgapur-546862",
+        "Coordinate": [
+            892,
+            1266,
+            2313,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 035, Pradhan Marg, Agartala-843714",
+        "Coordinate": [
+            899,
+            1515,
+            2352,
+            1688
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8842635937",
+        "Coordinate": [
+            1853,
+            1798,
+            2354,
+            1906
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9522451502",
+        "Coordinate": [
+            885,
+            1798,
+            1345,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Hindi, Telugu, Kannada",
+        "Coordinate": [
+            889,
+            1934,
+            1888,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Nirja Dhingra - 9108391853",
+        "Coordinate": [
+            950,
+            2052,
+            1998,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vincent Pau - 8882054774",
+        "Coordinate": [
+            956,
+            2187,
+            1925,
+            2313
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ACNVT8232O",
+        "Coordinate": [
+            1632,
+            2382,
+            2227,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            586,
+            2467,
+            845,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-01-2022",
+        "Coordinate": [
+            588,
+            2564,
+            1028,
+            2657
+        ]
+    }
+]

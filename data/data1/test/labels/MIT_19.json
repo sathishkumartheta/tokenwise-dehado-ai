@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mitali Karan",
+        "Coordinate": [
+            937,
+            438,
+            1289,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Karan",
+        "Coordinate": [
+            952,
+            540,
+            1393,
+            628
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-08-1988",
+        "Coordinate": [
+            958,
+            640,
+            1278,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            967,
+            738,
+            1367,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            969,
+            847,
+            1193,
+            936
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1876,
+            816,
+            2092,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1914,
+            927,
+            2135,
+            1017
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            1042,
+            944,
+            1157,
+            1029
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Chaudhry Group",
+        "Coordinate": [
+            1046,
+            1033,
+            1841,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mistry Inc",
+        "Coordinate": [
+            1053,
+            1145,
+            1716,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 455, Dhingra Marg, Bettiah 922219",
+        "Coordinate": [
+            976,
+            1284,
+            2106,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "92, Shenoy Ganj, Jaunpur-074821",
+        "Coordinate": [
+            990,
+            1519,
+            2008,
+            1690
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7474313610",
+        "Coordinate": [
+            1924,
+            1775,
+            2297,
+            1866
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9286469428",
+        "Coordinate": [
+            961,
+            1803,
+            1353,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, English, Tamil",
+        "Coordinate": [
+            1005,
+            1933,
+            1652,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemani Mistry - 8898298369",
+        "Coordinate": [
+            1038,
+            2036,
+            1895,
+            2141
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Zashil Shan - 8966330885",
+        "Coordinate": [
+            1066,
+            2167,
+            1869,
+            2272
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "977000000000.0",
+        "Coordinate": [
+            678,
+            2380,
+            1168,
+            2462
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            688,
+            2477,
+            938,
+            2555
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-10-2024",
+        "Coordinate": [
+            684,
+            2570,
+            1019,
+            2655
+        ]
+    }
+]

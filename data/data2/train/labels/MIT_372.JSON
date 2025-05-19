@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Raghav Ganesh",
+        "Coordinate": [
+            899,
+            381,
+            1432,
+            475
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Utkarsh Ganesh",
+        "Coordinate": [
+            904,
+            483,
+            1497,
+            574
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/27/1972",
+        "Coordinate": [
+            918,
+            581,
+            1278,
+            662
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            930,
+            676,
+            1258,
+            772
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            944,
+            785,
+            1261,
+            875
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1740,
+            775,
+            1942,
+            850
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1816,
+            878,
+            2078,
+            963
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            944,
+            884,
+            1106,
+            972
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Ganguly Group",
+        "Coordinate": [
+            977,
+            975,
+            1906,
+            1082
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Saraf Inc",
+        "Coordinate": [
+            977,
+            1095,
+            1861,
+            1206
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "436, Oza Street, Shimoga 188087",
+        "Coordinate": [
+            862,
+            1220,
+            2184,
+            1357
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "341, Rai, Muzaffarnagar 853247",
+        "Coordinate": [
+            879,
+            1491,
+            2133,
+            1626
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7913747710",
+        "Coordinate": [
+            1874,
+            1753,
+            2288,
+            1858
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8392886225",
+        "Coordinate": [
+            886,
+            1751,
+            1303,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, English",
+        "Coordinate": [
+            877,
+            1881,
+            1685,
+            1985
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jasmit Bhandari - 8719882118",
+        "Coordinate": [
+            957,
+            1990,
+            2017,
+            2097
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Warinder Kar - 7732158328",
+        "Coordinate": [
+            953,
+            2122,
+            1971,
+            2212
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SLOGL9892C",
+        "Coordinate": [
+            1629,
+            2328,
+            2076,
+            2414
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            589,
+            2416,
+            864,
+            2496
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/28/2022",
+        "Coordinate": [
+            615,
+            2503,
+            1023,
+            2588
+        ]
+    }
+]

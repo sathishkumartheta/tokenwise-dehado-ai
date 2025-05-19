@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakrika Tripathi",
+        "Coordinate": [
+            913,
+            467,
+            1682,
+            581
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aarav Tripathi",
+        "Coordinate": [
+            920,
+            584,
+            1603,
+            672
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/3/1973",
+        "Coordinate": [
+            930,
+            677,
+            1349,
+            765
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            916,
+            777,
+            1274,
+            861
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            870,
+            1269,
+            962
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            973,
+            970,
+            1090,
+            1047
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1729,
+            860,
+            2051,
+            956
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1793,
+            964,
+            2090,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Dhawan-Agarwal",
+        "Coordinate": [
+            993,
+            1061,
+            2269,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Radhakrishnan  Sibal and Ghose",
+        "Coordinate": [
+            987,
+            1177,
+            2320,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 466, Sodhi Circle, Proddatur 796211",
+        "Coordinate": [
+            920,
+            1307,
+            2243,
+            1495
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 230, Ramachandran Road, Guna-659980",
+        "Coordinate": [
+            920,
+            1537,
+            2024,
+            1745
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9234953748",
+        "Coordinate": [
+            900,
+            1773,
+            1355,
+            1883
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9339015656",
+        "Coordinate": [
+            1583,
+            1810,
+            2026,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Tamil",
+        "Coordinate": [
+            970,
+            1907,
+            1869,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Niharika Sagar - 7645179981",
+        "Coordinate": [
+            983,
+            2014,
+            2104,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harsh Kar - 7394337547",
+        "Coordinate": [
+            983,
+            2144,
+            1925,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            643,
+            2414,
+            986,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/3/2023",
+        "Coordinate": [
+            653,
+            2517,
+            1138,
+            2620
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Kiaan Nagar",
+        "Coordinate": [
+            892,
+            401,
+            1363,
+            496
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Nagar",
+        "Coordinate": [
+            894,
+            505,
+            1368,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-05-1966",
+        "Coordinate": [
+            913,
+            600,
+            1222,
+            681
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            905,
+            697,
+            1417,
+            794
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            800,
+            1200,
+            890
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1827,
+            796,
+            2013,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1853,
+            900,
+            2088,
+            989
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            927,
+            901,
+            1031,
+            979
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Pal Group",
+        "Coordinate": [
+            957,
+            993,
+            1797,
+            1103
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sunder  Mammen and Brar",
+        "Coordinate": [
+            949,
+            1111,
+            2290,
+            1225
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34/83, Pradhan Zila, Vadodara-771070",
+        "Coordinate": [
+            892,
+            1224,
+            2264,
+            1364
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "64/10, Rajagopalan Road, Surat 670336",
+        "Coordinate": [
+            869,
+            1467,
+            2276,
+            1604
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8597423432",
+        "Coordinate": [
+            1881,
+            1762,
+            2314,
+            1879
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7292246081",
+        "Coordinate": [
+            885,
+            1771,
+            1309,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada, Telugu",
+        "Coordinate": [
+            939,
+            1892,
+            1762,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raagini Walia - 7777711334",
+        "Coordinate": [
+            981,
+            2014,
+            2022,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dalaja Balay - 9743541246",
+        "Coordinate": [
+            971,
+            2139,
+            2024,
+            2260
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "543000000000.0",
+        "Coordinate": [
+            608,
+            2336,
+            1088,
+            2421
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            628,
+            2427,
+            850,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "06-05-2024",
+        "Coordinate": [
+            616,
+            2513,
+            1026,
+            2599
+        ]
+    }
+]

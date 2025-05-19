@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatan Guha",
+        "Coordinate": [
+            891,
+            389,
+            1409,
+            480
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Saksham Guha",
+        "Coordinate": [
+            899,
+            483,
+            1568,
+            584
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/25/1962",
+        "Coordinate": [
+            899,
+            590,
+            1292,
+            677
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            895,
+            682,
+            1270,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            785,
+            1254,
+            878
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            778,
+            1969,
+            861
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            888,
+            2154,
+            980
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            905,
+            887,
+            1064,
+            975
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Bhargava-Srinivasan",
+        "Coordinate": [
+            941,
+            977,
+            2364,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Chaudhary  Venkatesh and Chand",
+        "Coordinate": [
+            909,
+            1097,
+            2396,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "34/52, Hora Chowk, Purnia 661707",
+        "Coordinate": [
+            893,
+            1208,
+            2270,
+            1331
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "79/64, Mani Chowk, Dehri 314998",
+        "Coordinate": [
+            886,
+            1461,
+            2251,
+            1590
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7466003944",
+        "Coordinate": [
+            1858,
+            1743,
+            2300,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8318131464",
+        "Coordinate": [
+            876,
+            1743,
+            1289,
+            1834
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, English, Kannada",
+        "Coordinate": [
+            883,
+            1882,
+            2336,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dipta Bava - 8183146160",
+        "Coordinate": [
+            924,
+            1992,
+            1865,
+            2091
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Champak Mitter - 7403477463",
+        "Coordinate": [
+            937,
+            2115,
+            2170,
+            2228
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "909000000000.0",
+        "Coordinate": [
+            581,
+            2324,
+            1142,
+            2416
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "NGGGG3028D",
+        "Coordinate": [
+            1617,
+            2334,
+            2178,
+            2431
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            602,
+            2421,
+            1026,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/23/2023",
+        "Coordinate": [
+            588,
+            2510,
+            1002,
+            2598
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Sachi Karpe",
+        "Coordinate": [
+            925,
+            437,
+            1317,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Karpe",
+        "Coordinate": [
+            942,
+            555,
+            1382,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/8/1983",
+        "Coordinate": [
+            935,
+            655,
+            1302,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            960,
+            742,
+            1315,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            835,
+            1180,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1815,
+            830,
+            2070,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            935,
+            2107,
+            1047
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            967,
+            945,
+            1107,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sehgal-Chada",
+        "Coordinate": [
+            1015,
+            1042,
+            1812,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Parmer  Lad and Kakar",
+        "Coordinate": [
+            1002,
+            1157,
+            2045,
+            1272
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 41, Roy Chowk, Siliguri-682994",
+        "Coordinate": [
+            875,
+            1322,
+            2025,
+            1462
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "845, Dani Chowk, Chapra 981625",
+        "Coordinate": [
+            897,
+            1587,
+            1882,
+            1752
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9659886397",
+        "Coordinate": [
+            1855,
+            1802,
+            2297,
+            1910
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8052096639",
+        "Coordinate": [
+            870,
+            1815,
+            1322,
+            1942
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            887,
+            1942,
+            1397,
+            2062
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rohan Chhabra - 7398065704",
+        "Coordinate": [
+            967,
+            2052,
+            1857,
+            2167
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekanta Kothari - 7440086218",
+        "Coordinate": [
+            975,
+            2190,
+            1865,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "280505000000",
+        "Coordinate": [
+            557,
+            2385,
+            1082,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            607,
+            2487,
+            867,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/1/2022",
+        "Coordinate": [
+            637,
+            2577,
+            1040,
+            2682
+        ]
+    }
+]

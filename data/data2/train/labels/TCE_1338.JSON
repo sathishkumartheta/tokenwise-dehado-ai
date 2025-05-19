@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aditya Bala",
+        "Coordinate": [
+            908,
+            470,
+            1356,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradhar Bala",
+        "Coordinate": [
+            902,
+            576,
+            1560,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/7/1968",
+        "Coordinate": [
+            904,
+            672,
+            1216,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            914,
+            762,
+            1220,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            898,
+            864,
+            1228,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            856,
+            1951,
+            955
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1760,
+            958,
+            2018,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            898,
+            948,
+            1038,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Patel and Sons",
+        "Coordinate": [
+            992,
+            1044,
+            1912,
+            1149
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Koshy PLC",
+        "Coordinate": [
+            984,
+            1160,
+            1812,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/55, Sanghvi Nagar, Shivpuri 810631",
+        "Coordinate": [
+            894,
+            1280,
+            2284,
+            1407
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 80, Ramachandran Marg, Eluru 629065",
+        "Coordinate": [
+            896,
+            1536,
+            2092,
+            1731
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8152415141",
+        "Coordinate": [
+            900,
+            1792,
+            1324,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8222510324",
+        "Coordinate": [
+            1494,
+            1828,
+            1960,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada, Gujarati, English",
+        "Coordinate": [
+            874,
+            1928,
+            2136,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Mohini Pall - 9973258955",
+        "Coordinate": [
+            948,
+            2032,
+            1966,
+            2119
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kevin Rattan - 7092723117",
+        "Coordinate": [
+            956,
+            2132,
+            1922,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            604,
+            2422,
+            908,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/2/2024",
+        "Coordinate": [
+            628,
+            2514,
+            1098,
+            2607
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakrika Naidu",
+        "Coordinate": [
+            884,
+            435,
+            1380,
+            539
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anirudh Naidu",
+        "Coordinate": [
+            889,
+            539,
+            1337,
+            641
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/26/1961",
+        "Coordinate": [
+            885,
+            642,
+            1239,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            885,
+            741,
+            1167,
+            843
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            884,
+            845,
+            1131,
+            947
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1741,
+            832,
+            1970,
+            945
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1797,
+            946,
+            2040,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            875,
+            949,
+            984,
+            1043
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Sankaran-Atwal",
+        "Coordinate": [
+            955,
+            1049,
+            1867,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Shankar LLC",
+        "Coordinate": [
+            977,
+            1162,
+            1803,
+            1270
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 778, Gola Road, Arrah 761867",
+        "Coordinate": [
+            887,
+            1280,
+            2085,
+            1426
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67, Chanda Street, Belgaum-491430",
+        "Coordinate": [
+            890,
+            1529,
+            2124,
+            1691
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7321303105",
+        "Coordinate": [
+            1883,
+            1806,
+            2322,
+            1913
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9691315729",
+        "Coordinate": [
+            890,
+            1808,
+            1306,
+            1908
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English",
+        "Coordinate": [
+            894,
+            1952,
+            1465,
+            2065
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Indrajit Patil - 9390641848",
+        "Coordinate": [
+            932,
+            2068,
+            1991,
+            2197
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sneha Goda - 8556005124",
+        "Coordinate": [
+            960,
+            2206,
+            1864,
+            2329
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "207000000000.0",
+        "Coordinate": [
+            583,
+            2399,
+            1060,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            577,
+            2492,
+            793,
+            2583
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/25/2025",
+        "Coordinate": [
+            587,
+            2581,
+            1048,
+            2673
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zehaan Bobal",
+        "Coordinate": [
+            885,
+            430,
+            1615,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chaitanya Bobal",
+        "Coordinate": [
+            923,
+            540,
+            1754,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/19/1998",
+        "Coordinate": [
+            920,
+            635,
+            1427,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            916,
+            733,
+            1374,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            932,
+            838,
+            1296,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1861,
+            831,
+            2091,
+            938
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1881,
+            947,
+            2219,
+            1048
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            948,
+            943,
+            1163,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Vora Ltd",
+        "Coordinate": [
+            1005,
+            1047,
+            2031,
+            1161
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bera  Ramanathan and Wali",
+        "Coordinate": [
+            1030,
+            1154,
+            2370,
+            1275
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 307, Sandhu Zila, Karnal-216336",
+        "Coordinate": [
+            939,
+            1308,
+            2210,
+            1526
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 798, Loyal Path, Ranchi 903729",
+        "Coordinate": [
+            912,
+            1551,
+            2133,
+            1784
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8311760613",
+        "Coordinate": [
+            1867,
+            1795,
+            2348,
+            1916
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7129806830",
+        "Coordinate": [
+            900,
+            1803,
+            1411,
+            1937
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chakrika Prabhu - 8339241299",
+        "Coordinate": [
+            997,
+            2046,
+            2459,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yahvi Kar - 8017472715",
+        "Coordinate": [
+            1026,
+            2183,
+            2262,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "553000000000.0",
+        "Coordinate": [
+            608,
+            2372,
+            1313,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            647,
+            2463,
+            1033,
+            2559
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/19/2022",
+        "Coordinate": [
+            642,
+            2558,
+            1133,
+            2664
+        ]
+    }
+]

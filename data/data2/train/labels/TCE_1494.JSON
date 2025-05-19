@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Irya Dubey",
+        "Coordinate": [
+            901,
+            477,
+            1384,
+            571
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Azaan Dubey",
+        "Coordinate": [
+            901,
+            572,
+            1350,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/24/2001",
+        "Coordinate": [
+            903,
+            661,
+            1291,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            921,
+            766,
+            1377,
+            856
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1745,
+            866,
+            2050,
+            946
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            926,
+            928,
+            1139,
+            1051
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            955,
+            2064,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kari Ltd",
+        "Coordinate": [
+            989,
+            1044,
+            1947,
+            1119
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Khanna-Magar",
+        "Coordinate": [
+            951,
+            1151,
+            1869,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "95/015, Walia Street, Meerut-486157",
+        "Coordinate": [
+            896,
+            1274,
+            2282,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "24/696, Garde Road, Kollam-801266",
+        "Coordinate": [
+            901,
+            1503,
+            2271,
+            1640
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Telugu, Bengali",
+        "Coordinate": [
+            891,
+            1890,
+            1724,
+            2007
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9527789562",
+        "Coordinate": [
+            887,
+            1757,
+            1335,
+            1875
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9354406512",
+        "Coordinate": [
+            1840,
+            1784,
+            2265,
+            1875
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chatura Bandi - 8419947130",
+        "Coordinate": [
+            923,
+            2015,
+            1878,
+            2107
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            655,
+            2405,
+            1028,
+            2502
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Deepa Sehgal - 7540994682",
+        "Coordinate": [
+            951,
+            2146,
+            1911,
+            2240
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/8/2022",
+        "Coordinate": [
+            608,
+            2495,
+            1044,
+            2598
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            948,
+            872,
+            1215,
+            962
+        ]
+    }
+]

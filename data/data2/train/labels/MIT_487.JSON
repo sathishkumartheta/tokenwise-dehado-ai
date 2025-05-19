@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekbal Dara",
+        "Coordinate": [
+            942,
+            453,
+            1374,
+            560
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Harish Dara",
+        "Coordinate": [
+            912,
+            550,
+            1380,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/13/1976",
+        "Coordinate": [
+            970,
+            650,
+            1330,
+            748
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            950,
+            740,
+            1160,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            970,
+            857,
+            1312,
+            946
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1840,
+            840,
+            2054,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            1020,
+            970,
+            1160,
+            1052
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            950,
+            2148,
+            1052
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Narayan  Mittal and Lal",
+        "Coordinate": [
+            1077,
+            1050,
+            2334,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Bhasin and Sons",
+        "Coordinate": [
+            1099,
+            1163,
+            2066,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 607, Char, Gudivada 386015",
+        "Coordinate": [
+            1017,
+            1300,
+            2268,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "17/132, More Zila, Bhavnagar-702881",
+        "Coordinate": [
+            1000,
+            1545,
+            2256,
+            1766
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9572733818",
+        "Coordinate": [
+            960,
+            1840,
+            1394,
+            1944
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8020237902",
+        "Coordinate": [
+            1923,
+            1797,
+            2326,
+            1924
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Marathi, English",
+        "Coordinate": [
+            1035,
+            1952,
+            2058,
+            2056
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "George Dar - 8729319952",
+        "Coordinate": [
+            1147,
+            2060,
+            2058,
+            2182
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tripti Mistry - 8172160955",
+        "Coordinate": [
+            1137,
+            2198,
+            1942,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "745604000000",
+        "Coordinate": [
+            690,
+            2380,
+            1350,
+            2484
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            740,
+            2495,
+            1014,
+            2588
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/19/2024",
+        "Coordinate": [
+            760,
+            2585,
+            1078,
+            2696
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikbal Bava",
+        "Coordinate": [
+            905,
+            478,
+            1362,
+            563
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Veer Bava",
+        "Coordinate": [
+            915,
+            568,
+            1367,
+            660
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/17/1986",
+        "Coordinate": [
+            930,
+            656,
+            1343,
+            763
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            943,
+            756,
+            1277,
+            845
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            942,
+            847,
+            1203,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            925,
+            958,
+            1158,
+            1038
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1767,
+            852,
+            1979,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            952,
+            2064,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Ratti-Sunder",
+        "Coordinate": [
+            988,
+            1052,
+            1930,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Doshi-Kunda",
+        "Coordinate": [
+            1005,
+            1162,
+            2000,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 315, Tak Chowk, Machilipatnam 811245",
+        "Coordinate": [
+            897,
+            1260,
+            2304,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83, Kapur Marg, Kalyan-Dombivli 801922",
+        "Coordinate": [
+            937,
+            1540,
+            2300,
+            1669
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7763023120",
+        "Coordinate": [
+            915,
+            1789,
+            1343,
+            1900
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9867540055",
+        "Coordinate": [
+            1835,
+            1782,
+            2234,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Tamil, Telugu",
+        "Coordinate": [
+            915,
+            1910,
+            1669,
+            2004
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagdish Sahota - 9557860905",
+        "Coordinate": [
+            975,
+            2005,
+            1940,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Onveer Jhaveri - 8621786383",
+        "Coordinate": [
+            995,
+            2137,
+            1972,
+            2245
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            630,
+            2414,
+            958,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/6/2024",
+        "Coordinate": [
+            641,
+            2512,
+            1077,
+            2596
+        ]
+    }
+]

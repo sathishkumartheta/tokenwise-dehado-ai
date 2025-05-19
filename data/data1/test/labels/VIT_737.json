@@ -1,0 +1,172 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavya Jaggi",
+        "Coordinate": [
+            878,
+            420,
+            1397,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Wridesh Jaggi",
+        "Coordinate": [
+            891,
+            523,
+            1497,
+            632
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-06-1984",
+        "Coordinate": [
+            891,
+            623,
+            1344,
+            727
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            880,
+            722,
+            1748,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            874,
+            822,
+            1299,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1789,
+            827,
+            2231,
+            925
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            929,
+            2294,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            926,
+            930,
+            1152,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Kota  Nath and Dyal",
+        "Coordinate": [
+            975,
+            1036,
+            2339,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mane  Sahni and Bobal",
+        "Coordinate": [
+            977,
+            1142,
+            2375,
+            1262
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/040, Pandya Circle, Lucknow 334611",
+        "Coordinate": [
+            864,
+            1280,
+            2142,
+            1517
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "728, Raja Street, Madanapalle-380419",
+        "Coordinate": [
+            878,
+            1528,
+            2330,
+            1788
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8298629928",
+        "Coordinate": [
+            1543,
+            1852,
+            2219,
+            1939
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9991991577",
+        "Coordinate": [
+            860,
+            1799,
+            1351,
+            1927
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Kannada, Hindi",
+        "Coordinate": [
+            860,
+            1939,
+            2272,
+            2048
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vasana Chada - 8878294144",
+        "Coordinate": [
+            918,
+            2052,
+            2142,
+            2173
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chanakya Korpal - 8116043344",
+        "Coordinate": [
+            906,
+            2182,
+            2227,
+            2312
+        ]
+    }
+]

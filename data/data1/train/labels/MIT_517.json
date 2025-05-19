@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Parth Pall",
+        "Coordinate": [
+            910,
+            400,
+            1394,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Madhav Pall",
+        "Coordinate": [
+            947,
+            508,
+            1506,
+            612
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "08-11-1982",
+        "Coordinate": [
+            938,
+            610,
+            1354,
+            704
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            914,
+            703,
+            1527,
+            812
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            916,
+            814,
+            1265,
+            915
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1856,
+            790,
+            2091,
+            904
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            907,
+            2151,
+            1013
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            937,
+            918,
+            1053,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Lad Ltd",
+        "Coordinate": [
+            1023,
+            1010,
+            1834,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Baria-Buch",
+        "Coordinate": [
+            1029,
+            1127,
+            1974,
+            1249
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 174, Parmar Path, Muzaffarnagar-062728",
+        "Coordinate": [
+            909,
+            1274,
+            2318,
+            1482
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33, Krishna Chowk, Bareilly 157562",
+        "Coordinate": [
+            900,
+            1522,
+            2314,
+            1703
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8333875584",
+        "Coordinate": [
+            1821,
+            1793,
+            2340,
+            1937
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7781549230",
+        "Coordinate": [
+            931,
+            1789,
+            1388,
+            1911
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Hindi",
+        "Coordinate": [
+            960,
+            1911,
+            1588,
+            2019
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarini Chaudhuri - 7282815293",
+        "Coordinate": [
+            956,
+            2017,
+            2165,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Panini Balakrishnan - 9289699611",
+        "Coordinate": [
+            970,
+            2153,
+            2285,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "967000000000.0",
+        "Coordinate": [
+            643,
+            2347,
+            1238,
+            2449
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            739,
+            2442,
+            1083,
+            2546
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-10-2023",
+        "Coordinate": [
+            734,
+            2539,
+            1155,
+            2660
+        ]
+    }
+]

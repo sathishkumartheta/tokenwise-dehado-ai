@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jonathan Modi",
+        "Coordinate": [
+            865,
+            460,
+            1546,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Lohit Modi",
+        "Coordinate": [
+            886,
+            555,
+            1395,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/13/1973",
+        "Coordinate": [
+            899,
+            659,
+            1266,
+            746
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            910,
+            750,
+            1087,
+            839
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            875,
+            857,
+            1208,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1803,
+            852,
+            2002,
+            935
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            958,
+            2137,
+            1046
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            920,
+            958,
+            1098,
+            1046
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kuruvilla  Rau and Trivedi",
+        "Coordinate": [
+            950,
+            1051,
+            2347,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Purohit  Konda and Kaul",
+        "Coordinate": [
+            948,
+            1164,
+            2335,
+            1275
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "23/357, Chakrabarti Marg, Nashik 317445",
+        "Coordinate": [
+            885,
+            1297,
+            2275,
+            1520
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "26, Rama Street, Katni-850898",
+        "Coordinate": [
+            878,
+            1550,
+            2297,
+            1688
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8888554663",
+        "Coordinate": [
+            1846,
+            1812,
+            2334,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8852255814",
+        "Coordinate": [
+            868,
+            1815,
+            1350,
+            1912
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Malayalam",
+        "Coordinate": [
+            860,
+            1959,
+            1679,
+            2059
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warhi Lanka - 8612893277",
+        "Coordinate": [
+            931,
+            2066,
+            2049,
+            2175
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kavya Mahajan - 9458974785",
+        "Coordinate": [
+            949,
+            2193,
+            2236,
+            2312
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "731000000000.0",
+        "Coordinate": [
+            584,
+            2393,
+            1209,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            581,
+            2490,
+            821,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/19/2023",
+        "Coordinate": [
+            596,
+            2580,
+            1006,
+            2667
+        ]
+    }
+]

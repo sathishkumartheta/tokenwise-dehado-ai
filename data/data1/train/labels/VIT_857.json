@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aachal Goyal",
+        "Coordinate": [
+            860,
+            430,
+            1453,
+            532
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Goyal",
+        "Coordinate": [
+            880,
+            524,
+            1424,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/31/2003",
+        "Coordinate": [
+            888,
+            627,
+            1274,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            887,
+            725,
+            1479,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            837,
+            1144,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1751,
+            827,
+            2045,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            938,
+            2115,
+            1035
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            899,
+            943,
+            1043,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Oommen-Setty",
+        "Coordinate": [
+            978,
+            1042,
+            2054,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Modi-Shenoy",
+        "Coordinate": [
+            991,
+            1145,
+            2042,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65/732, Sood, Barasat 050685",
+        "Coordinate": [
+            888,
+            1284,
+            2169,
+            1438
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "309, Sandhu Road, Kochi 706165",
+        "Coordinate": [
+            877,
+            1530,
+            2167,
+            1672
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8580807901",
+        "Coordinate": [
+            1856,
+            1804,
+            2269,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8483670838",
+        "Coordinate": [
+            878,
+            1806,
+            1324,
+            1918
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Tamil, Telugu, Marathi",
+        "Coordinate": [
+            902,
+            1943,
+            2134,
+            2049
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Turvi Kannan - 9931330264",
+        "Coordinate": [
+            946,
+            2053,
+            2048,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekanta Jani - 8037450401",
+        "Coordinate": [
+            957,
+            2181,
+            2006,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "866000000000.0",
+        "Coordinate": [
+            571,
+            2387,
+            1083,
+            2474
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            591,
+            2479,
+            905,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-04-2023",
+        "Coordinate": [
+            581,
+            2575,
+            1020,
+            2666
+        ]
+    }
+]

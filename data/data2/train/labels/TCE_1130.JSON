@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aditya Gandhi",
+        "Coordinate": [
+            907,
+            476,
+            1365,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Luke Gandhi",
+        "Coordinate": [
+            901,
+            575,
+            1321,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/29/1998",
+        "Coordinate": [
+            907,
+            671,
+            1270,
+            758
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            907,
+            773,
+            1252,
+            848
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            869,
+            1222,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1738,
+            873,
+            1925,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1834,
+            952,
+            2101,
+            1048
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            955,
+            959,
+            1066,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Kanda Ltd",
+        "Coordinate": [
+            981,
+            1052,
+            1799,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Agarwal  Andra and Kala",
+        "Coordinate": [
+            993,
+            1157,
+            2254,
+            1268
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 871, Munshi Path, Thiruvananthapuram-038035",
+        "Coordinate": [
+            910,
+            1285,
+            2295,
+            1485
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 373, Dora Zila, Bhopal 888198",
+        "Coordinate": [
+            904,
+            1540,
+            2208,
+            1687
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8912728688",
+        "Coordinate": [
+            901,
+            1793,
+            1365,
+            1884
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8542772346",
+        "Coordinate": [
+            1818,
+            1774,
+            2300,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            904,
+            1908,
+            1582,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Janya Shere - 9432118259",
+        "Coordinate": [
+            984,
+            2020,
+            1904,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Lakshit Goel - 9529665148",
+        "Coordinate": [
+            993,
+            2138,
+            2019,
+            2240
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            613,
+            2416,
+            1017,
+            2517
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/20/2025",
+        "Coordinate": [
+            607,
+            2496,
+            1073,
+            2607
+        ]
+    }
+]

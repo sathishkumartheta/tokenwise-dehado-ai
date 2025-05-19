@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yatin Nayak",
+        "Coordinate": [
+            895,
+            417,
+            1325,
+            515
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anthony Nayak",
+        "Coordinate": [
+            907,
+            520,
+            1487,
+            617
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/5/1977",
+        "Coordinate": [
+            902,
+            630,
+            1262,
+            707
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            920,
+            727,
+            1242,
+            817
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            832,
+            1260,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1760,
+            817,
+            2012,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            930,
+            2150,
+            1020
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            942,
+            940,
+            1092,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Viswanathan-Balan",
+        "Coordinate": [
+            1002,
+            1025,
+            2200,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Khurana-Grover",
+        "Coordinate": [
+            997,
+            1155,
+            2135,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "96/84, Banerjee Marg, Bhubaneswar 616554",
+        "Coordinate": [
+            905,
+            1285,
+            2362,
+            1485
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "33/99, Bhalla Chowk, Jamshedpur-616904",
+        "Coordinate": [
+            890,
+            1522,
+            2280,
+            1740
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8455585213",
+        "Coordinate": [
+            887,
+            1802,
+            1357,
+            1912
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7507764228",
+        "Coordinate": [
+            1860,
+            1795,
+            2317,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Telugu",
+        "Coordinate": [
+            875,
+            1942,
+            1920,
+            2032
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lajita Bora - 9769687991",
+        "Coordinate": [
+            952,
+            2042,
+            2030,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manthan Sane - 7010785019",
+        "Coordinate": [
+            955,
+            2167,
+            2020,
+            2282
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "201884000000",
+        "Coordinate": [
+            590,
+            2387,
+            1217,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            579,
+            2480,
+            1042,
+            2552
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "2/12/2022",
+        "Coordinate": [
+            590,
+            2567,
+            1057,
+            2655
+        ]
+    }
+]

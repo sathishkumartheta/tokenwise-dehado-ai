@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Nicholas Sarkar",
+        "Coordinate": [
+            878,
+            434,
+            1492,
+            526
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Sarkar",
+        "Coordinate": [
+            908,
+            526,
+            1435,
+            626
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/12/1996",
+        "Coordinate": [
+            937,
+            631,
+            1295,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            906,
+            735,
+            1319,
+            823
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            840,
+            1269,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1794,
+            823,
+            1993,
+            918
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            925,
+            942,
+            1098,
+            1029
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1815,
+            951,
+            2088,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Swaminathan and Sons",
+        "Coordinate": [
+            984,
+            1022,
+            2292,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Prakash Inc",
+        "Coordinate": [
+            982,
+            1151,
+            1960,
+            1260
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "45/580, Vasa Road, Pudukkottai 078286",
+        "Coordinate": [
+            894,
+            1291,
+            2285,
+            1497
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58/729, Seth Ganj, Haldia-587360",
+        "Coordinate": [
+            894,
+            1528,
+            2299,
+            1715
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7554440881",
+        "Coordinate": [
+            878,
+            1813,
+            1328,
+            1924
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8038557952",
+        "Coordinate": [
+            1874,
+            1801,
+            2321,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Kannada, Tamil",
+        "Coordinate": [
+            904,
+            1955,
+            2162,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jhalak Pandey - 8022510676",
+        "Coordinate": [
+            984,
+            2048,
+            2135,
+            2176
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Laban Sahota - 8249832924",
+        "Coordinate": [
+            977,
+            2188,
+            2119,
+            2309
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "921233000000",
+        "Coordinate": [
+            588,
+            2392,
+            1160,
+            2482
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            593,
+            2472,
+            1022,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/9/2022",
+        "Coordinate": [
+            652,
+            2563,
+            1086,
+            2679
+        ]
+    }
+]

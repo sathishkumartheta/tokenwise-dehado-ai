@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Maanav Menon",
+        "Coordinate": [
+            897,
+            398,
+            1405,
+            488
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Matthew Menon",
+        "Coordinate": [
+            903,
+            493,
+            1465,
+            586
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/16/1989",
+        "Coordinate": [
+            911,
+            594,
+            1245,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            903,
+            691,
+            1224,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            908,
+            792,
+            1209,
+            882
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1843,
+            783,
+            2051,
+            869
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1901,
+            895,
+            2111,
+            972
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            915,
+            903,
+            1040,
+            980
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Mody PLC",
+        "Coordinate": [
+            962,
+            985,
+            1734,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Tata  Trivedi and Narayanan",
+        "Coordinate": [
+            971,
+            1095,
+            2323,
+            1211
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "02, Prasad Nagar, Guna 195377",
+        "Coordinate": [
+            896,
+            1249,
+            2195,
+            1421
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "63, Nadig Street, Muzaffarpur 277752",
+        "Coordinate": [
+            900,
+            1470,
+            2271,
+            1603
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7656074942",
+        "Coordinate": [
+            1857,
+            1749,
+            2312,
+            1848
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8328583151",
+        "Coordinate": [
+            896,
+            1761,
+            1327,
+            1860
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Kannada, Marathi, Gujarati",
+        "Coordinate": [
+            895,
+            1890,
+            2150,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jagrati Dube - 8083197841",
+        "Coordinate": [
+            946,
+            2001,
+            1944,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Omya Buch - 7990876693",
+        "Coordinate": [
+            957,
+            2121,
+            2087,
+            2218
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "698000000000.0",
+        "Coordinate": [
+            608,
+            2331,
+            1155,
+            2413
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            597,
+            2427,
+            853,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-06-2023",
+        "Coordinate": [
+            602,
+            2519,
+            1022,
+            2603
+        ]
+    }
+]

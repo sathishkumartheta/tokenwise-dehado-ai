@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Naveen Bail",
+        "Coordinate": [
+            885,
+            389,
+            1351,
+            470
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zaid Bail",
+        "Coordinate": [
+            894,
+            480,
+            1302,
+            570
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/11/1993",
+        "Coordinate": [
+            917,
+            583,
+            1283,
+            665
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            931,
+            674,
+            1308,
+            770
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            792,
+            1211,
+            875
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1757,
+            787,
+            1973,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1835,
+            891,
+            2084,
+            964
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            935,
+            881,
+            1111,
+            967
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Rama  Sathe and Jha",
+        "Coordinate": [
+            961,
+            982,
+            2175,
+            1085
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Dhawan-Brahmbhatt",
+        "Coordinate": [
+            955,
+            1095,
+            2218,
+            1197
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "33, Pandit Path, Panipat-436970",
+        "Coordinate": [
+            947,
+            1221,
+            2221,
+            1333
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "06, Pai, Eluru-767616",
+        "Coordinate": [
+            878,
+            1463,
+            1819,
+            1560
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9998117109",
+        "Coordinate": [
+            1853,
+            1742,
+            2214,
+            1815
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9476795427",
+        "Coordinate": [
+            878,
+            1744,
+            1330,
+            1826
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Malayalam, Telugu",
+        "Coordinate": [
+            921,
+            1873,
+            2316,
+            1995
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Ijaya Karnik - 8049939548",
+        "Coordinate": [
+            948,
+            1994,
+            2012,
+            2106
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jeevika Lad - 8282842071",
+        "Coordinate": [
+            953,
+            2129,
+            1950,
+            2238
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QAEDL4093T",
+        "Coordinate": [
+            1618,
+            2336,
+            2106,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            597,
+            2416,
+            812,
+            2491
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/8/2024",
+        "Coordinate": [
+            599,
+            2509,
+            1013,
+            2597
+        ]
+    }
+]

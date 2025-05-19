@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Luke Chaudhuri",
+        "Coordinate": [
+            876,
+            442,
+            1473,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Chaudhuri",
+        "Coordinate": [
+            872,
+            529,
+            1521,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/17/2000",
+        "Coordinate": [
+            869,
+            634,
+            1259,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            884,
+            736,
+            1371,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            872,
+            848,
+            1128,
+            950
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1746,
+            850,
+            1913,
+            937
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            884,
+            952,
+            999,
+            1043
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1805,
+            948,
+            2061,
+            1045
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Anand-Kalla",
+        "Coordinate": [
+            950,
+            1041,
+            1934,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Barman PLC",
+        "Coordinate": [
+            958,
+            1159,
+            1957,
+            1310
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 80, Pal, Bardhaman 890483",
+        "Coordinate": [
+            895,
+            1299,
+            2203,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "58, Shankar Marg, Munger-213180",
+        "Coordinate": [
+            903,
+            1551,
+            2222,
+            1672
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7774202894",
+        "Coordinate": [
+            869,
+            1813,
+            1365,
+            1919
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9618815090",
+        "Coordinate": [
+            1860,
+            1813,
+            2326,
+            1907
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            876,
+            1949,
+            1451,
+            2093
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pahal Sachdeva - 9640049383",
+        "Coordinate": [
+            933,
+            2072,
+            2245,
+            2184
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Daksh Nagarajan - 8369397417",
+        "Coordinate": [
+            943,
+            2216,
+            2311,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "988458000000",
+        "Coordinate": [
+            575,
+            2400,
+            1092,
+            2486
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            567,
+            2491,
+            863,
+            2592
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11/29/2022",
+        "Coordinate": [
+            588,
+            2594,
+            984,
+            2681
+        ]
+    }
+]

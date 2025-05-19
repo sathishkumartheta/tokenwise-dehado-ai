@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "5/10/2025",
+        "Coordinate": [
+            598,
+            2488,
+            1002,
+            2587
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            604,
+            2410,
+            888,
+            2485
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Abdul Sachdeva - 7402321722",
+        "Coordinate": [
+            944,
+            2128,
+            2094,
+            2245
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chanchal Bava - 7653532684",
+        "Coordinate": [
+            962,
+            2012,
+            2056,
+            2115
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Tamil, Kannada",
+        "Coordinate": [
+            880,
+            1909,
+            2198,
+            1994
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9486897476",
+        "Coordinate": [
+            888,
+            1786,
+            1322,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7799425235",
+        "Coordinate": [
+            1802,
+            1784,
+            2258,
+            1879
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 879, Vohra Chowk, Aurangabad-090772",
+        "Coordinate": [
+            890,
+            1510,
+            1830,
+            1715
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 89, Sabharwal, Katni 013113",
+        "Coordinate": [
+            910,
+            1258,
+            2164,
+            1385
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Sinha-Setty",
+        "Coordinate": [
+            994,
+            1156,
+            2014,
+            1275
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dutta Group",
+        "Coordinate": [
+            954,
+            1062,
+            2014,
+            1157
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1791,
+            967,
+            2094,
+            1053
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1778,
+            864,
+            2034,
+            955
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            905,
+            970,
+            1068,
+            1021
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            873,
+            1192,
+            956
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            896,
+            762,
+            1464,
+            843
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/8/1982",
+        "Coordinate": [
+            896,
+            690,
+            1280,
+            733
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Buch",
+        "Coordinate": [
+            900,
+            582,
+            1582,
+            657
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Nidra Buch",
+        "Coordinate": [
+            914,
+            480,
+            1362,
+            559
+        ]
+    }
+]

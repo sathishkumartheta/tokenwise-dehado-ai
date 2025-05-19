@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hardik Kashyap",
+        "Coordinate": [
+            901,
+            457,
+            1496,
+            540
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Falan Kashyap",
+        "Coordinate": [
+            904,
+            568,
+            1522,
+            646
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/10/1970",
+        "Coordinate": [
+            924,
+            663,
+            1245,
+            739
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            924,
+            743,
+            1233,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            924,
+            846,
+            1221,
+            928
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1705,
+            841,
+            1878,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1775,
+            942,
+            2007,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            939,
+            949,
+            1068,
+            1024
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Kuruvilla-Manne",
+        "Coordinate": [
+            976,
+            1040,
+            1928,
+            1147
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Lanka-Palla",
+        "Coordinate": [
+            974,
+            1153,
+            1806,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "27, Talwar Circle, Ramagundam 771740",
+        "Coordinate": [
+            904,
+            1253,
+            2193,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/99, Dass Road, Gandhinagar-376982",
+        "Coordinate": [
+            894,
+            1504,
+            2236,
+            1630
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7921131470",
+        "Coordinate": [
+            1805,
+            1773,
+            2220,
+            1875
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7630946805",
+        "Coordinate": [
+            884,
+            1760,
+            1315,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Telugu",
+        "Coordinate": [
+            886,
+            1901,
+            1685,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sneha Prashad - 9047816331",
+        "Coordinate": [
+            944,
+            1999,
+            1882,
+            2096
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Karan Nadig - 9014226978",
+        "Coordinate": [
+            949,
+            2117,
+            1892,
+            2218
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            601,
+            2407,
+            869,
+            2495
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/18/2022",
+        "Coordinate": [
+            607,
+            2506,
+            965,
+            2587
+        ]
+    }
+]

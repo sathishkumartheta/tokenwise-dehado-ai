@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Thomas Bakshi",
+        "Coordinate": [
+            915,
+            470,
+            1387,
+            575
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qasim Bakshi",
+        "Coordinate": [
+            915,
+            576,
+            1395,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/8/1973",
+        "Coordinate": [
+            905,
+            676,
+            1271,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            900,
+            771,
+            1427,
+            859
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            910,
+            875,
+            1183,
+            971
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            876,
+            1971,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1825,
+            960,
+            2087,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            920,
+            956,
+            1095,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Din-Pandya",
+        "Coordinate": [
+            995,
+            1076,
+            1903,
+            1163
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Bhatti  Taneja and Bhasin",
+        "Coordinate": [
+            975,
+            1191,
+            2299,
+            1267
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "58/812, Prakash Zila, Etawah 489930",
+        "Coordinate": [
+            925,
+            1356,
+            2175,
+            1463
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "016, Virk Zila, Tirupati-121261",
+        "Coordinate": [
+            915,
+            1591,
+            1979,
+            1699
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8166867532",
+        "Coordinate": [
+            1835,
+            1771,
+            2247,
+            1867
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9493776830",
+        "Coordinate": [
+            935,
+            1791,
+            1391,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, Telugu",
+        "Coordinate": [
+            910,
+            1924,
+            1683,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aayush Sandal - 7716204866",
+        "Coordinate": [
+            970,
+            2015,
+            2003,
+            2111
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chanakya Devan - 8009672997",
+        "Coordinate": [
+            1015,
+            2150,
+            2003,
+            2263
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            615,
+            2426,
+            935,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/7/2025",
+        "Coordinate": [
+            630,
+            2515,
+            907,
+            2591
+        ]
+    }
+]

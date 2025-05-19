@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Wyatt Som",
+        "Coordinate": [
+            899,
+            476,
+            1558,
+            562
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Aryan Som",
+        "Coordinate": [
+            899,
+            571,
+            1540,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/31/1974",
+        "Coordinate": [
+            957,
+            664,
+            1345,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            919,
+            765,
+            1411,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            927,
+            846,
+            1293,
+            952
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1743,
+            865,
+            2048,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            925,
+            927,
+            1137,
+            1049
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1812,
+            954,
+            2145,
+            1048
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sankaran  Kurian and Puri",
+        "Coordinate": [
+            992,
+            1062,
+            2431,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Mitra-Desai",
+        "Coordinate": [
+            1005,
+            1153,
+            2198,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "96, Gara Circle, Phusro-979348",
+        "Coordinate": [
+            894,
+            1272,
+            2291,
+            1397
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "572, Iyengar Street, Satna 605794",
+        "Coordinate": [
+            900,
+            1501,
+            2336,
+            1677
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Kannada",
+        "Coordinate": [
+            890,
+            1887,
+            1946,
+            2028
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8708028592",
+        "Coordinate": [
+            886,
+            1754,
+            1333,
+            1872
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9580170774",
+        "Coordinate": [
+            1570,
+            1809,
+            2126,
+            1924
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dhriti Shankar - 7091486213",
+        "Coordinate": [
+            922,
+            2011,
+            2211,
+            2156
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            582,
+            2401,
+            911,
+            2498
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jagdish Bajwa - 9301122312",
+        "Coordinate": [
+            949,
+            2142,
+            2165,
+            2300
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/26/2024",
+        "Coordinate": [
+            608,
+            2490,
+            1163,
+            2626
+        ]
+    }
+]

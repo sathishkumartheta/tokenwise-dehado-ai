@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekbal Borde",
+        "Coordinate": [
+            916,
+            476,
+            1432,
+            547
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayan Borde",
+        "Coordinate": [
+            910,
+            568,
+            1346,
+            653
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/7/1983",
+        "Coordinate": [
+            914,
+            668,
+            1244,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            916,
+            748,
+            1206,
+            849
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            914,
+            860,
+            1210,
+            921
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            954,
+            946,
+            1048,
+            1049
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1732,
+            848,
+            1908,
+            913
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1810,
+            938,
+            2022,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Nagi Group",
+        "Coordinate": [
+            969,
+            1050,
+            1891,
+            1167
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Gupta Ltd",
+        "Coordinate": [
+            996,
+            1174,
+            1742,
+            1261
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "604, Pandya Circle, Anantapur 981844",
+        "Coordinate": [
+            902,
+            1324,
+            2266,
+            1431
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "65/47, Grover Zila, Faridabad 487487",
+        "Coordinate": [
+            910,
+            1538,
+            2180,
+            1681
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7887372873",
+        "Coordinate": [
+            924,
+            1790,
+            1354,
+            1891
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8386681924",
+        "Coordinate": [
+            1848,
+            1776,
+            2272,
+            1855
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Malayalam",
+        "Coordinate": [
+            952,
+            1906,
+            1556,
+            1975
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gayathri Rastogi - 9423058964",
+        "Coordinate": [
+            964,
+            2022,
+            2114,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Michael Kar - 9911051598",
+        "Coordinate": [
+            976,
+            2146,
+            1922,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            642,
+            2408,
+            910,
+            2509
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/16/2023",
+        "Coordinate": [
+            636,
+            2502,
+            1004,
+            2597
+        ]
+    }
+]

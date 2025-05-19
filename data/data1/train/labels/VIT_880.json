@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krish Kapoor",
+        "Coordinate": [
+            875,
+            440,
+            1305,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Gunbir Kapoor",
+        "Coordinate": [
+            892,
+            541,
+            1405,
+            644
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/30/1962",
+        "Coordinate": [
+            925,
+            639,
+            1285,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            737,
+            1207,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            891,
+            844,
+            1180,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1785,
+            836,
+            1976,
+            929
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            946,
+            2096,
+            1037
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            908,
+            948,
+            1047,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Misra PLC",
+        "Coordinate": [
+            972,
+            1045,
+            1752,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Pau  Som and Tripathi",
+        "Coordinate": [
+            983,
+            1148,
+            2179,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 60, Wagle Circle, Bilaspur 890244",
+        "Coordinate": [
+            894,
+            1279,
+            2335,
+            1419
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "82/61, Jha Chowk, Burhanpur-873631",
+        "Coordinate": [
+            891,
+            1546,
+            2240,
+            1694
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8131506927",
+        "Coordinate": [
+            1896,
+            1811,
+            2284,
+            1912
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8656088847",
+        "Coordinate": [
+            883,
+            1813,
+            1298,
+            1914
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Marathi",
+        "Coordinate": [
+            890,
+            1951,
+            1552,
+            2057
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Robert Chander - 8830494783",
+        "Coordinate": [
+            973,
+            2063,
+            1964,
+            2168
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ranveer Seth - 8500318136",
+        "Coordinate": [
+            1006,
+            2190,
+            1914,
+            2299
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "WIUXF7328C",
+        "Coordinate": [
+            1645,
+            2394,
+            2125,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            606,
+            2487,
+            946,
+            2585
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "07-01-2025",
+        "Coordinate": [
+            633,
+            2585,
+            1011,
+            2673
+        ]
+    }
+]

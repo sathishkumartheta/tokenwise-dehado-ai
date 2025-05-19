@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Adweta Dhaliwal",
+        "Coordinate": [
+            903,
+            438,
+            1624,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Dhaliwal",
+        "Coordinate": [
+            913,
+            546,
+            1594,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/19/1960",
+        "Coordinate": [
+            920,
+            640,
+            1348,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            959,
+            745,
+            1329,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            965,
+            842,
+            1338,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1751,
+            823,
+            2124,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1846,
+            944,
+            2194,
+            1042
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            973,
+            945,
+            1164,
+            1040
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Chaudry Ltd",
+        "Coordinate": [
+            1008,
+            1048,
+            2136,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Oak Ltd",
+        "Coordinate": [
+            1015,
+            1155,
+            2123,
+            1273
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "86/074, Bajaj Street, Ghaziabad 222336",
+        "Coordinate": [
+            919,
+            1315,
+            2369,
+            1509
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "80/620, Tara Nagar, Jaipur-426624",
+        "Coordinate": [
+            950,
+            1557,
+            2353,
+            1716
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8113253264",
+        "Coordinate": [
+            1895,
+            1798,
+            2325,
+            1920
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7763760385",
+        "Coordinate": [
+            941,
+            1803,
+            1371,
+            1920
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali, Hindi",
+        "Coordinate": [
+            962,
+            1942,
+            1839,
+            2051
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Januja Khare - 9979267874",
+        "Coordinate": [
+            949,
+            2059,
+            2233,
+            2170
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bhavya Bakshi - 8094404663",
+        "Coordinate": [
+            962,
+            2183,
+            2292,
+            2308
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "839000000000.0",
+        "Coordinate": [
+            582,
+            2384,
+            1165,
+            2471
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            612,
+            2476,
+            994,
+            2565
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-03-2023",
+        "Coordinate": [
+            615,
+            2571,
+            1108,
+            2670
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chameli Lanka",
+        "Coordinate": [
+            914,
+            492,
+            1425,
+            584
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sarthak Lanka",
+        "Coordinate": [
+            930,
+            584,
+            1447,
+            668
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/19/1968",
+        "Coordinate": [
+            930,
+            676,
+            1298,
+            760
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            913,
+            778,
+            1248,
+            851
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            922,
+            877,
+            1228,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            918,
+            951,
+            1066,
+            1044
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Thakkar-Nath",
+        "Coordinate": [
+            973,
+            1046,
+            1921,
+            1152
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Ray-Dyal",
+        "Coordinate": [
+            961,
+            1154,
+            1728,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "62/724, Tiwari Ganj, Farrukhabad 565149",
+        "Coordinate": [
+            924,
+            1271,
+            2208,
+            1468
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "014, Rajan Road, Latur-554501",
+        "Coordinate": [
+            919,
+            1505,
+            2168,
+            1663
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8772830301",
+        "Coordinate": [
+            897,
+            1778,
+            1323,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8951050053",
+        "Coordinate": [
+            1827,
+            1769,
+            2266,
+            1896
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Bengali",
+        "Coordinate": [
+            910,
+            1918,
+            1509,
+            2020
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Lucky Dey - 9973579236",
+        "Coordinate": [
+            971,
+            2006,
+            1955,
+            2135
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yadavi Mishra - 7211395010",
+        "Coordinate": [
+            985,
+            2132,
+            1982,
+            2262
+        ]
+    }
+]

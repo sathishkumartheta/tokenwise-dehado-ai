@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "G. Veerabadri",
+        "Coordinate": [
+            886,
+            448,
+            1392,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "G. Beemalingam",
+        "Coordinate": [
+            892,
+            550,
+            1458,
+            652
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "15-09-2004",
+        "Coordinate": [
+            908,
+            664,
+            1302,
+            738
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "B.Tech",
+        "Coordinate": [
+            910,
+            742,
+            1202,
+            842
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            902,
+            858,
+            1114,
+            956
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            924,
+            971,
+            1050,
+            1048
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1754,
+            860,
+            1962,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1866,
+            950,
+            2112,
+            1046
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "2-63, Teru Bazar, Ternekal, Kurnool, Andra Pradesh, 518465",
+        "Coordinate": [
+            890,
+            1274,
+            2322,
+            1452
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "2-63, Teru Bazar, Ternekal, Kurnool, Andra Pradesh, 518465",
+        "Coordinate": [
+            876,
+            1540,
+            2322,
+            1754
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7780753341",
+        "Coordinate": [
+            890,
+            1837,
+            1300,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Hindi, Telugu, Kannada",
+        "Coordinate": [
+            894,
+            1955,
+            1984,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Raghu - 9392325546",
+        "Coordinate": [
+            974,
+            2062,
+            1648,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vyshnav - 9441509649",
+        "Coordinate": [
+            980,
+            2210,
+            1756,
+            2330
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "960309462758",
+        "Coordinate": [
+            604,
+            2392,
+            1110,
+            2490
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ternekal",
+        "Coordinate": [
+            610,
+            2490,
+            950,
+            2578
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-05-2025",
+        "Coordinate": [
+            642,
+            2578,
+            1040,
+            2676
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "GPQPB8989B",
+        "Coordinate": [
+            1634,
+            2400,
+            2136,
+            2488
+        ]
+    }
+]

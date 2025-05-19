@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Samaksh Dutta",
+        "Coordinate": [
+            888,
+            390,
+            1396,
+            481
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rishi Dutta",
+        "Coordinate": [
+            897,
+            492,
+            1280,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/16/2000",
+        "Coordinate": [
+            900,
+            593,
+            1193,
+            680
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            905,
+            689,
+            1220,
+            781
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            901,
+            791,
+            1131,
+            889
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            792,
+            1927,
+            883
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1820,
+            895,
+            2056,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            948,
+            895,
+            1078,
+            976
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Aurora-Wable",
+        "Coordinate": [
+            987,
+            986,
+            1827,
+            1093
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Zacharia Group",
+        "Coordinate": [
+            988,
+            1103,
+            1865,
+            1209
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "79/15, Prabhakar Nagar, Bokaro 719760",
+        "Coordinate": [
+            896,
+            1232,
+            2185,
+            1379
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 126, Sha Path, Nadiad-418095",
+        "Coordinate": [
+            889,
+            1485,
+            2085,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9835777869",
+        "Coordinate": [
+            1859,
+            1752,
+            2314,
+            1847
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8683330576",
+        "Coordinate": [
+            907,
+            1751,
+            1324,
+            1838
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Gujarati, Marathi",
+        "Coordinate": [
+            911,
+            1890,
+            2252,
+            2000
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Elijah Shenoy - 9421325816",
+        "Coordinate": [
+            947,
+            2003,
+            2000,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Gautami Uppal - 9965864212",
+        "Coordinate": [
+            969,
+            2128,
+            2056,
+            2237
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HLGPH8977H",
+        "Coordinate": [
+            1641,
+            2333,
+            2152,
+            2426
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            598,
+            2424,
+            909,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/28/2022",
+        "Coordinate": [
+            591,
+            2515,
+            969,
+            2598
+        ]
+    }
+]

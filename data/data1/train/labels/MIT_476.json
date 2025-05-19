@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lakshmi Jani",
+        "Coordinate": [
+            976,
+            431,
+            1468,
+            528
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yagnesh Jani",
+        "Coordinate": [
+            982,
+            535,
+            1454,
+            633
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12-05-1989",
+        "Coordinate": [
+            998,
+            634,
+            1337,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            1003,
+            726,
+            1315,
+            820
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1017,
+            831,
+            1322,
+            926
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1864,
+            831,
+            2116,
+            928
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1932,
+            940,
+            2202,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            1063,
+            932,
+            1169,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Bal-Dave",
+        "Coordinate": [
+            1092,
+            1040,
+            1884,
+            1144
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Dass  Wason and Ravel",
+        "Coordinate": [
+            1081,
+            1147,
+            2373,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "026, Balan Path, Gaya 836677",
+        "Coordinate": [
+            963,
+            1288,
+            2047,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "66, Agarwal Zila, Satara 342022",
+        "Coordinate": [
+            983,
+            1511,
+            2185,
+            1639
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8273415620",
+        "Coordinate": [
+            1950,
+            1798,
+            2383,
+            1902
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9929052233",
+        "Coordinate": [
+            979,
+            1788,
+            1444,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali",
+        "Coordinate": [
+            1007,
+            1931,
+            1548,
+            2031
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Thomas Luthra - 8106521110",
+        "Coordinate": [
+            1062,
+            2037,
+            2118,
+            2152
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Elijah Joshi - 8081992173",
+        "Coordinate": [
+            1101,
+            2179,
+            2065,
+            2298
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "378000000000.0",
+        "Coordinate": [
+            701,
+            2370,
+            1212,
+            2462
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "APEHG8958T",
+        "Coordinate": [
+            1732,
+            2376,
+            2251,
+            2475
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            712,
+            2465,
+            1107,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/16/2023",
+        "Coordinate": [
+            718,
+            2559,
+            1098,
+            2659
+        ]
+    }
+]

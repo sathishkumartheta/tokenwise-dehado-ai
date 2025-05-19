@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Chakrika Date",
+        "Coordinate": [
+            869,
+            431,
+            1718,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zayyan Date",
+        "Coordinate": [
+            893,
+            530,
+            1631,
+            636
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/21/1964",
+        "Coordinate": [
+            920,
+            632,
+            1516,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            915,
+            729,
+            1346,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            905,
+            838,
+            1284,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1773,
+            825,
+            2126,
+            937
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1793,
+            940,
+            2167,
+            1047
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            966,
+            933,
+            1217,
+            1027
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Krishnan-Deo",
+        "Coordinate": [
+            1039,
+            1041,
+            2444,
+            1148
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Mand  Maharaj and Kurian",
+        "Coordinate": [
+            993,
+            1142,
+            2411,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29/27, Gill Path, Noida 280512",
+        "Coordinate": [
+            902,
+            1269,
+            2461,
+            1433
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "63, Ganesh Chowk, Gangtok-041027",
+        "Coordinate": [
+            895,
+            1525,
+            2390,
+            1762
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7332213752",
+        "Coordinate": [
+            1863,
+            1794,
+            2308,
+            1952
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7137447696",
+        "Coordinate": [
+            883,
+            1800,
+            1357,
+            1942
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, English",
+        "Coordinate": [
+            887,
+            1937,
+            1737,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vamakshi Mitra - 9759296895",
+        "Coordinate": [
+            974,
+            2042,
+            2480,
+            2166
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vivaan Raghavan - 9396914800",
+        "Coordinate": [
+            975,
+            2178,
+            2366,
+            2313
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RCXDT8381G",
+        "Coordinate": [
+            1599,
+            2371,
+            2354,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            581,
+            2468,
+            1036,
+            2567
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/21/2024",
+        "Coordinate": [
+            583,
+            2566,
+            1131,
+            2671
+        ]
+    }
+]

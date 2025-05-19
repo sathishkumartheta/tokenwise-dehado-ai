@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harini Natarajan",
+        "Coordinate": [
+            899,
+            384,
+            1448,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kai Natarajan",
+        "Coordinate": [
+            898,
+            489,
+            1344,
+            578
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/1/1986",
+        "Coordinate": [
+            901,
+            587,
+            1217,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            885,
+            694,
+            1177,
+            782
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            792,
+            1148,
+            885
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1863,
+            773,
+            2086,
+            862
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1876,
+            873,
+            2118,
+            957
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            896,
+            892,
+            1079,
+            978
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Wable  Rau and Divan",
+        "Coordinate": [
+            973,
+            978,
+            2111,
+            1088
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Grewal-Varty",
+        "Coordinate": [
+            970,
+            1096,
+            1865,
+            1208
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "66, Deshpande Road, Amroha 327135",
+        "Coordinate": [
+            908,
+            1281,
+            2163,
+            1405
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "62, Dass Path, Dehri-879060",
+        "Coordinate": [
+            915,
+            1513,
+            1968,
+            1646
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7038772246",
+        "Coordinate": [
+            1896,
+            1703,
+            2304,
+            1801
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9505696406",
+        "Coordinate": [
+            953,
+            1748,
+            1381,
+            1863
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            925,
+            1886,
+            1561,
+            1984
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zansi Virk - 8718176846",
+        "Coordinate": [
+            977,
+            2003,
+            1839,
+            2118
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vivaan Goda - 8170484566",
+        "Coordinate": [
+            973,
+            2143,
+            1895,
+            2262
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "732177000000",
+        "Coordinate": [
+            643,
+            2326,
+            1153,
+            2419
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UJNVB1732R",
+        "Coordinate": [
+            1694,
+            2296,
+            2163,
+            2405
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            642,
+            2425,
+            871,
+            2512
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/12/2025",
+        "Coordinate": [
+            635,
+            2514,
+            1016,
+            2598
+        ]
+    }
+]

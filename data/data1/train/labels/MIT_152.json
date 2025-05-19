@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Owen Bir",
+        "Coordinate": [
+            896,
+            400,
+            1207,
+            496
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anthony Bir",
+        "Coordinate": [
+            930,
+            510,
+            1279,
+            602
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/27/1987",
+        "Coordinate": [
+            947,
+            601,
+            1230,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            956,
+            701,
+            1195,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            955,
+            812,
+            1186,
+            902
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1840,
+            811,
+            1978,
+            900
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1872,
+            911,
+            2045,
+            999
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            1016,
+            911,
+            1131,
+            994
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Mukherjee-Sethi",
+        "Coordinate": [
+            1008,
+            1007,
+            1878,
+            1122
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Purohit-Soman",
+        "Coordinate": [
+            1022,
+            1135,
+            1859,
+            1254
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "77/72, Chakraborty Path, Munger-658074",
+        "Coordinate": [
+            894,
+            1366,
+            2163,
+            1549
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09/481, Chada Circle, Tadipatri 983780",
+        "Coordinate": [
+            888,
+            1635,
+            1959,
+            1767
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8947729549",
+        "Coordinate": [
+            1862,
+            1809,
+            2200,
+            1909
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8698560571",
+        "Coordinate": [
+            933,
+            1800,
+            1269,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi, Tamil, Gujarati",
+        "Coordinate": [
+            925,
+            1907,
+            1868,
+            2011
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pranit Bahl - 8626864620",
+        "Coordinate": [
+            1001,
+            2017,
+            1742,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Samesh Korpal - 9190314168",
+        "Coordinate": [
+            1015,
+            2168,
+            1764,
+            2284
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "VAZAF2140S",
+        "Coordinate": [
+            1621,
+            2338,
+            1975,
+            2443
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            604,
+            2426,
+            792,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/13/2022",
+        "Coordinate": [
+            612,
+            2526,
+            928,
+            2618
+        ]
+    }
+]

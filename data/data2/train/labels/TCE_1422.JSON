@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ikshita Bhargava",
+        "Coordinate": [
+            902,
+            476,
+            1549,
+            574
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nicholas Bhargava",
+        "Coordinate": [
+            902,
+            587,
+            1513,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/12/1990",
+        "Coordinate": [
+            912,
+            656,
+            1245,
+            750
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            902,
+            761,
+            1241,
+            850
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            917,
+            846,
+            1212,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1709,
+            851,
+            2010,
+            914
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            966,
+            929,
+            1120,
+            1038
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1824,
+            956,
+            2075,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Dar PLC",
+        "Coordinate": [
+            977,
+            1026,
+            1774,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Mallick-Nazareth",
+        "Coordinate": [
+            972,
+            1151,
+            2102,
+            1243
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "61/691, Kurian Chowk, Phagwara-522791",
+        "Coordinate": [
+            897,
+            1271,
+            2179,
+            1487
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 47, Bhakta Nagar, Karaikudi 302962",
+        "Coordinate": [
+            882,
+            1520,
+            2151,
+            1703
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Telugu, English, Tamil",
+        "Coordinate": [
+            892,
+            1887,
+            2110,
+            2023
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7978096917",
+        "Coordinate": [
+            897,
+            1762,
+            1317,
+            1867
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9398381458",
+        "Coordinate": [
+            1806,
+            1773,
+            2267,
+            1863
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemani Rege - 7216954049",
+        "Coordinate": [
+            976,
+            2031,
+            1998,
+            2103
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Viraj Raman - 9781753652",
+        "Coordinate": [
+            952,
+            2142,
+            1990,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            616,
+            2407,
+            916,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/13/2022",
+        "Coordinate": [
+            599,
+            2491,
+            968,
+            2596
+        ]
+    }
+]

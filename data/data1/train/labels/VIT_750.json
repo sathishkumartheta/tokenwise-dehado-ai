@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Upadhriti Walla",
+        "Coordinate": [
+            893,
+            431,
+            1438,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "David Walla",
+        "Coordinate": [
+            912,
+            536,
+            1336,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-12-1963",
+        "Coordinate": [
+            914,
+            638,
+            1229,
+            725
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            934,
+            737,
+            1228,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            928,
+            841,
+            1195,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1776,
+            833,
+            2013,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            947,
+            2076,
+            1034
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            963,
+            943,
+            1103,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Narayanan and Sons",
+        "Coordinate": [
+            978,
+            1049,
+            2192,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Deshpande PLC",
+        "Coordinate": [
+            986,
+            1155,
+            2034,
+            1266
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "25, Tandon Road, Patna-804014",
+        "Coordinate": [
+            892,
+            1286,
+            2035,
+            1429
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 97, Baria Nagar, Madurai-073885",
+        "Coordinate": [
+            899,
+            1527,
+            2357,
+            1680
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8449674940",
+        "Coordinate": [
+            1861,
+            1825,
+            2296,
+            1934
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7471652044",
+        "Coordinate": [
+            894,
+            1824,
+            1301,
+            1930
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Gujarati, Kannada, Tamil",
+        "Coordinate": [
+            913,
+            1943,
+            2308,
+            2053
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Manya Sastry - 8786452698",
+        "Coordinate": [
+            963,
+            2057,
+            2001,
+            2181
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Dayamai Taneja - 9075786744",
+        "Coordinate": [
+            970,
+            2192,
+            2192,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "590000000000.0",
+        "Coordinate": [
+            600,
+            2392,
+            1123,
+            2478
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            625,
+            2484,
+            988,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12-05-2025",
+        "Coordinate": [
+            642,
+            2575,
+            1022,
+            2661
+        ]
+    }
+]

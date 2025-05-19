@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Baghyawati Buch",
+        "Coordinate": [
+            894,
+            479,
+            1724,
+            564
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Sathvik Buch",
+        "Coordinate": [
+            919,
+            563,
+            1520,
+            655
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/10/2005",
+        "Coordinate": [
+            894,
+            648,
+            1304,
+            747
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            873,
+            748,
+            1132,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            862,
+            1232,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1766,
+            852,
+            2124,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1783,
+            922,
+            2140,
+            1050
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            889,
+            947,
+            1149,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Dash Group",
+        "Coordinate": [
+            974,
+            1037,
+            2156,
+            1162
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Mutti PLC",
+        "Coordinate": [
+            969,
+            1131,
+            2236,
+            1269
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "71, Randhawa, Raebareli 416606",
+        "Coordinate": [
+            899,
+            1286,
+            2272,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "88/44, Deshpande Road, Mau 498864",
+        "Coordinate": [
+            901,
+            1485,
+            2228,
+            1736
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9804878579",
+        "Coordinate": [
+            899,
+            1759,
+            1356,
+            1871
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Malayalam, Bengali, English",
+        "Coordinate": [
+            904,
+            1879,
+            2240,
+            2007
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Tristan Thakkar - 9968607181",
+        "Coordinate": [
+            944,
+            2008,
+            2200,
+            2134
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Brinda Mutti - 8570666847",
+        "Coordinate": [
+            940,
+            2108,
+            2208,
+            2286
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            609,
+            2397,
+            925,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/6/2024",
+        "Coordinate": [
+            624,
+            2476,
+            1181,
+            2617
+        ]
+    }
+]

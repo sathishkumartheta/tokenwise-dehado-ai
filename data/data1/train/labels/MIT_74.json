@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarav Arya",
+        "Coordinate": [
+            910,
+            394,
+            1355,
+            507
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chaitanya Arya",
+        "Coordinate": [
+            912,
+            500,
+            1489,
+            612
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-02-1966",
+        "Coordinate": [
+            921,
+            605,
+            1306,
+            692
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            928,
+            697,
+            1228,
+            803
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            803,
+            1229,
+            899
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1855,
+            784,
+            2051,
+            881
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1877,
+            904,
+            2106,
+            1005
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            944,
+            903,
+            1050,
+            987
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Tak  Dixit and Chana",
+        "Coordinate": [
+            976,
+            1006,
+            2254,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Borde  Chaudhuri and Kunda",
+        "Coordinate": [
+            985,
+            1127,
+            2349,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 47, Chaudhry Nagar, Thane-556110",
+        "Coordinate": [
+            914,
+            1276,
+            2345,
+            1432
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "25/579, Chander Road, Tiruvottiyur 166746",
+        "Coordinate": [
+            886,
+            1474,
+            2337,
+            1608
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9544531222",
+        "Coordinate": [
+            1865,
+            1752,
+            2292,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9421345314",
+        "Coordinate": [
+            895,
+            1754,
+            1296,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi",
+        "Coordinate": [
+            893,
+            1894,
+            1411,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Oviya Ganesan - 8960593228",
+        "Coordinate": [
+            955,
+            2021,
+            1962,
+            2142
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kevin Bhargava - 7964879594",
+        "Coordinate": [
+            963,
+            2165,
+            2011,
+            2286
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "979000000000.0",
+        "Coordinate": [
+            603,
+            2331,
+            1150,
+            2429
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "BZUAJ3419X",
+        "Coordinate": [
+            1663,
+            2337,
+            2128,
+            2449
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Lucknow",
+        "Coordinate": [
+            630,
+            2427,
+            950,
+            2521
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "03-05-2022",
+        "Coordinate": [
+            635,
+            2525,
+            1045,
+            2620
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Abhiram Deep",
+        "Coordinate": [
+            929,
+            470,
+            1443,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Guneet Deep",
+        "Coordinate": [
+            967,
+            556,
+            1500,
+            639
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/14/1983",
+        "Coordinate": [
+            948,
+            649,
+            1296,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            925,
+            737,
+            1462,
+            834
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            958,
+            848,
+            1276,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            979,
+            941,
+            1172,
+            1015
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1719,
+            834,
+            2014,
+            915
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1821,
+            946,
+            2114,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Pau PLC",
+        "Coordinate": [
+            1079,
+            1027,
+            1750,
+            1129
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Bala-Bobal",
+        "Coordinate": [
+            1055,
+            1136,
+            1921,
+            1215
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01/731, Taneja Marg, Satna 058790",
+        "Coordinate": [
+            929,
+            1262,
+            2218,
+            1403
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "441, Korpal Ganj, Aizawl 940645",
+        "Coordinate": [
+            932,
+            1507,
+            2180,
+            1657
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9806623571",
+        "Coordinate": [
+            901,
+            1747,
+            1343,
+            1857
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7902926640",
+        "Coordinate": [
+            1821,
+            1757,
+            2261,
+            1857
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, English",
+        "Coordinate": [
+            941,
+            1895,
+            1593,
+            1980
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gunbir Nagarajan - 9705956518",
+        "Coordinate": [
+            979,
+            1983,
+            2256,
+            2099
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chatura Nagar - 9735024124",
+        "Coordinate": [
+            1043,
+            2111,
+            2199,
+            2221
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            632,
+            2380,
+            932,
+            2477
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/15/2022",
+        "Coordinate": [
+            653,
+            2470,
+            1086,
+            2572
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OVDXA2375R",
+        "Coordinate": [
+            1645,
+            2313,
+            2144,
+            2397
+        ]
+    }
+]

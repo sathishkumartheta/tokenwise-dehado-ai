@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tristan Mishra",
+        "Coordinate": [
+            886,
+            447,
+            1456,
+            548
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bakhshi Mishra",
+        "Coordinate": [
+            892,
+            550,
+            1540,
+            650
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/6/2000",
+        "Coordinate": [
+            912,
+            660,
+            1318,
+            754
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            896,
+            768,
+            1118,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            852,
+            1214,
+            952
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            942,
+            965,
+            1072,
+            1040
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1826,
+            840,
+            2068,
+            916
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            956,
+            2194,
+            1054
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Pai-Kalita",
+        "Coordinate": [
+            979,
+            1054,
+            2043,
+            1170
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Bawa-Ben",
+        "Coordinate": [
+            979,
+            1174,
+            2023,
+            1274
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "399, Suri Circle, Bhagalpur-521085",
+        "Coordinate": [
+            892,
+            1316,
+            2318,
+            1478
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 58, Sagar Street, Kozhikode-894510",
+        "Coordinate": [
+            879,
+            1566,
+            2256,
+            1772
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7859934741",
+        "Coordinate": [
+            892,
+            1854,
+            1372,
+            1956
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, English, Marathi",
+        "Coordinate": [
+            882,
+            1962,
+            2016,
+            2056
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7252576713",
+        "Coordinate": [
+            1512,
+            1858,
+            2042,
+            1948
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yashica Varty - 9364777770",
+        "Coordinate": [
+            956,
+            2094,
+            2152,
+            2196
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jason Chaudhry - 8141570286",
+        "Coordinate": [
+            940,
+            2220,
+            2166,
+            2328
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "306228000000",
+        "Coordinate": [
+            594,
+            2406,
+            1232,
+            2496
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Hyderabad",
+        "Coordinate": [
+            596,
+            2502,
+            1074,
+            2604
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/21/2024",
+        "Coordinate": [
+            578,
+            2614,
+            994,
+            2716
+        ]
+    }
+]

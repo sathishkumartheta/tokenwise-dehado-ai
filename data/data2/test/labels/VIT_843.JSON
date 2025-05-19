@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Harrison Gupta",
+        "Coordinate": [
+            877,
+            440,
+            1418,
+            550
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anthony Gupta",
+        "Coordinate": [
+            871,
+            534,
+            1414,
+            643
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/20/1997",
+        "Coordinate": [
+            881,
+            635,
+            1252,
+            731
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            891,
+            745,
+            1211,
+            836
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            883,
+            858,
+            1156,
+            944
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            897,
+            947,
+            1096,
+            1035
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1790,
+            846,
+            1975,
+            951
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1831,
+            951,
+            2087,
+            1053
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Balan-Chander",
+        "Coordinate": [
+            973,
+            1051,
+            1974,
+            1166
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Gara  Menon and Shetty",
+        "Coordinate": [
+            992,
+            1162,
+            2291,
+            1281
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "75/186, Chawla Street, Phusro-367828",
+        "Coordinate": [
+            901,
+            1271,
+            2346,
+            1461
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "96/00, Rastogi Marg, Kozhikode 904252",
+        "Coordinate": [
+            905,
+            1546,
+            2334,
+            1689
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7034317896",
+        "Coordinate": [
+            903,
+            1814,
+            1361,
+            1925
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7518268329",
+        "Coordinate": [
+            1878,
+            1812,
+            2342,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Bengali",
+        "Coordinate": [
+            901,
+            1954,
+            1462,
+            2079
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Krishna Naidu - 8928687753",
+        "Coordinate": [
+            963,
+            2085,
+            2120,
+            2194
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Pahal Borde - 8561420120",
+        "Coordinate": [
+            975,
+            2206,
+            2001,
+            2315
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "944063000000",
+        "Coordinate": [
+            596,
+            2401,
+            1230,
+            2488
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            598,
+            2496,
+            1012,
+            2584
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/2/2024",
+        "Coordinate": [
+            604,
+            2578,
+            1078,
+            2684
+        ]
+    }
+]

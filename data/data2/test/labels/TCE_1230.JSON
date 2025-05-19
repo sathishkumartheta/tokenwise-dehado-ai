@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zayan Borra",
+        "Coordinate": [
+            933,
+            474,
+            1372,
+            567
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Borra",
+        "Coordinate": [
+            926,
+            574,
+            1367,
+            665
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/11/1985",
+        "Coordinate": [
+            966,
+            667,
+            1316,
+            740
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            1036,
+            754,
+            1207,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            956,
+            863,
+            1132,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1730,
+            847,
+            1895,
+            942
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1803,
+            961,
+            2020,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1063,
+            957,
+            1159,
+            1035
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Wali Ltd",
+        "Coordinate": [
+            1010,
+            1047,
+            1837,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Seth PLC",
+        "Coordinate": [
+            1016,
+            1154,
+            1879,
+            1252
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 55, Shroff Nagar, Rajpur Sonarpur 098703",
+        "Coordinate": [
+            913,
+            1280,
+            2234,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "985, Taneja Street, Jalna-344463",
+        "Coordinate": [
+            926,
+            1514,
+            2159,
+            1628
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7795423796",
+        "Coordinate": [
+            943,
+            1780,
+            1362,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9467899415",
+        "Coordinate": [
+            1846,
+            1767,
+            2252,
+            1844
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Marathi",
+        "Coordinate": [
+            930,
+            1914,
+            1519,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Leela Lal - 8584620543",
+        "Coordinate": [
+            996,
+            2014,
+            1879,
+            2113
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarini Sant - 8558367578",
+        "Coordinate": [
+            996,
+            2140,
+            2004,
+            2257
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            646,
+            2434,
+            879,
+            2513
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/31/2024",
+        "Coordinate": [
+            643,
+            2524,
+            1036,
+            2606
+        ]
+    }
+]

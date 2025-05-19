@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aarna Prabhakar",
+        "Coordinate": [
+            942,
+            580,
+            1570,
+            657
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Anthony Prabhakar",
+        "Coordinate": [
+            952,
+            687,
+            1622,
+            765
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/13/1968",
+        "Coordinate": [
+            952,
+            785,
+            1280,
+            870
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            897,
+            875,
+            1240,
+            950
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            920,
+            969,
+            1222,
+            1042
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1747,
+            947,
+            2017,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1822,
+            1050,
+            2142,
+            1130
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            922,
+            1057,
+            1040,
+            1132
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Wali  Chahal and Sanghvi",
+        "Coordinate": [
+            977,
+            1147,
+            2280,
+            1242
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Anand-Dara",
+        "Coordinate": [
+            977,
+            1280,
+            1957,
+            1342
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "09/12, Khalsa Nagar, Asansol 209452",
+        "Coordinate": [
+            957,
+            1397,
+            2292,
+            1540
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 97, Peri, Gorakhpur-600986",
+        "Coordinate": [
+            919,
+            1640,
+            2202,
+            1757
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7781229030",
+        "Coordinate": [
+            937,
+            1877,
+            1357,
+            1982
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8304248021",
+        "Coordinate": [
+            1870,
+            1867,
+            2280,
+            1960
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Tamil, Hindi, Bengali",
+        "Coordinate": [
+            902,
+            2007,
+            1932,
+            2102
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Kiaan Sheth - 9991876385",
+        "Coordinate": [
+            1000,
+            2112,
+            1965,
+            2207
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Waida Merchant - 8051538844",
+        "Coordinate": [
+            1010,
+            2237,
+            2085,
+            2342
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "951124000000",
+        "Coordinate": [
+            660,
+            2405,
+            1190,
+            2502
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dehradun",
+        "Coordinate": [
+            652,
+            2497,
+            1025,
+            2590
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/16/2023",
+        "Coordinate": [
+            660,
+            2597,
+            1045,
+            2685
+        ]
+    }
+]

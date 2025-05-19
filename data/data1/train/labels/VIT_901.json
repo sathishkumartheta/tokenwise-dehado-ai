@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Agastya Thakur",
+        "Coordinate": [
+            888,
+            423,
+            1406,
+            534
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Kabir Thakur",
+        "Coordinate": [
+            891,
+            532,
+            1324,
+            629
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/15/1991",
+        "Coordinate": [
+            901,
+            636,
+            1215,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            885,
+            734,
+            1187,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            874,
+            840,
+            1149,
+            931
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1835,
+            844,
+            2018,
+            934
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            943,
+            2109,
+            1030
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            895,
+            937,
+            1031,
+            1023
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Walia  Batra and Cheema",
+        "Coordinate": [
+            961,
+            1022,
+            2174,
+            1120
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Chandran  Shan and Bhat",
+        "Coordinate": [
+            950,
+            1135,
+            2192,
+            1234
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 76, Zacharia Path, Malda 790336",
+        "Coordinate": [
+            877,
+            1256,
+            2288,
+            1381
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "94/791, Kalla Nagar, Dehri-865230",
+        "Coordinate": [
+            880,
+            1511,
+            2148,
+            1643
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7692366867",
+        "Coordinate": [
+            1852,
+            1793,
+            2294,
+            1880
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9509218370",
+        "Coordinate": [
+            886,
+            1789,
+            1298,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Hindi",
+        "Coordinate": [
+            876,
+            1930,
+            1422,
+            2023
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhavya Mutti - 7429464016",
+        "Coordinate": [
+            942,
+            2035,
+            1807,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rishi Lalla - 9943118605",
+        "Coordinate": [
+            960,
+            2164,
+            1780,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "813000000000.0",
+        "Coordinate": [
+            575,
+            2372,
+            1023,
+            2447
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            574,
+            2468,
+            814,
+            2547
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "05-06-2024",
+        "Coordinate": [
+            574,
+            2563,
+            938,
+            2646
+        ]
+    }
+]

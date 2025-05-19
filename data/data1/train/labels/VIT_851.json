@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Baljiwan Bains",
+        "Coordinate": [
+            890,
+            427,
+            1460,
+            530
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Amol Bains",
+        "Coordinate": [
+            898,
+            528,
+            1345,
+            624
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/29/1999",
+        "Coordinate": [
+            919,
+            625,
+            1294,
+            722
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            884,
+            724,
+            1045,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            897,
+            821,
+            1188,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1800,
+            820,
+            2011,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            929,
+            2148,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            918,
+            926,
+            1057,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Sathe  Manne and Manne",
+        "Coordinate": [
+            975,
+            1032,
+            2242,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Trivedi and Sons",
+        "Coordinate": [
+            984,
+            1141,
+            1986,
+            1250
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "42, Dave Zila, Bhusawal-859702",
+        "Coordinate": [
+            892,
+            1267,
+            2282,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 557, Chakrabarti, Dehri 345651",
+        "Coordinate": [
+            905,
+            1520,
+            2348,
+            1661
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9754769504",
+        "Coordinate": [
+            1861,
+            1801,
+            2324,
+            1929
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8135897201",
+        "Coordinate": [
+            885,
+            1802,
+            1329,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Telugu",
+        "Coordinate": [
+            897,
+            1933,
+            1772,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Udant Mangat - 9257770997",
+        "Coordinate": [
+            962,
+            2046,
+            2150,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Alka Maharaj - 7165735599",
+        "Coordinate": [
+            982,
+            2179,
+            2040,
+            2300
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "754000000000.0",
+        "Coordinate": [
+            607,
+            2382,
+            1123,
+            2469
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            605,
+            2476,
+            870,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10-06-2025",
+        "Coordinate": [
+            586,
+            2566,
+            948,
+            2661
+        ]
+    }
+]

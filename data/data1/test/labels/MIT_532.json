@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Hemang Sodhi",
+        "Coordinate": [
+            917,
+            408,
+            1378,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qasim Sodhi",
+        "Coordinate": [
+            934,
+            504,
+            1372,
+            595
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/20/1966",
+        "Coordinate": [
+            944,
+            603,
+            1278,
+            687
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            948,
+            705,
+            1400,
+            798
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            961,
+            806,
+            1201,
+            894
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1782,
+            801,
+            1935,
+            867
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            912,
+            2087,
+            986
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            976,
+            906,
+            1098,
+            990
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Vyas  Raj and Sarin",
+        "Coordinate": [
+            1010,
+            1001,
+            2090,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Kumar  Barad and Tripathi",
+        "Coordinate": [
+            1059,
+            1122,
+            2294,
+            1232
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 24, Goda Ganj, Udupi-855074",
+        "Coordinate": [
+            914,
+            1281,
+            1855,
+            1416
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 952, Virk Circle, Narasaraopet-703969",
+        "Coordinate": [
+            899,
+            1485,
+            2270,
+            1611
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9355206553",
+        "Coordinate": [
+            1870,
+            1774,
+            2325,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8112152626",
+        "Coordinate": [
+            918,
+            1771,
+            1345,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Kannada",
+        "Coordinate": [
+            958,
+            1906,
+            1502,
+            2002
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Bhanumati Narain - 8577153868",
+        "Coordinate": [
+            994,
+            2011,
+            2149,
+            2125
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekantika Char - 8624190734",
+        "Coordinate": [
+            1068,
+            2143,
+            1983,
+            2244
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "QVJJT2307N",
+        "Coordinate": [
+            1652,
+            2350,
+            2204,
+            2449
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            651,
+            2430,
+            914,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/14/2023",
+        "Coordinate": [
+            622,
+            2527,
+            1007,
+            2617
+        ]
+    }
+]

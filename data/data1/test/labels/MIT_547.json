@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fariq Vora",
+        "Coordinate": [
+            912,
+            419,
+            1235,
+            509
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Fitan Vora",
+        "Coordinate": [
+            916,
+            516,
+            1218,
+            601
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11-01-1995",
+        "Coordinate": [
+            925,
+            611,
+            1182,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            919,
+            708,
+            1181,
+            799
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            939,
+            809,
+            1197,
+            901
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1840,
+            806,
+            2016,
+            888
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1880,
+            909,
+            2111,
+            995
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            945,
+            916,
+            1076,
+            1002
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Choudhry PLC",
+        "Coordinate": [
+            1002,
+            1007,
+            1839,
+            1111
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Dube and Sons",
+        "Coordinate": [
+            1006,
+            1120,
+            1942,
+            1223
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 688, Sane Path, Bhusawal 678096",
+        "Coordinate": [
+            915,
+            1234,
+            2223,
+            1362
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "37/44, Nanda, Thanjavur 135317",
+        "Coordinate": [
+            920,
+            1491,
+            1988,
+            1633
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8615783037",
+        "Coordinate": [
+            1884,
+            1772,
+            2248,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7361608588",
+        "Coordinate": [
+            937,
+            1774,
+            1299,
+            1873
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Kannada, Telugu",
+        "Coordinate": [
+            925,
+            1914,
+            1756,
+            2017
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemangini Narayan - 7991662083",
+        "Coordinate": [
+            984,
+            2021,
+            1911,
+            2136
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yahvi Suresh - 7608880636",
+        "Coordinate": [
+            979,
+            2149,
+            1831,
+            2258
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "762000000000.0",
+        "Coordinate": [
+            667,
+            2356,
+            1108,
+            2438
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            678,
+            2441,
+            928,
+            2528
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/23/2022",
+        "Coordinate": [
+            700,
+            2536,
+            1051,
+            2623
+        ]
+    }
+]

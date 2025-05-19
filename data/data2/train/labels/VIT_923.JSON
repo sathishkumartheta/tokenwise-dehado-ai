@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Dominic Bhalla",
+        "Coordinate": [
+            880,
+            426,
+            1638,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Abhimanyu Bhalla",
+        "Coordinate": [
+            918,
+            548,
+            1820,
+            670
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/5/1961",
+        "Coordinate": [
+            962,
+            650,
+            1286,
+            744
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            904,
+            738,
+            1338,
+            854
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            882,
+            840,
+            1312,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            970,
+            954,
+            1102,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Halder and Sons",
+        "Coordinate": [
+            982,
+            1048,
+            2066,
+            1180
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1832,
+            935,
+            2106,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1760,
+            824,
+            1934,
+            914
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Vyas-Garg",
+        "Coordinate": [
+            1022,
+            1176,
+            1970,
+            1310
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/097, Char, Thanjavur-295617",
+        "Coordinate": [
+            958,
+            1314,
+            2344,
+            1466
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "48/46, Prashad Chowk, Pimpri-Chinchwad-795361",
+        "Coordinate": [
+            915,
+            1534,
+            2270,
+            1768
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8095218699",
+        "Coordinate": [
+            1866,
+            1816,
+            2346,
+            1934
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9472001034",
+        "Coordinate": [
+            884,
+            1828,
+            1350,
+            1934
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil",
+        "Coordinate": [
+            962,
+            1953,
+            1562,
+            2086
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Aarush Gulati - 8861764083",
+        "Coordinate": [
+            1040,
+            2058,
+            2286,
+            2198
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udyati Baral - 7188539548",
+        "Coordinate": [
+            946,
+            2198,
+            2284,
+            2348
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "606805000000",
+        "Coordinate": [
+            603,
+            2392,
+            1208,
+            2492
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shimla",
+        "Coordinate": [
+            567,
+            2492,
+            933,
+            2586
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/14/2024",
+        "Coordinate": [
+            662,
+            2596,
+            980,
+            2702
+        ]
+    }
+]

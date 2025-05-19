@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Advay Parekh",
+        "Coordinate": [
+            881,
+            432,
+            1376,
+            521
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Parekh",
+        "Coordinate": [
+            890,
+            532,
+            1449,
+            623
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/23/1960",
+        "Coordinate": [
+            905,
+            633,
+            1302,
+            710
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            959,
+            728,
+            1478,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            943,
+            833,
+            1266,
+            925
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1767,
+            825,
+            1971,
+            923
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            968,
+            941,
+            1065,
+            1015
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1859,
+            930,
+            2122,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Tank LLC",
+        "Coordinate": [
+            1024,
+            1024,
+            1785,
+            1130
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Nagy Group",
+        "Coordinate": [
+            1033,
+            1143,
+            1877,
+            1253
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "92/555, Tella Marg, Motihari 690015",
+        "Coordinate": [
+            901,
+            1278,
+            2317,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "624, Memon Street, Karawal Nagar 025190",
+        "Coordinate": [
+            914,
+            1567,
+            2351,
+            1695
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8252965357",
+        "Coordinate": [
+            885,
+            1807,
+            1341,
+            1909
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7191063753",
+        "Coordinate": [
+            1850,
+            1805,
+            2275,
+            1879
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Bengali, Hindi",
+        "Coordinate": [
+            903,
+            1942,
+            1774,
+            2030
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Saumya Dewan - 9019626730",
+        "Coordinate": [
+            986,
+            2052,
+            1991,
+            2156
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Amruta Sandal - 9891437983",
+        "Coordinate": [
+            979,
+            2171,
+            2149,
+            2288
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "919775000000",
+        "Coordinate": [
+            625,
+            2375,
+            1181,
+            2472
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            623,
+            2476,
+            935,
+            2562
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/12/2023",
+        "Coordinate": [
+            614,
+            2566,
+            970,
+            2652
+        ]
+    }
+]

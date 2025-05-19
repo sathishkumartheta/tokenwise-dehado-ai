@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagvi Goyal",
+        "Coordinate": [
+            894,
+            430,
+            1372,
+            538
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balveer Goyal",
+        "Coordinate": [
+            904,
+            530,
+            1436,
+            640
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "06-05-2000",
+        "Coordinate": [
+            911,
+            637,
+            1319,
+            734
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            907,
+            736,
+            1192,
+            838
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            891,
+            842,
+            1101,
+            944
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1724,
+            827,
+            1981,
+            931
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1814,
+            943,
+            2020,
+            1045
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            894,
+            943,
+            1088,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Cherian-Saraf",
+        "Coordinate": [
+            984,
+            1037,
+            1988,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Badami  Ahluwalia and Rana",
+        "Coordinate": [
+            963,
+            1152,
+            2318,
+            1281
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "776, Sur, Tadipatri 641220",
+        "Coordinate": [
+            902,
+            1408,
+            1868,
+            1556
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 303, Dhillon Chowk, Junagadh-147276",
+        "Coordinate": [
+            919,
+            1661,
+            2296,
+            1805
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9720587202",
+        "Coordinate": [
+            1860,
+            1821,
+            2184,
+            1931
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7923995378",
+        "Coordinate": [
+            892,
+            1843,
+            1206,
+            1947
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Gujarati, Hindi",
+        "Coordinate": [
+            923,
+            1953,
+            1705,
+            2061
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Jackson Ganesan - 9929331174",
+        "Coordinate": [
+            947,
+            2081,
+            1860,
+            2208
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sai Sundaram - 9681661192",
+        "Coordinate": [
+            936,
+            2217,
+            1788,
+            2324
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RBZRG6283T",
+        "Coordinate": [
+            1604,
+            2390,
+            2092,
+            2489
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            568,
+            2475,
+            842,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-01-2022",
+        "Coordinate": [
+            574,
+            2577,
+            926,
+            2672
+        ]
+    }
+]

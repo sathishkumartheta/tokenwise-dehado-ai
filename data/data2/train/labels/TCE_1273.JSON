@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yamini Toor",
+        "Coordinate": [
+            934,
+            466,
+            1396,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Pranav Toor",
+        "Coordinate": [
+            938,
+            557,
+            1416,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/10/1975",
+        "Coordinate": [
+            930,
+            657,
+            1299,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            971,
+            747,
+            1316,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            983,
+            852,
+            1263,
+            949
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1778,
+            844,
+            2069,
+            934
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            967,
+            957,
+            1105,
+            1037
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1829,
+            965,
+            2104,
+            1051
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Kurian  Bahri and Dhillon",
+        "Coordinate": [
+            1008,
+            1047,
+            2317,
+            1143
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Dash-Bava",
+        "Coordinate": [
+            1010,
+            1152,
+            1917,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85/263, Joshi Street, Ranchi 857788",
+        "Coordinate": [
+            914,
+            1285,
+            2264,
+            1402
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "054, Badami Street, Mysore 682726",
+        "Coordinate": [
+            924,
+            1519,
+            2284,
+            1656
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7694542944",
+        "Coordinate": [
+            938,
+            1778,
+            1371,
+            1892
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8489913844",
+        "Coordinate": [
+            1860,
+            1769,
+            2272,
+            1890
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Kannada, Tamil",
+        "Coordinate": [
+            957,
+            1909,
+            2026,
+            1997
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Chavvi Batra - 7124098648",
+        "Coordinate": [
+            1072,
+            2005,
+            2038,
+            2124
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yashodhara Chanda - 7712071855",
+        "Coordinate": [
+            1065,
+            2139,
+            2231,
+            2247
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            725,
+            2416,
+            1051,
+            2504
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/25/2023",
+        "Coordinate": [
+            671,
+            2508,
+            1141,
+            2596
+        ]
+    }
+]

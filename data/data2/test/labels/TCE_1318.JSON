@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Tanay Manda",
+        "Coordinate": [
+            922,
+            468,
+            1480,
+            561
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Udarsh Manda",
+        "Coordinate": [
+            900,
+            576,
+            1512,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/27/1960",
+        "Coordinate": [
+            926,
+            668,
+            1342,
+            749
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            916,
+            764,
+            1214,
+            847
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            938,
+            858,
+            1220,
+            953
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1756,
+            854,
+            1964,
+            939
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            970,
+            2090,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            948,
+            960,
+            1156,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Wable-Pradhan",
+        "Coordinate": [
+            1010,
+            1050,
+            2108,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Nadkarni  Bath and Garde",
+        "Coordinate": [
+            951,
+            1162,
+            2282,
+            1279
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "744, Dara Chowk, Burhanpur-037150",
+        "Coordinate": [
+            888,
+            1312,
+            2282,
+            1435
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 88, Uppal Ganj, Junagadh 012021",
+        "Coordinate": [
+            885,
+            1564,
+            2254,
+            1695
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7244496962",
+        "Coordinate": [
+            888,
+            1777,
+            1334,
+            1886
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8004555506",
+        "Coordinate": [
+            1808,
+            1796,
+            2264,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu, English",
+        "Coordinate": [
+            900,
+            1910,
+            1766,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Luke Ravel - 9269171227",
+        "Coordinate": [
+            946,
+            2020,
+            2018,
+            2121
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chanakya Sule - 7870377143",
+        "Coordinate": [
+            954,
+            2138,
+            2158,
+            2241
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kolkata",
+        "Coordinate": [
+            608,
+            2422,
+            968,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/13/2023",
+        "Coordinate": [
+            592,
+            2516,
+            1054,
+            2591
+        ]
+    }
+]

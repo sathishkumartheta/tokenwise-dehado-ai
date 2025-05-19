@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "12/19/2024",
+        "Coordinate": [
+            652,
+            2536,
+            1100,
+            2611
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            664,
+            2436,
+            872,
+            2503
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Meghana Vasa - 8574623410",
+        "Coordinate": [
+            990,
+            2152,
+            2168,
+            2237
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Hemang Dave - 9804547079",
+        "Coordinate": [
+            1012,
+            2012,
+            2022,
+            2115
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali, English",
+        "Coordinate": [
+            940,
+            1896,
+            1862,
+            1999
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9019876819",
+        "Coordinate": [
+            1830,
+            1787,
+            2216,
+            1888
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7317794015",
+        "Coordinate": [
+            945,
+            1805,
+            1317,
+            1890
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "51, Kapadia Path, Gandhidham-097506",
+        "Coordinate": [
+            909,
+            1526,
+            2299,
+            1629
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "316, Dube Zila, Khora -868784",
+        "Coordinate": [
+            925,
+            1286,
+            2115,
+            1381
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Sule and Sons",
+        "Coordinate": [
+            1011,
+            1148,
+            2045,
+            1231
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Ghosh  Narayanan and Sant",
+        "Coordinate": [
+            984,
+            1052,
+            2223,
+            1154
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1811,
+            966,
+            2123,
+            1007
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1755,
+            862,
+            2125,
+            929
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            955,
+            858,
+            1299,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            925,
+            962,
+            1135,
+            1049
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            937,
+            776,
+            1531,
+            857
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/13/1978",
+        "Coordinate": [
+            931,
+            670,
+            1323,
+            759
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Parth Bhalla",
+        "Coordinate": [
+            915,
+            564,
+            1419,
+            639
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Benjamin Bhalla",
+        "Coordinate": [
+            931,
+            474,
+            1541,
+            543
+        ]
+    }
+]

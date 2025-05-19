@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Qarin Gola",
+        "Coordinate": [
+            912,
+            394,
+            1238,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Faraj Gola",
+        "Coordinate": [
+            924,
+            495,
+            1234,
+            587
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/22/1995",
+        "Coordinate": [
+            932,
+            593,
+            1237,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            932,
+            685,
+            1213,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            792,
+            1171,
+            880
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1808,
+            783,
+            1979,
+            866
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1852,
+            888,
+            2058,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            939,
+            894,
+            1052,
+            973
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Korpal Inc",
+        "Coordinate": [
+            984,
+            987,
+            1597,
+            1089
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Garg-Magar",
+        "Coordinate": [
+            982,
+            1100,
+            1787,
+            1213
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "22, Singh Nagar, Mira-Bhayandar 959473",
+        "Coordinate": [
+            897,
+            1260,
+            2240,
+            1425
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "13/290, Purohit Zila, Mumbai-787688",
+        "Coordinate": [
+            896,
+            1469,
+            2204,
+            1601
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9224408467",
+        "Coordinate": [
+            1897,
+            1749,
+            2284,
+            1837
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8852579638",
+        "Coordinate": [
+            898,
+            1748,
+            1283,
+            1840
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, English, Gujarati",
+        "Coordinate": [
+            902,
+            1884,
+            2103,
+            1993
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Unnati Venkatesh - 7639127875",
+        "Coordinate": [
+            947,
+            2000,
+            1984,
+            2104
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nidhi Krishnamurthy - 7773538214",
+        "Coordinate": [
+            947,
+            2121,
+            2165,
+            2235
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "508000000000.0",
+        "Coordinate": [
+            614,
+            2329,
+            1077,
+            2417
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "XHBYP6212P",
+        "Coordinate": [
+            1665,
+            2337,
+            2081,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            630,
+            2425,
+            948,
+            2511
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/24/2024",
+        "Coordinate": [
+            631,
+            2519,
+            1043,
+            2610
+        ]
+    }
+]

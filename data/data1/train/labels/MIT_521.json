@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anay Kala",
+        "Coordinate": [
+            1021,
+            431,
+            1533,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Mohammed Kala",
+        "Coordinate": [
+            1026,
+            534,
+            1704,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/2002",
+        "Coordinate": [
+            1037,
+            634,
+            1527,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            1059,
+            731,
+            1430,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            1032,
+            837,
+            1337,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1936,
+            828,
+            2150,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1943,
+            939,
+            2230,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            1094,
+            945,
+            1232,
+            1033
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bhakta-Garde",
+        "Coordinate": [
+            1100,
+            1036,
+            2271,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Mutti  Thakur and Ratta",
+        "Coordinate": [
+            1096,
+            1140,
+            2528,
+            1258
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 138, Sekhon Street, Madurai-513346",
+        "Coordinate": [
+            1015,
+            1536,
+            2449,
+            1779
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8963555106",
+        "Coordinate": [
+            1964,
+            1791,
+            2452,
+            1893
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8606833217",
+        "Coordinate": [
+            965,
+            1802,
+            1443,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Gujarati, Tamil, Marathi",
+        "Coordinate": [
+            1001,
+            1922,
+            2431,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Harish Mukherjee - 9771980833",
+        "Coordinate": [
+            1054,
+            2038,
+            2348,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Manthan Agate - 7172936169",
+        "Coordinate": [
+            1098,
+            2165,
+            2372,
+            2269
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ITEDJ0298O",
+        "Coordinate": [
+            1756,
+            2374,
+            2288,
+            2470
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            744,
+            2471,
+            1082,
+            2564
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/16/2022",
+        "Coordinate": [
+            762,
+            2565,
+            1227,
+            2662
+        ]
+    }
+]

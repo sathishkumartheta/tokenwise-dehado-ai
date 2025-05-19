@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Sachdev",
+        "Coordinate": [
+            872,
+            391,
+            1296,
+            478
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charles Sachdev",
+        "Coordinate": [
+            884,
+            486,
+            1323,
+            576
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/1974",
+        "Coordinate": [
+            889,
+            590,
+            1175,
+            673
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            894,
+            681,
+            1170,
+            769
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            911,
+            783,
+            1177,
+            870
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1887,
+            785,
+            2061,
+            872
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1895,
+            892,
+            2119,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            922,
+            895,
+            1071,
+            977
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Goyal-Ramesh",
+        "Coordinate": [
+            968,
+            984,
+            1803,
+            1092
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Puri  Lanka and Sami",
+        "Coordinate": [
+            1012,
+            1096,
+            2052,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "98/748, Muni Marg, Khammam-945011",
+        "Coordinate": [
+            880,
+            1213,
+            2223,
+            1375
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 753, Basu Marg, Raipur-716039",
+        "Coordinate": [
+            882,
+            1470,
+            2137,
+            1631
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9909205925",
+        "Coordinate": [
+            1854,
+            1749,
+            2236,
+            1835
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9582330740",
+        "Coordinate": [
+            894,
+            1756,
+            1271,
+            1851
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Telugu, Bengali",
+        "Coordinate": [
+            897,
+            1889,
+            1371,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sarthak Sama - 8165577063",
+        "Coordinate": [
+            943,
+            1997,
+            1860,
+            2107
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Yuvraj Roy - 7601883864",
+        "Coordinate": [
+            958,
+            2125,
+            1770,
+            2238
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "910000000000.0",
+        "Coordinate": [
+            574,
+            2329,
+            1023,
+            2403
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EWORF3093G",
+        "Coordinate": [
+            1624,
+            2332,
+            2072,
+            2418
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            585,
+            2417,
+            769,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/21/2022",
+        "Coordinate": [
+            597,
+            2514,
+            932,
+            2596
+        ]
+    }
+]

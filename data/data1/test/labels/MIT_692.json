@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Chad",
+        "Coordinate": [
+            875,
+            434,
+            1369,
+            522
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Chad",
+        "Coordinate": [
+            894,
+            531,
+            1240,
+            619
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "07-10-1974",
+        "Coordinate": [
+            907,
+            637,
+            1172,
+            721
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            896,
+            736,
+            1165,
+            827
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            906,
+            838,
+            1093,
+            929
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1750,
+            834,
+            1943,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            942,
+            2021,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            922,
+            941,
+            1024,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Comar-Yohannan",
+        "Coordinate": [
+            957,
+            1036,
+            1735,
+            1135
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Balasubramanian  Tara and Rau",
+        "Coordinate": [
+            948,
+            1145,
+            2221,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "157, Uppal Path, Udupi 918536",
+        "Coordinate": [
+            899,
+            1306,
+            1770,
+            1437
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 44, Halder, Ballia-719540",
+        "Coordinate": [
+            882,
+            1524,
+            1776,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8646953768",
+        "Coordinate": [
+            1864,
+            1809,
+            2198,
+            1910
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9953788099",
+        "Coordinate": [
+            881,
+            1803,
+            1211,
+            1897
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Marathi, Kannada, Bengali",
+        "Coordinate": [
+            878,
+            1945,
+            1820,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Vedant Varty - 7207406866",
+        "Coordinate": [
+            946,
+            2049,
+            1712,
+            2151
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Osha Shan - 8304775085",
+        "Coordinate": [
+            948,
+            2179,
+            1662,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "334000000000.0",
+        "Coordinate": [
+            586,
+            2385,
+            1001,
+            2464
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Dispur",
+        "Coordinate": [
+            596,
+            2479,
+            786,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/16/2024",
+        "Coordinate": [
+            588,
+            2570,
+            887,
+            2655
+        ]
+    }
+]

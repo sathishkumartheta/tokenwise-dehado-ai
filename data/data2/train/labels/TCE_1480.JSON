@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Siya Bera",
+        "Coordinate": [
+            890,
+            462,
+            1502,
+            579
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayaan Bera",
+        "Coordinate": [
+            895,
+            563,
+            1489,
+            691
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/13/1992",
+        "Coordinate": [
+            895,
+            663,
+            1370,
+            772
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            895,
+            748,
+            1338,
+            864
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            901,
+            847,
+            1174,
+            948
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1744,
+            847,
+            2070,
+            948
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            895,
+            959,
+            1126,
+            1049
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            961,
+            2130,
+            1065
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Kuruvilla  Kala and Nigam",
+        "Coordinate": [
+            965,
+            1045,
+            2394,
+            1181
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Rattan Inc",
+        "Coordinate": [
+            973,
+            1149,
+            2066,
+            1282
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "382, Shah Nagar, Srinagar-348657",
+        "Coordinate": [
+            902,
+            1276,
+            2281,
+            1391
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 320, Gade Street, Delhi-732815",
+        "Coordinate": [
+            913,
+            1515,
+            2418,
+            1635
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9846015950",
+        "Coordinate": [
+            864,
+            1743,
+            1362,
+            1864
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7950127411",
+        "Coordinate": [
+            1594,
+            1808,
+            2050,
+            1933
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Tamil, English, Hindi",
+        "Coordinate": [
+            874,
+            1907,
+            2129,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darika Kadakia - 8359334757",
+        "Coordinate": [
+            930,
+            2009,
+            2218,
+            2122
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Luke Lad - 9714876816",
+        "Coordinate": [
+            899,
+            2131,
+            2010,
+            2258
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            628,
+            2424,
+            1043,
+            2527
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/20/2023",
+        "Coordinate": [
+            635,
+            2515,
+            1214,
+            2644
+        ]
+    }
+]

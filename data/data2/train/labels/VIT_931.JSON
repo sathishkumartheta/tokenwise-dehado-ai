@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Anamika Mohan",
+        "Coordinate": [
+            878,
+            420,
+            1554,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naveen Mohan",
+        "Coordinate": [
+            905,
+            520,
+            1629,
+            630
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/10/1971",
+        "Coordinate": [
+            900,
+            628,
+            1328,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            918,
+            704,
+            1570,
+            818
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            918,
+            828,
+            1344,
+            922
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            978,
+            924,
+            1174,
+            1024
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1792,
+            808,
+            2264,
+            906
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1800,
+            928,
+            2094,
+            1022
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Bahri-Varughese",
+        "Coordinate": [
+            996,
+            1038,
+            2310,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Banerjee-Sangha",
+        "Coordinate": [
+            1034,
+            1150,
+            2344,
+            1286
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "360, Aurora Zila, Aurangabad-400998",
+        "Coordinate": [
+            909,
+            1310,
+            2320,
+            1546
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/192, Varty Street, Farrukhabad 594925",
+        "Coordinate": [
+            916,
+            1562,
+            2356,
+            1776
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9542623201",
+        "Coordinate": [
+            1854,
+            1806,
+            2340,
+            1922
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8252777344",
+        "Coordinate": [
+            884,
+            1815,
+            1372,
+            1929
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam, Hindi, Gujarati",
+        "Coordinate": [
+            882,
+            1932,
+            2356,
+            2060
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rehaan Misra - 9688262534",
+        "Coordinate": [
+            1030,
+            2068,
+            2322,
+            2180
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Chaitanya Dixit - 7412828785",
+        "Coordinate": [
+            996,
+            2188,
+            2134,
+            2302
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "363313000000",
+        "Coordinate": [
+            582,
+            2378,
+            1242,
+            2476
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            574,
+            2466,
+            1040,
+            2568
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/4/2025",
+        "Coordinate": [
+            634,
+            2574,
+            1192,
+            2670
+        ]
+    }
+]

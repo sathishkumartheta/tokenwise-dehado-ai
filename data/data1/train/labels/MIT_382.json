@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Lavanya Narayanan",
+        "Coordinate": [
+            877,
+            390,
+            1528,
+            484
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Amol Narayanan",
+        "Coordinate": [
+            891,
+            492,
+            1471,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/22/1960",
+        "Coordinate": [
+            883,
+            592,
+            1196,
+            676
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            880,
+            683,
+            1191,
+            776
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            882,
+            787,
+            1119,
+            875
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1749,
+            785,
+            1979,
+            858
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1839,
+            892,
+            2073,
+            973
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            885,
+            893,
+            1008,
+            971
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Konda-Pandit",
+        "Coordinate": [
+            937,
+            983,
+            1744,
+            1087
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Kannan-Singhal",
+        "Coordinate": [
+            937,
+            1099,
+            1948,
+            1200
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "64/96, Grewal, Gandhidham-195296",
+        "Coordinate": [
+            875,
+            1220,
+            2082,
+            1341
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "059, Anand Chowk, Arrah-128276",
+        "Coordinate": [
+            871,
+            1473,
+            2053,
+            1596
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8281485495",
+        "Coordinate": [
+            1870,
+            1749,
+            2273,
+            1844
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9281610626",
+        "Coordinate": [
+            883,
+            1749,
+            1268,
+            1831
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, English, Bengali, Kannada",
+        "Coordinate": [
+            861,
+            1893,
+            2015,
+            1996
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pooja Mistry - 8788585060",
+        "Coordinate": [
+            942,
+            2004,
+            1855,
+            2105
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Farhan Murthy - 7280920682",
+        "Coordinate": [
+            946,
+            2127,
+            1928,
+            2226
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "733000000000.0",
+        "Coordinate": [
+            574,
+            2340,
+            1043,
+            2422
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Itanagar",
+        "Coordinate": [
+            573,
+            2429,
+            910,
+            2505
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/28/2022",
+        "Coordinate": [
+            583,
+            2513,
+            948,
+            2597
+        ]
+    }
+]

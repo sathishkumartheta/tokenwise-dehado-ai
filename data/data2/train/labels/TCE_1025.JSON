@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashvi Subramaniam",
+        "Coordinate": [
+            912,
+            476,
+            1628,
+            577
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ronith Subramaniam",
+        "Coordinate": [
+            922,
+            594,
+            1592,
+            657
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/18/1970",
+        "Coordinate": [
+            922,
+            660,
+            1288,
+            741
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            908,
+            752,
+            1228,
+            857
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            871,
+            1184,
+            960
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1726,
+            850,
+            1978,
+            931
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            922,
+            980,
+            1078,
+            1043
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1804,
+            968,
+            2034,
+            1041
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Srinivasan Group",
+        "Coordinate": [
+            988,
+            1040,
+            2016,
+            1139
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Menon  Dhaliwal and Goel",
+        "Coordinate": [
+            984,
+            1176,
+            2294,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 727, Deol Road, Mau 750796",
+        "Coordinate": [
+            914,
+            1336,
+            2186,
+            1445
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "240, Ramachandran Road, Gurgaon-196627",
+        "Coordinate": [
+            911,
+            1552,
+            2298,
+            1671
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7314696940",
+        "Coordinate": [
+            924,
+            1788,
+            1340,
+            1899
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9650235740",
+        "Coordinate": [
+            1868,
+            1778,
+            2306,
+            1889
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, English",
+        "Coordinate": [
+            912,
+            1916,
+            1786,
+            2009
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Anya Panchal - 7883892473",
+        "Coordinate": [
+            958,
+            2026,
+            1976,
+            2127
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Charan Samra - 7191715623",
+        "Coordinate": [
+            946,
+            2156,
+            2072,
+            2271
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            620,
+            2414,
+            964,
+            2507
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/5/2025",
+        "Coordinate": [
+            608,
+            2506,
+            1032,
+            2595
+        ]
+    }
+]

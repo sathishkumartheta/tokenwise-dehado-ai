@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Rayaan Mitra",
+        "Coordinate": [
+            905,
+            468,
+            1491,
+            559
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Yatin Mitra",
+        "Coordinate": [
+            905,
+            559,
+            1356,
+            654
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/8/1984",
+        "Coordinate": [
+            913,
+            660,
+            1291,
+            742
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            917,
+            744,
+            1206,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            921,
+            850,
+            1170,
+            932
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            945,
+            940,
+            1023,
+            1021
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1732,
+            848,
+            1917,
+            921
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1795,
+            951,
+            2012,
+            1050
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Virk Ltd",
+        "Coordinate": [
+            972,
+            1046,
+            1635,
+            1126
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Seth-Raman",
+        "Coordinate": [
+            985,
+            1147,
+            1772,
+            1257
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 363, Mandal Street, Siwan 622719",
+        "Coordinate": [
+            905,
+            1291,
+            2143,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "36, Nayar Marg, Gurgaon-390607",
+        "Coordinate": [
+            900,
+            1521,
+            2042,
+            1660
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7425130740",
+        "Coordinate": [
+            892,
+            1770,
+            1327,
+            1905
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7538325076",
+        "Coordinate": [
+            1822,
+            1780,
+            2265,
+            1903
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Hindi",
+        "Coordinate": [
+            888,
+            1900,
+            1563,
+            2016
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Widisha Talwar - 8086907122",
+        "Coordinate": [
+            949,
+            2002,
+            2029,
+            2128
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Robert Sachdev - 8200796578",
+        "Coordinate": [
+            955,
+            2135,
+            1907,
+            2242
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kohima",
+        "Coordinate": [
+            599,
+            2417,
+            911,
+            2493
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/8/2025",
+        "Coordinate": [
+            603,
+            2495,
+            991,
+            2584
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Janani Munshi",
+        "Coordinate": [
+            906,
+            483,
+            1473,
+            554
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ayaan Munshi",
+        "Coordinate": [
+            911,
+            560,
+            1465,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "6/26/2005",
+        "Coordinate": [
+            906,
+            656,
+            1269,
+            728
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            911,
+            762,
+            1199,
+            840
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            925,
+            859,
+            1222,
+            936
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            925,
+            936,
+            1137,
+            1036
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1673,
+            830,
+            1944,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1759,
+            936,
+            2048,
+            1025
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "8 years at Bhatt LLC",
+        "Coordinate": [
+            998,
+            1036,
+            1824,
+            1145
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Butala Inc",
+        "Coordinate": [
+            1002,
+            1148,
+            1909,
+            1241
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 410, Mandal Marg, Naihati-009412",
+        "Coordinate": [
+            891,
+            1278,
+            2194,
+            1465
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 16, Mohanty Zila, Thoothukudi 709238",
+        "Coordinate": [
+            920,
+            1539,
+            2302,
+            1762
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8977024107",
+        "Coordinate": [
+            1837,
+            1760,
+            2279,
+            1889
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9280736210",
+        "Coordinate": [
+            925,
+            1789,
+            1334,
+            1874
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati, Hindi",
+        "Coordinate": [
+            911,
+            1919,
+            1851,
+            2001
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zarna Keer - 9798011624",
+        "Coordinate": [
+            983,
+            2006,
+            1951,
+            2098
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Udant Gara - 7756812309",
+        "Coordinate": [
+            1002,
+            2132,
+            2052,
+            2213
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            641,
+            2421,
+            918,
+            2487
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/4/2024",
+        "Coordinate": [
+            646,
+            2498,
+            1014,
+            2591
+        ]
+    }
+]

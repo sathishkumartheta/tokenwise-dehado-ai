@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Bhavna Sane",
+        "Coordinate": [
+            901,
+            413,
+            1483,
+            549
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Bachittar Sane",
+        "Coordinate": [
+            898,
+            544,
+            1735,
+            661
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/2/1979",
+        "Coordinate": [
+            922,
+            639,
+            1438,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            927,
+            751,
+            1414,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            970,
+            841,
+            1395,
+            932
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1864,
+            796,
+            2187,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1864,
+            965,
+            2261,
+            1043
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            970,
+            951,
+            1231,
+            1055
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Desai-Dara",
+        "Coordinate": [
+            1089,
+            1060,
+            2178,
+            1150
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Maharaj  Narayan and Vyas",
+        "Coordinate": [
+            1098,
+            1179,
+            2480,
+            1303
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "39/019, Chahal Circle, Mahbubnagar-695489",
+        "Coordinate": [
+            884,
+            1326,
+            2480,
+            1498
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "97/87, Gole Chowk, Ramagundam 010713",
+        "Coordinate": [
+            882,
+            1559,
+            2480,
+            1724
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9331661810",
+        "Coordinate": [
+            1835,
+            1759,
+            2301,
+            1914
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7763284612",
+        "Coordinate": [
+            875,
+            1771,
+            1350,
+            1923
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Bengali, Marathi",
+        "Coordinate": [
+            920,
+            1945,
+            1940,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Odika Bath - 8565502135",
+        "Coordinate": [
+            977,
+            2073,
+            2230,
+            2178
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Inaya Kala - 9249014236",
+        "Coordinate": [
+            996,
+            2202,
+            2247,
+            2320
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "RVRIB5102A",
+        "Coordinate": [
+            1678,
+            2361,
+            2292,
+            2508
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gandhinagar",
+        "Coordinate": [
+            570,
+            2473,
+            1243,
+            2575
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/17/2022",
+        "Coordinate": [
+            618,
+            2577,
+            1162,
+            2715
+        ]
+    }
+]

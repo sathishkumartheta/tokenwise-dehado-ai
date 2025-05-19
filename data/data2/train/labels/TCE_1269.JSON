@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ganga Ray",
+        "Coordinate": [
+            898,
+            470,
+            1267,
+            564
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Ray",
+        "Coordinate": [
+            917,
+            568,
+            1277,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "8/4/2002",
+        "Coordinate": [
+            939,
+            680,
+            1164,
+            755
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            928,
+            750,
+            1202,
+            844
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            920,
+            860,
+            1142,
+            975
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            941,
+            979,
+            1035,
+            1052
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1793,
+            844,
+            2048,
+            932
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1791,
+            943,
+            2012,
+            1039
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Dar LLC",
+        "Coordinate": [
+            1027,
+            1040,
+            1639,
+            1134
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Jani LLC",
+        "Coordinate": [
+            1005,
+            1160,
+            1704,
+            1239
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "35/88, Patil Nagar, Shivpuri-807687",
+        "Coordinate": [
+            920,
+            1260,
+            2186,
+            1440
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 46, Mahajan Road, Kollam 986484",
+        "Coordinate": [
+            922,
+            1519,
+            2318,
+            1695
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7584852253",
+        "Coordinate": [
+            956,
+            1772,
+            1341,
+            1881
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7791921973",
+        "Coordinate": [
+            1862,
+            1772,
+            2278,
+            1875
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Bengali, Tamil, Hindi",
+        "Coordinate": [
+            982,
+            1899,
+            2050,
+            1991
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Quincy Sodhi - 9567995771",
+        "Coordinate": [
+            988,
+            2003,
+            1847,
+            2126
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Maanav Baria - 9796800218",
+        "Coordinate": [
+            1010,
+            2140,
+            2010,
+            2250
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Bhopal",
+        "Coordinate": [
+            662,
+            2425,
+            909,
+            2524
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "10/13/2022",
+        "Coordinate": [
+            872,
+            2522,
+            1183,
+            2593
+        ]
+    }
+]

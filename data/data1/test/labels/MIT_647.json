@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Arin Krish",
+        "Coordinate": [
+            888,
+            439,
+            1267,
+            536
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Jeremiah Krish",
+        "Coordinate": [
+            896,
+            540,
+            1482,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/20/1982",
+        "Coordinate": [
+            923,
+            639,
+            1298,
+            733
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            915,
+            736,
+            1457,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            940,
+            842,
+            1212,
+            933
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1834,
+            841,
+            1993,
+            933
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            947,
+            2057,
+            1036
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            979,
+            941,
+            1142,
+            1034
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Karpe-Vyas",
+        "Coordinate": [
+            1047,
+            1052,
+            1926,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Vaidya Group",
+        "Coordinate": [
+            1039,
+            1156,
+            1974,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 76, Saran Chowk, Burhanpur-828874",
+        "Coordinate": [
+            900,
+            1285,
+            2192,
+            1507
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 207, Johal Path, Thrissur 859315",
+        "Coordinate": [
+            895,
+            1533,
+            2295,
+            1687
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9071533447",
+        "Coordinate": [
+            1845,
+            1804,
+            2276,
+            1921
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7679201927",
+        "Coordinate": [
+            895,
+            1808,
+            1372,
+            1922
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Hindi",
+        "Coordinate": [
+            906,
+            1949,
+            1628,
+            2054
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Meghana Dave - 9602830752",
+        "Coordinate": [
+            965,
+            2059,
+            2056,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bakhshi Srivastava - 7211281081",
+        "Coordinate": [
+            966,
+            2192,
+            2122,
+            2316
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "780000000000.0",
+        "Coordinate": [
+            586,
+            2390,
+            1110,
+            2481
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            601,
+            2485,
+            898,
+            2574
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/31/2024",
+        "Coordinate": [
+            634,
+            2577,
+            1011,
+            2672
+        ]
+    }
+]

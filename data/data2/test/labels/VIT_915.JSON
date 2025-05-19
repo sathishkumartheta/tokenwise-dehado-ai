@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Ekiya Narula",
+        "Coordinate": [
+            889,
+            416,
+            1273,
+            500
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Narula",
+        "Coordinate": [
+            915,
+            527,
+            1327,
+            594
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/4/1997",
+        "Coordinate": [
+            926,
+            628,
+            1196,
+            697
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            907,
+            723,
+            1057,
+            791
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            930,
+            821,
+            1095,
+            909
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1828,
+            815,
+            2033,
+            892
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            928,
+            932,
+            1095,
+            1003
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1862,
+            932,
+            2065,
+            1009
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Rajagopalan-Zachariah",
+        "Coordinate": [
+            958,
+            1018,
+            2003,
+            1115
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "10 years at Bakshi-Sandhu",
+        "Coordinate": [
+            956,
+            1134,
+            1830,
+            1228
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "78/26, Uppal Road, Gorakhpur-000255",
+        "Coordinate": [
+            920,
+            1269,
+            1808,
+            1376
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "45/334, Upadhyay Chowk, Bhavnagar 844704",
+        "Coordinate": [
+            915,
+            1517,
+            2321,
+            1637
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7072553319",
+        "Coordinate": [
+            894,
+            1796,
+            1258,
+            1877
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8366584692",
+        "Coordinate": [
+            1853,
+            1802,
+            2205,
+            1901
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Kannada, Malayalam, Tamil, Hindi",
+        "Coordinate": [
+            889,
+            1933,
+            1944,
+            2014
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Deepa Prabhu - 9577861138",
+        "Coordinate": [
+            958,
+            2036,
+            1794,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Falguni Rajan - 8174127314",
+        "Coordinate": [
+            958,
+            2166,
+            1903,
+            2265
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            583,
+            2468,
+            823,
+            2541
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "SBHRC1927U",
+        "Coordinate": [
+            1643,
+            2378,
+            2050,
+            2458
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/4/2022",
+        "Coordinate": [
+            573,
+            2550,
+            980,
+            2638
+        ]
+    }
+]

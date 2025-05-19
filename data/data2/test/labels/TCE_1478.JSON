@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zayan Raj",
+        "Coordinate": [
+            904,
+            485,
+            1416,
+            586
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Nathaniel Raj",
+        "Coordinate": [
+            886,
+            580,
+            1568,
+            678
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/21/1980",
+        "Coordinate": [
+            911,
+            648,
+            1404,
+            770
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Diploma",
+        "Coordinate": [
+            903,
+            756,
+            1263,
+            858
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            907,
+            857,
+            1247,
+            982
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            903,
+            956,
+            1067,
+            1062
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1830,
+            858,
+            2089,
+            958
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1808,
+            945,
+            2137,
+            1078
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Bhasin-Ahluwalia",
+        "Coordinate": [
+            970,
+            1037,
+            2264,
+            1154
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Goel Inc",
+        "Coordinate": [
+            987,
+            1146,
+            1921,
+            1265
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 65, Biswas Ganj, Dindigul-962742",
+        "Coordinate": [
+            916,
+            1251,
+            2225,
+            1470
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 12, Khosla Circle, Patiala-037526",
+        "Coordinate": [
+            900,
+            1509,
+            2278,
+            1757
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8113223111",
+        "Coordinate": [
+            911,
+            1753,
+            1348,
+            1869
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8010820911",
+        "Coordinate": [
+            1814,
+            1780,
+            2278,
+            1877
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Hindi, Marathi, Gujarati",
+        "Coordinate": [
+            890,
+            1905,
+            2223,
+            2029
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yauvani Prasad - 8658821915",
+        "Coordinate": [
+            975,
+            2012,
+            2202,
+            2109
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ishani Kari - 7630419429",
+        "Coordinate": [
+            967,
+            2124,
+            2130,
+            2249
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            616,
+            2432,
+            923,
+            2520
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "9/1/2022",
+        "Coordinate": [
+            630,
+            2509,
+            1111,
+            2620
+        ]
+    }
+]

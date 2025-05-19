@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Shivansh Bir",
+        "Coordinate": [
+            895,
+            418,
+            1441,
+            517
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekansh Bir",
+        "Coordinate": [
+            898,
+            520,
+            1377,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/30/2003",
+        "Coordinate": [
+            899,
+            623,
+            1365,
+            718
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            934,
+            720,
+            1311,
+            819
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            878,
+            822,
+            1139,
+            920
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1783,
+            826,
+            2023,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1878,
+            928,
+            2240,
+            1023
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            914,
+            926,
+            1103,
+            1016
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Tak Group",
+        "Coordinate": [
+            924,
+            1035,
+            1707,
+            1141
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Kota  Agate and Chand",
+        "Coordinate": [
+            999,
+            1138,
+            2393,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 163, Thaker Zila, Bokaro-023915",
+        "Coordinate": [
+            895,
+            1272,
+            2170,
+            1480
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 336, Bhavsar Ganj, Kolkata-127023",
+        "Coordinate": [
+            868,
+            1543,
+            2094,
+            1776
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7359814806",
+        "Coordinate": [
+            1887,
+            1796,
+            2359,
+            1901
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8677124644",
+        "Coordinate": [
+            877,
+            1800,
+            1285,
+            1909
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Telugu",
+        "Coordinate": [
+            880,
+            1933,
+            1456,
+            2033
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pooja Sule - 7395537113",
+        "Coordinate": [
+            975,
+            2034,
+            2001,
+            2154
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Bakhshi Chowdhury - 9448769862",
+        "Coordinate": [
+            948,
+            2169,
+            2404,
+            2286
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "563000000000.0",
+        "Coordinate": [
+            632,
+            2376,
+            1216,
+            2467
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            622,
+            2470,
+            1018,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2022",
+        "Coordinate": [
+            603,
+            2561,
+            1226,
+            2659
+        ]
+    }
+]

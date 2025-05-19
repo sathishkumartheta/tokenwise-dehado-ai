@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Edhitha Ramachandran",
+        "Coordinate": [
+            886,
+            434,
+            1772,
+            531
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Joshua Ramachandran",
+        "Coordinate": [
+            897,
+            533,
+            1703,
+            631
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/27/1982",
+        "Coordinate": [
+            923,
+            637,
+            1345,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            913,
+            731,
+            1257,
+            831
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            912,
+            836,
+            1193,
+            930
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1802,
+            837,
+            2065,
+            930
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1830,
+            943,
+            2089,
+            1029
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            940,
+            946,
+            1059,
+            1031
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Prabhu Group",
+        "Coordinate": [
+            976,
+            1047,
+            1887,
+            1155
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Khurana Inc",
+        "Coordinate": [
+            978,
+            1156,
+            1934,
+            1263
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 06, Nayak Ganj, Bhiwani 224767",
+        "Coordinate": [
+            922,
+            1278,
+            2341,
+            1413
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "583, Bakshi Chowk, Secunderabad 669332",
+        "Coordinate": [
+            897,
+            1534,
+            2215,
+            1715
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7555524617",
+        "Coordinate": [
+            1846,
+            1803,
+            2308,
+            1911
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8652894937",
+        "Coordinate": [
+            903,
+            1809,
+            1347,
+            1919
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Malayalam",
+        "Coordinate": [
+            923,
+            1951,
+            1605,
+            2050
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Radha Kashyap - 8047095518",
+        "Coordinate": [
+            936,
+            2059,
+            2024,
+            2172
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aarna Dayal - 8759333963",
+        "Coordinate": [
+            949,
+            2193,
+            2005,
+            2314
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "550000000000.0",
+        "Coordinate": [
+            628,
+            2388,
+            1152,
+            2479
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HBKCA6478A",
+        "Coordinate": [
+            1686,
+            2395,
+            2161,
+            2479
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            633,
+            2484,
+            950,
+            2571
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "04-02-2024",
+        "Coordinate": [
+            634,
+            2577,
+            1077,
+            2667
+        ]
+    }
+]

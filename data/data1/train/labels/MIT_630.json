@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Laban Thaman",
+        "Coordinate": [
+            926,
+            431,
+            1457,
+            520
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Krishna Thaman",
+        "Coordinate": [
+            925,
+            525,
+            1526,
+            627
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/26/1999",
+        "Coordinate": [
+            917,
+            634,
+            1306,
+            723
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            904,
+            731,
+            1264,
+            829
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            922,
+            835,
+            1157,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1793,
+            832,
+            1989,
+            920
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1843,
+            941,
+            2112,
+            1031
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            921,
+            944,
+            1046,
+            1028
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "4 years at Saran Group",
+        "Coordinate": [
+            965,
+            1038,
+            1959,
+            1142
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "7 years at Modi  Zachariah and Sarraf",
+        "Coordinate": [
+            961,
+            1147,
+            2320,
+            1258
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "65/07, Luthra Road, Tenali-726765",
+        "Coordinate": [
+            939,
+            1269,
+            2327,
+            1410
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "82/81, Madan Chowk, Morena 003452",
+        "Coordinate": [
+            923,
+            1522,
+            2326,
+            1658
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9908919471",
+        "Coordinate": [
+            1878,
+            1803,
+            2267,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9187765383",
+        "Coordinate": [
+            896,
+            1800,
+            1364,
+            1905
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Malayalam, Tamil, Hindi, Gujarati",
+        "Coordinate": [
+            915,
+            1940,
+            2162,
+            2045
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darsh Grewal - 7992825880",
+        "Coordinate": [
+            967,
+            2050,
+            2049,
+            2150
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Praneel Ranganathan - 7399269716",
+        "Coordinate": [
+            944,
+            2179,
+            2174,
+            2299
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "704000000000.0",
+        "Coordinate": [
+            579,
+            2389,
+            1042,
+            2477
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Mumbai",
+        "Coordinate": [
+            621,
+            2476,
+            967,
+            2561
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "7/19/2023",
+        "Coordinate": [
+            621,
+            2572,
+            1062,
+            2665
+        ]
+    }
+]

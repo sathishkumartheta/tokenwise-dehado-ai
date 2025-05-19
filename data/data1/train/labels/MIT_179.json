@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Finn Ratta",
+        "Coordinate": [
+            876,
+            394,
+            1173,
+            479
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Vedant Ratta",
+        "Coordinate": [
+            880,
+            491,
+            1283,
+            583
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "12/27/1964",
+        "Coordinate": [
+            884,
+            590,
+            1210,
+            675
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            894,
+            688,
+            1179,
+            775
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            886,
+            791,
+            1127,
+            880
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1778,
+            792,
+            1955,
+            879
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1849,
+            896,
+            2071,
+            987
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            945,
+            895,
+            1049,
+            974
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Sandal-Dhar",
+        "Coordinate": [
+            956,
+            985,
+            1700,
+            1094
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "3 years at Jani  Bobal and Luthra",
+        "Coordinate": [
+            945,
+            1102,
+            1959,
+            1216
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "89/26, Mutti Street, Nadiad-931418",
+        "Coordinate": [
+            888,
+            1271,
+            2037,
+            1401
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 515, Mahajan Path, Kamarhati 016361",
+        "Coordinate": [
+            880,
+            1514,
+            2155,
+            1654
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8884195685",
+        "Coordinate": [
+            1859,
+            1754,
+            2280,
+            1860
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9069568009",
+        "Coordinate": [
+            887,
+            1756,
+            1283,
+            1862
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Bengali, Gujarati",
+        "Coordinate": [
+            882,
+            1891,
+            1579,
+            1994
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Parth Vyas - 9288091181",
+        "Coordinate": [
+            955,
+            2005,
+            1779,
+            2114
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Vrishti Chandran - 7868538998",
+        "Coordinate": [
+            955,
+            2129,
+            1940,
+            2233
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "OHFKL1039N",
+        "Coordinate": [
+            1631,
+            2335,
+            2066,
+            2424
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Ranchi",
+        "Coordinate": [
+            588,
+            2421,
+            808,
+            2503
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "11-05-2025",
+        "Coordinate": [
+            583,
+            2518,
+            911,
+            2602
+        ]
+    }
+]

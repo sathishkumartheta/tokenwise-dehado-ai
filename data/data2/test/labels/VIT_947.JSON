@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "permanentaddress",
+        "Field value": "99/59, Sinha Chowk, Muzaffarpur 705682",
+        "Coordinate": [
+            888,
+            1554,
+            2222,
+            1762
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9587400115",
+        "Coordinate": [
+            1868,
+            1816,
+            2248,
+            1896
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7257676902",
+        "Coordinate": [
+            890,
+            1808,
+            1294,
+            1898
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Kannada",
+        "Coordinate": [
+            884,
+            1954,
+            1414,
+            2042
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Rohan Grover - 7371504695",
+        "Coordinate": [
+            968,
+            2052,
+            1842,
+            2146
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Ekalinga Lata - 7717470631",
+        "Coordinate": [
+            995,
+            2184,
+            1895,
+            2280
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "HANZT7921G",
+        "Coordinate": [
+            1622,
+            2386,
+            2072,
+            2480
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Imphal",
+        "Coordinate": [
+            580,
+            2478,
+            812,
+            2558
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/20/2023",
+        "Coordinate": [
+            581,
+            2560,
+            975,
+            2662
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "533, Chakrabarti Street, Salem 546759",
+        "Coordinate": [
+            908,
+            1280,
+            2214,
+            1380
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Edwin-Palla",
+        "Coordinate": [
+            974,
+            1150,
+            1750,
+            1244
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Hegde  Hans and Ratta",
+        "Coordinate": [
+            960,
+            1034,
+            2056,
+            1120
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1854,
+            927,
+            2066,
+            1009
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1821,
+            832,
+            2045,
+            920
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB+",
+        "Coordinate": [
+            919,
+            940,
+            1080,
+            1010
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            912,
+            839,
+            1100,
+            939
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            890,
+            736,
+            1188,
+            812
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/30/1975",
+        "Coordinate": [
+            910,
+            632,
+            1298,
+            720
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Naksh Mishra",
+        "Coordinate": [
+            896,
+            546,
+            1356,
+            618
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Shivani Mishra",
+        "Coordinate": [
+            886,
+            435,
+            1356,
+            520
+        ]
+    }
+]

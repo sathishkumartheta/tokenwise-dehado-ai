@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jason Naik",
+        "Coordinate": [
+            882,
+            398,
+            1441,
+            499
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Samuel Naik",
+        "Coordinate": [
+            896,
+            501,
+            1571,
+            601
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/23/1961",
+        "Coordinate": [
+            908,
+            603,
+            1345,
+            695
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            915,
+            698,
+            1146,
+            790
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            934,
+            806,
+            1215,
+            906
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1763,
+            806,
+            2025,
+            899
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            957,
+            903,
+            1115,
+            984
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1865,
+            913,
+            2216,
+            1021
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "6 years at Keer and Sons",
+        "Coordinate": [
+            958,
+            1009,
+            2106,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Narang PLC",
+        "Coordinate": [
+            932,
+            1116,
+            2129,
+            1231
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 757, Balan, Rourkela-088806",
+        "Coordinate": [
+            879,
+            1309,
+            2308,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 750, Mammen Street, Korba 078867",
+        "Coordinate": [
+            889,
+            1564,
+            2290,
+            1773
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9491156877",
+        "Coordinate": [
+            893,
+            1791,
+            1338,
+            1900
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9455703311",
+        "Coordinate": [
+            1590,
+            1838,
+            2112,
+            1916
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Gujarati, Malayalam",
+        "Coordinate": [
+            903,
+            1916,
+            1754,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Zaitra Sundaram - 7587745636",
+        "Coordinate": [
+            920,
+            2035,
+            2257,
+            2155
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Harini Nigam - 7354354181",
+        "Coordinate": [
+            952,
+            2155,
+            2200,
+            2290
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "218155000000",
+        "Coordinate": [
+            580,
+            2356,
+            1272,
+            2446
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chandigarh",
+        "Coordinate": [
+            587,
+            2443,
+            1052,
+            2536
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "1/15/2025",
+        "Coordinate": [
+            605,
+            2538,
+            1167,
+            2630
+        ]
+    }
+]

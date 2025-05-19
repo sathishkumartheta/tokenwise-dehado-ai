@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "date",
+        "Field value": "9/1/2022",
+        "Coordinate": [
+            666,
+            2504,
+            1090,
+            2583
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Chennai",
+        "Coordinate": [
+            664,
+            2432,
+            966,
+            2495
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jairaj Singhal - 9272254876",
+        "Coordinate": [
+            1008,
+            2142,
+            2150,
+            2207
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Keya Palan - 8619191211",
+        "Coordinate": [
+            980,
+            2016,
+            1828,
+            2087
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Gujarati, Kannada",
+        "Coordinate": [
+            928,
+            1926,
+            2008,
+            1999
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9481680266",
+        "Coordinate": [
+            1834,
+            1782,
+            2308,
+            1855
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9028862695",
+        "Coordinate": [
+            932,
+            1778,
+            1372,
+            1863
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "09, Manne Zila, Kochi-908338",
+        "Coordinate": [
+            909,
+            1508,
+            2204,
+            1647
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "76/456, Vasa Zila, Purnia 583365",
+        "Coordinate": [
+            942,
+            1262,
+            2294,
+            1397
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Din-Lata",
+        "Coordinate": [
+            1024,
+            1162,
+            1754,
+            1237
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Brahmbhatt  Doctor and Shukla",
+        "Coordinate": [
+            1026,
+            1074,
+            2314,
+            1155
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1838,
+            954,
+            2108,
+            1043
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1736,
+            834,
+            1916,
+            917
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            946,
+            867,
+            1204,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            984,
+            956,
+            1138,
+            1039
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Post-Graduate",
+        "Coordinate": [
+            932,
+            772,
+            1526,
+            851
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "7/1/1983",
+        "Coordinate": [
+            930,
+            662,
+            1378,
+            747
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chatura Edwin",
+        "Coordinate": [
+            926,
+            566,
+            1522,
+            673
+        ]
+    },
+    {
+        "Field name": "candidatename",
+        "Field value": "Jatin Edwin",
+        "Coordinate": [
+            920,
+            492,
+            1446,
+            573
+        ]
+    }
+]

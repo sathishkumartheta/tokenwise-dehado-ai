@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jagrati Minhas",
+        "Coordinate": [
+            889,
+            407,
+            1384,
+            498
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Zehaan Minhas",
+        "Coordinate": [
+            892,
+            505,
+            1374,
+            592
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "4/25/1982",
+        "Coordinate": [
+            895,
+            608,
+            1225,
+            694
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            895,
+            705,
+            1055,
+            797
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            893,
+            814,
+            1136,
+            900
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1756,
+            801,
+            1965,
+            885
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            914,
+            2056,
+            998
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            883,
+            911,
+            988,
+            994
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bakshi-Jani",
+        "Coordinate": [
+            955,
+            1009,
+            1709,
+            1096
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "8 years at Anne  Tripathi and Kuruvilla",
+        "Coordinate": [
+            950,
+            1123,
+            2302,
+            1220
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "60/669, Gopal, Jabalpur-826870",
+        "Coordinate": [
+            890,
+            1244,
+            1968,
+            1369
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "79, Sidhu Path, Tiruppur-263779",
+        "Coordinate": [
+            882,
+            1498,
+            2039,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7328118140",
+        "Coordinate": [
+            1875,
+            1777,
+            2276,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7176240846",
+        "Coordinate": [
+            882,
+            1775,
+            1277,
+            1883
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Telugu, Bengali",
+        "Coordinate": [
+            884,
+            1919,
+            1639,
+            2025
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Sachi Boase - 7885216123",
+        "Coordinate": [
+            946,
+            2023,
+            1776,
+            2129
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Christopher Sarma - 8359483239",
+        "Coordinate": [
+            960,
+            2151,
+            2051,
+            2254
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "534000000000.0",
+        "Coordinate": [
+            580,
+            2363,
+            1013,
+            2445
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "DASXH7650C",
+        "Coordinate": [
+            1628,
+            2366,
+            2074,
+            2453
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            575,
+            2453,
+            768,
+            2537
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "08-03-2023",
+        "Coordinate": [
+            580,
+            2543,
+            932,
+            2638
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Jatin Nadkarni",
+        "Coordinate": [
+            880,
+            417,
+            1630,
+            542
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekaraj Nadkarni",
+        "Coordinate": [
+            890,
+            547,
+            1632,
+            662
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "9/11/1968",
+        "Coordinate": [
+            900,
+            637,
+            1362,
+            752
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            905,
+            730,
+            1107,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            890,
+            835,
+            1227,
+            942
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1802,
+            840,
+            2010,
+            927
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1837,
+            945,
+            2162,
+            1042
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            932,
+            937,
+            1085,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Sule and Sons",
+        "Coordinate": [
+            1002,
+            1045,
+            2097,
+            1160
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Mody and Sons",
+        "Coordinate": [
+            1080,
+            1157,
+            2152,
+            1277
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "29/802, Dubey Nagar, Berhampore 651342",
+        "Coordinate": [
+            885,
+            1312,
+            1945,
+            1527
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "57/813, Mannan Zila, Nadiad 530302",
+        "Coordinate": [
+            922,
+            1557,
+            2262,
+            1767
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9342897028",
+        "Coordinate": [
+            887,
+            1817,
+            1350,
+            1927
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8939646959",
+        "Coordinate": [
+            1862,
+            1817,
+            2370,
+            1937
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Marathi",
+        "Coordinate": [
+            912,
+            1942,
+            1812,
+            2052
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Dhruv Kanda - 9974123845",
+        "Coordinate": [
+            990,
+            2065,
+            2107,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Alexander D\u2019Alia - 7223632068",
+        "Coordinate": [
+            955,
+            2180,
+            2195,
+            2332
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "913890000000",
+        "Coordinate": [
+            607,
+            2402,
+            1252,
+            2492
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/21/2024",
+        "Coordinate": [
+            680,
+            2605,
+            1182,
+            2702
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Jaipur",
+        "Coordinate": [
+            640,
+            2497,
+            955,
+            2585
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Banjeet Mistry",
+        "Coordinate": [
+            902,
+            487,
+            1439,
+            557
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Balendra Mistry",
+        "Coordinate": [
+            888,
+            582,
+            1443,
+            677
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/6/1971",
+        "Coordinate": [
+            933,
+            647,
+            1323,
+            761
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            929,
+            759,
+            1223,
+            846
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            929,
+            856,
+            1218,
+            950
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            925,
+            957,
+            1090,
+            1030
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1759,
+            857,
+            1982,
+            946
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1813,
+            950,
+            2114,
+            1026
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "9 years at Bhavsar Inc",
+        "Coordinate": [
+            972,
+            1042,
+            1881,
+            1127
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Bajwa  Rajan and Tak",
+        "Coordinate": [
+            989,
+            1143,
+            2145,
+            1247
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "85, Keer Street, Tirupati-611558",
+        "Coordinate": [
+            938,
+            1289,
+            2114,
+            1396
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "840, Venkataraman Nagar, Aurangabad 521240",
+        "Coordinate": [
+            930,
+            1540,
+            2283,
+            1701
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8064647426",
+        "Coordinate": [
+            945,
+            1761,
+            1351,
+            1873
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8294604742",
+        "Coordinate": [
+            1851,
+            1772,
+            2315,
+            1869
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Tamil, Marathi, Kannada, Telugu",
+        "Coordinate": [
+            936,
+            1894,
+            1944,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Pallavi Sachar - 7796796871",
+        "Coordinate": [
+            989,
+            2006,
+            1966,
+            2090
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Kritika Chaudhuri - 8887663581",
+        "Coordinate": [
+            989,
+            2134,
+            2071,
+            2223
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Agartala",
+        "Coordinate": [
+            666,
+            2419,
+            1046,
+            2516
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "6/18/2022",
+        "Coordinate": [
+            632,
+            2520,
+            1066,
+            2616
+        ]
+    }
+]

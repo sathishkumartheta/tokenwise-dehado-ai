@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Yashodhara Sathe",
+        "Coordinate": [
+            997,
+            431,
+            1461,
+            529
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Rohan Sathe",
+        "Coordinate": [
+            1028,
+            533,
+            1617,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/13/1970",
+        "Coordinate": [
+            1056,
+            638,
+            1477,
+            732
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            1054,
+            729,
+            1454,
+            837
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            1012,
+            837,
+            1348,
+            935
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1913,
+            829,
+            2182,
+            924
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1941,
+            937,
+            2222,
+            1025
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "AB-",
+        "Coordinate": [
+            1071,
+            939,
+            1253,
+            1030
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "7 years at Bhargava Group",
+        "Coordinate": [
+            1152,
+            1042,
+            2290,
+            1153
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Kaur  Chacko and Sankar",
+        "Coordinate": [
+            1141,
+            1152,
+            2409,
+            1259
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "995, Sarin Zila, Allahabad-505998",
+        "Coordinate": [
+            1004,
+            1266,
+            2403,
+            1395
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "67/312, Mand Ganj, Bettiah-485142",
+        "Coordinate": [
+            976,
+            1500,
+            2426,
+            1637
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9423168357",
+        "Coordinate": [
+            1914,
+            1798,
+            2406,
+            1903
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7457006779",
+        "Coordinate": [
+            950,
+            1786,
+            1427,
+            1885
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Gujarati, Marathi, Tamil",
+        "Coordinate": [
+            954,
+            1928,
+            2374,
+            2040
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Maanav Pingle - 7445377430",
+        "Coordinate": [
+            1001,
+            2039,
+            2273,
+            2149
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Nandini Mishra - 7633982769",
+        "Coordinate": [
+            1029,
+            2176,
+            2228,
+            2292
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "766000000000.0",
+        "Coordinate": [
+            650,
+            2368,
+            1318,
+            2466
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Raipur",
+        "Coordinate": [
+            707,
+            2467,
+            1017,
+            2556
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "8/16/2022",
+        "Coordinate": [
+            666,
+            2554,
+            1171,
+            2662
+        ]
+    }
+]

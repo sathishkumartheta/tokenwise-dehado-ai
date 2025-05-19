@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Fitan Mohanty",
+        "Coordinate": [
+            898,
+            407,
+            1462,
+            506
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Maanas Mohanty",
+        "Coordinate": [
+            899,
+            509,
+            1566,
+            607
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "3/17/1989",
+        "Coordinate": [
+            917,
+            609,
+            1298,
+            703
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "10th Pass",
+        "Coordinate": [
+            924,
+            710,
+            1277,
+            804
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            913,
+            813,
+            1263,
+            907
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1819,
+            788,
+            2026,
+            878
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1856,
+            901,
+            2138,
+            984
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            923,
+            912,
+            1039,
+            1006
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "2 years at Sidhu Ltd",
+        "Coordinate": [
+            1005,
+            1002,
+            1956,
+            1110
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Rau-Magar",
+        "Coordinate": [
+            1001,
+            1117,
+            2009,
+            1226
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 906, Krishna Path, Mysore-990490",
+        "Coordinate": [
+            910,
+            1254,
+            2331,
+            1420
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "74/29, Swamy Marg, Nandyal-655125",
+        "Coordinate": [
+            910,
+            1485,
+            2334,
+            1628
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7268310772",
+        "Coordinate": [
+            1886,
+            1757,
+            2340,
+            1865
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8142938825",
+        "Coordinate": [
+            913,
+            1771,
+            1368,
+            1882
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, English, Kannada",
+        "Coordinate": [
+            905,
+            1908,
+            2144,
+            2013
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Warhi Mani - 9544495532",
+        "Coordinate": [
+            970,
+            2016,
+            1996,
+            2132
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Balhaar Sha - 9859636667",
+        "Coordinate": [
+            988,
+            2149,
+            2020,
+            2264
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "ODSPG9964A",
+        "Coordinate": [
+            1674,
+            2336,
+            2181,
+            2438
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Kavaratti",
+        "Coordinate": [
+            634,
+            2445,
+            986,
+            2530
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/31/2022",
+        "Coordinate": [
+            640,
+            2535,
+            1013,
+            2631
+        ]
+    }
+]

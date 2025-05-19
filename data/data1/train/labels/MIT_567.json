@@ -1,0 +1,212 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zilmil Tara",
+        "Coordinate": [
+            875,
+            416,
+            1304,
+            518
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Ekapad Tara",
+        "Coordinate": [
+            877,
+            517,
+            1340,
+            622
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "2/20/2004",
+        "Coordinate": [
+            879,
+            620,
+            1209,
+            712
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "Graduate",
+        "Coordinate": [
+            889,
+            715,
+            1250,
+            816
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            900,
+            820,
+            1130,
+            924
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1770,
+            808,
+            2026,
+            903
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1844,
+            916,
+            2124,
+            1010
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B+",
+        "Coordinate": [
+            893,
+            918,
+            1011,
+            1013
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "1 years at Bir  Bhakta and Luthra",
+        "Coordinate": [
+            952,
+            1015,
+            2246,
+            1125
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "4 years at Sagar-Deep",
+        "Coordinate": [
+            948,
+            1130,
+            1868,
+            1242
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "01/526, Sem, Bally-036078",
+        "Coordinate": [
+            888,
+            1255,
+            1878,
+            1412
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "83/309, Tripathi Path, Ajmer 836806",
+        "Coordinate": [
+            874,
+            1495,
+            2280,
+            1640
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9651561176",
+        "Coordinate": [
+            1854,
+            1779,
+            2241,
+            1874
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7988702280",
+        "Coordinate": [
+            889,
+            1776,
+            1325,
+            1872
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "English, Tamil, Telugu, Kannada",
+        "Coordinate": [
+            868,
+            1919,
+            2106,
+            2027
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Gaurang Lad - 8250468402",
+        "Coordinate": [
+            950,
+            2025,
+            1949,
+            2144
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Sanaya Dube - 8300943740",
+        "Coordinate": [
+            941,
+            2161,
+            2012,
+            2286
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "838000000000.0",
+        "Coordinate": [
+            576,
+            2363,
+            1087,
+            2452
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "FIHLA1763Q",
+        "Coordinate": [
+            1588,
+            2363,
+            2060,
+            2461
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Patna",
+        "Coordinate": [
+            587,
+            2458,
+            834,
+            2548
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/21/2025",
+        "Coordinate": [
+            594,
+            2548,
+            1007,
+            2645
+        ]
+    }
+]

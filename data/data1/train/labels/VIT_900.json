@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Janya Gokhale",
+        "Coordinate": [
+            881,
+            405,
+            1423,
+            511
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Chakradev Gokhale",
+        "Coordinate": [
+            878,
+            515,
+            1615,
+            621
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "10/25/1981",
+        "Coordinate": [
+            875,
+            617,
+            1257,
+            710
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "PhD",
+        "Coordinate": [
+            878,
+            720,
+            1027,
+            809
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            880,
+            817,
+            1160,
+            919
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1755,
+            807,
+            1985,
+            895
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1828,
+            917,
+            2077,
+            1003
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A-",
+        "Coordinate": [
+            882,
+            932,
+            974,
+            1010
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "3 years at Batra Inc",
+        "Coordinate": [
+            955,
+            1008,
+            1773,
+            1112
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "9 years at Merchant-Boase",
+        "Coordinate": [
+            957,
+            1127,
+            2009,
+            1235
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "43/086, Minhas Nagar, Miryalaguda-167232",
+        "Coordinate": [
+            876,
+            1297,
+            2300,
+            1446
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "44/710, Bava Marg, Ghaziabad 737788",
+        "Coordinate": [
+            871,
+            1544,
+            2223,
+            1692
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7936343699",
+        "Coordinate": [
+            1852,
+            1780,
+            2278,
+            1871
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "9556234766",
+        "Coordinate": [
+            867,
+            1779,
+            1260,
+            1886
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Hindi, Malayalam, Tamil",
+        "Coordinate": [
+            868,
+            1920,
+            1967,
+            2024
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Elijah Kumer - 7704381920",
+        "Coordinate": [
+            936,
+            2025,
+            1918,
+            2133
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Jacob Baral - 7178770977",
+        "Coordinate": [
+            929,
+            2154,
+            1821,
+            2268
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "518000000000.0",
+        "Coordinate": [
+            564,
+            2358,
+            1050,
+            2445
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Shillong",
+        "Coordinate": [
+            556,
+            2453,
+            826,
+            2549
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "01-05-2024",
+        "Coordinate": [
+            553,
+            2546,
+            962,
+            2646
+        ]
+    }
+]

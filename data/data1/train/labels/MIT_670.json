@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Zashil Soni",
+        "Coordinate": [
+            889,
+            434,
+            1304,
+            535
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Siddharth Soni",
+        "Coordinate": [
+            902,
+            535,
+            1429,
+            635
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "04-11-1987",
+        "Coordinate": [
+            901,
+            637,
+            1198,
+            729
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            907,
+            737,
+            1198,
+            832
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Single",
+        "Coordinate": [
+            910,
+            839,
+            1154,
+            937
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1779,
+            832,
+            1954,
+            918
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1842,
+            943,
+            2098,
+            1033
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O-",
+        "Coordinate": [
+            911,
+            945,
+            1001,
+            1032
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Jayaraman  Grewal and Suri",
+        "Coordinate": [
+            949,
+            1040,
+            2275,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "2 years at Batta  Mallick and Dave",
+        "Coordinate": [
+            949,
+            1150,
+            2091,
+            1264
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "10/60, Brahmbhatt Circle, Varanasi-522918",
+        "Coordinate": [
+            898,
+            1277,
+            2308,
+            1418
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "49, Pathak Marg, Thoothukudi 702599",
+        "Coordinate": [
+            896,
+            1532,
+            2212,
+            1681
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "7417781584",
+        "Coordinate": [
+            1864,
+            1803,
+            2278,
+            1915
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "7061039835",
+        "Coordinate": [
+            897,
+            1808,
+            1264,
+            1915
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Bengali, Marathi",
+        "Coordinate": [
+            903,
+            1947,
+            1466,
+            2046
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Girish Chowdhury - 9029447369",
+        "Coordinate": [
+            940,
+            2052,
+            2041,
+            2164
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Tanveer Nadig - 9077418020",
+        "Coordinate": [
+            949,
+            2184,
+            1879,
+            2303
+        ]
+    },
+    {
+        "Field name": "aadhaarcard",
+        "Field value": "856000000000.0",
+        "Coordinate": [
+            594,
+            2387,
+            1074,
+            2473
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Panaji",
+        "Coordinate": [
+            593,
+            2480,
+            843,
+            2572
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "4/27/2023",
+        "Coordinate": [
+            591,
+            2576,
+            969,
+            2664
+        ]
+    }
+]

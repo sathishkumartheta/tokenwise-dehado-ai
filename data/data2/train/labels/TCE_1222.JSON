@@ -1,0 +1,192 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Krishna Garde",
+        "Coordinate": [
+            963,
+            477,
+            1524,
+            553
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Advay Garde",
+        "Coordinate": [
+            973,
+            571,
+            1543,
+            647
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "1/3/1966",
+        "Coordinate": [
+            993,
+            667,
+            1311,
+            751
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            960,
+            760,
+            1354,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            953,
+            857,
+            1250,
+            945
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Male",
+        "Coordinate": [
+            1943,
+            847,
+            2116,
+            929
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "O+",
+        "Coordinate": [
+            996,
+            960,
+            1124,
+            1030
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1973,
+            947,
+            2210,
+            1036
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Chopra Group",
+        "Coordinate": [
+            1060,
+            1054,
+            2194,
+            1137
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "6 years at Goyal Inc",
+        "Coordinate": [
+            1057,
+            1164,
+            2106,
+            1255
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "H.No. 22, Vasa Nagar, Bihar Sharif 985778",
+        "Coordinate": [
+            956,
+            1287,
+            2226,
+            1494
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 13, Dixit Chowk, Thane-357136",
+        "Coordinate": [
+            923,
+            1547,
+            1956,
+            1742
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8685016797",
+        "Coordinate": [
+            936,
+            1794,
+            1375,
+            1878
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9841191270",
+        "Coordinate": [
+            1883,
+            1787,
+            2298,
+            1878
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Marathi, Gujarati",
+        "Coordinate": [
+            990,
+            1914,
+            1799,
+            1998
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Yachana Saxena - 9829532586",
+        "Coordinate": [
+            1010,
+            2020,
+            2327,
+            2115
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Aachal Tank - 7367791545",
+        "Coordinate": [
+            1053,
+            2147,
+            2188,
+            2251
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Delhi",
+        "Coordinate": [
+            703,
+            2427,
+            932,
+            2502
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "3/26/2025",
+        "Coordinate": [
+            697,
+            2514,
+            1146,
+            2598
+        ]
+    }
+]

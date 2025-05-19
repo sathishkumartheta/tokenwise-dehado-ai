@@ -1,0 +1,202 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Aahana Varghese",
+        "Coordinate": [
+            891,
+            439,
+            1549,
+            544
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Charan Varghese",
+        "Coordinate": [
+            888,
+            541,
+            1550,
+            638
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "11/14/1966",
+        "Coordinate": [
+            911,
+            635,
+            1308,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            913,
+            737,
+            1277,
+            830
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            909,
+            839,
+            1242,
+            934
+        ]
+    },
+    {
+        "Field name": "gender",
+        "Field value": "Female",
+        "Coordinate": [
+            1752,
+            829,
+            2060,
+            917
+        ]
+    },
+    {
+        "Field name": "nationality",
+        "Field value": "Indian",
+        "Coordinate": [
+            1841,
+            943,
+            2179,
+            1028
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "B-",
+        "Coordinate": [
+            922,
+            938,
+            1036,
+            1015
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "5 years at Luthra  Kulkarni and Buch",
+        "Coordinate": [
+            952,
+            1034,
+            2263,
+            1151
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "5 years at Sarna-Gokhale",
+        "Coordinate": [
+            977,
+            1146,
+            2071,
+            1256
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "36/116, Raj Circle, Kota 603611",
+        "Coordinate": [
+            897,
+            1270,
+            2081,
+            1423
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "05/554, Panchal Marg, Akola-836843",
+        "Coordinate": [
+            894,
+            1535,
+            2209,
+            1773
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "9678072890",
+        "Coordinate": [
+            1851,
+            1806,
+            2371,
+            1931
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8983334890",
+        "Coordinate": [
+            878,
+            1807,
+            1367,
+            1926
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Bengali, Malayalam",
+        "Coordinate": [
+            904,
+            1945,
+            1997,
+            2047
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Siya Chakraborty - 9745639093",
+        "Coordinate": [
+            949,
+            2047,
+            2301,
+            2165
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Avi Issac - 8757035206",
+        "Coordinate": [
+            949,
+            2180,
+            2081,
+            2300
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "UYEQL8701U",
+        "Coordinate": [
+            1638,
+            2390,
+            2276,
+            2485
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Aizawl",
+        "Coordinate": [
+            589,
+            2482,
+            905,
+            2566
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "5/26/2022",
+        "Coordinate": [
+            599,
+            2574,
+            1081,
+            2663
+        ]
+    }
+]

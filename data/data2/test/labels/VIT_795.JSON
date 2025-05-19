@@ -1,0 +1,182 @@
+[
+    {
+        "Field name": "candidatename",
+        "Field value": "Mekhala Chada",
+        "Coordinate": [
+            876,
+            442,
+            1418,
+            541
+        ]
+    },
+    {
+        "Field name": "Father/husbandname",
+        "Field value": "Qasim Chada",
+        "Coordinate": [
+            880,
+            555,
+            1336,
+            651
+        ]
+    },
+    {
+        "Field name": "Dateofbirth",
+        "Field value": "5/11/1963",
+        "Coordinate": [
+            870,
+            647,
+            1213,
+            730
+        ]
+    },
+    {
+        "Field name": "qualification",
+        "Field value": "12th Pass",
+        "Coordinate": [
+            882,
+            756,
+            1205,
+            841
+        ]
+    },
+    {
+        "Field name": "maritalstatus",
+        "Field value": "Married",
+        "Coordinate": [
+            900,
+            866,
+            1174,
+            947
+        ]
+    },
+    {
+        "Field name": "bloodgroup",
+        "Field value": "A+",
+        "Coordinate": [
+            914,
+            969,
+            1040,
+            1042
+        ]
+    },
+    {
+        "Field name": "experience",
+        "Field value": "10 years at Mitter-Konda",
+        "Coordinate": [
+            977,
+            1075,
+            1923,
+            1170
+        ]
+    },
+    {
+        "Field name": "experience1",
+        "Field value": "1 years at Ravi Group",
+        "Coordinate": [
+            1004,
+            1186,
+            1892,
+            1314
+        ]
+    },
+    {
+        "Field name": "presentaddress",
+        "Field value": "11, Peri Path, Junagadh 340475",
+        "Coordinate": [
+            906,
+            1389,
+            1931,
+            1531
+        ]
+    },
+    {
+        "Field name": "permanentaddress",
+        "Field value": "H.No. 458, Bandi Road, Bikaner 069906",
+        "Coordinate": [
+            876,
+            1537,
+            2182,
+            1669
+        ]
+    },
+    {
+        "Field name": "contactnumber",
+        "Field value": "8567612105",
+        "Coordinate": [
+            874,
+            1872,
+            1229,
+            1957
+        ]
+    },
+    {
+        "Field name": "AlternateNo",
+        "Field value": "8030083554",
+        "Coordinate": [
+            1852,
+            1821,
+            2261,
+            1900
+        ]
+    },
+    {
+        "Field name": "languageknown",
+        "Field value": "Hindi, Telugu, Bengali, English",
+        "Coordinate": [
+            888,
+            1984,
+            1829,
+            2073
+        ]
+    },
+    {
+        "Field name": "referencescmob1",
+        "Field value": "Darika Khurana - 8815104249",
+        "Coordinate": [
+            947,
+            2105,
+            1992,
+            2194
+        ]
+    },
+    {
+        "Field name": "referencescmob2",
+        "Field value": "Rajeshri Pall - 7335476477",
+        "Coordinate": [
+            975,
+            2225,
+            1943,
+            2318
+        ]
+    },
+    {
+        "Field name": "place",
+        "Field value": "Gangtok",
+        "Coordinate": [
+            576,
+            2495,
+            929,
+            2582
+        ]
+    },
+    {
+        "Field name": "date",
+        "Field value": "12/3/2025",
+        "Coordinate": [
+            596,
+            2580,
+            949,
+            2677
+        ]
+    },
+    {
+        "Field name": "pancard",
+        "Field value": "EPKKA3126Z",
+        "Coordinate": [
+            1633,
+            2405,
+            2190,
+            2499
+        ]
+    }
+]
