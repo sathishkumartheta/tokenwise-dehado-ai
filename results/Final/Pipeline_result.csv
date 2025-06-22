@@ -18,7 +18,7 @@ MIT_604,qualification,Diploma .,Diploma
 MIT_604,maritalstatus,married .,Married
 MIT_604,place,Luckinow .,Lucknow
 MIT_604,Dateofbirth,5/7/9.77 .,5/7/9/77
-MIT_604,aadhaarcard,85 3.388000000 .,8.53388E+11
+MIT_604,aadhaarcard,85 3.388000000 .,8.53E+11
 TCE_1223,permanentaddress,"H.NO. 14, tube mood , shunbad","H.NO. 14, tube mood, Shunbad"
 TCE_1223,referencescmob1,Harrison Narain - 8548174114,Harrison Narain - 8548174114
 TCE_1223,presentaddress,"604 , Tailos Ganj , Baranggar","604, Tailos Ganj, Baranggar"
@@ -92,7 +92,7 @@ TCE_1419,place,Hunderabad .,Hyderabad
 TCE_1419,candidatename,Mughalha Bohemdari .,Mughalha Bohemdari
 TCE_1419,bloodgroup,AB the,AB+
 TCE_1419,Fatherhusbandname,Simon Bhandari .,Simon Bhandari
-TCE_1419,AlternateNo,77699687 7783 .,7.76997E+11
+TCE_1419,AlternateNo,77699687 7783 .,7.77E+11
 TCE_1419,date,"# ""11 ( 02 ( 2024 .",11-02-2024
 TCE_1419,gender,Female .,Female
 TCE_1419,qualification,19th Pars .,19th Pars
@@ -154,7 +154,7 @@ VIT_883,place,Taipur .,Taipur
 VIT_883,Fatherhusbandname,Falan Varty,Falan Varty
 VIT_883,date,08 (03 ( 2025 .,08-03-2025
 VIT_883,Dateofbirth,""" U/IO (1945",1945
-VIT_883,aadhaarcard,3.30414E+11,3.30414E+11
+VIT_883,aadhaarcard,3.30E+11,3.30E+11
 VIT_776,permanentaddress,"H.NO. 696 , Raj Path , Mangalore 96.2762","H.NO. 696, Raj Path, Mangalore 96.2762"
 VIT_776,AlternateNo,85644 11149 .,8564411149
 VIT_776,gender,male .,Male
@@ -206,7 +206,7 @@ MIT_530,AlternateNo,8975 59 1019 .,8975591019
 MIT_530,experience1,1 years at Pillai One,1 years at Pillai One
 MIT_530,place,thiruvandhoepwom .,Thiruvandhoepwom
 MIT_530,nationality,Indian,Indian
-MIT_530,aadhaarcard,455111000000 .,4.55111E+11
+MIT_530,aadhaarcard,455111000000 .,4.55E+11
 MIT_530,Fatherhusbandname,faras Madan,Faras Madan
 MIT_530,date,1/09 ( 2023 .,01-09-2023
 MIT_530,experience,I yearman at Balasubramanian Dugar and,I yearman at Balasubramanian Dugar and
@@ -234,7 +234,7 @@ MIT_482,candidatename,Vaishnavi Sangha .,Vaishnavi Sangha
 MIT_482,AlternateNo,7938364959 .,7938364959
 MIT_482,experience1,I leaves at Hans-loyal,I leaves at Hans-loyal
 MIT_482,bloodgroup,o t,O+
-MIT_482,aadhaarcard,8.52079E+11,8.52079E+11
+MIT_482,aadhaarcard,8.52E+11,8.52E+11
 TCE_1251,candidatename,Warinder Dharr .,Warinder Dharr
 TCE_1251,referencescmob1,Nicholas until-7139120339 .,Nicholas Until - 7139120339
 TCE_1251,experience,9 years at Deod Varity and Kumvilla,9 years at Deod Varity and Kumvilla
@@ -310,7 +310,7 @@ MIT_414,gender,Male .,Male
 MIT_414,qualification,Graduate,Graduate
 MIT_414,maritalstatus,married .,Married
 MIT_414,pancard,IEBKP1718H.,IEBKP1718H
-MIT_414,aadhaarcard,48 51.83000000,4.85183E+11
+MIT_414,aadhaarcard,48 51.83000000,4.85E+11
 MIT_414,Fatherhusbandname,samuel Mangal .,Samuel Mangal
 MIT_414,referencescmob1,Joshua Hora - 9234716741 .,Joshua Hora - 9234716741
 MIT_414,candidatename,Samaksh Mangal,Samaksh Mangal
@@ -350,7 +350,7 @@ VIT_768,date,"19. 17, 2025",19/17/2025
 VIT_768,experience,6 years at to be 1/ c,6 years at to be 1 c
 VIT_768,place,chandigarh,Chandigarh
 VIT_768,bloodgroup,A ;,A
-VIT_768,aadhaarcard,8' 8 1/6000000 .0,8.8116E+11
+VIT_768,aadhaarcard,8' 8 1/6000000 .0,8.81E+11
 VIT_768,qualification,p h D .,p h D
 VIT_768,Dateofbirth,"3 .7, 1990",03-07-1990
 VIT_768,maritalstatus,Married .,Married
@@ -387,7 +387,7 @@ VIT_949,bloodgroup,at,A+
 VIT_949,date,10 . Ily . 2 5,10-02-2005
 VIT_949,gender,Fem Ale .,Female
 VIT_949,Dateofbirth,5/26 (1967 .,5/26/1967
-VIT_949,aadhaarcard,"7,300 09000000",7.30009E+11
+VIT_949,aadhaarcard,"7,300 09000000",7.30E+11
 VIT_949,Fatherhusbandname,Ekalinga Srinivasan,Ekalinga Srinivasan
 VIT_949,qualification,10th pass .,10th Pass
 VIT_949,maritalstatus,MARRIED .,Married
@@ -409,7 +409,7 @@ MIT_617,maritalstatus,Married .,Married
 MIT_617,Dateofbirth,1/25 ) 1992 .,1/25/1992
 MIT_617,experience1,1 years at Bal-Common,1 years at Bal-Common
 MIT_617,experience,7 years at Oza-Prabhakov,7 years at Oza-Prabhakov
-MIT_617,aadhaarcard,"52/594,000000",5.21594E+11
+MIT_617,aadhaarcard,"52/594,000000",5.22E+11
 MIT_617,qualification,j2th pass .,12th Pass
 MIT_617,pancard,JZVLH 39092 .,JZVLH3909Z
 VIT_765,gender,Female .,Female
@@ -431,7 +431,7 @@ VIT_765,experience1,4 years at Magpur - Surri-,4 years at Magpur - Surri-
 VIT_765,referencescmob1,zilmil Bahri - 857318465 .,Zilmil Bahri - 857318465
 VIT_765,Fatherhusbandname,brijesh chander .,Brijesh Chander
 VIT_765,Dateofbirth,8 ( 9 ) 1976 .,08-09-1976
-VIT_765,aadhaarcard,"4081 4,2,000,000 .0",4.08142E+12
+VIT_765,aadhaarcard,"4081 4,2,000,000 .0",4.08E+12
 MIT_523,presentaddress,"H. No.69 , Dhar Chowk , Itajpur27 .","H. No.69, Dhar Chowk, Itajpur27"
 MIT_523,permanentaddress,"771 ,Talla Circle , Ajmer-395612","771,talla Circle, Ajmer-395612"
 MIT_523,referencescmob1,Lanesome soutry -480649683,Lanesome Soutry - 480649683
@@ -441,7 +441,7 @@ MIT_523,referencescmob2,Argan Pradham -9468155629,Argan Pradham - 9468155629
 MIT_523,languageknown,"Kannad , English","Kannada, English"
 MIT_523,AlternateNo,"71 3.6,5634",71365634
 MIT_523,nationality,Indianism .,Indianism
-MIT_523,contactnumber,"7,14,08,25,15,158",7.14083E+11
+MIT_523,contactnumber,"7,14,08,25,15,158",7.14E+11
 MIT_523,maritalstatus,married .,Married
 MIT_523,bloodgroup,B-,B-
 MIT_523,Fatherhusbandname,veer lealita .,Veer Lealita
@@ -449,7 +449,7 @@ MIT_523,experience1,to yeaks at Buch Lanka and Modi,to yeaks at Buch Lanka and M
 MIT_523,place,Patna .,Patna
 MIT_523,gender,male .,Male
 MIT_523,date,04 (02 (2024 .,04-02-2024
-MIT_523,aadhaarcard,26 8979 000000,2.68979E+11
+MIT_523,aadhaarcard,26 8979 000000,2.69E+11
 MIT_523,qualification,P N.D.,P ND
 MIT_523,candidatename,Grautam Kalita .,Grautam Kalita
 TCE_1103,referencescmob1,Ikshiba Dixik - 85177243925 .,Ikshiba Dixik - 85177243925
@@ -488,7 +488,7 @@ MIT_110,maritalstatus,Sing live .,Single
 MIT_110,place,Raimr .,Raipur
 MIT_110,date,hof bs voss .,
 MIT_110,experience1,"2""4 years at Du't Dinger .",24 years at Dut Dinger
-MIT_110,aadhaarcard,"8k 44,680,000000",8.4468E+11
+MIT_110,aadhaarcard,"8k 44,680,000000",8.45E+11
 MIT_110,Dateofbirth,"71istlaas "" I",71
 TCE_1420,contactnumber,8563608498 .,8563608498
 TCE_1420,experience,3 years . O. Soome Padmanaban & Sankaram,3 years O Soome Padmanaban Sankaram
@@ -581,7 +581,7 @@ VIT_734,bloodgroup,A -,A-
 VIT_734,place,D1's pur .,Dispur
 VIT_734,Fatherhusbandname,Velant Mallyan,Velant Mallyan
 VIT_734,date,To. b.2015,2015
-VIT_734,aadhaarcard,617 392000000,6.17392E+11
+VIT_734,aadhaarcard,617 392000000,6.17E+11
 VIT_734,qualification,Diploma .,Diploma
 VIT_734,maritalstatus,Marvered .,Marvered
 VIT_734,AlternateNo,850 5535292,8505535292
@@ -606,7 +606,7 @@ VIT_879,Dateofbirth,2/119695,2/119695
 VIT_879,place,chennai .,Chennai
 VIT_879,date,04 ( raf 2024 .,Apr-24
 VIT_879,Fatherhusbandname,Baljovan Kamdar .,Baljovan Kamdar
-VIT_879,aadhaarcard,3324 47000000,3.32447E+11
+VIT_879,aadhaarcard,3324 47000000,3.32E+11
 MIT_45,permanentaddress,"77, Pandey street , kolhapur 280801","77, Pandey Street, Kolhapur 280801"
 MIT_45,contactnumber,9925719496,9925719496
 MIT_45,referencescmob1,Abeen Southar - 9662955151 .,Abeen Southar - 9662955151
@@ -757,7 +757,7 @@ VIT_875,referencescmob1,Krisha Lad - 9721372244,Krisha Lad - 9721372244
 VIT_875,experience1,10 years at Balay-charr.,10 years at Balay-charr
 VIT_875,date,objob ( 2023 .,2023
 VIT_875,Fatherhusbandname,Oscar Bala .,Oscar Bala
-VIT_875,aadhaarcard,332215000000 #,3.32215E+11
+VIT_875,aadhaarcard,332215000000 #,3.32E+11
 TCE_1498,experience,3 years at chowdhway PLC .,3 years at chowdhway PLC
 TCE_1498,experience1,I years at Balan Naidu & Trived,I years at Balan Naidu Trived
 TCE_1498,contactnumber,75594-0807 .,755940807
@@ -813,7 +813,7 @@ TCE_1402,permanentaddress,"186 , Pingle Street , Ghaziabad , 639487","186, Pingl
 TCE_1402,date,ohlob ( 2025,2025
 TCE_1402,maritalstatus,married .,Married
 TCE_1402,candidatename,APVAY SOM .,APVAY SOM
-TCE_1402,aadhaarcard,2TH936000000 .0 .,2.7936E+11
+TCE_1402,aadhaarcard,2TH936000000 .0 .,2.79E+11
 MIT_632,languageknown,"Hindi Karmada , Bengals","Hindi, Karmada, Bengali"
 MIT_632,permanentaddress,"318 , Kade Arch , Ambeunath - 12.780","318, Kade Arch, Ambeunath - 12.780"
 MIT_632,maritalstatus,Married .,Married
@@ -832,7 +832,7 @@ MIT_632,gender,Male .,Male
 MIT_632,place,Bhepal .,Bhopal
 MIT_632,Dateofbirth,12/28 (1990 .,12/28/1990
 MIT_632,Fatherhusbandname,Jack Dutta .,Jack Dutta
-MIT_632,aadhaarcard,8.80063E+11,8.80063E+11
+MIT_632,aadhaarcard,8.80E+11,8.80E+11
 MIT_632,date,10/24 ( 2025 .,10/24/2025
 MIT_448,permanentaddress,"91/138 . Malhotra Path , Bulandshahr","91/138 . Malhotra Path, Bulandshahr"
 MIT_448,referencescmob1,ubika Wadhura - 7123808238 .,Ubika Wadhura - 7123808238
@@ -854,7 +854,7 @@ MIT_448,experience1,4 years at Landey LLC .,4 years at Landey LLC
 MIT_448,date,3/11 ( 2025 .,03-11-2025
 MIT_448,Dateofbirth,11 1/4 11984 .,11/1/4/11984
 MIT_448,place,Imphal .,Imphal
-MIT_448,aadhaarcard,6 30135000000 .,6.30135E+11
+MIT_448,aadhaarcard,6 30135000000 .,6.30E+11
 TCE_1310,permanentaddress,"064 , Grokhale Mary , Budget-8-36","064, Grokhale Mary, Budget-8-36"
 TCE_1310,referencescmob1,Dalafre Butala - 9215783555,Dalafre Butala - 9215783555
 TCE_1310,experience,3 years at Sagan Devan and Swami,3 years at Sagan Devan and Swami
@@ -962,7 +962,7 @@ MIT_499,experience1,8 years at Maharaj 1tof,8 years at Maharaj 1tof
 MIT_499,nationality,India n.,Indian
 MIT_499,referencescmob1,Pooja Dutta - 9414884580,Pooja Dutta - 9414884580
 MIT_499,referencescmob2,Arya Mani-8703580769 .,Arya Mani - 8703580769
-MIT_499,aadhaarcard,"8,82,30,30,00,000",8.82303E+11
+MIT_499,aadhaarcard,"8,82,30,30,00,000",8.82E+11
 MIT_499,place,Lucknow .,Lucknow
 MIT_499,candidatename,Onveer Bora .,Onveer Bora
 MIT_499,bloodgroup,0 -,O-
@@ -1063,7 +1063,7 @@ TCE_1272,referencescmob2,Vidhi mani - 7931801899 .,Vidhi Mani - 7931801899
 TCE_1272,AlternateNo,9250050034 .,9250050034
 TCE_1272,date,"12,job ( 2024 .",Dec-24
 TCE_1272,gender,Female .,Female
-TCE_1272,aadhaarcard,513006000000 .,5.13006E+11
+TCE_1272,aadhaarcard,513006000000 .,5.13E+11
 TCE_1272,nationality,Indian,Indian
 TCE_1272,place,patna .,Patna
 TCE_1272,Fatherhusbandname,Nakul Sarraf,Nakul Sarraf
@@ -1104,7 +1104,7 @@ MIT_619,Fatherhusbandname,August Roy,August Roy
 MIT_619,languageknown,"Telugu , Gujarati .","Telugu, Gujarati"
 MIT_619,Dateofbirth,"2f14f1965 """,2/14/1965
 MIT_619,place,latna .,Patna
-MIT_619,aadhaarcard,"21 38,000000000 #",2.138E+12
+MIT_619,aadhaarcard,"21 38,000000000 #",2.14E+12
 MIT_619,qualification,laken pans .,Laken Pans
 MIT_619,maritalstatus,Xiarrie d,Married
 VIT_730,permanentaddress,a. sonipat. 944957,A. Sonipat. 944957
@@ -1279,7 +1279,7 @@ MIT_637,Fatherhusbandname,Max Savant,Max Savant
 MIT_637,place,Patna .,Patna
 MIT_637,pancard,DULTITOIN .,DULTITOIN
 MIT_637,Dateofbirth,11 ( 25 ( 1989 .,11/25/1989
-MIT_637,aadhaarcard,"5314/4,000000",5.31414E+11
+MIT_637,aadhaarcard,"5314/4,000000",5.31E+11
 VIT_814,presentaddress,"THJAIN , Arova Street , Udaipur-793741","THJAIN, Arova Street, Udaipur-793741"
 VIT_814,permanentaddress,"H. No. 994 , Common Street , Ozhaltorai 955","H. No. 994, Common Street, Ozhaltorai 955"
 VIT_814,contactnumber,19.2216642,192216642
@@ -1299,7 +1299,7 @@ VIT_814,maritalstatus,Sinerle,Single
 VIT_814,experience1,I Year at Muffi Ltd .,I Year at Muffi Ltd
 VIT_814,bloodgroup,A A,AA
 VIT_814,pancard,SY EUF 1002 ) .,SYEUF1002
-VIT_814,aadhaarcard,692200000000000 -0,6.922E+15
+VIT_814,aadhaarcard,692200000000000 -0,6.92E+15
 VIT_814,qualification,lpho',Lpho
 MIT_135,AlternateNo,9807349193 .,9807349193
 MIT_135,languageknown,"Hindi , Morlayalam , Kannadove Marathi","Hindi, Malayalam, Kannadove, Marathi"
@@ -1338,7 +1338,7 @@ MIT_111,date,12 ( 22 ( 2022,12/22/2022
 MIT_111,place,Chennai .,Chennai
 MIT_111,Dateofbirth,12/011965,12/011965
 MIT_111,nationality,Indian .,Indian
-MIT_111,aadhaarcard,4486 28000000 0,4.48628E+12
+MIT_111,aadhaarcard,4486 28000000 0,4.49E+12
 MIT_111,Fatherhusbandname,Viram chamber .,Viram Chamber
 TCE_1413,permanentaddress,"03,00 , Bhnoff Mang , Panihati","03,00, Bhnoff Mang, Panihati"
 TCE_1413,presentaddress,"Hino , Og. Dala Nagan , Dehq's","Hino, Og. Dala Nagan, Dehqs"
@@ -1377,14 +1377,14 @@ VIT_939,experience1,10 years at de Kambar and Narayan,10 years at de Kambar and 
 VIT_939,Fatherhusbandname,Mohammed Dutta .,Mohammed Dutta
 VIT_939,Dateofbirth,2/ 1811968 .,2/1811968
 VIT_939,date,610212025,610212025
-VIT_939,aadhaarcard,3.25529E+11,3.25529E+11
+VIT_939,aadhaarcard,3.26E+11,3.26E+11
 MIT_196,permanentaddress,"H.NO : 96 , Isaac Nagan , Adono-550212","H.NO 96, Isaac Nagan, Adono-550212"
 MIT_196,referencescmob2,Adya Verma - 932A038246,Adya Verma - 932038246
 MIT_196,referencescmob1,Edhitha Coman -9159991090,Edhitha Coman - 9159991090
 MIT_196,AlternateNo,9906 808THI,990680871
 MIT_196,place,Lucknow .,Lucknow
 MIT_196,maritalstatus,Married .,Married
-MIT_196,aadhaarcard,3.50672E+11,3.50672E+11
+MIT_196,aadhaarcard,3.51E+11,3.51E+11
 MIT_196,languageknown,"Hindir , Kannada , Gujarati , Bengali .","Hindi, Kannada, Gujarati, Bengali"
 MIT_196,experience1,10 years at Miusna Ltd .,10 years at Miusna Ltd
 MIT_196,qualification,Diploma .,Diploma
@@ -1408,7 +1408,7 @@ MIT_272,referencescmob2,Daksh Duwan - 7668 4779,Daksh Duwan - 76684779
 MIT_272,qualification,Post-graduate .,Post-Graduate
 MIT_272,gender,Male .,Male
 MIT_272,maritalstatus,Married .,Married
-MIT_272,aadhaarcard,2.31198E+12,2.31198E+12
+MIT_272,aadhaarcard,2.31E+12,2.31E+12
 MIT_272,Dateofbirth,10 (2 (1985 .,10-02-1985
 MIT_272,languageknown,"Telugu , Kannada , Malayalam","Telugu, Kannada, Malayalam"
 MIT_272,Fatherhusbandname,Ramveer singular .,Ramveer Singular
@@ -1462,7 +1462,7 @@ MIT_396,place,Bhopal .,Bhopal
 MIT_396,experience1,1 . Years at Bern-Jayarramann .,1 Years at Bern-Jayarramann
 MIT_396,presentaddress,"H. No.53 , Mahajan , Bangalore 4.29901","H. No.53, Mahajan, Bangalore 4.29901"
 MIT_396,maritalstatus,single .,Single
-MIT_396,aadhaarcard,"916 529,000000",9.16529E+11
+MIT_396,aadhaarcard,"916 529,000000",9.17E+11
 MIT_396,Fatherhusbandname,Rehaan Rastogi,Rehaan Rastogi
 MIT_396,Dateofbirth,12 (12 ( Laro .,12-Dec
 MIT_396,permanentaddress,"1966 , Modi Bahraich 708089","1966, Modi Bahraich 708089"
@@ -1487,7 +1487,7 @@ MIT_59,Fatherhusbandname,Incurran Doctor .,Incurran Doctor
 MIT_59,experience1,9 Years at Saha Ltd .,9 Years at Saha Ltd
 MIT_59,date,"off 19,502 .",19/502
 MIT_59,maritalstatus,single .,Single
-MIT_59,aadhaarcard,803 2/8000000,8.03218E+11
+MIT_59,aadhaarcard,803 2/8000000,8.03E+11
 MIT_59,candidatename,Rehaan Doctor .,Rehaan Doctor
 MIT_59,qualification,12th press .,12th Pass
 MIT_59,place,Beng through,Bengthrough
@@ -1534,7 +1534,7 @@ VIT_878,place,"panafi . """,Panaji
 VIT_878,Dateofbirth,4la Hallaff,4
 VIT_878,date,09lob ( 2025 .,Sep-25
 VIT_878,candidatename,Wazir lkambar .,Wazir Lkambar
-VIT_878,aadhaarcard,416 129000000,4.16129E+11
+VIT_878,aadhaarcard,416 129000000,4.16E+11
 VIT_878,Fatherhusbandname,Fiyaz Kamdar,Fiyaz Kamdar
 VIT_895,permanentaddress,"621860 , Vaidya Chowk , Kulti -751340","621860, Vaidya Chowk, Kulti -751340"
 VIT_895,contactnumber,7547921552,7547921552
@@ -1690,7 +1690,7 @@ MIT_129,maritalstatus,Married .,Married
 MIT_129,place,Mumbai .,Mumbai
 MIT_129,experience1,I years at Gode-Bera .,I years at Gode-Bera
 MIT_129,Dateofbirth,4/8 ( 1969 .,04-08-1969
-MIT_129,aadhaarcard,6.24754E+11,6.24754E+11
+MIT_129,aadhaarcard,6.25E+11,6.25E+11
 MIT_109,AlternateNo,8724156976 .,8724156976
 MIT_109,permanentaddress,182 . Bansel Gronj.fungeronous,182 . Bansel Gronj.fungeronous
 MIT_109,gender,Male,Male
@@ -1728,7 +1728,7 @@ MIT_332,Dateofbirth,"""11 ( 1991 .",Nov-91
 MIT_332,date,08 ( 04 ( 2025 .,08-04-2025
 MIT_332,bloodgroup,AB -,AB-
 MIT_332,Fatherhusbandname,Dominic Bhasin .,Dominic Bhasin
-MIT_332,aadhaarcard,3.97231E+11,3.97231E+11
+MIT_332,aadhaarcard,3.97E+11,3.97E+11
 MIT_332,contactnumber,T230482418,7230482418
 MIT_332,candidatename,Vritti Bhasin .,Vritti Bhasin
 VIT_915,contactnumber,7072553319 .,7072553319
@@ -1787,7 +1787,7 @@ VIT_786,experience1,2 years at Groel Kopoor and keer,2 years at Groel Kopoor and
 VIT_786,date,09 104 ( 2023 .,9/104/2023
 VIT_786,qualification,12th pars .,12th Pass
 VIT_786,Fatherhusbandname,Aarnav Hayer .,Aarnav Hayer
-VIT_786,aadhaarcard,"8 43.940,000000 #",8.4394E+11
+VIT_786,aadhaarcard,"8 43.940,000000 #",8.44E+11
 VIT_786,bloodgroup,B t,B+
 VIT_786,experience,6 Years at Divan PLC .,6 Years at Divan PLC
 VIT_786,maritalstatus,Single .,Single
@@ -1864,7 +1864,7 @@ MIT_318,contactnumber,9462418824 .,9462418824
 MIT_318,qualification,post-graduate,Post-Graduate
 MIT_318,gender,male .,Male
 MIT_318,pancard,( WHOHF29 6 4E,WHOHF2964E
-MIT_318,aadhaarcard,"58834 1,000000",5.88341E+11
+MIT_318,aadhaarcard,"58834 1,000000",5.88E+11
 MIT_318,Fatherhusbandname,Yatin' Hoka .,Yatin Hoka
 MIT_318,bloodgroup,at,A+
 MIT_318,maritalstatus,MARRIED .,Married
@@ -1925,7 +1925,7 @@ MIT_680,nationality,Indian .,Indian
 MIT_680,place,chennai .,Chennai
 MIT_680,qualification,12m pale .,12m Pale
 MIT_680,bloodgroup,0 -,O-
-MIT_680,aadhaarcard,95 (186000000,9.51186E+11
+MIT_680,aadhaarcard,95 (186000000,9.51E+11
 MIT_680,Dateofbirth,el 15 ) 1972 .,15/1972
 MIT_680,pancard,AEGITI 6 3/0.,AEGITI630
 MIT_680,date,021 281 24 24 .,021/281/24/24
@@ -2086,7 +2086,7 @@ MIT_121,place,Shillong,Shillong
 MIT_121,Fatherhusbandname,Champak Wagle,Champak Wagle
 MIT_121,experience1,Le yeovis at Shetty Ltd .,Le yeovis at Shetty Ltd
 MIT_121,Dateofbirth,6 )101200 1 .,6/101200/1
-MIT_121,aadhaarcard,4 58626000000,4.58626E+11
+MIT_121,aadhaarcard,4 58626000000,4.59E+11
 TCE_1409,candidatename,Yoshika Bali .,Yoshika Bali
 TCE_1409,presentaddress,"18164 , Baywa Circle , Farigabad -","18164, Baywa Circle, Farigabad"
 TCE_1409,permanentaddress,"021205 , Khatsi Circle , Adoni-188083","021205, Khatsi Circle, Adoni-188083"
@@ -2130,7 +2130,7 @@ MIT_233,experience1,7 year at Luke chacko and opera,7 year at Luke chacko and op
 MIT_233,experience,4 year at Thaker and Sons,4 year at Thaker and Sons
 MIT_233,AlternateNo,728898915,728898915
 MIT_233,Dateofbirth,9/29/1963 .,9/29/1963
-MIT_233,aadhaarcard,2.23696E+11,2.23696E+11
+MIT_233,aadhaarcard,2.24E+11,2.24E+11
 MIT_233,place,Kavaratti .,Kavaratti
 MIT_233,maritalstatus,single .,Single
 MIT_233,qualification,Post-Graduate .,Post-Graduate
@@ -2160,7 +2160,7 @@ MIT_526,gender,Femek,Femek
 MIT_526,Dateofbirth,7/2 3/1998 .,7/2/3/1998
 MIT_526,maritalstatus,Mani et,Maniet
 MIT_526,qualification,Diploma .,Diploma
-MIT_526,aadhaarcard,"8493 46,000000",8.49346E+11
+MIT_526,aadhaarcard,"8493 46,000000",8.49E+11
 MIT_526,contactnumber,91 3.2.9443 .,91329443
 MIT_526,place,fatner .,Fatner
 MIT_526,candidatename,Verve Vere,Verve Vere
@@ -2315,7 +2315,7 @@ MIT_681,contactnumber,985 88 26431 .,9858826431
 MIT_681,nationality,Indian .,Indian
 MIT_681,experience1,I Years at Thakkar - Brahmbnatt,I Years at Thakkar - Brahmbnatt
 MIT_681,referencescmob1,Zaidmane - 833827hms .,Zaidmane - 833827
-MIT_681,aadhaarcard,"243 795,000000",2.43795E+11
+MIT_681,aadhaarcard,"243 795,000000",2.44E+11
 MIT_681,experience,9 Years at Kade-Wadnwa .,9 Years at Kade-Wadnwa
 MIT_681,date,07 (000695 .,07/000695
 MIT_681,bloodgroup,Bt .,B+
@@ -2342,7 +2342,7 @@ MIT_676,Dateofbirth,2/2 (196 ) .,2/2/196
 MIT_676,date,05 ( IT ( 2024 .,May-24
 MIT_676,contactnumber,8749284840,8749284840
 MIT_676,gender,female .,Female
-MIT_676,aadhaarcard,2.57623E+11,2.57623E+11
+MIT_676,aadhaarcard,2.58E+11,2.58E+11
 TCE_1344,nationality,Indian,Indian
 TCE_1344,presentaddress,"626313.90 , Nig Path , Jabalpur","626313.90, Nig Path, Jabalpur"
 TCE_1344,languageknown,"Hindi , Gujaratir Kannado , Malayako ,","Hindi, Gujarati, Kannada, Malayalam"
@@ -2401,7 +2401,7 @@ VIT_737,Fatherhusbandname,Whmidgh Jaggi,Whmidgh Jaggi
 MIT_558,permanentaddress,"88168 , Mistry Nagar , Orai 930826 .","88168, Mistry Nagar, Orai 930826"
 MIT_558,contactnumber,f86469689,86469689
 MIT_558,presentaddress,"29 , Agate path , Bidar - 162172","29, Agate Path, Bidar - 162172"
-MIT_558,aadhaarcard,284118000000 #,2.84118E+11
+MIT_558,aadhaarcard,284118000000 #,2.84E+11
 MIT_558,nationality,Indian,Indian
 MIT_558,referencescmob1,Falquni chattan - 9666221866 .,Falquni Chattan - 9666221866
 MIT_558,experience1,5 years at Subramanian Saran and Chopra,5 years at Subramanian Saran and Chopra
@@ -2489,7 +2489,7 @@ MIT_553,maritalstatus,single .,Single
 MIT_553,date,02 ( 18/2023 .,2/18/2023
 MIT_553,Dateofbirth,6/20/2003 .,6/20/2003
 MIT_553,bloodgroup,a b .,AB
-MIT_553,aadhaarcard,8041 49000000,8.04149E+11
+MIT_553,aadhaarcard,8041 49000000,8.04E+11
 MIT_553,referencescmob1,said char -8297395538 .,Said Char - 8297395538
 MIT_553,referencescmob2,Waida Seventh - 9432384029 .,Waida Seventh - 9432384029
 MIT_553,languageknown,"Malayalam , English Kannada","Malayalam, English, Kannada"
@@ -2509,7 +2509,7 @@ MIT_52,contactnumber,9 251995115 .,9251995115
 MIT_52,gender,Female .,Female
 MIT_52,Dateofbirth,81 in ( 1984 .,81/1984
 MIT_52,referencescmob2,Logan Groves - 8.24.64284 .,Logan Groves - 82464284
-MIT_52,aadhaarcard,48 (583000000,4.81583E+11
+MIT_52,aadhaarcard,48 (583000000,4.82E+11
 MIT_52,AlternateNo,9988264876 .,9988264876
 MIT_52,experience1,2 years at La La La La,2 years at La La La La
 MIT_52,experience,10 years at Hedge - Shankar .,10 years at Hedge - Shankar
@@ -2536,7 +2536,7 @@ MIT_274,nationality,Indian .,Indian
 MIT_274,Fatherhusbandname,Owinder Talk .,Owinder Talk
 MIT_274,contactnumber,9694 919. 955,9694919955
 MIT_274,candidatename,Azad Tale .,Azad Tale
-MIT_274,aadhaarcard,7.86053E+11,7.86053E+11
+MIT_274,aadhaarcard,7.86E+11,7.86E+11
 TCE_1162,presentaddress,"H.N.D.by-Kodakia Road , Hublin -","H.n.d.by-kodakia Road, Hublin"
 TCE_1162,candidatename,Megha Raghavan .,Megha Raghavan
 TCE_1162,permanentaddress,"29 . Mammen Circle , Dirdigut-870096","29 . Mammen Circle, Dirdigut-870096"
@@ -2613,14 +2613,14 @@ MIT_84,Dateofbirth,3 ( 29 ( 1977 .,3/29/1977
 MIT_84,candidatename,Nell Chauhan .,Nell Chauhan
 MIT_84,Fatherhusbandname,Laksh Chouhan .,Laksh Chouhan
 MIT_84,gender,Male .,Male
-MIT_84,aadhaarcard,"1308 4,0000000 .0",1.3084E+12
+MIT_84,aadhaarcard,"1308 4,0000000 .0",1.31E+12
 TCE_1266,presentaddress,143' sonipade - 4.2eg-89 .,143 Sonipade - 4.2eg-89
 TCE_1266,permanentaddress,"H.NO : 15 , John. Brown-3/7/30 .","H.NO 15, John. Brown-3/7/30"
 TCE_1266,referencescmob2,Yashashi Sawkney - 86 357/94029,Yashashi Sawkney - 8635794029
 TCE_1266,gender,female .,Female
 TCE_1266,referencescmob1,Balvan Keer - 9644 8013 67 .,Balvan Keer - 9644801367
 TCE_1266,nationality,Indian,Indian
-TCE_1266,AlternateNo,"955 6 4/820,000",9.55642E+11
+TCE_1266,AlternateNo,"955 6 4/820,000",9.56E+11
 TCE_1266,Fatherhusbandname,Mason Chowdhury .,Mason Chowdhury
 TCE_1266,candidatename,Sanya Chowdhury,Sanya Chowdhury
 TCE_1266,place,""" Hydor Abad .",Hyderabad
@@ -2670,7 +2670,7 @@ MIT_445,place,chandigarh .,Chandigarh
 MIT_445,maritalstatus,married .,Married
 MIT_445,qualification,12th pass .,12th Pass
 MIT_445,Dateofbirth,"3,17 ( 1985 .",3/17/1985
-MIT_445,aadhaarcard,67705 6000000,6.77056E+11
+MIT_445,aadhaarcard,67705 6000000,6.77E+11
 MIT_445,gender,male .,Male
 MIT_445,AlternateNo,8378173039 .,8378173039
 MIT_340,permanentaddress,"034 , Reich Nagar , Amarati 956797","034, Reich Nagar, Amarati 956797"
@@ -2688,7 +2688,7 @@ MIT_340,qualification,Ph D .,PhD
 MIT_340,bloodgroup,A F,A
 MIT_340,place,Potna .,Patna
 MIT_340,Dateofbirth,al 13 ( 1967 .,13/1967
-MIT_340,aadhaarcard,9.12811E+11,9.12811E+11
+MIT_340,aadhaarcard,9.13E+11,9.13E+11
 MIT_340,candidatename,Warda Bhagat,Warda Bhagat
 MIT_340,contactnumber,704 7299 23 7 .,7047299237
 MIT_340,Fatherhusbandname,Siddarth Bhagat .,Siddarth Bhagat
@@ -2777,7 +2777,7 @@ MIT_429,experience1,1years at Som and Sons .,1years at Som and Sons
 MIT_429,experience,Iyears at Vohra all,Iyears at Vohra all
 MIT_429,contactnumber,7346252052,7346252052
 MIT_429,candidatename,Jacob Lad .,Jacob Lad
-MIT_429,aadhaarcard,24 64/68000000000,2.46417E+15
+MIT_429,aadhaarcard,24 64/68000000000,2.46E+15
 MIT_429,AlternateNo,9 3 6.4.3.57 .,9364357
 MIT_429,nationality,Indian .,Indian
 MIT_429,Fatherhusbandname,Aarush lad .,Aarush Lad
@@ -2831,12 +2831,12 @@ MIT_527,contactnumber,"7 (2980830 """,712980830
 MIT_527,bloodgroup,a b -,AB-
 MIT_163,permanentaddress,"68/459 , Balay Nagan , Jannnagan-9999bb","68/459, Balay Nagan, Jannnagan-9999bb"
 MIT_163,gender,fernale .,Female
-MIT_163,contactnumber,8545990 95666 ',8.54599E+11
+MIT_163,contactnumber,8545990 95666 ',8.55E+11
 MIT_163,pancard,CBUCIDDDDDOV .,CBUCIDDDDDOV
 MIT_163,nationality,Indian .,Indian
 MIT_163,presentaddress,"778 , Donegad Nagar , Gangtok-40-553","778, Donegad Nagar, Gangtok-40-553"
 MIT_163,experience1,& yeossat prughi and some,yeossat prughi and some
-MIT_163,aadhaarcard,9.23657E+11,9.23657E+11
+MIT_163,aadhaarcard,9.24E+11,9.24E+11
 MIT_163,Fatherhusbandname,Jackson sam .,Jackson Sam
 MIT_163,referencescmob1,Mahika Chatt-930395900b,Mahika Chatt - 930395900
 MIT_163,candidatename,Tagrati som .,Tagrati Som
@@ -2939,7 +2939,7 @@ MIT_379,nationality,Indian,Indian
 MIT_379,presentaddress,"081463 , Solanki , Kharagpur -54-0.5","081463, Solanki, Kharagpur -54-0.5"
 MIT_379,languageknown,English . Hindi,"English, Hindi"
 MIT_379,qualification,Diploma .,Diploma
-MIT_379,aadhaarcard,7 3 2198000000,7.32198E+11
+MIT_379,aadhaarcard,7 3 2198000000,7.32E+11
 MIT_379,bloodgroup,AB -,AB-
 MIT_379,experience,3 years at Naik Dixit and Arya,3 years at Naik Dixit and Arya
 MIT_379,Dateofbirth,8 (177 ( 1967 .,8/177/1967
@@ -3120,7 +3120,7 @@ MIT_501,date,10 (08 ) 2025 .,10-08-2025
 MIT_501,maritalstatus,Married .,Married
 MIT_501,experience,6 years at Europe Ltd .,6 years at Europe Ltd
 MIT_501,bloodgroup,ot,O+
-MIT_501,aadhaarcard,"9,84,55,00,00,000",9.8455E+11
+MIT_501,aadhaarcard,"9,84,55,00,00,000",9.85E+11
 MIT_501,nationality,Indian .,Indian
 MIT_501,gender,female .,Female
 MIT_501,Fatherhusbandname,Veer Ben .,Veer Ben
@@ -3141,7 +3141,7 @@ MIT_494,place,Agarbala .,Agartala
 MIT_494,referencescmob1,Jagrati Grolla - 84459 77856 .,Jagrati Grolla - 8445977856
 MIT_494,experience,4 Years at Kala LLC,4 Years at Kala LLC
 MIT_494,candidatename,Hislal Khosla .,Hislal Khosla
-MIT_494,aadhaarcard,3.13114E+11,3.13114E+11
+MIT_494,aadhaarcard,3.13E+11,3.13E+11
 MIT_494,date,04124 ( 2024 .,04124/2024
 MIT_494,gender,Female .,Female
 MIT_309,experience1,7 years at Upadhyay Ltd .,7 years at Upadhyay Ltd
@@ -3202,7 +3202,7 @@ VIT_976,experience,system at Bhalla - Kamdars,system at Bhalla - Kamdars
 VIT_976,maritalstatus,married .,Married
 VIT_976,bloodgroup,at,A+
 VIT_976,Dateofbirth,0/4/8.2 .,0/4/8/2
-VIT_976,aadhaarcard,8279 55000060,8.27955E+11
+VIT_976,aadhaarcard,8279 55000060,8.28E+11
 MIT_268,referencescmob2,Tanya Nazareth - 9 55549545,Tanya Nazareth - 955549545
 MIT_268,permanentaddress,"H"" No.20 , Roy Chouk , Rewa.53.6667","H No.20, Roy Chouk, Rewa.53.6667"
 MIT_268,languageknown,"Bengali , Tamil","Bengali, Tamil"
@@ -3281,7 +3281,7 @@ MIT_9,languageknown,"Tammil , English","Tamil, English"
 MIT_9,Dateofbirth,""" ( 12 ( 2006 .",Dec-06
 MIT_9,candidatename,Maathes Thilak K,Maathes Thilak K
 MIT_9,Fatherhusbandname,KAL DASS TSP RM.,KAL DASS TSP RM
-MIT_9,aadhaarcard,5.959E+12,5.959E+12
+MIT_9,aadhaarcard,5.96E+12,5.96E+12
 TCE_1346,experience,I year at Hedge Divan and Divar .,I year at Hedge Divan and Divar
 TCE_1346,referencescmob2,. Radhika Tailon - 7165853815 .,Radhika Tailon - 7165853815
 TCE_1346,presentaddress,"801 , Zachariah Mary , Madyampram 281975","801, Zachariah Mary, Madyampram 281975"
@@ -3321,7 +3321,7 @@ VIT_1000,Fatherhusbandname,Rehaan Seth .,Rehaan Seth
 VIT_1000,pancard,RMOIF 0785V .,RMOIF0785V
 VIT_1000,bloodgroup,At,A+
 VIT_1000,maritalstatus,married .,Married
-VIT_1000,aadhaarcard,"28525I,000000 .",2.85251E+11
+VIT_1000,aadhaarcard,"28525I,000000 .",2.85E+11
 TCE_1219,candidatename,Ranbir Dey .,Ranbir Dey
 TCE_1219,permanentaddress,"H.NO. 304Auchipordinary - CHOWN ,30 .","H.NO. 304Auchipordinary - CHOWN,30"
 TCE_1219,referencescmob2,Bhavya' Avora - 9434676220,Bhavya Avora - 9434676220
@@ -3360,7 +3360,7 @@ VIT_853,Fatherhusbandname,Joshua Gola .,Joshua Gola
 VIT_853,place,Patna,Patna
 VIT_853,pancard,Okapg 0093x .,OKAPG0093X
 VIT_853,Dateofbirth,1/7 ( 200dds .,1/7/200
-VIT_853,aadhaarcard,4.90231E+11,4.90231E+11
+VIT_853,aadhaarcard,4.90E+11,4.90E+11
 MIT_359,languageknown,"Tamil , Marathi , Malayalam , Telugu","Tamil, Marathi, Malayalam, Telugu"
 MIT_359,referencescmob1,Lohit Dale-9 48 5.36955,Lohit Dale - 948536955
 MIT_359,referencescmob2,Watika Acharya - 9796423114,Watika Acharya - 9796423114
@@ -3368,7 +3368,7 @@ MIT_359,place,Patna .,Patna
 MIT_359,Dateofbirth,6/8 (1965 .,06-08-1965
 MIT_359,Fatherhusbandname,Maanav Shan .,Maanav Shan
 MIT_359,permanentaddress,"H.NO. 454 , Cheema Street , Durg 705682","H.NO. 454, Cheema Street, Durg 705682"
-MIT_359,AlternateNo,909      ,9094101694
+MIT_359,AlternateNo,909,9094101694
 MIT_359,qualification,Graduate .,Graduate
 MIT_359,experience1,8 years at Goyal-Borde,8 years at Goyal-Borde
 MIT_359,date,10/27 ( 2024 .,10/27/2024
@@ -3381,7 +3381,7 @@ MIT_359,experience,4 years at Devi Sura and Mirshas,4 years at Devi Sura and Mir
 MIT_359,contactnumber,7114 333400,7114333400
 MIT_359,nationality,Indian,Indian
 MIT_359,candidatename,Yagnesh Shan .,Yagnesh Shan
-MIT_359,aadhaarcard,"3009 35,000000",3.00935E+11
+MIT_359,aadhaarcard,"3009 35,000000",3.01E+11
 MIT_546,permanentaddress,"H.NO.673 , Narula Nagar , Cutback -708488","H.NO.673, Narula Nagar, Cutback -708488"
 MIT_546,presentaddress,"29/44 , Dave Zila , Jampur 1534728","29/44, Dave Zila, Jampur 1534728"
 MIT_546,nationality,Indian,Indian
@@ -3400,7 +3400,7 @@ MIT_546,qualification,Graduate .,Graduate
 MIT_546,candidatename,Bahveer Aurora .,Bahveer Aurora
 MIT_546,Fatherhusbandname,Hredhaan Aurora,Hredhaan Aurora
 MIT_546,experience1,2 years at Kunda PLC,2 years at Kunda PLC
-MIT_546,aadhaarcard,7.21864E+11,7.21864E+11
+MIT_546,aadhaarcard,7.22E+11,7.22E+11
 MIT_546,maritalstatus,married .,Married
 TCE_1106,permanentaddress,"19167 , Bhandavizier","19167, Bhandavizier"
 TCE_1106,presentaddress,than Banaghan joins a 06,Than Banaghan Joins a 06
@@ -3454,7 +3454,7 @@ TCE_1415,languageknown,"Tamil , English","Tamil, English"
 TCE_1415,AlternateNo,8701343398 .,8701343398
 TCE_1415,contactnumber,8 7.4111 3925,8741113925
 TCE_1415,gender,male .,Male
-TCE_1415,aadhaarcard,65548 2200000 0-0,6.55482E+13
+TCE_1415,aadhaarcard,65548 2200000 0-0,6.55E+13
 TCE_1415,maritalstatus,married .,Married
 TCE_1415,bloodgroup,0 .,O
 TCE_1415,date,04124125 .,4124125
@@ -3631,7 +3631,7 @@ MIT_96,candidatename,Anup Soman,Anup Soman
 MIT_96,Dateofbirth,8 (611984 .,8/611984
 MIT_96,bloodgroup,Ar,A
 MIT_96,nationality,Indian .,Indian
-MIT_96,aadhaarcard,7.20326E+11,7.20326E+11
+MIT_96,aadhaarcard,7.20E+11,7.20E+11
 MIT_96,referencescmob1,ekapad wali - 1012892044 .,Ekapad Wali - 1012892044
 MIT_96,Fatherhusbandname,faces Soman .,Faces Soman
 VIT_744,presentaddress,"86/ 37 , Viswanathan Singapore Swiss","86/ 37, Viswanathan Singapore Swiss"
@@ -3651,7 +3651,7 @@ VIT_744,date,w/23 ( 2025 .,23/2025
 VIT_744,nationality,Indian,Indian
 VIT_744,bloodgroup,obt .,OB+
 VIT_744,qualification,10th Pass .,10th Pass
-VIT_744,aadhaarcard,4.8132E+12,4.8132E+12
+VIT_744,aadhaarcard,4.81E+12,4.81E+12
 VIT_744,maritalstatus,Massied .,Married
 VIT_744,Dateofbirth,6 926 1978 .,6/926/1978
 MIT_200,experience,6 years at Bains - Sachdev,6 years at Bains - Sachdev
@@ -3665,7 +3665,7 @@ MIT_200,maritalstatus,Married .,Married
 MIT_200,qualification,Diploma .,Diploma
 MIT_200,nationality,Indian,Indian
 MIT_200,referencescmob1,Thomas Chacko - 9673-5.9.8 .,Thomas Chacko - 9673-598 
-MIT_200,aadhaarcard,295208000000 .,2.95208E+11
+MIT_200,aadhaarcard,295208000000 .,2.95E+11
 MIT_200,referencescmob2,Amrita Mahal - 7406194735,Amrita Mahal - 7406194735
 MIT_200,date,09/15 ( 2024 .,9/15/2024
 MIT_200,bloodgroup,Ab-,AB-
@@ -3712,7 +3712,7 @@ MIT_507,place,Rai Pur,Raipur
 MIT_507,experience,6 Years at Devi-Raghavan,6 Years at Devi-Raghavan
 MIT_507,date,021 10 ( 2025,21-10-2025
 MIT_507,Fatherhusbandname,Facid Peri .,Facid Peri
-MIT_507,aadhaarcard,4.40023E+11,4.40023E+11
+MIT_507,aadhaarcard,4.40E+11,4.40E+11
 MIT_507,candidatename,Abhuman Peri .,Abhuman Peri
 TCE_1203,candidatename,Pooja Samra .,Pooja Samra
 TCE_1203,permanentaddress,"18 Subramaniam Zilla , Ambassador -","18 Subramaniam Zilla, Ambassador"
@@ -3789,7 +3789,7 @@ VIT_938,date,06 1 0.2 ( 2024 .,06/1/0/2/2024
 VIT_938,qualification,PhD .,PhD
 VIT_938,gender,Female .,Female
 VIT_938,maritalstatus,Mississed .,Mississed
-VIT_938,aadhaarcard,"720 37,000000000",7.2037E+13
+VIT_938,aadhaarcard,"720 37,000000000",7.20E+13
 MIT_692,experience,Iyearrs at Comarr-Yohannan .,Iyearrs at Comarr-Yohannan
 MIT_692,contactnumber,9953788099 .,9953788099
 MIT_692,experience1,Myears at Balasubramanian Tara and Rau,Myears at Balasubramanian Tara and Rau
@@ -3808,7 +3808,7 @@ MIT_692,referencescmob2,Osha Shan - 8304175085 .,Osha Shan - 8304175085
 MIT_692,permanentaddress,"H.NO.44 , Halder , Ballia-719540","H.NO.44, Halder, Ballia-719540"
 MIT_692,Dateofbirth,7/1011974 .,7/1011974
 MIT_692,Fatherhusbandname,vedant Chad .,Vedant Chad
-MIT_692,aadhaarcard,3.33636E+11,3.33636E+11
+MIT_692,aadhaarcard,3.34E+11,3.34E+11
 MIT_692,date,03 ( lb ( 2024 .,Mar-24
 MIT_60,presentaddress,"H.NO.386 , Shanker Path , dunargawatts","H.NO.386, Shanker Path, Dunargawatts"
 MIT_60,permanentaddress,"231445 , Marvin Mary , Bichannagar ,","231445, Marvin Mary, Bichannagar"
@@ -3829,7 +3829,7 @@ MIT_60,contactnumber,82.5258221 .,825258221
 MIT_60,bloodgroup,A-,A-
 MIT_60,languageknown,"Bengali , Telugu , Hindi .","Bengali, Telugu, Hindi"
 MIT_60,Dateofbirth,5/8/995 .,5/8/995
-MIT_60,aadhaarcard,316 771000000 .,3.16771E+11
+MIT_60,aadhaarcard,316 771000000 .,3.17E+11
 TCE_1278,referencescmob1,Reva Gulati - 9670643665,Reva Gulati - 9670643665
 TCE_1278,experience,I years at Groda and Sons .,I years at Groda and Sons
 TCE_1278,languageknown,"Kannada , Gujarati .","Kannada, Gujarati"
@@ -3987,7 +3987,7 @@ MIT_131,gender,male .,Male
 MIT_131,qualification,12th pass .,12th Pass
 MIT_131,place,chemnai .,Chennai
 MIT_131,Dateofbirth,"12 (151,0004 .",12/151/4
-MIT_131,aadhaarcard,"78.7.124,000000",7.87124E+11
+MIT_131,aadhaarcard,"78.7.124,000000",7.87E+11
 TCE_1104,permanentaddress,"6 b )591 , The Chowk "" Suranguli , 4 .","6 b 591, The Chowk Suranguli, 4"
 TCE_1104,contactnumber,"99 ( 49 2 (336 """,9914921336
 TCE_1104,presentaddress,"H.No.611 , Modi Path , bhiwargdipag","H.no.611, Modi Path, Bhiwargdipag"
@@ -4021,7 +4021,7 @@ MIT_489,contactnumber,7397456902,7397456902
 MIT_489,languageknown,"Telugu , Malaylam , English , , Bengali .","Telugu, Malayalam, English, Bengali"
 MIT_489,qualification,Orradupte .,Orradupte
 MIT_489,referencescmob2,Chaitaly Mahnaney ' - 72893981ly .,Chaitaly Mahnaney - 72893981
-MIT_489,aadhaarcard,7.58551E+11,7.58551E+11
+MIT_489,aadhaarcard,7.59E+11,7.59E+11
 MIT_489,date,8 (25 ) 24 .,8/25/24
 MIT_489,bloodgroup,ab #,AB
 MIT_489,nationality,Indianism .,Indianism
@@ -4066,7 +4066,7 @@ VIT_708,candidatename,Tejas Sanahavi .,Tejas Sanahavi
 VIT_708,place,KAVARATTI .,Kavaratti
 VIT_708,Fatherhusbandname,DARSH SANGHVY .,DARSH SANGHVY
 VIT_708,nationality,INDIAN,Indian
-VIT_708,aadhaarcard,"4.2.48,8000000 .0",4.2488E+11
+VIT_708,aadhaarcard,"4.2.48,8000000 .0",4.25E+11
 VIT_996,AlternateNo,"863 4,81262 .",863481262
 VIT_996,permanentaddress,"430 , Buck Nagan , Kamarhati-633243","430, Buck Nagan, Kamarhati-633243"
 VIT_996,candidatename,I. Yurgy Keer,I Yurgy Keer
@@ -4085,7 +4085,7 @@ VIT_996,date,""" 1 (11 (2022 .",01-11-2022
 VIT_996,pancard,LY IWRC # 839 ) .,LYIWRC839
 VIT_996,experience1,7 Years at Iyer Ltd .,7 Years at Iyer Ltd
 VIT_996,qualification,Giredate .,Giredate
-VIT_996,aadhaarcard,456 (7800 0000,4.56178E+11
+VIT_996,aadhaarcard,456 (7800 0000,4.56E+11
 VIT_996,place,chandigarh .,Chandigarh
 VIT_996,Dateofbirth,7/3 ) 1968 .,07-03-1968
 MIT_162,permanentaddress,"H.NO.35 , Mittal Road , Shamji 840445","H.NO.35, Mittal Road, Shamji 840445"
@@ -4176,7 +4176,7 @@ MIT_422,permanentaddress,"081 , Sekhon , Jodhpur 400347","081, Sekhon, Jodhpur 4
 MIT_422,Dateofbirth,9/10 ( 19.71 .,9/10/19/71
 MIT_422,maritalstatus,married .,Married
 MIT_422,qualification,pHD .,pHD
-MIT_422,aadhaarcard,458 04 1000000,4.58041E+11
+MIT_422,aadhaarcard,458 04 1000000,4.58E+11
 MIT_422,referencescmob1,WRIDESH CHHABRA - 7.200-643,WRIDESH CHHABRA - 7200-643
 MIT_422,bloodgroup,out,O+
 MIT_422,languageknown,"MARATHI , MALAYALAM , TAMIL ( BENYALI","MARATHI, MALAYALAM, TAMIL, BENYALI"
@@ -4206,7 +4206,7 @@ MIT_253,bloodgroup,0-,O-
 MIT_253,referencescmob2,cropAL SRIIDHAIR -TI 99226629,cropAL SRIIDHAIR - 99226629
 MIT_253,experience1,4 years at Prakash Lanka and Nagji,4 years at Prakash Lanka and Nagji
 MIT_253,candidatename,dayamai Gaba .,Dayamai Gaba
-MIT_253,aadhaarcard,91 64510000000,9.16451E+12
+MIT_253,aadhaarcard,91 64510000000,9.16E+12
 VIT_741,permanentaddress,"tributor , Khurana 4howk ,","Tributor, Khurana 4howk"
 VIT_741,referencescmob1,Vinaya' Datta - 748 3839034,Vinaya Datta - 7483839034
 VIT_741,languageknown,"Hindi , Gujarati , English , Kannada","Hindi, Gujarati, English, Kannada"
@@ -4225,7 +4225,7 @@ VIT_741,qualification,pho .,PhD
 VIT_741,place,Itanager .,Itanagar
 VIT_741,Fatherhusbandname,Yug Prashad,Yug Prashad
 VIT_741,experience1,A Years at Andra-Biswas,A Years at Andra-Biswas
-VIT_741,aadhaarcard,456 297000000,4.56297E+11
+VIT_741,aadhaarcard,456 297000000,4.56E+11
 VIT_741,Dateofbirth,129 lb/1995,129/1995
 TCE_1341,AlternateNo,90604 4/6.95,9060441695
 TCE_1341,referencescmob1,Anjali Sagan -9081470871 .,Anjali Sagan - 9081470871
@@ -4343,7 +4343,7 @@ VIT_726,maritalstatus,Marveyed .,Marveyed
 VIT_726,contactnumber,7126864660,7126864660
 VIT_726,place,Lucknow .,Lucknow
 VIT_726,AlternateNo,"f3 6/ 8,5208",36185208
-VIT_726,aadhaarcard,45387 1000000,4.53871E+11
+VIT_726,aadhaarcard,45387 1000000,4.54E+11
 VIT_726,Fatherhusbandname,August Bawa .,August Bawa
 TCE_1407,experience,5 years at Bhalla-Anne,5 years at Bhalla-Anne
 TCE_1407,referencescmob1,Baijiwan Upadhyay - 4418095692 .,Baijiwan Upadhyay - 4418095692
@@ -4500,7 +4500,7 @@ VIT_774,Fatherhusbandname,Raghav Nori .,Raghav Nori
 VIT_774,gender,Female .,Female
 VIT_774,date,06I 2012022,06/2012022
 VIT_774,Dateofbirth,5 (21 ( 1974 .,5/21/1974
-VIT_774,aadhaarcard,394038000000 .0,3.94038E+12
+VIT_774,aadhaarcard,394038000000 .0,3.94E+12
 TCE_1456,candidatename,Teenth Duke .,Teenth Duke
 TCE_1456,experience,6 Years at Deshmukh-chaudhani .,6 Years at Deshmukh-chaudhani
 TCE_1456,permanentaddress,"595 , vig circle , Anantapus -3939 74 .","595, Vig Circle, Anantapus -3939 74"
@@ -4592,7 +4592,7 @@ MIT_56,experience1,8 years at Bevan-Roya .,8 years at Bevan-Roya
 MIT_56,candidatename,Ishwar Rajagopal .,Ishwar Rajagopal
 MIT_56,Dateofbirth,H.17 ( 1966 .,17/1966
 MIT_56,AlternateNo,9 3814/2-50,938141250
-MIT_56,aadhaarcard,"8,36,65,30,00,000",8.36653E+11
+MIT_56,aadhaarcard,"8,36,65,30,00,000",8.37E+11
 MIT_56,nationality,Indian .,Indian
 MIT_56,gender,male .,Male
 MIT_56,date,07 ( 18 ( 2025 .,7/18/2025
@@ -4618,7 +4618,7 @@ VIT_906,Dateofbirth,11/07 (1995 .,11-07-1995
 VIT_906,candidatename,Rishi Dhawan,Rishi Dhawan
 VIT_906,Fatherhusbandname,champak Dhawan,Champak Dhawan
 VIT_906,pancard,Y DIF F00982 .,YDIFF0098Z
-VIT_906,aadhaarcard,48256400 0000,4.82564E+11
+VIT_906,aadhaarcard,48256400 0000,4.83E+11
 MIT_587,presentaddress,"H.No. 145 , Sunday Path , Ashmednagan","H.No. 145, Sunday Path, Ashmednagan"
 MIT_587,experience,9 years at Cunha Prabhakar and Loll,9 years at Cunha Prabhakar and Loll
 MIT_587,contactnumber,8965IM0584,896510584
@@ -4637,7 +4637,7 @@ MIT_587,date,or lobby 2022,2022
 MIT_587,experience1,5 years at Mittal-Rattan .,5 years at Mittal-Rattan
 MIT_587,place,Grangtok .,Gangtok
 MIT_587,Dateofbirth,10/15 (2006 .,10/15/2006
-MIT_587,aadhaarcard,6.57392E+11,6.57392E+11
+MIT_587,aadhaarcard,6.57E+11,6.57E+11
 MIT_587,Fatherhusbandname,Ronith Bakshi .,Ronith Bakshi
 TCE_1306,experience,A Years at Venkataraman and Sons,A Years at Venkataraman and Sons
 TCE_1306,referencescmob2,Tript Vankey - 9871659662,Tript Vankey - 9871659662
@@ -4669,7 +4669,7 @@ MIT_378,place,Hyderabad .,Hyderabad
 MIT_378,Fatherhusbandname,William Rau .,William Rau
 MIT_378,date,09 ( 22 ( 2022,9/22/2022
 MIT_378,presentaddress,"280 , Master Zila , Jamnagar-892225","280, Master Zila, Jamnagar-892225"
-MIT_378,aadhaarcard,6.56926E+11,6.56926E+11
+MIT_378,aadhaarcard,6.57E+11,6.57E+11
 MIT_378,bloodgroup,B.,B
 MIT_378,experience,9 Years at Savant-Lala .,9 Years at Savant-Lala
 MIT_378,referencescmob1,Amita Ranganathan - 83551111357,Amita Ranganathan - 83551111357
@@ -4696,7 +4696,7 @@ MIT_128,Fatherhusbandname,oliven vohra .,Oliven Vohra
 MIT_128,bloodgroup,B -,B-
 MIT_128,place,I Panaji .,Panaji
 MIT_128,Dateofbirth,101 28 ) 1963 .,101/28/1963
-MIT_128,aadhaarcard,"9.9.7,35000000000",9.9735E+13
+MIT_128,aadhaarcard,"9.9.7,35000000000",9.97E+13
 TCE_1050,permanentaddress,minoeinskudi-3 zionjs ',Minoeinskudi-3 Zionjs
 TCE_1050,presentaddress,"NONO "" 61 , Kear sheet , Khora","NONO 61, Kear sheet, Khora"
 TCE_1050,referencescmob1,milima saraf - 7515825579 .,Milima Saraf - 7515825579
@@ -4784,7 +4784,7 @@ MIT_151,maritalstatus,single .,Single
 MIT_151,presentaddress,"12,881 , Shah Ganj , Parma ,at","12,881, Shah Ganj, Parma,at"
 MIT_151,AlternateNo,8994198 389,8994198389
 MIT_151,bloodgroup,B. H.,B
-MIT_151,aadhaarcard,"8 4,5662000000000",8.45662E+14
+MIT_151,aadhaarcard,"8 4,5662000000000",8.46E+14
 MIT_151,referencescmob1,chanaky a Moody - 9019 375515,Chanaky a Moody - 9019375515
 MIT_151,Dateofbirth,8 ( 20 ( 2002 .,8/20/2002
 MIT_151,candidatename,Siya Lalla .,Siya Lalla
@@ -4822,7 +4822,7 @@ MIT_384,experience1,7 years at Pall Hans and Mangat,7 years at Pall Hans and Man
 MIT_384,place,Aizawl .,Aizawl
 MIT_384,AlternateNo,8098958568,8098958568
 MIT_384,maritalstatus,married .,Married
-MIT_384,aadhaarcard,2198 6 4000000,2.19864E+11
+MIT_384,aadhaarcard,2198 6 4000000,2.20E+11
 MIT_384,nationality,Indian,Indian
 MIT_384,referencescmob1,Manya Gupta-9560829755,Manya Gupta - 9560829755
 MIT_384,bloodgroup,A -,A-
@@ -4849,7 +4849,7 @@ MIT_13,languageknown,"Tamil , English , Kannada","Tamil, English, Kannada"
 MIT_13,referencescmob2,Jyoti Solanki - 80 84 54 67 15,Jyoti Solanki - 8084546715
 MIT_13,place,Chandigarh,Chandigarh
 MIT_13,candidatename,Krishna Yohannan,Krishna Yohannan
-MIT_13,contactnumber,924      ,924318990
+MIT_13,contactnumber,924,924318990
 MIT_13,Fatherhusbandname,Wyatt Yohannan .,Wyatt Yohannan
 MIT_13,gender,male .,Male
 MIT_13,nationality,Indian,Indian
@@ -4929,7 +4929,7 @@ MIT_433,date,08 ( 16 ( 2022 .,8/16/2022
 MIT_433,maritalstatus,Married .,Married
 MIT_433,candidatename,Kashish Bali .,Kashish Bali
 MIT_433,Fatherhusbandname,Logan Bali .,Logan Bali
-MIT_433,aadhaarcard,78 9127000000,7.89127E+11
+MIT_433,aadhaarcard,78 9127000000,7.89E+11
 MIT_433,experience1,10 years at Pall and Sons .,10 years at Pall and Sons
 MIT_433,AlternateNo,1945 1 4.056 3 .,1945140563
 MIT_565,presentaddress,"H. No. 42 , Ahuga circle , Shahjahanpur","H. No. 42, Ahuga circle, Shahjahanpur"
@@ -4983,7 +4983,7 @@ VIT_924,AlternateNo,74 029 20665,7402920665
 VIT_924,referencescmob1,"Patrick Gade - 82 9,01 97.59 .",Patrick Gade - 829019759
 VIT_924,qualification,10 Its pass .,10th Pass
 VIT_924,Dateofbirth,2/3 ) 1968 .,02-03-1968
-VIT_924,aadhaarcard,"89 6.3,000000000",8.963E+12
+VIT_924,aadhaarcard,"89 6.3,000000000",8.96E+12
 VIT_924,gender,female .,Female
 VIT_924,Fatherhusbandname,Ayaan Puri .,Ayaan Puri
 VIT_924,maritalstatus,married .,Married
@@ -5046,7 +5046,7 @@ MIT_576,experience1,1 Years at Barad LLC,1 Years at Barad LLC
 MIT_576,place,Shillong .,Shillong
 MIT_576,Fatherhusbandname,zashil Sunder .,Zashil Sunder
 MIT_576,Dateofbirth,31.30 ( 1997 .,31/30/1997
-MIT_576,aadhaarcard,6.91648E+11,6.91648E+11
+MIT_576,aadhaarcard,6.92E+11,6.92E+11
 TCE_1136,referencescmob1,Poosa Palla - Y162 845525 .,Poosa Palla - 162845525
 TCE_1136,candidatename,Gourangi Tella .,Gourangi Tella
 TCE_1136,languageknown,"Marathi , Hindi .","Marathi, Hindi"
@@ -5206,7 +5206,7 @@ MIT_428,experience1,"""6 years at General - Vaety .",6 years at General - Vaety
 MIT_428,presentaddress,"660 , Deshpande Road , America . 327135","660, Deshpande Road, America . 327135"
 MIT_428,contactnumber,9505696406,9505696406
 MIT_428,Fatherhusbandname,teai Watrajann,Teai Watrajann
-MIT_428,aadhaarcard,7.32197E+11,7.32197E+11
+MIT_428,aadhaarcard,7.32E+11,7.32E+11
 MIT_428,referencescmob2,Vivaan Goda-8170484566,Vivaan Goda - 8170484566
 MIT_428,languageknown,"Kannada , Marsathi .","Kannada, Marathi"
 MIT_428,referencescmob1,"Zangi Vioka - 8118,768 4 .",Zangi Vioka - 81187684
@@ -5237,7 +5237,7 @@ VIT_706,experience1,It years at Dutt Singh and Joshi,It years at Dutt Singh and 
 VIT_706,referencescmob2,"samesh Balasubramanian - 8,000612823",Samesh Balasubramanian - 8000612823
 VIT_706,Dateofbirth,9 (2-3 ( 1988 .,9/2/3/1988
 VIT_706,candidatename,Rachit Ramesh,Rachit Ramesh
-VIT_706,aadhaarcard,8164910000000 . D,8.16491E+12
+VIT_706,aadhaarcard,8164910000000 . D,8.16E+12
 VIT_706,date,04 ( 15 (2 024 .,04/15/2/024
 VIT_706,Fatherhusbandname,Gauvaw Ramesh,Gauvaw Ramesh
 VIT_706,place,Kolkaka .,Kolkata
@@ -5251,7 +5251,7 @@ MIT_391,referencescmob1,"cabel Mahajian - 7171,008 4",Cabel Mahajian - 71710084
 MIT_391,referencescmob2,Naksh Bhatt - 9913549539,Naksh Bhatt - 9913549539
 MIT_391,maritalstatus,single .,Single
 MIT_391,presentaddress,"029 , multi Path , Muxaffarpur 372629","029, Multi Path, Muxaffarpur 372629"
-MIT_391,aadhaarcard,"50""7/92000000 .0",5.07192E+12
+MIT_391,aadhaarcard,"50""7/92000000 .0",5.07E+12
 MIT_391,languageknown,"Marathi , English , Kanneda , Gujarat","Marathi, English, Kannada, Gujarati"
 MIT_391,AlternateNo,8 6 2307474 9,8623074749
 MIT_391,Dateofbirth,11 (2 (2003 .,11-02-2003
@@ -5355,7 +5355,7 @@ VIT_956,bloodgroup,0 r,O
 VIT_956,experience1,U. years at moody and sons .,U years at moody and sons
 VIT_956,contactnumber,"9.4.2.8,108",9428108
 VIT_956,place,saper .,Saper
-VIT_956,aadhaarcard,913890000000 .,9.1389E+11
+VIT_956,aadhaarcard,913890000000 .,9.14E+11
 VIT_956,maritalstatus,Marr ed .,Married
 VIT_956,Dateofbirth,9 ( 11 ( 1968 #,09-11-1968
 TCE_1206,presentaddress,"M.NO. 4bb. Sodhi circle , propddauer","M.NO. 4bb. Sodhi circle, Propddauer"
@@ -5389,7 +5389,7 @@ VIT_773,referencescmob2,Argan Oak . 918111-985,Argan Oak 918111 - 985
 VIT_773,languageknown,"Tamil , Hindi , Marathi ; Gujarathi","Tamil, Hindi, Marathi, Gujarati"
 VIT_773,bloodgroup,AB -,AB-
 VIT_773,qualification,Diploma .,Diploma
-VIT_773,aadhaarcard,2079130000 0 0,2.07913E+11
+VIT_773,aadhaarcard,2079130000 0 0,2.08E+11
 VIT_773,AlternateNo,704 TT63729 .,7047763729
 VIT_773,place,Ipaney's ',Ipaneys
 VIT_773,experience1,Byears at usual Canadian rights,Byears at usual Canadian rights
@@ -5412,7 +5412,7 @@ MIT_122,place,Hyderabad .,Hyderabad
 MIT_122,experience1,9 years at Bhagar-Sarin .,9 years at Bhagar-Sarin
 MIT_122,qualification,Graduate .,Graduate
 MIT_122,experience,10 years at Sinha PLC .,10 years at Sinha PLC
-MIT_122,aadhaarcard,2.86332E+12,2.86332E+12
+MIT_122,aadhaarcard,2.86E+12,2.86E+12
 MIT_122,bloodgroup,At,A+
 MIT_122,AlternateNo,9320009009 .,9320009009
 MIT_122,pancard,HRIJG 54556 .,HRIJG5455G
@@ -5436,7 +5436,7 @@ MIT_447,referencescmob1,Andira Seth - 8138192492 .,Andira Seth - 8138192492
 MIT_447,Fatherhusbandname,Ekalinga Wali .,Ekalinga Wali
 MIT_447,candidatename,Amol Wali .,Amol Wali
 MIT_447,contactnumber,9282436718,9282436718
-MIT_447,aadhaarcard,4.87115E+11,4.87115E+11
+MIT_447,aadhaarcard,4.87E+11,4.87E+11
 VIT_716,AlternateNo,8181616700 .,8181616700
 VIT_716,permanentaddress,"296 , Chander , Siliguri 007227 .","296, Chander, Siliguri 007227"
 VIT_716,languageknown,"Hindi_ Kisarati , Malayalam","Hindi, Kisarati, Malayalam"
@@ -5465,7 +5465,7 @@ MIT_278,Dateofbirth,6/ 3/1984 .,06-03-1984
 MIT_278,qualification,Post-Orslachuate,Post-orslachuate
 MIT_278,referencescmob1,Granauer John - 11-09-777,Granauer John - 11-09-777
 MIT_278,date,04 11 3 1 2025,04/11/3/1/2025
-MIT_278,aadhaarcard,5.61056E+11,5.61056E+11
+MIT_278,aadhaarcard,5.61E+11,5.61E+11
 MIT_278,maritalstatus,single .,Single
 MIT_278,gender,Female .,Female
 MIT_278,permanentaddress,"31,555 , Sachar Zila , Coimbatore","31,555, Sachar Zila, Coimbatore"
@@ -5590,7 +5590,7 @@ MIT_32,qualification,12th Pass .,12th Pass
 MIT_32,experience,7 years at Sarkar - Ratta,7 years at Sarkar - Ratta
 MIT_32,gender,Male .,Male
 MIT_32,bloodgroup,0 #,O
-MIT_32,aadhaarcard,280017000000 .,2.80017E+11
+MIT_32,aadhaarcard,280017000000 .,2.80E+11
 MIT_169,languageknown,"Kannada , Telugu , Tamil","Kannada, Telugu, Tamil"
 MIT_169,referencescmob2,Jagui Rao - 753474 2934,Jagui Rao - 7534742934
 MIT_169,maritalstatus,married .,Married
@@ -5603,7 +5603,7 @@ MIT_169,AlternateNo,79 0269 6250,7902696250
 MIT_169,experience1,1 years at Bhagat Kothari and Kapadi,1 years at Bhagat Kothari and Kapadi
 MIT_169,presentaddress,"TOI , BOASE Chowk , Faridabad -321298","TOI, BOASE Chowk, Faridabad -321298"
 MIT_169,qualification,10th pass .,10th Pass
-MIT_169,aadhaarcard,"6,61,67,40,00,000",6.61674E+11
+MIT_169,aadhaarcard,"6,61,67,40,00,000",6.62E+11
 MIT_169,bloodgroup,At,A+
 MIT_169,Fatherhusbandname,Ishwar Bajwa .,Ishwar Bajwa
 MIT_169,referencescmob1,ANITA SRASTAVA - 9938424288,ANITA SRASTAVA - 9938424288
@@ -5630,7 +5630,7 @@ MIT_642,gender,Male .,Male
 MIT_642,nationality,Indian,Indian
 MIT_642,date,07 ( 19 ) 2025,7/19/2025
 MIT_642,Fatherhusbandname,Ekavin Bhattacharyya .,Ekavin Bhattacharyya
-MIT_642,aadhaarcard,9.83219E+11,9.83219E+11
+MIT_642,aadhaarcard,9.83E+11,9.83E+11
 MIT_435,referencescmob2,Adwika shulela - 886695300p .,Adwika Shulela - 886695300
 MIT_435,languageknown,"Kannada , Gujawati , Hindi , Bengali","Kannada, Gujarati, Hindi, Bengali"
 MIT_435,permanentaddress,"H.NO. 50 , Chandra Poth , Bhagalpur 191430","H.NO. 50, Chandra Poth, Bhagalpur 191430"
@@ -5666,7 +5666,7 @@ MIT_675,place,shimla .,Shimla
 MIT_675,experience1,3 years at keakar-prashad,3 years at keakar-prashad
 MIT_675,bloodgroup,A-,A-
 MIT_675,qualification,Diploma .,Diploma
-MIT_675,aadhaarcard,7.04337E+11,7.04337E+11
+MIT_675,aadhaarcard,7.04E+11,7.04E+11
 MIT_675,Dateofbirth,08-07-2000,08-07-2000
 MIT_675,nationality,Indian,Indian
 MIT_675,experience,7 years at Gulati Kota and Borah,7 years at Gulati Kota and Borah
@@ -5690,7 +5690,7 @@ MIT_572,Dateofbirth,2 1/4 ) 1973 .,2/1/4/1973
 MIT_572,place,Delhi .,Delhi
 MIT_572,experience1,7 Years at Bhakta' Group .,7 Years at Bhakta Group
 MIT_572,Fatherhusbandname,Ansh Anne .,Ansh Anne
-MIT_572,aadhaarcard,"7813 +3,000000 0 .",7.8133E+11
+MIT_572,aadhaarcard,"7813 +3,000000 0 .",7.81E+11
 VIT_852,permanentaddress,"8115th , Tiwani Chowk , Madhyamgram-07aso-","8115th, Tiwani Chowk, Madhyamgram-07aso"
 VIT_852,presentaddress,"#S190 , Kadakia Chowk , Bhakpara 11/26th","S190, Kadakia Chowk, Bhakpara 11/26th"
 VIT_852,contactnumber,8445983337,8445983337
@@ -5710,7 +5710,7 @@ VIT_852,Fatherhusbandname,Advaith Verkey .,Advaith Verkey
 VIT_852,gender,Female .,Female
 VIT_852,bloodgroup,ABt .,AB+
 VIT_852,candidatename,Amara Varkey,Amara Varkey
-VIT_852,aadhaarcard,21 09 08000000,2.10908E+11
+VIT_852,aadhaarcard,21 09 08000000,2.11E+11
 TCE_1465,permanentaddress,"36,695 "" Divan Chowak , Hospet","36,695 Divan Chowak, Hospet"
 TCE_1465,candidatename,Daksha Scura .,Daksha Scura
 TCE_1465,referencescmob1,Wazir Thakkar- 8060571049 .,Wazir Thakkar - 8060571049
@@ -5767,7 +5767,7 @@ MIT_657,nationality,Indian,Indian
 MIT_657,experience1,1 years at Hegde-some,1 years at Hegde-some
 MIT_657,qualification,Post-graduate .,Post-Graduate
 MIT_657,bloodgroup,at,A+
-MIT_657,aadhaarcard,"4,80466000000 0",4.80466E+12
+MIT_657,aadhaarcard,"4,80466000000 0",4.80E+12
 MIT_657,maritalstatus,Maveried .,Married
 TCE_1311,candidatename,Yashodhara Agrawal,Yashodhara Agrawal
 TCE_1311,permanentaddress,"305 , Dixit Iranj , Durgapur-00118 )","305, Dixit Iranj, Durgapur-00118"
@@ -5948,7 +5948,7 @@ MIT_290,gender,male .,Male
 MIT_647,languageknown,"English , Tarnil , Hindi","English, Tamil, Hindi"
 MIT_647,AlternateNo,907153447 .,907153447
 MIT_647,permanentaddress,"HOW00207 , John Path , Thrissus 859315","HOW00207, John Path, Thrissus 859315"
-MIT_647,contactnumber,795 7679201927,7.95768E+12
+MIT_647,contactnumber,795 7679201927,7.96E+12
 MIT_647,presentaddress,"MONOOTG , Susan Chowk , Bushenpox","MONOOTG, Susan Chowk, Bushenpox"
 MIT_647,nationality,Indian .,Indian
 MIT_647,experience,4 Years at Karpe-Vigas .,4 Years at Karpe-Vigas
@@ -6018,7 +6018,7 @@ VIT_957,experience1,8 years at Shiroff LT. D.,8 years at Shiroff LT D
 VIT_957,place,Kolkata .,Kolkata
 VIT_957,gender,Female .,Female
 VIT_957,bloodgroup,# BT.,BT
-VIT_957,aadhaarcard,"978 4,000000000000",9.784E+15
+VIT_957,aadhaarcard,"978 4,000000000000",9.78E+15
 VIT_957,nationality,Indian .,Indian
 VIT_957,qualification,With Pass .,With Pass
 VIT_957,maritalstatus,Single .,Single
@@ -6136,12 +6136,12 @@ VIT_995,date,of 21 ( 24 .,21/24
 VIT_995,Fatherhusbandname,Bakhshi Mishra .,Bakhshi Mishra
 VIT_995,place,Hyderabad .,Hyderabad
 VIT_995,bloodgroup,B.,B
-VIT_995,contactnumber,78 59953 4.4.4.4.4.4.4.4.,7.85995E+14
+VIT_995,contactnumber,78 59953 4.4.4.4.4.4.4.4.,7.86E+14
 VIT_995,qualification,ph D .,PhD
 VIT_995,AlternateNo,7252576 713 .,7252576713
 VIT_995,experience1,2 years at Bama - Ben,2 years at Bama - Ben
 VIT_995,maritalstatus,Married .,Married
-VIT_995,aadhaarcard,3.06228E+11,3.06228E+11
+VIT_995,aadhaarcard,3.06E+11,3.06E+11
 VIT_995,Dateofbirth,2/6 ( 20020 .,2/6/20020
 MIT_50,permanentaddress,"52,909 , Naunda Marg , Aligarh .","52,909, Naunda Marg, Aligarh"
 MIT_50,experience1,6 years at Krishnan Ltd .,6 years at Krishnan Ltd
@@ -6202,7 +6202,7 @@ VIT_782,date,06/1012025 .,06/1012025
 VIT_782,place,Mumbai .,Mumbai
 VIT_782,Dateofbirth,5/1911976 .,5/1911976
 VIT_782,Fatherhusbandname,Hitesh Sawhney .,Hitesh Sawhney
-VIT_782,aadhaarcard,295390000000 0,2.9539E+12
+VIT_782,aadhaarcard,295390000000 0,2.95E+12
 TCE_1039,candidatename,Rajata Sachdova .,Rajata Sachdova
 TCE_1039,languageknown,"Medyalam , Marathi , Inujarathi","Malayalam, Marathi, Inujarathi"
 TCE_1039,maritalstatus,married .,Married
@@ -6354,7 +6354,7 @@ VIT_861,experience1,I guess at Bedi-Sami,I guess at Bedi-Sami
 VIT_861,Dateofbirth,In ( 1988,1988
 VIT_861,date,08 ( 31 ( 2023 .,8/31/2023
 VIT_861,Fatherhusbandname,Paris Bora .,Paris Bora
-VIT_861,aadhaarcard,6.94193E+11,6.94193E+11
+VIT_861,aadhaarcard,6.94E+11,6.94E+11
 VIT_764,languageknown,"marathi , Tamil , Gujarathi , Bengali","Marathi, Tamil, Gujarati, Bengali"
 VIT_764,contactnumber,83 74444 765,8374444765
 VIT_764,permanentaddress,"H. No. 29 , Karpe Circle , Hyderabad-95 3952","H. No. 29, Karpe Circle, Hyderabad-95 3952"
@@ -6374,7 +6374,7 @@ VIT_764,place,Hydera bad .,Hyderabad
 VIT_764,AlternateNo,9504181393 .,9504181393
 VIT_764,Dateofbirth,3 (14 ) 1992 .,3/14/1992
 VIT_764,Fatherhusbandname,Nitesh Randhawa .,Nitesh Randhawa
-VIT_764,aadhaarcard,35893100000 0,3.58931E+11
+VIT_764,aadhaarcard,35893100000 0,3.59E+11
 VIT_784,languageknown,"Marathi , Kannada .","Marathi, Kannada"
 VIT_784,qualification,Graduate .,Graduate
 VIT_784,permanentaddress,"65/21 , Nadig Street , Gandhidham-70.548","65/21, Nadig Street, Gandhidham-70.548"
@@ -6393,7 +6393,7 @@ VIT_784,nationality,Indianism .,Indianism
 VIT_784,referencescmob1,Urui Chakraborty - 9046609318,Urui Chakraborty - 9046609318
 VIT_784,place,Seipur .,Seipur
 VIT_784,date,01/ 04 ( 2022 .,01-04-2022
-VIT_784,aadhaarcard,"584154000000,0",5.84154E+12
+VIT_784,aadhaarcard,"584154000000,0",5.84E+12
 VIT_784,Fatherhusbandname,Azaan Babu .,Azaan Babu
 VIT_867,maritalstatus,single .,Single
 VIT_867,experience,A years at Arizona FLC.,A years at Arizona FLC
@@ -6414,7 +6414,7 @@ VIT_867,date,12 ( 25 ( 2025 .,12/25/2025
 VIT_867,place,Raipar .,Raipur
 VIT_867,Dateofbirth,8/14 (2003 .,8/14/2003
 VIT_867,Fatherhusbandname,8hevansh icespal .,Hevansh Icespal
-VIT_867,aadhaarcard,8.36252E+11,8.36252E+11
+VIT_867,aadhaarcard,8.36E+11,8.36E+11
 MIT_133,languageknown,"Telugu , Malayalam .","Telugu, Malayalam"
 MIT_133,gender,Female .,Female
 MIT_133,contactnumber,8232979504 .,8232979504
@@ -6450,7 +6450,7 @@ MIT_424,referencescmob1,Repa Savant - FQAFI 20860 .,Repa Savant - 20860
 MIT_424,gender,female .,Female
 MIT_424,AlternateNo,992 902 703G.,9929027036
 MIT_424,place,against a cantala .,Againstacantala
-MIT_424,aadhaarcard,"8,18,51,00,00,00,000",8.1851E+13
+MIT_424,aadhaarcard,"8,18,51,00,00,00,000",8.19E+13
 MIT_424,Fatherhusbandname,Kardik Wason .,Kardik Wason
 MIT_424,referencescmob2,Dominic Souway -88713930155,Dominic Souway - 88713930155
 MIT_424,candidatename,Dipta Wason,Dipta Wason
@@ -6490,7 +6490,7 @@ MIT_648,date,08 ( 24 ( 2024 .,8/24/2024
 MIT_648,experience,8 years at Aurora Group .,8 years at Aurora Group
 MIT_648,experience1,Iro years at Mauleuc .,Iro years at Mauleuc
 MIT_648,maritalstatus,Single .,Single
-MIT_648,aadhaarcard,818024000000 . 0,8.18024E+12
+MIT_648,aadhaarcard,818024000000 . 0,8.18E+12
 MIT_648,qualification,Graduate .,Graduate
 MIT_648,bloodgroup,at .,A+
 MIT_648,Dateofbirth,7 ( 29 ) 2002 .,7/29/2002
@@ -6519,7 +6519,7 @@ MIT_207,contactnumber,9482883175,9482883175
 MIT_207,date,4/20 (2023 .,4/20/2023
 MIT_207,place,Ranchi .,Ranchi
 MIT_207,presentaddress,"H.No. 943 , Thaker Circle , Diliguri 145775","H.No. 943, Thaker Circle, Diliguri 145775"
-MIT_207,aadhaarcard,6058 350000000,6.05835E+12
+MIT_207,aadhaarcard,6058 350000000,6.06E+12
 MIT_207,experience,to years at Bom-Argarwal,to years at Bom-Argarwal
 MIT_207,experience1,3 years at Kota-Sodhi .,3 years at Kota-Sodhi
 MIT_207,referencescmob2,Azaan konda - 7099460782,Azaan Konda - 7099460782
@@ -6609,14 +6609,14 @@ VIT_902,place,Pangi .,Panaji
 VIT_902,experience1,1 years at Sidhu-Palla .,1 years at Sidhu-Palla
 VIT_902,Dateofbirth,1.9. 1961 .,01-09-1961
 VIT_902,contactnumber,98 # 71253942,9871253942
-VIT_902,aadhaarcard,54 29.58000000,5.42958E+11
+VIT_902,aadhaarcard,54 29.58000000,5.43E+11
 MIT_356,maritalstatus,single .,Single
 MIT_356,experience,9 years at Aurora and Sons .,9 years at Aurora and Sons
 MIT_356,permanentaddress,"14 , Keen Nagar . Zengahal-198074","14, Keen Nagar . Zengahal-198074"
 MIT_356,experience1,I years at Grill Inc.,I years at Grill Inc
 MIT_356,AlternateNo,9634261663 .,9634261663
 MIT_356,referencescmob1,Lakshib Hayer -7298893355,Lakshib Hayer - 7298893355
-MIT_356,aadhaarcard,3.2376E+12,3.2376E+12
+MIT_356,aadhaarcard,3.24E+12,3.24E+12
 MIT_356,Dateofbirth,5/16 (1962 .,5/16/1962
 MIT_356,qualification,PhD .,PhD
 MIT_356,presentaddress,"86 ( 766 , Bath Zila , Danagour 610814","86 766, Bath Zila, Danagour 610814"
@@ -6650,7 +6650,7 @@ VIT_952,gender,Mele .,Male
 VIT_952,date,10 ( 30/2024 .,10/30/2024
 VIT_952,maritalstatus,married .,Married
 VIT_952,Fatherhusbandname,Praisit Bala .,Praisit Bala
-VIT_952,aadhaarcard,94859 6000000,9.48596E+11
+VIT_952,aadhaarcard,94859 6000000,9.49E+11
 TCE_1084,experience,6 years at Mall and Sons .,6 years at Mall and Sons
 TCE_1084,referencescmob1,Homa Majumdar - 908969255,Homa Majumdar - 908969255
 TCE_1084,experience1,2 years at Tiwari Moby and Anand .,2 years at Tiwari Moby and Anand
@@ -6727,7 +6727,7 @@ MIT_536,languageknown,English Malayalam .,"English, Malayalam"
 MIT_536,qualification,phD .,PhD
 MIT_536,Fatherhusbandname,Lohit Modi .,Lohit Modi
 MIT_536,candidatename,Jonathan Modi .,Jonathan Modi
-MIT_536,aadhaarcard,7.31036E+11,7.31036E+11
+MIT_536,aadhaarcard,7.31E+11,7.31E+11
 TCE_1207,candidatename,Feyaz Dua .,Feyaz Dua
 TCE_1207,gender,Male .,Male
 TCE_1207,languageknown,"Bengali , Telugu , Hundi .","Bengali, Telugu, Hindi"
@@ -6761,7 +6761,7 @@ MIT_119,date,"12 ( 25 ( ""2024 .",12/25/2024
 MIT_119,nationality,Indian,Indian
 MIT_119,Fatherhusbandname,Robert Suresh .,Robert Suresh
 MIT_119,bloodgroup,Bt .,B+
-MIT_119,aadhaarcard,"9176 59,000000",9.17659E+11
+MIT_119,aadhaarcard,"9176 59,000000",9.18E+11
 MIT_119,place,chan di earth .,Chandigarh
 MIT_119,experience1,8Yeurj at Babu-Bamsal,8Yeurj at Babu-Bamsal
 MIT_119,qualification,Post-Graduate,Post-Graduate
@@ -6776,7 +6776,7 @@ MIT_522,AlternateNo,76 (500 94.33 ) .,7615009433
 MIT_522,gender,male .,Male
 MIT_522,contactnumber,"76,6, 37.3/ b.",76637316
 MIT_522,referencescmob1,Radha Mfowanna - 189757939 ) .,Radha Mfowanna - 189757939
-MIT_522,aadhaarcard,41190000000 0,4.119E+11
+MIT_522,aadhaarcard,41190000000 0,4.12E+11
 MIT_522,place,scipuous .,Scipuous
 MIT_522,referencescmob2,Tomya Bala - 86200 3694 D.,Tomya Bala - 862003694
 MIT_522,Fatherhusbandname,Jacob patholic .,Jacob Patholic
@@ -6805,7 +6805,7 @@ VIT_877,place,Bengalure,Bengaluru
 VIT_877,Dateofbirth,81211960,81211960
 VIT_877,experience1,I years at Shetty Ratti,I years at Shetty Ratti
 VIT_877,date,01 ( 06 )2024 .,01-06-2024
-VIT_877,aadhaarcard,7.18626E+11,7.18626E+11
+VIT_877,aadhaarcard,7.19E+11,7.19E+11
 VIT_877,Fatherhusbandname,Maanav Nyas .,Maanav Nyas
 MIT_365,experience1,3 years at Mane Bhatt and Bora,3 years at Mane Bhatt and Bora
 MIT_365,permanentaddress,"H.NO. 679 , Arya , Sikar 801867","H.NO. 679, Arya, Sikar 801867"
@@ -6856,7 +6856,7 @@ MIT_73,Fatherhusbandname,Raghov Barad,Raghov Barad
 MIT_73,permanentaddress,"H.NO. 891 , Comser Road , Mohsara-934 835","H.NO. 891, Comser Road, Mohsara-934 835"
 MIT_73,AlternateNo,94 089 0.33.29 .,9408903329
 MIT_73,gender,Male .,Male
-MIT_73,aadhaarcard,371 662000000,3.71662E+11
+MIT_73,aadhaarcard,371 662000000,3.72E+11
 MIT_73,languageknown,"Malayalam , Bengali , Marathi , Hindi .","Malayalam, Bengali, Marathi, Hindi"
 MIT_73,presentaddress,"76 , Krishnam Iula , Jamnagar 046184 .","76, Krishnam Iula, Jamnagar 046184"
 MIT_73,nationality,Indian,Indian
@@ -6885,7 +6885,7 @@ MIT_401,bloodgroup,at,A+
 MIT_401,candidatename,Prisha Dey .,Prisha Dey
 MIT_401,nationality,fnouian .,Fnouian
 MIT_401,gender,Female .,Female
-MIT_401,aadhaarcard,6488 95000000,6.48895E+11
+MIT_401,aadhaarcard,6488 95000000,6.49E+11
 MIT_431,permanentaddress,"47163 , Amennalia circle , Prusro-654025","47163, Amennalia Circle, Prusro-654025"
 MIT_431,AlternateNo,911 6989864 .,9116989864
 MIT_431,presentaddress,"H.NO. 93 , Croyne Cranj , Berhamp.53","H.NO. 93, Croyne Cranj, Berhamp.53"
@@ -6895,7 +6895,7 @@ MIT_431,experience,1 years at Ratta and Sons .,1 years at Ratta and Sons
 MIT_431,referencescmob1,Ilebel Kanda - 7H24289316 .,Ilebel Kanda - 724289316
 MIT_431,languageknown,"Hindi , Tamil , Bengali .","Hindi, Tamil, Bengali"
 MIT_431,place,Isonima .,Isonima
-MIT_431,aadhaarcard,ITI204000000,1.71204E+11
+MIT_431,aadhaarcard,ITI204000000,1.71E+11
 MIT_431,bloodgroup,a b-,AB-
 MIT_431,Dateofbirth,11 91/9th,11/91/9
 MIT_431,experience1,8 years at Barar-Oorman,8 years at Barar-Oorman
@@ -6944,7 +6944,7 @@ MIT_2,qualification,graduate .,Graduate
 MIT_2,bloodgroup,0 -,O-
 MIT_2,maritalstatus,married .,Married
 MIT_2,Dateofbirth,3 ( 18 ( 1966 .,3/18/1966
-MIT_2,aadhaarcard,1926 16000000,1.92616E+11
+MIT_2,aadhaarcard,1926 16000000,1.93E+11
 VIT_772,presentaddress,"sifsir , sekhon , Aurangabad","Sifsir, Sekhon, Aurangabad"
 VIT_772,referencescmob1,Mekhala Malhotra - 865295ibts,Mekhala Malhotra - 865295
 VIT_772,languageknown,"Malayalam , English , Tamil","Malayalam, English, Tamil"
@@ -6983,7 +6983,7 @@ MIT_547,Dateofbirth,Nov-95,Nov-95
 MIT_547,nationality,Indian,Indian
 MIT_547,gender,Male .,Male
 MIT_547,bloodgroup,Bt .,B+
-MIT_547,aadhaarcard,7618720000 00,7.61872E+11
+MIT_547,aadhaarcard,7618720000 00,7.62E+11
 MIT_547,candidatename,Fariq Vora .,Fariq Vora
 MIT_406,referencescmob2,Gabriel Natt - 7409661828,Gabriel Natt - 7409661828
 MIT_406,experience,10 years at Thakkar Ltd .,10 years at Thakkar Ltd
@@ -6995,7 +6995,7 @@ MIT_406,contactnumber,7531865592,7531865592
 MIT_406,nationality,Indian,Indian
 MIT_406,maritalstatus,married .,Married
 MIT_406,date,04 ( 29 (2023 .,4/29/2023
-MIT_406,aadhaarcard,9.65881E+12,9.65881E+12
+MIT_406,aadhaarcard,9.66E+12,9.66E+12
 MIT_406,referencescmob1,Bishakha Seshadri - 7498532632,Bishakha Seshadri - 7498532632
 MIT_406,Dateofbirth,9/24 )995,9/24/995
 MIT_406,qualification,Diploma .,Diploma
@@ -7024,7 +7024,7 @@ MIT_106,qualification,graduate,Graduate
 MIT_106,place,Agarbala .,Agartala
 MIT_106,Fatherhusbandname,veer Avora .,Veer Avora
 MIT_106,Dateofbirth,3/a ( 1993 .,Mar-93
-MIT_106,aadhaarcard,4.34 634000000,4.34634E+11
+MIT_106,aadhaarcard,4.34 634000000,4.35E+11
 TCE_1194,candidatename,Graumar Misna .,Graumar Misna
 TCE_1194,referencescmob1,Giminda Roy-7683232182,Giminda Roy - 7683232182
 TCE_1194,languageknown,"Telugu , English , Marndri","Telugu, English, Marndri"
@@ -7059,7 +7059,7 @@ MIT_11,Fatherhusbandname,Patrick Adieja .,Patrick Adieja
 MIT_11,referencescmob2,Inaya Kapur - 9600 7559 28,Inaya Kapur - 9600755928
 MIT_11,contactnumber,8361868909,8361868909
 MIT_11,date,oblaid 2025 .,2025
-MIT_11,aadhaarcard,3.50008E+11,3.50008E+11
+MIT_11,aadhaarcard,3.50E+11,3.50E+11
 MIT_11,maritalstatus,married .,Married
 MIT_11,place,Hydenabad .,Hyderabad
 MIT_11,Dateofbirth,8124 ) 1979 .,8124/1979
@@ -7080,7 +7080,7 @@ VIT_894,date,10 ( 28 ( 2024 .,10/28/2024
 VIT_894,qualification,10th pass .,10th Pass
 VIT_894,experience,4 years out there orroup,4 years out there orroup
 VIT_894,bloodgroup,or,O
-VIT_894,aadhaarcard,6666 318000000,6.66632E+12
+VIT_894,aadhaarcard,6666 318000000,6.67E+12
 VIT_894,maritalstatus,single .,Single
 VIT_894,place,Ikohima,Kohima
 MIT_203,referencescmob1,caleb choudhry - 863528558,Caleb Choudhry - 863528558
@@ -7129,7 +7129,7 @@ MIT_256,presentaddress,"75, Mittal Street , Auranga bad -84399","75, Mittal Stre
 MIT_256,experience1,9 years at Rattan LLC,9 years at Rattan LLC
 MIT_256,qualification,php .,PhD
 MIT_256,contactnumber,9 3.20.2.597 .,93202597
-MIT_256,aadhaarcard,7.29035E+11,7.29035E+11
+MIT_256,aadhaarcard,7.29E+11,7.29E+11
 MIT_256,Dateofbirth,9 (2 ) 1969,09-02-1969
 MIT_256,date,05 ) 01 ) 2024 .,05-01-2024
 MIT_256,experience,4 years at Samra Sain and mallick,4 years at Samra Sain and mallick
@@ -7238,7 +7238,7 @@ TCE_1394,qualification,PhD .,PhD
 TCE_1394,bloodgroup,at,A+
 TCE_1394,date,06 ( 01 ) 2022 .,06-01-2022
 TCE_1394,Fatherhusbandname,Tagat pingle .,Tagat Pingle
-TCE_1394,aadhaarcard,68 909 70000000 .0,6.89097E+13
+TCE_1394,aadhaarcard,68 909 70000000 .0,6.89E+13
 MIT_484,permanentaddress,"H.NO. 148 , Sampath , Begusarai -","H.NO. 148, Sampath, Begusarai"
 MIT_484,presentaddress,"88 , chakra Barti chawk , sambalpur","88, Chakra Barti Chawk, Sambalpur"
 MIT_484,pancard,XIXSAD 726G.,XIXSAD726G
@@ -7259,7 +7259,7 @@ MIT_484,date,or fuel 2022 .,2022
 MIT_484,contactnumber,978 573192,978573192
 MIT_484,gender,male .,Male
 MIT_484,candidatename,Ethan Minhas .,Ethan Minhas
-MIT_484,aadhaarcard,151 68 1000000,1.51681E+11
+MIT_484,aadhaarcard,151 68 1000000,1.52E+11
 TCE_1247,permanentaddress,"56/6 , Chakrabart Mary , Davanagere","56/6, Chakrabart Mary, Davanagere"
 TCE_1247,experience,7 Years at Chopra Taggi and Julian,7 Years at Chopra Taggi and Julian
 TCE_1247,referencescmob1,"Samuh Barman - 97,248.429 .",Samuh Barman - 97248429
@@ -7298,7 +7298,7 @@ MIT_19,bloodgroup,bt .,B+
 MIT_19,place,Mumbai,Mumbai
 MIT_19,contactnumber,9286469428,9286469428
 MIT_19,experience1,7 years at history Inc.,7 years at history Inc
-MIT_19,aadhaarcard,9.77083E+11,9.77083E+11
+MIT_19,aadhaarcard,9.77E+11,9.77E+11
 VIT_981,contactnumber,89#633637 .,89633637
 VIT_981,languageknown,"Guyjouri , Bengali , English","Guyjouri, Bengali, English"
 VIT_981,permanentaddress,"H. No. - 317 , Borro Path , Pondichoney Goggs 39 .","H. No. - 317, Borro Path, Pondichoney Goggs 39"
@@ -7336,7 +7336,7 @@ VIT_727,maritalstatus,married .,Married
 VIT_727,qualification,12th Pass .,12th Pass
 VIT_727,AlternateNo,8083829463 .,8083829463
 VIT_727,date,05. 03.2024 .,05-03-2024
-VIT_727,aadhaarcard,G15505000000,6.15505E+11
+VIT_727,aadhaarcard,G15505000000,6.16E+11
 VIT_727,place,Patna,Patna
 VIT_727,Dateofbirth,10.28 . 1963 .,10/28/1963
 MIT_416,pancard,WZX HB1713U.,WZXHB1713U
@@ -7583,7 +7583,7 @@ MIT_304,place,Thiruvananthapuram .,Thiruvananthapuram
 MIT_304,Fatherhusbandname,Elijah Graba .,Elijah Graba
 MIT_304,permanentaddress,"H. No.53 , Baneal Nager , Maheshtala - 950,56","H. No.53, Baneal Nager, Maheshtala - 950,56"
 MIT_304,experience1,3 years at Hari Sainivas and Panchal,3 years at Hari Sainivas and Panchal
-MIT_304,aadhaarcard,"826092,000000-0 .",8.26092E+12
+MIT_304,aadhaarcard,"826092,000000-0 .",8.26E+12
 MIT_304,presentaddress,"61 , Ram Circle , Rouzieela 979137","61, Ram Circle, Rouzieela 979137"
 MIT_304,experience,a years at Veg Ltd .,a years at Veg Ltd
 MIT_304,referencescmob1,Dinya Sheth - 9631855910,Dinya Sheth - 9631855910
@@ -7602,7 +7602,7 @@ MIT_317,languageknown,"KANNADA , English , Tamil","KANNADA, English, Tamil"
 MIT_317,referencescmob2,UNNATI PACUPTA -10889146ING,UNNATI PACUPTA - 10889146
 MIT_317,experience1,8 YEARS AT WALI Tiwarbajas .,8 YEARS AT WALI Tiwarbajas
 MIT_317,presentaddress,"H.NO. BUT WENKATARMAN CIRCLE ,",H.NO. BUT WENKATARMAN CIRCLE
-MIT_317,Dateofbirth,416      ,416/1/970
+MIT_317,Dateofbirth,416,416/1/970
 MIT_317,AlternateNo,72017 upon,720170
 MIT_317,qualification,10th pass .,10th Pass
 MIT_317,Fatherhusbandname,Ranbir Sinuhal .,Ranbir Sinuhal
@@ -7714,7 +7714,7 @@ MIT_691,qualification,broaduate .,Graduate
 MIT_691,pancard,XTF BT9 54 6Y .,XTFBT9546Y
 MIT_691,Dateofbirth,718 ( 1962 .,718/1962
 MIT_691,maritalstatus,married .,Married
-MIT_691,aadhaarcard,901359000000 #,9.01359E+11
+MIT_691,aadhaarcard,901359000000 #,9.01E+11
 VIT_707,permanentaddress,"91/144 , Ram Ganj , Gwaliorz ,","91/144, Ram Ganj, Gwaliorz"
 VIT_707,presentaddress,"toprob , Bakshi Nagar , Darbhanga","Toprob, Bakshi Nagar, Darbhanga"
 VIT_707,AlternateNo,8 2 4/9 4/234,8241941234
@@ -7734,7 +7734,7 @@ VIT_707,Fatherhusbandname,Omkaar Ravi .,Omkaar Ravi
 VIT_707,candidatename,Krishna Ravi .,Krishna Ravi
 VIT_707,place,This uvananthapuram,Thiruvananthapuram
 VIT_707,Dateofbirth,11 (5 ( 2003 .,11-05-2003
-VIT_707,aadhaarcard,237100000000 0,2.371E+12
+VIT_707,aadhaarcard,237100000000 0,2.37E+12
 MIT_515,presentaddress,"56105 , Mody Nagar , Allahabad-092846","56105, Mody Nagar, Allahabad-092846"
 MIT_515,permanentaddress,"00/934 , they're Street , behind -372954 ,","00/934, Theyre Street, Behind -372954"
 MIT_515,contactnumber,7 822 30 5406,7822305406
@@ -7743,7 +7743,7 @@ MIT_515,nationality,studian .,Studian
 MIT_515,referencescmob1,August Khurard -887285177 (,August Khurard - 887285177
 MIT_515,referencescmob2,Der Sama - 9226062215,Der Sama - 9226062215
 MIT_515,languageknown,"Tamil , Gujarati , English , Marathi","Tamil, Gujarati, English, Marathi"
-MIT_515,aadhaarcard,2.32396E+11,2.32396E+11
+MIT_515,aadhaarcard,2.32E+11,2.32E+11
 MIT_515,maritalstatus,Married .,Married
 MIT_515,bloodgroup,ab -,AB-
 MIT_515,candidatename,Aahana Trivedi .,Aahana Trivedi
@@ -7772,7 +7772,7 @@ MIT_437,place,Dispur .,Dispur
 MIT_437,Dateofbirth,2 (21 ( 1992 .,2/21/1992
 MIT_437,qualification,10th pass .,10th Pass
 MIT_437,AlternateNo,"70,95900400 .",7095900400
-MIT_437,aadhaarcard,251054000000 .,2.51054E+11
+MIT_437,aadhaarcard,251054000000 .,2.51E+11
 MIT_437,experience,9 years rat Ganguly LLC .,9 years rat Ganguly LLC
 TCE_1482,experience,I years at Chaudhari Munty and Ravi,I years at Chaudhari Munty and Ravi
 TCE_1482,referencescmob1,Tanvey Saran - 7553A34959 .,Tanvey Saran - 755334959
@@ -7807,7 +7807,7 @@ MIT_234,nationality,Indian,Indian
 MIT_234,candidatename,Liam Dey .,Liam Dey
 MIT_234,place,Thiruvananthapuram,Thiruvananthapuram
 MIT_234,date,08/05 (2023 .,08-05-2023
-MIT_234,aadhaarcard,952464000000 .,9.52464E+11
+MIT_234,aadhaarcard,952464000000 .,9.52E+11
 MIT_234,contactnumber,131667299 ),131667299
 MIT_234,bloodgroup,A -,A-
 MIT_234,experience,1 years at Guha LLC .,1 years at Guha LLC
@@ -7900,7 +7900,7 @@ MIT_199,maritalstatus,married .,Married
 MIT_199,experience1,2 years at Dutt Naidu and Jani,2 years at Dutt Naidu and Jani
 MIT_199,referencescmob2,Adureta-Goobe - 7901573183,Adureta-Goobe - 7901573183
 MIT_199,presentaddress,"H.NO.609 , Bala Street , Aurangalagl 5.3","H.NO.609, Bala Street, Aurangalagl 5.3"
-MIT_199,aadhaarcard,53504 2000000,5.35042E+11
+MIT_199,aadhaarcard,53504 2000000,5.35E+11
 MIT_199,nationality,Indian,Indian
 MIT_199,experience,9 Years of Dani Ramanathan and Lal,9 Years of Dani Ramanathan and Lal
 MIT_199,qualification,Ph D .,PhD
@@ -7930,7 +7930,7 @@ MIT_25,experience,5 years at Dugar-single,5 years at Dugar-single
 MIT_25,candidatename,Hritik Puri .,Hritik Puri
 MIT_25,maritalstatus,married .,Married
 MIT_25,Dateofbirth,3/211990 .,3/211990
-MIT_25,aadhaarcard,362430000000 #,3.6243E+11
+MIT_25,aadhaarcard,362430000000 #,3.62E+11
 MIT_25,contactnumber,7864138649 .,7864138649
 MIT_25,gender,Male .,Male
 MIT_643,permanentaddress,"A. No. 14. Nagarajan Circle , Gunbar-","A. No. 14. Nagarajan Circle, Gunbar"
@@ -8049,7 +8049,7 @@ MIT_662,gender,female .,Female
 MIT_662,maritalstatus,married .,Married
 MIT_662,bloodgroup,B -,B-
 MIT_662,candidatename,Izarna Vorg .,Izarna Vorg
-MIT_662,aadhaarcard,9188 56000000,9.18856E+11
+MIT_662,aadhaarcard,9188 56000000,9.19E+11
 TCE_1388,permanentaddress,"it-NF 3.13 , Pearl Stored , Khammann","it-NF 3.13, Pearl Stored, Khammann"
 TCE_1388,presentaddress,"12,440 , tripathi crew , characterized","12,440, Tripathi Crew, Characterized"
 TCE_1388,contactnumber,fahbas 7.53 ) .,6753
@@ -8122,7 +8122,7 @@ VIT_914,contactnumber,9081709116 .,9081709116
 VIT_914,place,Bengaluru .,Bengaluru
 VIT_914,nationality,Indian .,Indian
 VIT_914,maritalstatus,married .,Married
-VIT_914,aadhaarcard,6.14806E+11,6.14806E+11
+VIT_914,aadhaarcard,6.15E+11,6.15E+11
 VIT_914,gender,Male .,Male
 VIT_914,bloodgroup,O-,O-
 VIT_914,Dateofbirth,7 ( 28 (1995 .,7/28/1995
@@ -8165,7 +8165,7 @@ VIT_973,experience,8 years at Selgal-Chada,8 years at Selgal-Chada
 VIT_973,Dateofbirth,"""18 ( 1983 .",18/1983
 VIT_973,Fatherhusbandname,Grunest Karpe .,Grunest Karpe
 VIT_973,experience1,6 years at Parmer Lad and Kakar,6 years at Parmer Lad and Kakar
-VIT_973,aadhaarcard,280505000000 .,2.80505E+11
+VIT_973,aadhaarcard,280505000000 .,2.81E+11
 VIT_974,presentaddress,"05 , Khosla Road , Bidhanj384/2","05, Khosla Road, Bidhanj384/2"
 VIT_974,AlternateNo,abFO 403 634 .,60403634
 VIT_974,permanentaddress,"ob , Prasad , Solapur - 178990","ob, Prasad, Solapur - 178990"
@@ -8303,7 +8303,7 @@ MIT_120,bloodgroup,4B -,B-
 MIT_120,place,Raipur .,Raipur
 MIT_120,experience1,9 years at Mahal and sons .,9 years at Mahal and sons
 MIT_120,maritalstatus,single .,Single
-MIT_120,aadhaarcard,68.63 62000000,6.86362E+11
+MIT_120,aadhaarcard,68.63 62000000,6.86E+11
 MIT_120,Dateofbirth,6/5/ 1962 .,06-05-1962
 MIT_120,qualification,PUD .,PhD
 MIT_194,languageknown,"Hindi , English , Telugu , Marathi","Hindi, English, Telugu, Marathi"
@@ -8322,7 +8322,7 @@ MIT_194,contactnumber,9 557212299,9557212299
 MIT_194,candidatename,Bishakha Dua .,Bishakha Dua
 MIT_194,experience,3 years at Dham LLC .,3 years at Dham LLC
 MIT_194,nationality,Indian,Indian
-MIT_194,aadhaarcard,2.85192E+11,2.85192E+11
+MIT_194,aadhaarcard,2.85E+11,2.85E+11
 MIT_194,bloodgroup,A B.T.,ABT
 MIT_194,maritalstatus,married .,Married
 MIT_194,gender,Female .,Female
@@ -8539,7 +8539,7 @@ VIT_972,Fatherhusbandname,Laban Magar,Laban Magar
 VIT_972,place,Chandigark,Chandigarh
 VIT_972,qualification,12th Pass .,12th Pass
 VIT_972,gender,male .,Male
-VIT_972,aadhaarcard,8.69562E+11,8.69562E+11
+VIT_972,aadhaarcard,8.70E+11,8.70E+11
 VIT_972,maritalstatus,Married .,Married
 TCE_1324,referencescmob1,Manya Subramaniam - 9004939 754 .,Manya Subramaniam - 9004939754
 TCE_1324,referencescmob2,Rudra Datta - 8220921026 .,Rudra Datta - 8220921026
@@ -8571,7 +8571,7 @@ MIT_224,maritalstatus,Married .,Married
 MIT_224,languageknown,"Marathi , English , Tamil , Telugu","Marathi, English, Tamil, Telugu"
 MIT_224,date,"08"" ) 13 (2022 .",8/13/2022
 MIT_224,place,Jacipur .,Jaipur
-MIT_224,aadhaarcard,93 0 986000000,9.30986E+11
+MIT_224,aadhaarcard,93 0 986000000,9.31E+11
 MIT_224,candidatename,Ekapad Mallick .,Ekapad Mallick
 MIT_224,referencescmob1,Sathvik Gokhale - 7553843453,Sathvik Gokhale - 7553843453
 MIT_224,bloodgroup,A E,A
@@ -8587,7 +8587,7 @@ MIT_99,permanentaddress,"571949 , Metal Zila , Guangtoke -105566","571949, Metal
 MIT_99,experience1,6 Years at Murby Inc.,6 Years at Murby Inc
 MIT_99,maritalstatus,married .,Married
 MIT_99,nationality,Indian,Indian
-MIT_99,aadhaarcard,2.43549E+11,2.43549E+11
+MIT_99,aadhaarcard,2.44E+11,2.44E+11
 MIT_99,candidatename,Abhirram Vasa .,Abhirram Vasa
 MIT_99,referencescmob1,Utkarsh Apple - 89 43351142,Utkarsh Apple - 8943351142
 MIT_99,qualification,10th Pass .,10th Pass
@@ -8614,7 +8614,7 @@ VIT_766,bloodgroup,bt,B+
 VIT_766,place,Dehradun .,Dehradun
 VIT_766,Fatherhusbandname,Warias Balay .,Warias Balay
 VIT_766,gender,female .,Female
-VIT_766,aadhaarcard,"88309 300,000000.0",8.83093E+14
+VIT_766,aadhaarcard,"88309 300,000000.0",8.83E+14
 VIT_766,candidatename,Talsa Balay .,Talsa Balay
 VIT_766,qualification,post-graduate .,Post-Graduate
 VIT_766,maritalstatus,married .,Married
@@ -8638,7 +8638,7 @@ VIT_804,place,Grandhinagar,Gandhinagar
 VIT_804,date,0of 15 (000 d 3 .,0/15/000/3
 VIT_804,qualification,Post-circedheoeth,Post-circedheoeth
 VIT_804,Dateofbirth,royto ( 1972 .,1972
-VIT_804,aadhaarcard,26 96 m.2000000 .0,2.6962E+11
+VIT_804,aadhaarcard,26 96 m.2000000 .0,2.70E+11
 MIT_101,candidatename,Advick Moody .,Advick Moody
 MIT_101,presentaddress,"11/039 , More Street , Trirm Vottiger 4.7.053","11/039, More Street, Trirm Vottiger 4.7.053"
 MIT_101,permanentaddress,"84/07 , Dholi vol , Gondti major-h20H39","84/07, Dholi vol, Gondti Major-h20h39"
@@ -8657,7 +8657,7 @@ MIT_101,nationality,Indron .,Indian
 MIT_101,Dateofbirth,2/11 ( 1983 .,02-11-1983
 MIT_101,AlternateNo,99 556 55550,9955655550
 MIT_101,languageknown,"Tamil , Kannada","Tamil, Kannada"
-MIT_101,aadhaarcard,5.02211E+12,5.02211E+12
+MIT_101,aadhaarcard,5.02E+12,5.02E+12
 MIT_101,date,12 (19 ) 2024 .,12/19/2024
 VIT_945,permanentaddress,"21 , Beni Cinte , Bijapur-a22n-6 .","21, Beni Cinte, Bijapur-a22n-6"
 VIT_945,referencescmob1,"Ria Basak - 9,386-276 .",Ria Basak - 9386-276 
@@ -8698,7 +8698,7 @@ MIT_605,bloodgroup,at,A+
 MIT_605,place,Shillong .,Shillong
 MIT_605,qualification,PhD .,PhD
 MIT_605,Dateofbirth,7/27 ( 1982 .,7/27/1982
-MIT_605,aadhaarcard,"8,96,50,10,00,000",8.96501E+11
+MIT_605,aadhaarcard,"8,96,50,10,00,000",8.97E+11
 TCE_1029,experience,A years at Restogi Vig and Wagle,A years at Restogi Vig and Wagle
 TCE_1029,referencescmob1,Indali Bhandari - 7 617 114110 .,Indali Bhandari - 7617114110
 TCE_1029,contactnumber,700506 9913 .,7005069913
@@ -8772,7 +8772,7 @@ VIT_808,experience,4 Years at Bassi-Pillei,4 Years at Bassi-Pillei
 VIT_808,nationality,Doulieu,Doulieu
 VIT_808,date,( 2 ) 08 ( 2022,02-08-2022
 VIT_808,maritalstatus,sing's,Single
-VIT_808,aadhaarcard,"652 0H500,000000-0",6.5205E+13
+VIT_808,aadhaarcard,"652 0H500,000000-0",6.52E+13
 VIT_808,bloodgroup,"""0 "" 6",O
 VIT_808,qualification,10th pass .,10th Pass
 MIT_395,referencescmob2,pranov Badal - 7451 7.5.493,Pranov Badal - 745175493
@@ -8784,7 +8784,7 @@ MIT_395,maritalstatus,single .,Single
 MIT_395,permanentaddress,"192 , Serena Chowok , Bhiwards 815969","192, Serena Chowok, Bhiwards 815969"
 MIT_395,date,out 20 ) 2022,20/2022
 MIT_395,experience,7 years at Trivedi Kapelt and polls,7 years at Trivedi Kapelt and polls
-MIT_395,aadhaarcard,"276 37 lb,000000",2.76376E+11
+MIT_395,aadhaarcard,"276 37 lb,000000",2.76E+11
 MIT_395,bloodgroup,at V,A+
 MIT_395,candidatename,jeevitha Dua .,Jeevitha Dua
 MIT_395,Fatherhusbandname,chandran Dela .,Chandran Dela
@@ -8815,4 +8815,4 @@ VIT_778,bloodgroup,ot,O+
 VIT_778,place,Ranchi .,Ranchi
 VIT_778,pancard,VOX DB45SOP .,VOXDB45S0P
 VIT_778,Dateofbirth,9 ( 24 ) 1964 .,9/24/1964
-VIT_778,aadhaarcard,7874lbs000000 .0,7.8746E+11
+VIT_778,aadhaarcard,7874lbs000000 .0,7.87E+11
